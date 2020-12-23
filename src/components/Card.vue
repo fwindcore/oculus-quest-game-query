@@ -17,7 +17,7 @@ export default {
   },
   methods: {
     getCoverUrl(id) {
-      return `/cover/${id}/landscape.jpg`;
+      return `./cover/${id}/landscape.jpg`;
     },
     onCardClicked(id) {
       window.open(`https://www.oculus.com/experiences/quest/${id}/`);
