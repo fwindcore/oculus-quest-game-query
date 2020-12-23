@@ -1,19 +1,32 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div v-for="item of allData" :key="item.node.id">
+      <Card :nodeData="item.node"></Card>
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Card from "./components/Card.vue";
+import { getStoreData } from "./apis/index.js";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    Card,
+  },
+  data() {
+    return {
+      allData: [],
+    };
+  },
+  created() {
+    getStoreData().then((res) => {
+      console.log("get store data", res);
+      this.allData = res.data.data.node.all_items.edges;
+    });
+  },
+};
 </script>
 
 <style>
