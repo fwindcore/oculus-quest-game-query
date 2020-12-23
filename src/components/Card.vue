@@ -31,8 +31,9 @@ export default {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   border-radius: 5px;
-  margin: 5px;
+  margin: 5px auto;
   padding: 5px;
+  max-width: 720px;
 }
 .img {
   border-radius: 5px;
