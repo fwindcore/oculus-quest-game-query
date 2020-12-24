@@ -30,7 +30,7 @@ export default {
       filterType: [],
       keywords: "",
       isFree: false,
-      isDiscount: true,
+      isDiscount: false,
       offsetIndex: 0,
       pageItems: 20,
       finished: false,
