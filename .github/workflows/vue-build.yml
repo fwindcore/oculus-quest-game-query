@@ -1,4 +1,7 @@
 name: vue build
+on:
+  push:
+    branches: gh-pages
 jobs:
   vue-build:
     runs-on: ubuntu-latest
