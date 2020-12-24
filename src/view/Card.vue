@@ -71,7 +71,7 @@ export default {
   },
   methods: {
     getCoverUrl(id) {
-      return `/cover/${id}/square.jpg`;
+      return `./cover/${id}/square.jpg`;
     },
 
     getPrice(price) {
