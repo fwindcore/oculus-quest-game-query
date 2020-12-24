@@ -41,7 +41,8 @@ export default {
     scrollToTop() {
       console.log("scroll to top");
       document.documentElement.scrollTop = 0;
-      //   document.getElementById("scroller-box").children[0].scrollTop = 0;
+      document.body.scrollTop = 0;
+      document.getElementById("scroller-box").children[0].scrollTop = 0;
       let timer = null,
         _that = this;
       //动画，使用requestAnimationFrame代替setInterval
