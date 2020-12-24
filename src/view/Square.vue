@@ -1,6 +1,7 @@
 <template>
   <div>
     <div>
+      <ScrollTop></ScrollTop>
       <van-search v-model="keywords" placeholder="请输入搜索关键词" />
       <van-tabs animated swipeable>
         <van-tab title="全部">
@@ -20,11 +21,12 @@
 <script>
 import List from "@/components/List.vue";
 import { getStoreData } from "@/apis/index.js";
-
+import ScrollTop from "@/components/ScrollTop";
 export default {
   name: "App",
   components: {
     List,
+    ScrollTop,
   },
   data() {
     return {

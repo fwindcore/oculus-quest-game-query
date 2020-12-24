@@ -1,16 +1,17 @@
 <template>
-  <div>
+  <div id="scroller-box">
     <van-list @load="onLoad" :finished="finished" finished-text="没有更多了">
       <div v-for="item of showData" :key="item.node.id">
         <Card :nodeData="item.node"></Card>
       </div>
-      <van-empty v-if="showData.length < 1" description="什么都没有" />
+      <van-empty v-if="showData.length < 1" description="" />
     </van-list>
   </div>
 </template>
 
 <script>
 import Card from "@/components/Card.vue";
+
 export default {
   props: {
     data: {
@@ -98,5 +99,10 @@ export default {
   color: aquamarine;
   position: absolute;
   bottom: 100px;
+}
+
+#scroller-box {
+  /* height: 500px; */
+  /* overflow-y: auto; */
 }
 </style>
