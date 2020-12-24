@@ -1,6 +1,5 @@
 <template>
-  <div id="app2">
-    <h1>Oculus Quest 游戏列表</h1>
+  <div>
     <div>
       <van-search v-model="keywords" placeholder="请输入搜索关键词" />
       <van-row type="flex" justify="center" gutter="20">
@@ -61,27 +60,4 @@ export default {
 </script>
 
 <style>
-/* #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 5px;
-} */
-/* .input {
-  max-width: 100%;
-  outline: 0px;
-  position: relative;
-  appearance: none;
-  transition: all 0.2s ease 0s;
-  font-size: 1rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  height: 2.5rem;
-  border-radius: 0.375rem;
-  border-width: 1px;
-  border-style: solid;
-  border-color: rgb(226, 232, 240);
-} */
 </style>
