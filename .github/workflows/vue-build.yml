@@ -1,17 +1,15 @@
-name: update oculus
-on:
-  schedule:
-    - cron: '01 07 * * *'
+name: vue build
 jobs:
-  oculus-update:
+  vue-build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: update json and cover
-        run: |
-          cd scripts
-          python get-store-json.py
-          python download-cover.py
+      - uses: borales/actions-yarn@v2.0.0
+        with:
+          cmd: install # will run `yarn install` command
+      - uses: borales/actions-yarn@v2.0.0
+        with:
+          cmd: build # will run `yarn build` command
       - name: Commit data
         run: |
           git config --global user.name 'fwindpeak'
