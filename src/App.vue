@@ -2,7 +2,7 @@
   <div id="app">
     <h1>Oculus Quest 游戏列表</h1>
     <div>
-      <span>筛选:</span><input v-model="keywords" class="input" />
+      <span><input v-model="keywords" class="input" /></span>
       <span><input type="checkbox" v-model="isFree" value="free" />免费</span>
       <span
         ><input
