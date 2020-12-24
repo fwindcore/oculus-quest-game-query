@@ -1,6 +1,7 @@
 <template>
   <div class="card">
     <van-card
+      @click="onCardClicked"
       :thumb-link="cardClickLink"
       :price="getPrice(nodeData.current_offer.price.offset_amount)"
       :desc="relaceData"
@@ -91,6 +92,9 @@ export default {
       dayjs.extend(relativeTime);
       const endtime = dayjs.unix(seconds);
       return endtime.fromNow(true);
+    },
+    onCardClicked() {
+      window.open(this.cardClickLink);
     },
   },
 };
