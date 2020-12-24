@@ -28,15 +28,17 @@ def download_cover(item):
     node = item['node']
     display_name = node['display_name']
     id = node['id']
-    url = node['cover_landscape_image']['uri']
-    
-    dst_dir = os.path.join(ROOT_PATH,id)
+    for type in ['landscape','square','portrait']:
+        url = node['cover_%s_image'%(type)]['uri']
+        
+        dst_dir = os.path.join(ROOT_PATH,id)
 
-    if not os.path.exists(dst_dir):
-        os.makedirs(dst_dir)
-    dst_path = os.path.join(dst_dir,'landscape.jpg')
-    print('downloading %s'%(display_name))
-    return download_file(url,dst_path)
+        if not os.path.exists(dst_dir):
+            os.makedirs(dst_dir)
+        dst_path = os.path.join(dst_dir,'%s.jpg'%(type))
+        print('downloading %s %s'%(display_name,type))
+        download_file(url,dst_path)
+    return
 
 
 # threadPool = ThreadPoolExecutor(max_workers=10, thread_name_prefix="download_")
@@ -51,4 +53,4 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         except Exception as exc:
             print('%s generated an exception: %s' % (item['node']['display_name'], exc))
         else:
-            print('game cover of [%s] is [%s] bytes' % (item['node']['display_name'], data))
+            print('finish [%s]' % (item['node']['display_name']))
