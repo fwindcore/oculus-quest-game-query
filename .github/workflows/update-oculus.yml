@@ -1,0 +1,21 @@
+name: update oculus
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '01 07 * * *'
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: update json and cover
+        run: |
+          cd scripts
+          python get-store-json.py
+          python download-cover.py
+      - name: Commit data
+        run: |
+          git config --global user.name 'fwindpeak'
+          git config --global user.email 'fwindpeak@users.noreply.github.com'
+          git commit -am "update oculus store data"
+          git push
