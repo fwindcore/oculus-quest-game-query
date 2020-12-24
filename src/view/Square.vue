@@ -65,7 +65,6 @@ export default {
     getStoreData().then((res) => {
       console.log("get store data", res);
       this.allData = res.data.data.node.all_items.edges;
-      this.onLoad();
     });
   },
 };

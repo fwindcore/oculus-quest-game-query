@@ -16,6 +16,8 @@ import {
   Search,
   Checkbox,
   CheckboxGroup,
+  Icon,
+  Empty,
 } from 'vant'
 
 Vue.config.productionTip = false
@@ -34,6 +36,8 @@ Vue.use(Card)
 Vue.use(Tag)
 Vue.use(Lazyload)
 Vue.use(Search)
+Vue.use(Icon)
+Vue.use(Empty)
 
 new Vue({
   render: (h) => h(App),

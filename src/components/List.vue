@@ -4,6 +4,7 @@
       <div v-for="item of showData" :key="item.node.id">
         <Card :nodeData="item.node"></Card>
       </div>
+      <van-empty v-if="showData.length < 1" description="什么都没有" />
     </van-list>
   </div>
 </template>
@@ -32,6 +33,7 @@ export default {
       offsetIndex: 0,
       pageItems: 20,
       finished: false,
+      showBackTopIcon: true,
     };
   },
   computed: {
@@ -73,7 +75,9 @@ export default {
     updateOffesetIndex() {
       if (this.offsetIndex >= this.filtedData.length) {
         this.offsetIndex = this.filtedData.length;
-        this.finished = true;
+        if (this.offsetIndex > this.pageItems) {
+          this.finished = true;
+        }
       } else {
         this.finished = false;
       }
@@ -84,9 +88,15 @@ export default {
       }
       this.updateOffesetIndex();
     },
+    backTop() {},
   },
 };
 </script>
 
 <style>
+.backTop {
+  color: aquamarine;
+  position: absolute;
+  bottom: 100px;
+}
 </style>
