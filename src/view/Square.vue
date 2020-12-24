@@ -2,27 +2,29 @@
   <div>
     <div>
       <van-search v-model="keywords" placeholder="请输入搜索关键词" />
-      <van-row type="flex" justify="center" gutter="20">
-        <van-checkbox v-model="isFree" name="free">免费</van-checkbox>
-        <van-checkbox v-model="isDiscount" name="discount">打折</van-checkbox>
-      </van-row>
+      <van-tabs animated swipeable>
+        <van-tab title="全部">
+          <list :data="allData" :keywords="keywords" type="all"></list>
+        </van-tab>
+        <van-tab title="免费">
+          <list :data="allData" :keywords="keywords" type="free"></list>
+        </van-tab>
+        <van-tab title="打折">
+          <list :data="allData" :keywords="keywords" type="discount"></list>
+        </van-tab>
+      </van-tabs>
     </div>
-    <van-list @load="onLoad">
-      <div v-for="item of showData" :finished="finished" :key="item.node.id">
-        <Card :nodeData="item.node"></Card>
-      </div>
-    </van-list>
   </div>
 </template>
 
 <script>
-import Card from "@/components/Card.vue";
+import List from "@/components/List.vue";
 import { getStoreData } from "@/apis/index.js";
 
 export default {
   name: "App",
   components: {
-    Card,
+    List,
   },
   data() {
     return {
@@ -55,6 +57,9 @@ export default {
     showData() {
       return this.filtedData.slice(0, this.offsetIndex);
     },
+    itemCount() {
+      return `列表数量：${this.showData.length}`;
+    },
   },
   created() {
     getStoreData().then((res) => {
@@ -62,28 +67,6 @@ export default {
       this.allData = res.data.data.node.all_items.edges;
       this.onLoad();
     });
-  },
-  watch: {
-    filtedData() {
-      this.offsetIndex = this.pageItems;
-      this.updateOffesetIndex();
-    },
-  },
-  methods: {
-    updateOffesetIndex() {
-      if (this.offsetIndex >= this.filtedData.length) {
-        this.offsetIndex = this.filtedData.length;
-        this.finished = true;
-      } else {
-        this.finished = false;
-      }
-    },
-    onLoad() {
-      if (this.offsetIndex < this.filtedData.length) {
-        this.offsetIndex += this.pageItems;
-      }
-      this.updateOffesetIndex();
-    },
   },
 };
 </script>
