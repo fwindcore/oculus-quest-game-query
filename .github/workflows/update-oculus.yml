@@ -1,5 +1,6 @@
 name: update oculus
 on:
+  workflow_dispatch:
   schedule:
     - cron: '01 07 * * *'
 jobs:
