@@ -6,4 +6,5 @@ module.exports = {
       return args
     })
   },
+  productionSourceMap: false,
 }
