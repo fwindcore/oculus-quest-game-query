@@ -1,7 +1,11 @@
 name: vue build
 on:
+  workflow_dispatch:
   push:
     branches: gh-pages
+    paths:
+      - '/src/**'
+      - '/public/**'
 jobs:
   vue-build:
     runs-on: ubuntu-latest
