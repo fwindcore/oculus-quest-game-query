@@ -30,7 +30,7 @@ export default {
       filterType: [],
       keywords: "",
       isFree: false,
-      isDiscount: false,
+      isDiscount: true,
     };
   },
   computed: {
