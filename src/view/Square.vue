@@ -7,8 +7,8 @@
         <van-checkbox v-model="isDiscount" name="discount">打折</van-checkbox>
       </van-row>
     </div>
-    <van-list>
-      <div v-for="item of showData" :key="item.node.id">
+    <van-list @load="onLoad">
+      <div v-for="item of showData" :finished="finished" :key="item.node.id">
         <Card :nodeData="item.node"></Card>
       </div>
     </van-list>
@@ -16,7 +16,7 @@
 </template>
 
 <script>
-import Card from "./Card.vue";
+import Card from "@/components/Card.vue";
 import { getStoreData } from "@/apis/index.js";
 
 export default {
@@ -31,10 +31,13 @@ export default {
       keywords: "",
       isFree: false,
       isDiscount: true,
+      offsetIndex: 0,
+      pageItems: 20,
+      finished: false,
     };
   },
   computed: {
-    showData() {
+    filtedData() {
       return this.allData.filter((item) => {
         if (this.isDiscount && !item.node.current_offer.promo_benefit) {
           return false;
@@ -49,12 +52,38 @@ export default {
         return name.indexOf(this.keywords.toLowerCase()) != -1;
       });
     },
+    showData() {
+      return this.filtedData.slice(0, this.offsetIndex);
+    },
   },
   created() {
     getStoreData().then((res) => {
       console.log("get store data", res);
       this.allData = res.data.data.node.all_items.edges;
+      this.onLoad();
     });
+  },
+  watch: {
+    filtedData() {
+      this.offsetIndex = this.pageItems;
+      this.updateOffesetIndex();
+    },
+  },
+  methods: {
+    updateOffesetIndex() {
+      if (this.offsetIndex >= this.filtedData.length) {
+        this.offsetIndex = this.filtedData.length;
+        this.finished = true;
+      } else {
+        this.finished = false;
+      }
+    },
+    onLoad() {
+      if (this.offsetIndex < this.filtedData.length) {
+        this.offsetIndex += this.pageItems;
+      }
+      this.updateOffesetIndex();
+    },
   },
 };
 </script>
