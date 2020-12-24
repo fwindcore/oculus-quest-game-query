@@ -1,22 +1,29 @@
 <template>
-  <div class="card" @click="onCardClicked(nodeData.id)">
+  <div class="card">
     <van-card
-      :tag="tag"
+      :thumb-link="cardClickLink"
       :price="getPrice(nodeData.current_offer.price.offset_amount)"
       :desc="relaceData"
       :title="nodeData.display_name"
       :thumb="getCoverUrl(nodeData.id)"
       :origin-price="originPrice"
-      :lazy-load="true"
+      :lazy-load="false"
     >
       <template #tags>
         <van-tag v-if="isFree" plain type="success">免费</van-tag>
         <van-tag v-if="isDiscount" plain type="danger">打折</van-tag>
       </template>
       <template #num>
-        <van-tag v-if="isDiscount" type="danger">{{
-          nodeData.current_offer.promo_benefit
-        }}</van-tag>
+        <van-tag type="danger" v-if="isDiscount">
+          <template>
+            <div style="text-align: center">
+              <div>{{ nodeData.current_offer.promo_benefit }}</div>
+              <div style="font-size: 0.5rem">
+                {{ timeRemain(nodeData.current_offer.end_time) }}
+              </div>
+            </div>
+          </template>
+        </van-tag>
       </template>
     </van-card>
   </div>
@@ -31,6 +38,9 @@ export default {
     },
   },
   computed: {
+    cardClickLink() {
+      return `https://www.oculus.com/experiences/quest/${this.nodeData.id}/`;
+    },
     isDiscount() {
       return this.nodeData.current_offer.promo_benefit ? true : false;
     },
@@ -63,9 +73,7 @@ export default {
     getCoverUrl(id) {
       return `/cover/${id}/square.jpg`;
     },
-    onCardClicked(id) {
-      window.open(`https://www.oculus.com/experiences/quest/${id}/`);
-    },
+
     getPrice(price) {
       const rate = 6.53;
       if (price == "0") {
@@ -76,6 +84,13 @@ export default {
     },
     getDate(seconds) {
       return dayjs.unix(seconds).format("YYYY-MM-DD");
+    },
+    timeRemain(seconds) {
+      dayjs.locale("zh-cn");
+      const relativeTime = require("dayjs/plugin/relativeTime");
+      dayjs.extend(relativeTime);
+      const endtime = dayjs.unix(seconds);
+      return endtime.fromNow(true);
     },
   },
 };
