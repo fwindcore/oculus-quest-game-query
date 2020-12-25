@@ -6,9 +6,14 @@
 </template>
 
 <script>
+import locale_cn from "dayjs/locale/zh-cn";
+import dayjs from "dayjs";
 import Square from "@/view/Square";
 export default {
   components: { Square },
+  created() {
+    dayjs.locale(locale_cn);
+  },
 };
 </script>
 

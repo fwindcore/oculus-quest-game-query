@@ -88,11 +88,10 @@ export default {
       return dayjs.unix(seconds).format("YYYY-MM-DD");
     },
     timeRemain(seconds) {
-      dayjs.locale("zh-cn");
       const relativeTime = require("dayjs/plugin/relativeTime");
       dayjs.extend(relativeTime);
       const endtime = dayjs.unix(seconds);
-      return endtime.fromNow(true);
+      return `剩余：${endtime.fromNow(true)}`;
     },
     onCardClicked() {
       window.open(this.cardClickLink);
