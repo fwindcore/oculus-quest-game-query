@@ -2,7 +2,7 @@ name: update oculus
 on:
   workflow_dispatch:
   schedule:
-    - cron: '01 07 * * *'
+    - cron: '01 * * * *'
 jobs:
   oculus-update:
     runs-on: ubuntu-latest
