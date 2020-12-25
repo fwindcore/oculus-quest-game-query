@@ -20,7 +20,7 @@
 
 <script>
 import List from "@/components/List.vue";
-import { getStoreData } from "@/apis/index.js";
+import { getStoreData, getRate } from "@/apis/index.js";
 import ScrollTop from "@/components/ScrollTop";
 export default {
   name: "App",
@@ -38,6 +38,14 @@ export default {
       offsetIndex: 0,
       pageItems: 20,
       finished: false,
+      rate: {
+        USD: 6.53,
+      },
+    };
+  },
+  provide() {
+    return {
+      rate: this.rate,
     };
   },
   computed: {
@@ -67,6 +75,13 @@ export default {
     getStoreData().then((res) => {
       console.log("get store data", res);
       this.allData = res.data.data.node.all_items.edges;
+    });
+    getRate().then((res) => {
+      if (res) {
+        this.rate.USD = res.data.data.rate;
+      } else {
+        this.rate.USD = 6.53;
+      }
     });
   },
 };

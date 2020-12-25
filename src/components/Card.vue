@@ -38,6 +38,7 @@ export default {
       type: Object,
     },
   },
+  inject: ["rate"],
   computed: {
     cardClickLink() {
       return `https://www.oculus.com/experiences/quest/${this.nodeData.id}/`;
@@ -76,11 +77,11 @@ export default {
     },
 
     getPrice(price) {
-      const rate = 6.53;
+      // const rate = 6.53;
       if (price == "0") {
         return null;
       } else {
-        return ((price * rate) / 100).toFixed(2);
+        return ((price * this.rate.USD) / 100).toFixed(2);
       }
     },
     getDate(seconds) {

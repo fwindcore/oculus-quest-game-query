@@ -15,7 +15,8 @@ import Card from "@/components/Card.vue";
 export default {
   props: {
     data: {
-      default: [],
+      type: Array,
+      default: () => [],
     },
     keywords: {
       type: String,
@@ -99,10 +100,5 @@ export default {
   color: aquamarine;
   position: absolute;
   bottom: 100px;
-}
-
-#scroller-box {
-  /* height: 500px; */
-  /* overflow-y: auto; */
 }
 </style>
