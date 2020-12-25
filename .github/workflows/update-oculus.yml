@@ -13,6 +13,7 @@ jobs:
           cd scripts
           python get-store-json.py
           python download-cover.py
+          python get-rate-json.py
       - name: Commit data
         run: |
           git config --global user.name 'fwindpeak'
