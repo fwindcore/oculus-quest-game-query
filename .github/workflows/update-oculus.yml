@@ -14,6 +14,8 @@ jobs:
           python get-store-json.py
           python download-cover.py
           python get-rate-json.py
+          cp -rf ../public/*.json ../dist/
+          cp -rf ../public/cover ../dist/
       - name: Commit data
         run: |
           git config --global user.name 'fwindpeak'
