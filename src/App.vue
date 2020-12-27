@@ -4,7 +4,9 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/detail">detail</router-link>
     </div> -->
-    <router-view />
+    <keep-alive>
+      <router-view />
+    </keep-alive>
   </div>
 </template>
 

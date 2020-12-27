@@ -1,11 +1,20 @@
 <template>
   <div class="detail">
+    <van-sticky>
+      <van-nav-bar
+        :title="title"
+        left-text="返回"
+        left-arrow
+        @click-left="onClickLeft"
+      />
+    </van-sticky>
     <div v-if="loaded">
       <van-swipe class="my-swipe" :autoplay="10000" indicator-color="white">
         <van-swipe-item v-for="index of 5" :key="index">
           <van-image :src="getScreenshotUrl(index)"></van-image>
         </van-swipe-item>
       </van-swipe>
+
       <div class="content">
         <van-row>
           <van-col span="18">
@@ -81,6 +90,9 @@ export default {
     };
   },
   computed: {
+    title() {
+      return this.appDetail.display_name || "";
+    },
     ratingNum() {
       let num = 0;
       this.appDetail.quality_rating_histogram_aggregate_all.forEach(
@@ -123,6 +135,13 @@ export default {
     this.loadAppinfo();
     next();
   },
+  watch: {
+    $route(to) {
+      if (to.name == "Detail") {
+        this.loadAppinfo();
+      }
+    },
+  },
   created() {
     this.loadAppinfo();
   },
@@ -145,6 +164,9 @@ export default {
         `https://www.oculus.com/experiences/quest/${this.$route.params.id}/`
       );
     },
+    onClickLeft() {
+      this.$router.replace("/");
+    },
   },
 };
 </script>
@@ -155,7 +177,7 @@ export default {
   -webkit-user-select: auto;
   white-space: pre-wrap;
   box-sizing: border-box;
-  margin: auto;
+  margin: 0 auto;
   max-width: 750px;
 }
 .content {

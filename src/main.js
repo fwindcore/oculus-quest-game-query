@@ -26,6 +26,7 @@ import {
   DropdownItem,
   Sticky,
   Skeleton,
+  NavBar,
 } from 'vant'
 
 import router from './router'
@@ -55,6 +56,7 @@ Vue.use(DropdownMenu)
 Vue.use(DropdownItem)
 Vue.use(Sticky)
 Vue.use(Skeleton)
+Vue.use(NavBar)
 
 new Vue({
   router,
