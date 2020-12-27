@@ -21,9 +21,10 @@
             <div class="title">{{ appDetail.display_name }}</div>
           </van-col>
           <van-col span="6">
-            <van-button type="primary" @click="gotoOculus"
-              >Oculus商店</van-button
-            >
+            <price
+              :currentOffer="appDetail.current_offer"
+              @click.native="gotoOculus"
+            ></price>
           </van-col>
         </van-row>
 
@@ -82,7 +83,10 @@ import { getAppDetail } from "@/apis";
 import { getDateFromSeconds } from "@/utils";
 import filesize from "filesize";
 import NProgress from "nprogress";
+import Price from "@/components/Price.vue";
+
 export default {
+  components: { Price },
   data() {
     return {
       appDetail: {},

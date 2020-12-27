@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <h1>Oculus Quest 游戏查询</h1>
+      <h1 class="title">Oculus Quest 游戏查询</h1>
     </div>
     <div>
       <ScrollTop></ScrollTop>
@@ -130,6 +130,7 @@ export default {
       } else {
         this.rate.USD = 6.53;
       }
+      this.$store.commit("updateRate", this.rate);
       this.rateLoaded = true;
     });
   },
@@ -145,5 +146,8 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+.title {
+  text-align: center;
+}
 </style>

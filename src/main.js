@@ -1,4 +1,6 @@
 import Vue from 'vue'
+import Vuex from 'vuex'
+
 import App from './App.vue'
 
 import {
@@ -32,6 +34,9 @@ import {
 import router from './router'
 
 Vue.config.productionTip = false
+
+Vue.use(Vuex)
+
 Vue.use(Tab)
 Vue.use(Tabs)
 Vue.use(Cell)
@@ -58,7 +63,21 @@ Vue.use(Sticky)
 Vue.use(Skeleton)
 Vue.use(NavBar)
 
+const store = new Vuex.Store({
+  state: {
+    rate: {
+      USD: 1,
+    },
+  },
+  mutations: {
+    updateRate(state, rate) {
+      state.rate = rate
+    },
+  },
+})
+
 new Vue({
   router,
+  store,
   render: (h) => h(App),
 }).$mount('#app')
