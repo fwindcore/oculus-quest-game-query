@@ -74,7 +74,7 @@ class OculusStore:
 
 
 all_data = json.load(open(JSON_FILE_PATH))
-all_items = all_data['data']['node']['all_items']['edges'][:10]
+all_items = all_data['data']['node']['all_items']['edges']
 DOWNLOAD_THREAD_NUMBER = 10
 
 def oculus_store_download(item):
@@ -82,7 +82,7 @@ def oculus_store_download(item):
     instance.run()
 
 if __name__ == '__main__':
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         future_to_url = {executor.submit(oculus_store_download, item): item for item in all_items}
         for future in concurrent.futures.as_completed(future_to_url):
             item = future_to_url[future]
