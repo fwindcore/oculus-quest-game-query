@@ -19,6 +19,9 @@ import {
   CheckboxGroup,
   Icon,
   Empty,
+  Swipe,
+  SwipeItem,
+  Rate,
 } from 'vant'
 
 import router from './router'
@@ -41,8 +44,11 @@ Vue.use(Lazyload)
 Vue.use(Search)
 Vue.use(Icon)
 Vue.use(Empty)
+Vue.use(Swipe)
+Vue.use(SwipeItem)
+Vue.use(Rate)
 
 new Vue({
   router,
-  render: (h) => h(App)
+  render: (h) => h(App),
 }).$mount('#app')
