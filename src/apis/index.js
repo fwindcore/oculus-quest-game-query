@@ -7,3 +7,7 @@ export function getStoreData() {
 export function getRate() {
   return axios.get(`./usd-rate.json?v=${Date.now()}`)
 }
+
+export function getAppDetail(id) {
+  return axios.get(`./detail/${id}/appinfo.json`)
+}

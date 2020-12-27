@@ -2,7 +2,6 @@
   <div class="card">
     <van-card
       @click="onCardClicked"
-      :thumb-link="cardClickLink"
       :price="getPrice(nodeData.current_offer.price.offset_amount)"
       :desc="relaceData"
       :title="nodeData.display_name"
@@ -41,7 +40,8 @@ export default {
   inject: ["rate"],
   computed: {
     cardClickLink() {
-      return `https://www.oculus.com/experiences/quest/${this.nodeData.id}/`;
+      // return `https://www.oculus.com/experiences/quest/${this.nodeData.id}/`;
+      return `/detail/${this.nodeData.id}`;
     },
     isDiscount() {
       return this.nodeData.current_offer.promo_benefit ? true : false;
@@ -73,7 +73,7 @@ export default {
   },
   methods: {
     getCoverUrl(id) {
-      return `./cover/${id}/square.jpg`;
+      return `./detail/${id}/cover/square.jpg`;
     },
 
     getPrice(price) {
@@ -94,7 +94,8 @@ export default {
       return `剩余：${endtime.fromNow(true)}`;
     },
     onCardClicked() {
-      window.open(this.cardClickLink);
+      // window.open(this.cardClickLink);
+      this.$router.push(this.cardClickLink);
     },
   },
 };
