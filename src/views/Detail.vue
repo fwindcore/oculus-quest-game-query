@@ -63,7 +63,7 @@
       </div>
     </div>
     <div v-else>
-      <h1>loading...</h1>
+      <van-empty></van-empty>
     </div>
   </div>
 </template>
@@ -72,6 +72,7 @@
 import { getAppDetail } from "@/apis";
 import { getDateFromSeconds } from "@/utils";
 import filesize from "filesize";
+import NProgress from "nprogress";
 export default {
   data() {
     return {
@@ -128,9 +129,12 @@ export default {
   methods: {
     loadAppinfo() {
       this.loaded = false;
+      NProgress.start();
       getAppDetail(this.$route.params.id).then((res) => {
         this.appDetail = res.data.data.node;
         this.loaded = true;
+
+        NProgress.done();
       });
     },
     getScreenshotUrl(index) {

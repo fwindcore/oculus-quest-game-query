@@ -16,6 +16,10 @@
           <van-dropdown-item v-model="orderType" :options="orderTypeList" />
         </van-dropdown-menu>
       </van-sticky>
+      <van-row v-if="!loaded">
+        <van-skeleton v-for="i in 4" :key="i" title avatar :row="3">
+        </van-skeleton>
+      </van-row>
       <list
         :data="allData"
         :keywords="keywords"
@@ -38,6 +42,8 @@ export default {
   },
   data() {
     return {
+      dataLoaded: false,
+      rateLoaded: false,
       allData: [],
       filterType: [],
       keywords: "",
@@ -71,6 +77,9 @@ export default {
     };
   },
   computed: {
+    loaded() {
+      return this.dataLoaded & this.rateLoaded;
+    },
     orderTypeList() {
       if (this.dataType === "free") {
         return this.orderTypeListAll.filter((v) =>
@@ -112,6 +121,7 @@ export default {
     getStoreData().then((res) => {
       console.log("get store data", res);
       this.allData = res.data.data.node.all_items.edges;
+      this.dataLoaded = true;
     });
     getRate().then((res) => {
       if (res) {
@@ -119,6 +129,7 @@ export default {
       } else {
         this.rate.USD = 6.53;
       }
+      this.rateLoaded = true;
     });
   },
   methods: {
