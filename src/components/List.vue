@@ -26,6 +26,10 @@ export default {
       type: String,
       default: "all",
     },
+    orderType: {
+      type: String,
+      default: "releaseData",
+    },
   },
   components: { Card },
   data() {
@@ -46,19 +50,47 @@ export default {
       return this.type === "discount";
     },
     filtedData() {
-      return this.data.filter((item) => {
-        if (this.isDiscount && !item.node.current_offer.promo_benefit) {
-          return false;
-        }
-        if (
-          this.isFree &&
-          item.node.current_offer.price.formatted !== "$0.00"
-        ) {
-          return false;
-        }
-        const name = item.node.display_name.toLowerCase();
-        return name.indexOf(this.keywords.toLowerCase()) != -1;
-      });
+      return this.data
+        .filter((item) => {
+          if (this.isDiscount && !item.node.current_offer.promo_benefit) {
+            return false;
+          }
+          if (
+            this.isFree &&
+            item.node.current_offer.price.formatted !== "$0.00"
+          ) {
+            return false;
+          }
+          if (
+            this.type === "paid" &&
+            item.node.current_offer.price.formatted === "$0.00"
+          ) {
+            return false;
+          }
+
+          const name = item.node.display_name.toLowerCase();
+          return name.indexOf(this.keywords.toLowerCase()) != -1;
+        })
+        .sort((a, b) => {
+          if (this.orderType === "name") {
+            const nameA = a.node.display_name.toLowerCase();
+            const nameB = b.node.display_name.toLowerCase();
+            return nameA < nameB ? -1 : 1;
+          } else if (this.orderType === "releaseData") {
+            const releaseDataA = a.node.release_date;
+            const releaseDataB = b.node.release_data;
+            return releaseDataA - releaseDataB;
+          } else if (this.orderType === "price") {
+            const priceA = a.node.current_offer.price.offset_amount;
+            const priceB = b.node.current_offer.price.offset_amount;
+            return priceA - priceB;
+          } else if (this.orderType === "endTime") {
+            const endTimeA = a.node.current_offer.end_time;
+            const endTimeB = b.node.current_offer.end_time;
+            return endTimeA - endTimeB;
+          }
+          return 0;
+        });
     },
     showData() {
       return this.filtedData.slice(0, this.offsetIndex);

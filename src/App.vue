@@ -8,3 +8,13 @@
   </div>
 </template>
 
+<script>
+import locale_cn from "dayjs/locale/zh-cn";
+import dayjs from "dayjs";
+export default {
+  created() {
+    dayjs.locale(locale_cn);
+  },
+};
+</script>
+

@@ -22,6 +22,9 @@ import {
   Swipe,
   SwipeItem,
   Rate,
+  DropdownMenu,
+  DropdownItem,
+  Sticky,
 } from 'vant'
 
 import router from './router'
@@ -47,6 +50,9 @@ Vue.use(Empty)
 Vue.use(Swipe)
 Vue.use(SwipeItem)
 Vue.use(Rate)
+Vue.use(DropdownMenu)
+Vue.use(DropdownItem)
+Vue.use(Sticky)
 
 new Vue({
   router,

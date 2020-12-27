@@ -1,19 +1,27 @@
 <template>
   <div>
     <div>
+      <h1>Oculus Quest 游戏查询</h1>
+    </div>
+    <div>
       <ScrollTop></ScrollTop>
       <van-search v-model="keywords" placeholder="请输入搜索关键词" />
-      <van-tabs animated swipeable>
-        <van-tab title="全部">
-          <list :data="allData" :keywords="keywords" type="all"></list>
-        </van-tab>
-        <van-tab title="免费">
-          <list :data="allData" :keywords="keywords" type="free"></list>
-        </van-tab>
-        <van-tab title="打折">
-          <list :data="allData" :keywords="keywords" type="discount"></list>
-        </van-tab>
-      </van-tabs>
+      <van-sticky>
+        <van-dropdown-menu active-color="#1989fa">
+          <van-dropdown-item
+            v-model="dataType"
+            :options="dataTypeList"
+            @change="onDataTypeChanged"
+          />
+          <van-dropdown-item v-model="orderType" :options="orderTypeList" />
+        </van-dropdown-menu>
+      </van-sticky>
+      <list
+        :data="allData"
+        :keywords="keywords"
+        :type="dataType"
+        :orderType="orderType"
+      ></list>
     </div>
   </div>
 </template>
@@ -41,6 +49,20 @@ export default {
       rate: {
         USD: 6.53,
       },
+      dataType: "all",
+      orderType: "releaseData",
+      dataTypeList: [
+        { text: "全部", value: "all" },
+        { text: "免费", value: "free" },
+        { text: "收费", value: "paid" },
+        { text: "打折", value: "discount" },
+      ],
+      orderTypeListAll: [
+        { text: "发售日期排序", value: "releaseData" },
+        { text: "名称排序", value: "name" },
+        { text: "价格排序", value: "price" },
+        { text: "截止时间排序", value: "endTime" },
+      ],
     };
   },
   provide() {
@@ -49,6 +71,21 @@ export default {
     };
   },
   computed: {
+    orderTypeList() {
+      if (this.dataType === "free") {
+        return this.orderTypeListAll.filter((v) =>
+          ["releaseData", "name"].includes(v.value)
+        );
+      } else if (this.dataType === "discount") {
+        return this.orderTypeListAll.filter((v) =>
+          ["releaseData", "name", "endTime", "price"].includes(v.value)
+        );
+      } else {
+        return this.orderTypeListAll.filter((v) =>
+          ["releaseData", "name", "price"].includes(v.value)
+        );
+      }
+    },
     filtedData() {
       return this.allData.filter((item) => {
         if (this.isDiscount && !item.node.current_offer.promo_benefit) {
@@ -83,6 +120,15 @@ export default {
         this.rate.USD = 6.53;
       }
     });
+  },
+  methods: {
+    onDataTypeChanged(v) {
+      if (v === "discount") {
+        this.orderType = "endTime";
+      } else {
+        this.orderType = "releaseData";
+      }
+    },
   },
 };
 </script>
