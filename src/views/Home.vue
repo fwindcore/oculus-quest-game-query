@@ -21,6 +21,7 @@
         </van-skeleton>
       </van-row>
       <list
+        v-else
         :data="allData"
         :keywords="keywords"
         :type="dataType"
