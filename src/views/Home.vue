@@ -69,6 +69,8 @@ export default {
         { text: "名称排序", value: "name" },
         { text: "价格排序", value: "price" },
         { text: "截止时间排序", value: "endTime" },
+        { text: "评分排序", value: "rate" },
+        { text: "评分人数排序", value: "rateCount" },
       ],
     };
   },
@@ -83,16 +85,14 @@ export default {
     },
     orderTypeList() {
       if (this.dataType === "free") {
-        return this.orderTypeListAll.filter((v) =>
-          ["releaseData", "name"].includes(v.value)
+        return this.orderTypeListAll.filter(
+          (v) => !["price", "endTime"].includes(v.value)
         );
       } else if (this.dataType === "discount") {
-        return this.orderTypeListAll.filter((v) =>
-          ["releaseData", "name", "endTime", "price"].includes(v.value)
-        );
+        return this.orderTypeListAll;
       } else {
-        return this.orderTypeListAll.filter((v) =>
-          ["releaseData", "name", "price"].includes(v.value)
+        return this.orderTypeListAll.filter(
+          (v) => !["endTime"].includes(v.value)
         );
       }
     },

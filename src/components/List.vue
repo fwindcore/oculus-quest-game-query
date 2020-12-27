@@ -88,6 +88,14 @@ export default {
             const endTimeA = a.node.current_offer.end_time;
             const endTimeB = b.node.current_offer.end_time;
             return endTimeA - endTimeB;
+          } else if (this.orderType == "rate") {
+            const rateA = a.node.quality_rating_aggregate;
+            const rateB = b.node.quality_rating_aggregate;
+            return rateB - rateA;
+          } else if (this.orderType == "rateCount") {
+            const countA = a.node.rating_count;
+            const countB = b.node.rating_count;
+            return countB - countA;
           }
           return 0;
         });
