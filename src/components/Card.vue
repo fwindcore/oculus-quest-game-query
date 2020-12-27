@@ -10,9 +10,20 @@
       :lazy-load="false"
     >
       <template #tags>
-        <van-tag v-if="isFree" plain type="success">免费</van-tag>
-        <van-tag v-if="isDiscount" plain type="danger">打折</van-tag>
+        <tag-list :data="tagList"></tag-list>
       </template>
+      <template #price-top>
+        <van-row>
+          <van-rate
+            :value="nodeData.quality_rating_aggregate"
+            allow-half
+            readonly
+            color="#ffd21e"
+          ></van-rate>
+          {{ nodeData.rating_count }}人评分
+        </van-row>
+      </template>
+
       <template #num>
         <van-tag type="danger" v-if="isDiscount">
           <template>
@@ -31,7 +42,9 @@
 
 <script>
 import dayjs from "dayjs";
+import TagList from "@/components/TagList";
 export default {
+  components: { TagList },
   props: {
     nodeData: {
       type: Object,
@@ -42,6 +55,36 @@ export default {
     cardClickLink() {
       // return `https://www.oculus.com/experiences/quest/${this.nodeData.id}/`;
       return `/detail/${this.nodeData.id}`;
+    },
+    tagList() {
+      let tagList = [];
+      if (this.isChinese) {
+        tagList.push({
+          name: "中文",
+          type: "primary",
+        });
+      }
+      if (this.isDiscount) {
+        tagList.push({
+          name: "打折",
+          type: "danger",
+        });
+      }
+      if (this.isFree) {
+        tagList.push({
+          name: "免费",
+          type: "success",
+        });
+      }
+
+      return tagList;
+    },
+    isChinese() {
+      return (
+        this.nodeData.supported_in_app_languages.findIndex(
+          (v) => v.name.indexOf("中文") > -1
+        ) > -1
+      );
     },
     isDiscount() {
       return this.nodeData.current_offer.promo_benefit ? true : false;
