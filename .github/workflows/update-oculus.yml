@@ -12,10 +12,10 @@ jobs:
         run: |
           cd scripts
           python get-store-json.py
-          python download-cover.py
+          python download-app-info.py
           python get-rate-json.py
           cp -rf ../public/*.json ../dist/
-          cp -rf ../public/cover ../dist/
+          cp -rf ../public/detail ../dist/
       - name: Commit data
         run: |
           git config --global user.name 'fwindpeak'
