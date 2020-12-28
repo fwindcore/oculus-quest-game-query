@@ -4,6 +4,7 @@
       @click="onCardClicked"
       :price="getPrice(nodeData.current_offer.price.offset_amount)"
       :desc="relaceData"
+      :tag="nodeData.quality_rating_aggregate.toFixed(1)"
       :title="nodeData.display_name"
       :thumb="getCoverUrl(nodeData.id)"
       :origin-price="originPrice"
@@ -13,14 +14,20 @@
         <tag-list :data="tagList"></tag-list>
       </template>
       <template #price-top>
-        <van-row>
-          <van-rate
-            :value="nodeData.quality_rating_aggregate"
-            allow-half
-            readonly
-            color="#ffd21e"
-          ></van-rate>
-          {{ nodeData.rating_count }}人评分
+        <van-row gutter="10" type="flex">
+          <van-col
+            ><van-rate
+              :value="nodeData.quality_rating_aggregate"
+              allow-half
+              readonly
+              color="#ffd21e"
+            ></van-rate
+          ></van-col>
+          <van-col
+            ><span class="rating-count"
+              >{{ nodeData.rating_count }}次评分</span
+            ></van-col
+          >
         </van-row>
       </template>
 
@@ -146,7 +153,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .card {
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
@@ -157,5 +164,8 @@ export default {
 .img {
   border-radius: 5px;
   max-width: 100%;
+}
+.rating-count {
+  color: rgba(12, 12, 12, 0.9);
 }
 </style>

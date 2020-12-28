@@ -1,8 +1,10 @@
 <template>
   <div>
-    <van-button :type="isDiscount ? 'danger' : 'primary'" size="large">
-      <span class="current-price">{{ currentPrice }}</span>
-      <span class="origin-price">{{ originPrice }}</span>
+    <van-button :type="isDiscount ? 'danger' : 'info'">
+      <van-row class="current-price">{{ currentPrice }}</van-row>
+      <van-row class="origin-price" v-if="originPrice">
+        {{ originPrice }}</van-row
+      >
       <!-- <span class="promo-benefit">{{ promoBenefit }}</span> -->
     </van-button>
   </div>
@@ -48,7 +50,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .current-price {
   color: #eee;
   font-weight: 500;

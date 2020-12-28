@@ -41,13 +41,13 @@
               />
             </van-col>
             <van-col>
-              <div>{{ ratingNum }}次评分</div>
+              <div class="rating-count">{{ ratingNum }}次评分</div>
             </van-col>
           </van-row>
         </div>
-        <div class="description">
+        <div class="description van-hairline--top">
           <van-row>
-            {{ appDetail.display_long_description }}
+            <TextMore :text="appDetail.display_long_description"></TextMore>
           </van-row>
         </div>
 
@@ -84,9 +84,10 @@ import { getDateFromSeconds } from "@/utils";
 import filesize from "filesize";
 import NProgress from "nprogress";
 import Price from "@/components/Price.vue";
+import TextMore from "@/components/TextMore";
 
 export default {
-  components: { Price },
+  components: { Price, TextMore },
   data() {
     return {
       appDetail: {},
@@ -190,6 +191,11 @@ export default {
 .title {
   font-size: 32px;
 }
+.rating-count {
+  color: rgba(12, 12, 12, 0.9);
+  font-weight: lighter;
+  font-size: 12px;
+}
 .description {
   word-break: break-word;
   overflow-y: auto;
@@ -199,7 +205,11 @@ export default {
   box-sizing: border-box;
   margin: 16px auto;
   max-width: 720px;
-  padding: 0px 8px;
+  padding: 10px 8px;
   width: 100%;
+  color: rgba(69, 90, 100, 0.6);
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
 }
 </style>
