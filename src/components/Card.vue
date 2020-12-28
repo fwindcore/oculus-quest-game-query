@@ -50,8 +50,10 @@ export default {
       type: Object,
     },
   },
-  inject: ["rate"],
   computed: {
+    rate() {
+      return this.$store.state.rate;
+    },
     cardClickLink() {
       // return `https://www.oculus.com/experiences/quest/${this.nodeData.id}/`;
       return `/detail/${this.nodeData.id}`;

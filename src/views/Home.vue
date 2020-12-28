@@ -33,7 +33,7 @@
 
 <script>
 import List from "@/components/List.vue";
-import { getStoreData, getRate } from "@/apis/index.js";
+import { getStoreData } from "@/apis/index.js";
 import ScrollTop from "@/components/ScrollTop";
 export default {
   name: "App",
@@ -44,7 +44,6 @@ export default {
   data() {
     return {
       dataLoaded: false,
-      rateLoaded: false,
       allData: [],
       filterType: [],
       keywords: "",
@@ -53,9 +52,6 @@ export default {
       offsetIndex: 0,
       pageItems: 20,
       finished: false,
-      rate: {
-        USD: 6.53,
-      },
       dataType: "all",
       orderType: "releaseData",
       dataTypeList: [
@@ -74,14 +70,9 @@ export default {
       ],
     };
   },
-  provide() {
-    return {
-      rate: this.rate,
-    };
-  },
   computed: {
     loaded() {
-      return this.dataLoaded & this.rateLoaded;
+      return this.dataLoaded;
     },
     orderTypeList() {
       if (this.dataType === "free") {
@@ -120,18 +111,9 @@ export default {
   },
   created() {
     getStoreData().then((res) => {
-      console.log("get store data", res);
+      // console.log("get store data", res);
       this.allData = res.data.data.node.all_items.edges;
       this.dataLoaded = true;
-    });
-    getRate().then((res) => {
-      if (res) {
-        this.rate.USD = res.data.data.rate;
-      } else {
-        this.rate.USD = 6.53;
-      }
-      this.$store.commit("updateRate", this.rate);
-      this.rateLoaded = true;
     });
   },
   methods: {
