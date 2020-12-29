@@ -65,10 +65,13 @@
             :value="appDetail.latest_supported_binary.version"
           />
 
-          <van-cell
-            title="更新记录"
-            :label="appDetail.latest_supported_binary.change_log || '无'"
-          />
+          <van-cell title="更新记录">
+            <template #label>
+              <text-more
+                :text="appDetail.latest_supported_binary.change_log || '无'"
+              ></text-more>
+            </template>
+          </van-cell>
         </van-cell-group>
       </div>
     </div>

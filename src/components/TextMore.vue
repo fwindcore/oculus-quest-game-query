@@ -1,8 +1,8 @@
 <template>
   <div>
-    <div :class="{ more: showMore, all: !showMore }">{{ textShow }}</div>
-    <div class="more-link" v-if="showMore">
-      <a @click="onShowMoreClick">更多</a>
+    <div :class="{ more: showMore, all: !showMore }">{{ text }}</div>
+    <div class="more-link">
+      <a @click="onShowMoreClick" v-text="moreText"></a>
     </div>
   </div>
 </template>
@@ -14,17 +14,10 @@ export default {
       type: String,
       default: "",
     },
-    maxLine: {
-      type: Number,
-      default: 4,
-    },
   },
   computed: {
-    isLongText() {
-      return this.text.length > 10 * this.maxLine;
-    },
-    textShow() {
-      return this.text;
+    moreText() {
+      return this.showMore ? "展开" : "收起";
     },
   },
   watch: {
@@ -43,7 +36,7 @@ export default {
   },
   methods: {
     onShowMoreClick() {
-      this.showMore = false;
+      this.showMore = !this.showMore;
     },
   },
 };
@@ -55,6 +48,7 @@ export default {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
+  -moz-appearance: 4;
 }
 .all {
   overflow: hidden;
