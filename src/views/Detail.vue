@@ -29,7 +29,7 @@
         </van-row>
 
         <div class="rate">
-          <van-row gutter="20">
+          <van-row gutter="20" type="flex">
             <van-col>
               <van-rate
                 v-model="appDetail.quality_rating_aggregate"
@@ -119,7 +119,7 @@ export default {
     appLanguages() {
       return this.appDetail.supported_in_app_languages
         .map((v) => v.name)
-        .join("、");
+        .join("、\n");
     },
     //游戏体积
     totalInstalledSpace() {
@@ -193,8 +193,6 @@ export default {
 }
 .rating-count {
   color: rgba(12, 12, 12, 0.9);
-  font-weight: lighter;
-  font-size: 12px;
 }
 .description {
   word-break: break-word;
