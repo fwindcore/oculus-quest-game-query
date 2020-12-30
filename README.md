@@ -12,6 +12,10 @@
 
 ## 脚本说明
 
+### `all-in-one.py`
+
+oculus quest 商店的所有操作整合到一个脚本
+
 ### `get-store-json.py`
 
 获取商店全部游戏的信息，保存成 json 文件
@@ -23,3 +27,8 @@
 ### `download-cover.py`
 
 下载游戏的横屏封面保存到 cover 目录
+
+## 备注
+
+- 保存的 json 文件删除了一些不需要的信息，以减少体积
+- 保存的 json 使用了格式化换行，方便查看 git 记录

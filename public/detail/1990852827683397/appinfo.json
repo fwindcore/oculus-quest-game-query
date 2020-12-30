@@ -1,0 +1,247 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "1990852827683397",
+			"display_name": "DMM VR Video Player",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": null,
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 40,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 19,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 11,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 17,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 42,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "All download and streaming VR purchased with DMM can be played with this VR app.",
+			"developer_privacy_policy_url": "http://www.dmm.com/info/legal/privacy/",
+			"developer_terms_of_service_url": "http://www.dmm.com/rule/=/category=member/",
+			"supported_player_modes": [
+				"SITTING"
+			],
+			"publisher_name": "DMM.com LLC",
+			"supported_in_app_languages": [
+				{
+					"name": "日语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "Dmm.com LLC",
+			"genre_names": [
+				"电影",
+				"音乐视频"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "2.0.10",
+				"change_log": "・VR動画のプレイヤーでズームイン/アウトができるようになりました\n・2D動画4K作品の再生ボタンが表示されない問題を修正しました",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "120761352",
+				"id": "3040498406052162",
+				"required_space_adjusted": "129537862",
+				"storeAddOns": null,
+				"firstIapItems": null
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1576731543,
+			"supported_tracking_modes": [],
+			"website_url": "http://www.dmm.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "555152965060644",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "394103364458082"
+			},
+			"live_release_channel": {
+				"id": "394103364458082",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3040498406052162"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "394103364458082",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "2.0.10",
+							"id": "3040498406052162"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "686562025143631",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_SOME",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED_FOR_DOWNLOAD",
+			"internet_connection_name": "下载内容需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "dmm-com-llc-dmm-vr-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "555152965060644"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "DMM VR Video Player",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 3.015503875969,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 45,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 45,
+				"page_info": {
+					"end_cursor": "AQHRsRpeRC8bP9dlfXOI0wJUe6AaeQRSf7pLbbQviscmt7WmTo4tdweXZSX4Kp7Lw8ssrNIpYMl3_L5u_NRRn0ETxw",
+					"start_cursor": "AQHRsRpeRC8bP9dlfXOI0wJUe6AaeQRSf7pLbbQviscmt7WmTo4tdweXZSX4Kp7Lw8ssrNIpYMl3_L5u_NRRn0ETxw"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "665209397741145",
+							"author": {
+								"id": "116447659283991",
+								"display_name": "E532B4F5959A",
+								"profile_photo": null
+							},
+							"score": 2,
+							"reviewDescription": ">Oculus Quest2で動作はしますが、部屋が暗いとトラッキングが失われ使えない。\n>本体設定で、トラッキングをオフにするとアプリが起動しない仕様のようで暗い部屋でのビデオ視聴は全く出来ない\n\n開発者モードをonにしてガーディアンを無効にすると部屋が暗くても使えるようになります\n\n開発者モードにするには、スマホアプリの設定メニューからその他の設定、開発者モードをonにします(ブラウザからリンクを辿って開発団体を作成する)\n\nOculus本体を一度電源を切ってから起動し直すと設定メニューに開発者のタブが追加されそこからガーディアンを無効にできます",
+							"reviewTitle": "Re:Oculus Quest2では暗い部屋だと使えない",
+							"review_helpful_count": 74,
+							"review_rank_by_viewer": null,
+							"date": 1602727301,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "All download and streaming VR purchased with DMM can be played with this VR app.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982447_1484216025067553_3005478931030605824_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=lUhkW9-ERKUAX98wOzu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=87577d9f289434033333737f0ef82a14&oe=6010013C",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/1990852827683397/",
+				"site_name": "Oculus",
+				"title": "DMM VR Video Player · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

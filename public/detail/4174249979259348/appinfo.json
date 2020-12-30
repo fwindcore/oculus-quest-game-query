@@ -1,0 +1,269 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "4174249979259348",
+			"display_name": "VirtualCast",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974510_367457637973340_449215919765970591_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=5wnwdVa81JkAX-0Jjre&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ab9b6a2113893733620d4c39baed9a9f&oe=6010F85C"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_381027713063558_3426358941522603598_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=DyCyyyphG1oAX9mD9jb&_nc_ht=scontent.oculuscdn.com&oh=8bd7f69a401792fd62bdd927f26331b5&oe=60130198"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 5,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 1,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 7,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 24,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "VirtualCast is a VR live communication service that enables you to be a virtual character and communicate with others in a VR studio.\n\nYou can spawn various items, have fun, switch between spaces and gather with your friends. \nYou can take photos and share them.\n\nYou can literally get in touch with each other.\nFind your new self in a new world. Experience the next generation of VR live communication.\n\n\nWhat's possible in the world of VirtualCast?\n\nGather from around the world in a single virtual space and communicate with each other as virtual characters.\nVarious items are available to help you break the ice, socialize and enjoy.\n\nYou can have fun selfie-ing all by yourself or join one of the official studios to meet and communicate with new people.\nOfficial Studios are changed periodically: some studios have games while others have shows going on.\n\nChange your avatar and experience a fresh new life!",
+			"developer_privacy_policy_url": "https://corp.virtualcast.jp/privacy.html",
+			"developer_terms_of_service_url": "https://corp.virtualcast.jp/terms.html",
+			"supported_player_modes": [
+				"ROOM_SCALE"
+			],
+			"publisher_name": "VirtualCast, Inc.",
+			"supported_in_app_languages": [
+				{
+					"name": "日语"
+				},
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "VirtualCast, Inc.",
+			"genre_names": [
+				"艺术/创意",
+				"探索",
+				"社交"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.9.6b",
+				"change_log": "# 仕様変更\n- 公式スタジオへ入室する際のタイムアウト時間を引き伸ばしました\n- リングメニューから不要なメニューボタンを削除しました\n- VCIデバッグメニューを表示しないようにしました",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "553979519",
+				"id": "5023920460958958",
+				"required_space_adjusted": "650425996",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1602514630,
+			"supported_tracking_modes": [],
+			"website_url": "https://virtualcast.jp/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "2756408444637553",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "705337490256685"
+			},
+			"live_release_channel": {
+				"id": "705337490256685",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "5023920460958958"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "705337490256685",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.9.6b",
+							"id": "5023920460958958"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "731240960944394",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "virtualcast-inc-virtualcast-release-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "2756408444637553"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "VirtualCast",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.1891891891892,
+			"support_website_url": "https://virtualcast.jp/contact",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 9,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 9,
+				"page_info": {
+					"end_cursor": "AQHRtz0iMAmd74nQWymbwfO1qvqQYH7XZgteQlnG_DDkgw8VYRqXZX1nfLUKPoSXFDvj62zyWm9_ZcD8GCQvFkZrGg",
+					"start_cursor": "AQHRtz0iMAmd74nQWymbwfO1qvqQYH7XZgteQlnG_DDkgw8VYRqXZX1nfLUKPoSXFDvj62zyWm9_ZcD8GCQvFkZrGg"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "160651862363530",
+							"author": {
+								"id": "113356277093089",
+								"display_name": "ReiL_919",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75245823_129517312143652_7166027731363161088_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=4422odfSgO4AX8e4pvH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ebaff0d9fa224b65ea5c61c40d135317&oe=600FF45B"
+								}
+							},
+							"score": 4,
+							"reviewDescription": "まず最初に｢Quest版バーチャルキャスト｣では、steam版(pc版)のような配信はできません。理由に関してはここでは割愛します 。\n\nでは、｢Quest版では何をするの？｣という話です。ストアの説明欄にも書かれていますが、Quest版では様々なスタジオで他の人とコミュニケーションをとる、言うなれば｢日本版VRchat｣のような使い方になります。\n\nとは言いますが、2020年10月13日(リリース当日)現在では、まだできることはかなり少ないです。公式スタジオもチュートリアルとデモスタジオが3つのみで、アイテムも少なくTHE SEED ONLINEとの連携もありません。\nしかし公式いわく｢リリースはまだスタートラインに立った段階｣で、これからTHE SEED ONLINEとの連携など様々な要素を実装していき、スタジオも随時更新されていくようです。\nなので、現段階ではインストールだけしておいて、気が向いたら｢面白いスタジオ追加されてるかな〜｣と起動するぐらいで良いかと思います。\n\n詳しい情報などは公式の方からTwitterやライブ配信などで公開されいるので、確認しておくといいかもしれません。",
+							"reviewTitle": "リリース当日、まだできることは少ない",
+							"review_helpful_count": 168,
+							"review_rank_by_viewer": null,
+							"date": 1602570527,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "VirtualCast is a VR live communication service that enables you to be a virtual character and communicate with others in a VR studio. \n\nYou can spawn various items, have fun, switch between spaces and gather with your friends.\nYou can take photos and share them.\n\nYou can get in touch with each other and play games.\nFind your new self in a new world. Experience the next generation of VR live communication.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86616642_562009101408352_4716883100240186760_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=3QQiJV1_ge4AX_D56Gp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=200dc41d03a2ca363554630c9c861700&oe=60118CE8",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/4174249979259348/",
+				"site_name": "Oculus",
+				"title": "VirtualCast · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
