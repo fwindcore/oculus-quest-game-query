@@ -1,23 +1,19 @@
 <template>
-  <transition name="el-fade-in">
-    <div class="page-component-up" @click="scrollToTop" v-show="true">
-      <van-icon class="el-icon-caret-top" name="back-top"></van-icon>
-    </div>
-  </transition>
+  <div class="page-component-up" @click="scrollToTop">
+    <van-icon class="el-icon-caret-top" name="back-top"></van-icon>
+  </div>
 </template>
 
 <script>
 export default {
   data() {
-    return {
-      toTopShow: false,
-    };
+    return {};
   },
+
   methods: {
     scrollToTop() {
       document.documentElement.scrollTop = 0;
       document.body.scrollTop = 0;
-      document.getElementById("scroller-box").children[0].scrollTop = 0;
     },
   },
 };

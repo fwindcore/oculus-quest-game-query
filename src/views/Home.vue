@@ -3,10 +3,10 @@
     <div>
       <h2 class="title">Oculus Quest 游戏查询</h2>
     </div>
-    <div>
-      <ScrollTop></ScrollTop>
+    <div ref="listDom" class="list-view">
+      <scroll-top v-show="showScrollToTop"></scroll-top>
       <van-search v-model="keywords" placeholder="请输入搜索关键词" />
-      <van-sticky>
+      <van-sticky @scroll="onScroll">
         <van-dropdown-menu active-color="#1989fa">
           <van-dropdown-item
             v-model="dataType"
@@ -43,6 +43,7 @@ export default {
   },
   data() {
     return {
+      showScrollToTop: false,
       dataLoaded: false,
       allData: [],
       filterType: [],
@@ -112,6 +113,17 @@ export default {
       this.dataLoaded = true;
     });
   },
+  mounted() {
+    this.$refs.listDom.addEventListener(
+      "scroll",
+      (e) => {
+        console.log("父滚动条到页面顶部距离", e.target.offsetTop);
+        console.log("相对距离", this.$refs.tree.scrollTop);
+        console.log("绝对距离", e.target.offsetTop + this.$refs.tree.scrollTop);
+      },
+      false
+    );
+  },
   methods: {
     onDataTypeChanged(v) {
       if (v === "discount") {
@@ -120,6 +132,9 @@ export default {
         this.orderType = "releaseData";
       }
     },
+    onScroll(data) {
+      this.showScrollToTop = data.isFixed;
+    },
   },
 };
 </script>
@@ -127,5 +142,8 @@ export default {
 <style scoped>
 .title {
   text-align: center;
+}
+.list-view {
+  height: 500px;
 }
 </style>
