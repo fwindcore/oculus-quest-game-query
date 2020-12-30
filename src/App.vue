@@ -18,12 +18,7 @@ export default {
   },
   created() {
     getRate().then((res) => {
-      console.log("get rate", res);
-      // if (res) {
-      //   this.$store.commit("updateRate", res.data.data.rate);
-      // }
-      // this.$store.commit("updateRate", 2);
-      this.$store.commit("updateRate", { USD: res.data.data.rate });
+      this.$store.commit("updateRate", res.data);
       this.loaded = true;
     });
     dayjs.locale(locale_cn);

@@ -1,8 +1,8 @@
 <template>
   <div id="scroller-box">
     <van-list @load="onLoad" :finished="finished" finished-text="没有更多了">
-      <div v-for="item of showData" :key="item.node.id">
-        <Card :nodeData="item.node"></Card>
+      <div v-for="item of showData" :key="item.id">
+        <Card :nodeData="item"></Card>
       </div>
       <van-empty v-if="showData.length < 1" description="" />
     </van-list>
@@ -52,49 +52,46 @@ export default {
     filtedData() {
       return this.data
         .filter((item) => {
-          if (this.isDiscount && !item.node.current_offer.promo_benefit) {
+          if (this.isDiscount && !item.current_offer.promo_benefit) {
             return false;
           }
-          if (
-            this.isFree &&
-            item.node.current_offer.price.formatted !== "$0.00"
-          ) {
+          if (this.isFree && item.current_offer.price.formatted !== "$0.00") {
             return false;
           }
           if (
             this.type === "paid" &&
-            item.node.current_offer.price.formatted === "$0.00"
+            item.current_offer.price.formatted === "$0.00"
           ) {
             return false;
           }
 
-          const name = item.node.display_name.toLowerCase();
+          const name = item.display_name.toLowerCase();
           return name.indexOf(this.keywords.toLowerCase()) != -1;
         })
         .sort((a, b) => {
           if (this.orderType === "name") {
-            const nameA = a.node.display_name.toLowerCase();
-            const nameB = b.node.display_name.toLowerCase();
+            const nameA = a.display_name.toLowerCase();
+            const nameB = b.display_name.toLowerCase();
             return nameA < nameB ? -1 : 1;
           } else if (this.orderType === "releaseData") {
-            const releaseDataA = a.node.release_date;
-            const releaseDataB = b.node.release_data;
+            const releaseDataA = a.release_date;
+            const releaseDataB = b.release_data;
             return releaseDataA - releaseDataB;
           } else if (this.orderType === "price") {
-            const priceA = a.node.current_offer.price.offset_amount;
-            const priceB = b.node.current_offer.price.offset_amount;
+            const priceA = a.current_offer.price.offset_amount;
+            const priceB = b.current_offer.price.offset_amount;
             return priceA - priceB;
           } else if (this.orderType === "endTime") {
-            const endTimeA = a.node.current_offer.end_time;
-            const endTimeB = b.node.current_offer.end_time;
+            const endTimeA = a.current_offer.end_time;
+            const endTimeB = b.current_offer.end_time;
             return endTimeA - endTimeB;
           } else if (this.orderType == "rate") {
-            const rateA = a.node.quality_rating_aggregate;
-            const rateB = b.node.quality_rating_aggregate;
+            const rateA = a.quality_rating_aggregate;
+            const rateB = b.quality_rating_aggregate;
             return rateB - rateA;
           } else if (this.orderType == "rateCount") {
-            const countA = a.node.rating_count;
-            const countB = b.node.rating_count;
+            const countA = a.rating_count;
+            const countB = b.rating_count;
             return countB - countA;
           }
           return 0;

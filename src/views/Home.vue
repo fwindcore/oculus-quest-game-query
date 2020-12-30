@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <h1 class="title">Oculus Quest 游戏查询</h1>
+      <h2 class="title">Oculus Quest 游戏查询</h2>
     </div>
     <div>
       <ScrollTop></ScrollTop>
@@ -89,16 +89,13 @@ export default {
     },
     filtedData() {
       return this.allData.filter((item) => {
-        if (this.isDiscount && !item.node.current_offer.promo_benefit) {
+        if (this.isDiscount && !item.current_offer.promo_benefit) {
           return false;
         }
-        if (
-          this.isFree &&
-          item.node.current_offer.price.formatted !== "$0.00"
-        ) {
+        if (this.isFree && item.current_offer.price.formatted !== "$0.00") {
           return false;
         }
-        const name = item.node.display_name.toLowerCase();
+        const name = item.display_name.toLowerCase();
         return name.indexOf(this.keywords.toLowerCase()) != -1;
       });
     },
@@ -111,8 +108,7 @@ export default {
   },
   created() {
     getStoreData().then((res) => {
-      // console.log("get store data", res);
-      this.allData = res.data.data.node.all_items.edges;
+      this.allData = res.data.edges;
       this.dataLoaded = true;
     });
   },

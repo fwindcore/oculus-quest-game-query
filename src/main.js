@@ -67,7 +67,12 @@ Vue.use(NavBar)
 const store = new Vuex.Store({
   state: {
     rate: {
-      USD: 1,
+      USD: {
+        rate: 6.53,
+      },
+      JPY: {
+        rate: 0.0631,
+      },
     },
   },
   mutations: {

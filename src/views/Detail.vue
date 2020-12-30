@@ -122,7 +122,7 @@ export default {
     appLanguages() {
       return this.appDetail.supported_in_app_languages
         .map((v) => v.name)
-        .join("、\n");
+        .join("\n");
     },
     //游戏体积
     totalInstalledSpace() {

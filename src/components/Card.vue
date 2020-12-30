@@ -50,6 +50,7 @@
 <script>
 import dayjs from "dayjs";
 import TagList from "@/components/TagList";
+import { getRatedPrice } from "@/utils";
 export default {
   components: { TagList },
   props: {
@@ -58,6 +59,9 @@ export default {
     },
   },
   computed: {
+    priceCurrency() {
+      return this.nodeData.current_offer.price.currency;
+    },
     rate() {
       return this.$store.state.rate;
     },
@@ -129,12 +133,7 @@ export default {
     },
 
     getPrice(price) {
-      // const rate = 6.53;
-      if (price == "0") {
-        return null;
-      } else {
-        return ((price * this.rate.USD) / 100).toFixed(2);
-      }
+      return getRatedPrice(price, this.rate, this.priceCurrency);
     },
     getDate(seconds) {
       return dayjs.unix(seconds).format("YYYY-MM-DD");

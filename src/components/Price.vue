@@ -20,6 +20,9 @@ export default {
     },
   },
   computed: {
+    priceCurrency() {
+      return this.currentOffer.price.currency;
+    },
     rate() {
       return this.$store.state.rate;
     },
@@ -32,14 +35,20 @@ export default {
     currentPrice() {
       return this.isFree
         ? "免费"
-        : "¥" + getRatedPrice(this.currentOffer.price.offset_amount, this.rate);
+        : "¥" +
+            getRatedPrice(
+              this.currentOffer.price.offset_amount,
+              this.rate,
+              this.priceCurrency
+            );
     },
     originPrice() {
       return this.isDiscount
         ? "¥" +
             getRatedPrice(
               this.currentOffer.strikethrough_price.offset_amount,
-              this.rate
+              this.rate,
+              this.priceCurrency
             )
         : "";
     },
