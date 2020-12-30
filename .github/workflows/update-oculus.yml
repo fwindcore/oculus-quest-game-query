@@ -11,10 +11,8 @@ jobs:
       - name: update json and cover
         run: |
           cd scripts
-          python get-store-json.py
-          python download-app-info.py
           python get-rate-json.py
-          python fix-all-data.py
+          python all-in-one.py
           cp -rf ../public/*.json ../dist/
           cp -rf ../public/detail ../dist/
       - name: Commit data
