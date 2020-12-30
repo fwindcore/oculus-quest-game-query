@@ -54,8 +54,6 @@ class OculusStore:
             os.makedirs(detail_app_info_dir)
         print('downloading detail [%s]'%(self.display_name))
         des = os.path.join(detail_app_info_dir,'appinfo.json')
-        if os.path.exists(des):
-            return
         formData={
             "access_token":"OC|1317831034909742|",
             "variables":'{"itemId":"%s","first":1,"last":null,"after":null,"before":null,"forward":true,"ordering":null,"ratingScores":null,"hmdType":"MONTEREY"}'%(self.id),
