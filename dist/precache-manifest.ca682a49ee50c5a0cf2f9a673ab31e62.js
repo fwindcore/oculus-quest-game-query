@@ -2940,19 +2940,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/cover/705576999566582/square.jpg"
   },
   {
-    "revision": "696c13c53c8c025e046e",
-    "url": "/oculus-quest-store-list/css/about.cf4a16a6.css"
+    "revision": "f934f0385ddad45fb135",
+    "url": "/oculus-quest-store-list/css/about.afc7c5fb.css"
   },
   {
-    "revision": "8c2fb5ee987b381bbf48",
-    "url": "/oculus-quest-store-list/css/app.031055de.css"
+    "revision": "ba667dfc833f00327da1",
+    "url": "/oculus-quest-store-list/css/app.2bde0d9b.css"
   },
   {
     "revision": "d24f7ba45a9d6a2c3935",
     "url": "/oculus-quest-store-list/css/chunk-vendors.f121e06d.css"
   },
   {
-    "revision": "d20d3399f31ba837b543806e7ae89024",
+    "revision": "da194938cb368e0be6064103db2a03f7",
     "url": "/oculus-quest-store-list/detail/1427490644042488/appinfo.json"
   },
   {
@@ -2988,7 +2988,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1427490644042488/screenshots/4.jpg"
   },
   {
-    "revision": "6468dd177bc932ae569eace08e5e62a7",
+    "revision": "46f9770b373c53562c6f411541257ac8",
     "url": "/oculus-quest-store-list/detail/1551165681653074/appinfo.json"
   },
   {
@@ -3024,7 +3024,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1551165681653074/screenshots/4.jpg"
   },
   {
-    "revision": "c7c82ae52228b4d0a27d179e52d34c1d",
+    "revision": "45163664c5db8361a2dc7511cd81aef1",
     "url": "/oculus-quest-store-list/detail/1587090851394426/appinfo.json"
   },
   {
@@ -3060,7 +3060,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1587090851394426/screenshots/4.jpg"
   },
   {
-    "revision": "0744852fbf6af2f0710710a1f66d03ed",
+    "revision": "81d5a9cbb811a1f4e33a0076df656c03",
     "url": "/oculus-quest-store-list/detail/1611681078875316/appinfo.json"
   },
   {
@@ -3096,7 +3096,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1611681078875316/screenshots/4.jpg"
   },
   {
-    "revision": "4969e086df241974178343c374a07b3c",
+    "revision": "5a6af9644211b97140301c672ebe275d",
     "url": "/oculus-quest-store-list/detail/1642239225880682/appinfo.json"
   },
   {
@@ -3132,7 +3132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1642239225880682/screenshots/4.jpg"
   },
   {
-    "revision": "b5fb3cc72d1c7309b80a855441e3688d",
+    "revision": "1b9b8440b60e324b3fed7370ccce15fc",
     "url": "/oculus-quest-store-list/detail/1654565391314903/appinfo.json"
   },
   {
@@ -3168,7 +3168,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1654565391314903/screenshots/4.jpg"
   },
   {
-    "revision": "321b3423a6ff702933def778c74ffe72",
+    "revision": "47df0de45a502cd93586d5c202d524db",
     "url": "/oculus-quest-store-list/detail/1663790613725314/appinfo.json"
   },
   {
@@ -3204,7 +3204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1663790613725314/screenshots/4.jpg"
   },
   {
-    "revision": "aa197d50ee52bbf08d59bd969215a006",
+    "revision": "4cb8c4695fb18ae8657143a662faad2a",
     "url": "/oculus-quest-store-list/detail/1706349256136062/appinfo.json"
   },
   {
@@ -3240,7 +3240,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1706349256136062/screenshots/4.jpg"
   },
   {
-    "revision": "30fce9849bc696fa1a59e19fd24ae785",
+    "revision": "790ea07b81166c54a5be47726a50cb25",
     "url": "/oculus-quest-store-list/detail/1756328964489238/appinfo.json"
   },
   {
@@ -3276,7 +3276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1756328964489238/screenshots/4.jpg"
   },
   {
-    "revision": "8dcccaf01e46c39466cf4a197a1cc577",
+    "revision": "a05e7a6205b50b8fa8d338703ed636a5",
     "url": "/oculus-quest-store-list/detail/1756404784466105/appinfo.json"
   },
   {
@@ -3312,7 +3312,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1756404784466105/screenshots/4.jpg"
   },
   {
-    "revision": "88ef744c701948d76061830ff6d7660c",
+    "revision": "9cd00ee8b4b0326bc0710f90b87652dc",
     "url": "/oculus-quest-store-list/detail/1758986534231171/appinfo.json"
   },
   {
@@ -3348,7 +3348,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1758986534231171/screenshots/4.jpg"
   },
   {
-    "revision": "7b82aec921b9afbeedb929745d4f269f",
+    "revision": "16814dc9a6165619a573cf1a544707e7",
     "url": "/oculus-quest-store-list/detail/1780841635357133/appinfo.json"
   },
   {
@@ -3384,7 +3384,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1780841635357133/screenshots/4.jpg"
   },
   {
-    "revision": "dc801f047625df2dcf4f059d0d0ec5bc",
+    "revision": "f3bd553fcb4f60841de790b3bb145245",
     "url": "/oculus-quest-store-list/detail/1790834284361209/appinfo.json"
   },
   {
@@ -3420,7 +3420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1790834284361209/screenshots/4.jpg"
   },
   {
-    "revision": "a83ca8e2de3ba8453b265e2b02291ade",
+    "revision": "8da08165c294d654124b29977aebfb90",
     "url": "/oculus-quest-store-list/detail/1794123900713107/appinfo.json"
   },
   {
@@ -3456,7 +3456,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1794123900713107/screenshots/4.jpg"
   },
   {
-    "revision": "4d749569ef74a9312bcf6f6063701c44",
+    "revision": "84781d4327d47ec8269e6df420ba01da",
     "url": "/oculus-quest-store-list/detail/1798409083604479/appinfo.json"
   },
   {
@@ -3492,7 +3492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1798409083604479/screenshots/4.jpg"
   },
   {
-    "revision": "05159f7082696dca930f496f8fb5c829",
+    "revision": "abe8062ffc7403cc61ebc4f24aa7c865",
     "url": "/oculus-quest-store-list/detail/1810693125705825/appinfo.json"
   },
   {
@@ -3528,7 +3528,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1810693125705825/screenshots/4.jpg"
   },
   {
-    "revision": "a401cf0dbca225d91209cbe8aca077fc",
+    "revision": "fbfa80c4e5990af786e6e431cbeea5a5",
     "url": "/oculus-quest-store-list/detail/1830168170427369/appinfo.json"
   },
   {
@@ -3564,7 +3564,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1830168170427369/screenshots/4.jpg"
   },
   {
-    "revision": "b2481d837bd63bf0cbb4daf558b432ee",
+    "revision": "4518fb437c82c55a1664f6aabae8017d",
     "url": "/oculus-quest-store-list/detail/1853479764707533/appinfo.json"
   },
   {
@@ -3600,7 +3600,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1853479764707533/screenshots/4.jpg"
   },
   {
-    "revision": "b7a40793d60d34683ee0549f573ce709",
+    "revision": "5a479bd533244debf0f6d512845adbfa",
     "url": "/oculus-quest-store-list/detail/1854124104686464/appinfo.json"
   },
   {
@@ -3636,7 +3636,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1854124104686464/screenshots/4.jpg"
   },
   {
-    "revision": "7ddf22f7ce6c23267d31395adca2dd1f",
+    "revision": "4e78f49c778826cdcacb54eabedf0d18",
     "url": "/oculus-quest-store-list/detail/1856672347794301/appinfo.json"
   },
   {
@@ -3672,7 +3672,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1856672347794301/screenshots/4.jpg"
   },
   {
-    "revision": "a2e2c614d438c4080a972dc73fd76c3a",
+    "revision": "04b4a86cec1c6622cc93f6e7dde1f827",
     "url": "/oculus-quest-store-list/detail/1860984660605547/appinfo.json"
   },
   {
@@ -3708,7 +3708,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1860984660605547/screenshots/4.jpg"
   },
   {
-    "revision": "2dc06183eefc917fd16f1a12832fbe68",
+    "revision": "bda7d651da3675fdeeb048a8d9977b4f",
     "url": "/oculus-quest-store-list/detail/1863547050392688/appinfo.json"
   },
   {
@@ -3744,7 +3744,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1863547050392688/screenshots/4.jpg"
   },
   {
-    "revision": "4dbbc83c6a425cf6e2cbbcf644aebc4b",
+    "revision": "dbc8c8a004b7f58ca60e87ca8ff53ed9",
     "url": "/oculus-quest-store-list/detail/1891638294265934/appinfo.json"
   },
   {
@@ -3780,7 +3780,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1891638294265934/screenshots/4.jpg"
   },
   {
-    "revision": "e191e188c3c4a038c9ec570abc957078",
+    "revision": "e86f2564b2303549388d0abc592218df",
     "url": "/oculus-quest-store-list/detail/1893756264000446/appinfo.json"
   },
   {
@@ -3816,7 +3816,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1893756264000446/screenshots/4.jpg"
   },
   {
-    "revision": "c77867480fae8e0e98840d9ab1115356",
+    "revision": "f3bbff6e83bf071f394ab34672168057",
     "url": "/oculus-quest-store-list/detail/1903584373052985/appinfo.json"
   },
   {
@@ -3852,7 +3852,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1903584373052985/screenshots/4.jpg"
   },
   {
-    "revision": "96a9dc2da96ba5896140ee6519575e11",
+    "revision": "f43babffb201d57396fa666ee5193f51",
     "url": "/oculus-quest-store-list/detail/1906871599408213/appinfo.json"
   },
   {
@@ -3888,7 +3888,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1906871599408213/screenshots/4.jpg"
   },
   {
-    "revision": "3582d35109eaabe3ba59fff6f13c0c93",
+    "revision": "92cc63b41e926b5d5b5dd20785d803cf",
     "url": "/oculus-quest-store-list/detail/1911507652251026/appinfo.json"
   },
   {
@@ -3924,7 +3924,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1911507652251026/screenshots/4.jpg"
   },
   {
-    "revision": "dd8e08cdfb95b5a87fbb82b0739777de",
+    "revision": "ea656420aa159cca6be923c2cc5c4dc4",
     "url": "/oculus-quest-store-list/detail/1916519981771802/appinfo.json"
   },
   {
@@ -3960,7 +3960,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1916519981771802/screenshots/4.jpg"
   },
   {
-    "revision": "ed945c321e7787dc2594b424e466b58d",
+    "revision": "1dffcd603a02175ade69b441a61a3c5f",
     "url": "/oculus-quest-store-list/detail/1917371471713228/appinfo.json"
   },
   {
@@ -3996,7 +3996,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1917371471713228/screenshots/4.jpg"
   },
   {
-    "revision": "58ae51f70aab5bdc30a991a1f1e964ab",
+    "revision": "48df2f7965c458e220bd7536f609a31a",
     "url": "/oculus-quest-store-list/detail/1920879634657108/appinfo.json"
   },
   {
@@ -4032,7 +4032,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1920879634657108/screenshots/4.jpg"
   },
   {
-    "revision": "5da2126a744e950823eaf7d278434698",
+    "revision": "aafe2a4d9688ce6c20a41ba362503b0a",
     "url": "/oculus-quest-store-list/detail/1921533091289407/appinfo.json"
   },
   {
@@ -4068,7 +4068,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1921533091289407/screenshots/4.jpg"
   },
   {
-    "revision": "79b5d8c6da4e1010da3ab635e7003155",
+    "revision": "96acbceea154c7c5a01f48e7b4259bec",
     "url": "/oculus-quest-store-list/detail/1924930950878181/appinfo.json"
   },
   {
@@ -4104,7 +4104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1924930950878181/screenshots/4.jpg"
   },
   {
-    "revision": "9e7729c19c1ad8dfd8e03c372e0ab5ca",
+    "revision": "68e868c5a52c44129a88eb47b02a1678",
     "url": "/oculus-quest-store-list/detail/1931356740318898/appinfo.json"
   },
   {
@@ -4140,7 +4140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1931356740318898/screenshots/4.jpg"
   },
   {
-    "revision": "9c5b0ac05a1949e97ab74f7a29bff7d6",
+    "revision": "0472c33aeda5562c8ac7c77027a75242",
     "url": "/oculus-quest-store-list/detail/1935017546592600/appinfo.json"
   },
   {
@@ -4176,7 +4176,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1935017546592600/screenshots/4.jpg"
   },
   {
-    "revision": "d19dbe69a6da2756a1f2947fdaba661c",
+    "revision": "00624effa7dbf47d491a777640cd9285",
     "url": "/oculus-quest-store-list/detail/1946326588770583/appinfo.json"
   },
   {
@@ -4212,7 +4212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1946326588770583/screenshots/4.jpg"
   },
   {
-    "revision": "a85bc62641945be3e2aa2e364688b96b",
+    "revision": "8c177fb710feefaf2a80cb0148f4d17d",
     "url": "/oculus-quest-store-list/detail/1947925211962268/appinfo.json"
   },
   {
@@ -4248,7 +4248,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1947925211962268/screenshots/4.jpg"
   },
   {
-    "revision": "3857860142166b3251ce77572f1e4e20",
+    "revision": "36a1982929020befdf3d7bfca30b711e",
     "url": "/oculus-quest-store-list/detail/1951863938215666/appinfo.json"
   },
   {
@@ -4284,7 +4284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1951863938215666/screenshots/4.jpg"
   },
   {
-    "revision": "5695aa7663792668df21091898c8c1af",
+    "revision": "a2c23b3df78cc95b138e75defd86af13",
     "url": "/oculus-quest-store-list/detail/1952355814856769/appinfo.json"
   },
   {
@@ -4320,7 +4320,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1952355814856769/screenshots/4.jpg"
   },
   {
-    "revision": "e76cf9fb73d67f52008855ae27f05a3a",
+    "revision": "836f967e64571905295d5b49932296b6",
     "url": "/oculus-quest-store-list/detail/1954488057986071/appinfo.json"
   },
   {
@@ -4356,7 +4356,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1954488057986071/screenshots/4.jpg"
   },
   {
-    "revision": "d7956ad007f4d9ade96296ef0e430968",
+    "revision": "45ad5ae4d3288a9a6f6357b005395660",
     "url": "/oculus-quest-store-list/detail/1958100334295482/appinfo.json"
   },
   {
@@ -4392,7 +4392,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1958100334295482/screenshots/4.jpg"
   },
   {
-    "revision": "6b88065dca70ab5c89d25d72f4a79247",
+    "revision": "46fc27dc745317a1ab218ef22188003e",
     "url": "/oculus-quest-store-list/detail/1961984627245151/appinfo.json"
   },
   {
@@ -4428,7 +4428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1961984627245151/screenshots/4.jpg"
   },
   {
-    "revision": "4070340eb1bf623c021192882eeca1b3",
+    "revision": "069400268c465d933cf9d27bd90b3354",
     "url": "/oculus-quest-store-list/detail/1964070970347431/appinfo.json"
   },
   {
@@ -4464,7 +4464,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1964070970347431/screenshots/4.jpg"
   },
   {
-    "revision": "c5da0c898d06d8838bf3f1e9d5286fa8",
+    "revision": "ce32e83dc32b42c411f4133be05f4102",
     "url": "/oculus-quest-store-list/detail/1976071352472244/appinfo.json"
   },
   {
@@ -4500,7 +4500,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1976071352472244/screenshots/4.jpg"
   },
   {
-    "revision": "ed15d6d6049e3390237a495c36bbf6d6",
+    "revision": "b8487ca3face736ec095b4dfd035f1c9",
     "url": "/oculus-quest-store-list/detail/1978992975501648/appinfo.json"
   },
   {
@@ -4536,7 +4536,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1978992975501648/screenshots/4.jpg"
   },
   {
-    "revision": "4805e5a45f9ee482e81ecf2b90d92756",
+    "revision": "dfce96f5a9c4e72b92615ffdafa21984",
     "url": "/oculus-quest-store-list/detail/1987283631365460/appinfo.json"
   },
   {
@@ -4572,7 +4572,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1987283631365460/screenshots/4.jpg"
   },
   {
-    "revision": "21d146043daab6698452a99aa17052a4",
+    "revision": "17f9cbfbc203fcf207e1fcc0d268e720",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/appinfo.json"
+  },
+  {
+    "revision": "2323ac8a65dddfcc2db3bb4f13fd18e7",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/cover/landscape.jpg"
+  },
+  {
+    "revision": "3f5fb60ad0a8264fd1b5ebe166347574",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/cover/portrait.jpg"
+  },
+  {
+    "revision": "1239f23d04ce156a0ea4a46ab0bfa25a",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/cover/square.jpg"
+  },
+  {
+    "revision": "cd5ceccffad39a5676ade7e763e7b501",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/screenshots/0.jpg"
+  },
+  {
+    "revision": "e6505a5f8e00c3fad51fdaf2713a08f4",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/screenshots/1.jpg"
+  },
+  {
+    "revision": "b8a48e761caab4863ae25f18de651f94",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/screenshots/2.jpg"
+  },
+  {
+    "revision": "09a5dce2e34e823c1fab5a634b29fefb",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/screenshots/3.jpg"
+  },
+  {
+    "revision": "fec6bff1ebdd737db46dd372edb1368c",
+    "url": "/oculus-quest-store-list/detail/1990852827683397/screenshots/4.jpg"
+  },
+  {
+    "revision": "7a19af8b1fe851b39761e50e81cc843d",
     "url": "/oculus-quest-store-list/detail/1995306573932043/appinfo.json"
   },
   {
@@ -4608,7 +4644,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1995306573932043/screenshots/4.jpg"
   },
   {
-    "revision": "09fb994bb0a4d6ac0a7e920c5d5cda90",
+    "revision": "86f764a1e6f471e3079e2b86d6a89c25",
     "url": "/oculus-quest-store-list/detail/1995434190525828/appinfo.json"
   },
   {
@@ -4644,7 +4680,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/1995434190525828/screenshots/4.jpg"
   },
   {
-    "revision": "957a7e0508f3633c7b03f1579606fdd0",
+    "revision": "ab8cbf61a4a7234ea314018e810a63c4",
     "url": "/oculus-quest-store-list/detail/2002317119880945/appinfo.json"
   },
   {
@@ -4680,7 +4716,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2002317119880945/screenshots/4.jpg"
   },
   {
-    "revision": "417b800addb45836006e037f7b97764b",
+    "revision": "e8088e9199f2fa4cc13680cf69759bf9",
     "url": "/oculus-quest-store-list/detail/2004328649624954/appinfo.json"
   },
   {
@@ -4716,7 +4752,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2004328649624954/screenshots/4.jpg"
   },
   {
-    "revision": "684c9c8e1975067401a6287901ac96c9",
+    "revision": "e872fe216e7ac75e7c640b5f4e10178f",
     "url": "/oculus-quest-store-list/detail/2004774962957063/appinfo.json"
   },
   {
@@ -4752,7 +4788,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2004774962957063/screenshots/4.jpg"
   },
   {
-    "revision": "c71861fd2bb81f17396c4088fec0be4b",
+    "revision": "6890fb52e698647a4c456536f2940329",
     "url": "/oculus-quest-store-list/detail/2010043642376517/appinfo.json"
   },
   {
@@ -4788,7 +4824,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2010043642376517/screenshots/4.jpg"
   },
   {
-    "revision": "0e362a0134be42f2791e1570660541f1",
+    "revision": "b77b27d30004c97dc9b43206324cec96",
     "url": "/oculus-quest-store-list/detail/2017050365004772/appinfo.json"
   },
   {
@@ -4824,7 +4860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2017050365004772/screenshots/4.jpg"
   },
   {
-    "revision": "ea085634ae302d4e3e24f6cd9015e118",
+    "revision": "006c2c19606bf10b141b0a3fcb27c1bd",
     "url": "/oculus-quest-store-list/detail/2022341094553436/appinfo.json"
   },
   {
@@ -4860,7 +4896,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2022341094553436/screenshots/4.jpg"
   },
   {
-    "revision": "4b726d6dc252605032d02a6a42c5745e",
+    "revision": "335f37d81e22ccb8d2f48187768e4c11",
     "url": "/oculus-quest-store-list/detail/2032870023439846/appinfo.json"
   },
   {
@@ -4896,7 +4932,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2032870023439846/screenshots/4.jpg"
   },
   {
-    "revision": "69192832459b206e19bfd8ec110ec2eb",
+    "revision": "49bf2aa16d1fe88b52ca2fc60fc0bbc0",
     "url": "/oculus-quest-store-list/detail/2033429253367669/appinfo.json"
   },
   {
@@ -4932,7 +4968,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2033429253367669/screenshots/4.jpg"
   },
   {
-    "revision": "f58c6440f6aa0355f318803039cab29c",
+    "revision": "17c5d76b5974083ccc655ec8d851f7f6",
     "url": "/oculus-quest-store-list/detail/2035353573194060/appinfo.json"
   },
   {
@@ -4968,7 +5004,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2035353573194060/screenshots/4.jpg"
   },
   {
-    "revision": "b9b99e64909f7075802096b40539a11b",
+    "revision": "fc1500f3b19de0de33c91a6741367f55",
     "url": "/oculus-quest-store-list/detail/2046607608728563/appinfo.json"
   },
   {
@@ -5004,7 +5040,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2046607608728563/screenshots/4.jpg"
   },
   {
-    "revision": "35f227605157124d150ac9d91a3e9e6c",
+    "revision": "815d10ed0ae8d07fb7693197cf54067e",
     "url": "/oculus-quest-store-list/detail/2055554051161375/appinfo.json"
   },
   {
@@ -5040,7 +5076,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2055554051161375/screenshots/4.jpg"
   },
   {
-    "revision": "8290d913d4b138e916da54109ea7d2c2",
+    "revision": "095835d691801653a83dfa5c8738dbfe",
     "url": "/oculus-quest-store-list/detail/2055718171162796/appinfo.json"
   },
   {
@@ -5076,7 +5112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2055718171162796/screenshots/4.jpg"
   },
   {
-    "revision": "0f3722bf6a57ac536ab53ccc14317bf9",
+    "revision": "99d6c38bb42166b36791ee75e57bf05a",
     "url": "/oculus-quest-store-list/detail/2062507817126022/appinfo.json"
   },
   {
@@ -5112,7 +5148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2062507817126022/screenshots/4.jpg"
   },
   {
-    "revision": "0fa1bf0b578bc3748c369986031cbbcb",
+    "revision": "1563c2c8fbf3ccb16571c0843e36acd7",
     "url": "/oculus-quest-store-list/detail/2063931653705427/appinfo.json"
   },
   {
@@ -5148,7 +5184,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2063931653705427/screenshots/4.jpg"
   },
   {
-    "revision": "072b02678f749169d9cc3dcc9ab72b1e",
+    "revision": "b670b7d46b6c9c78c05ddca7826f6321",
     "url": "/oculus-quest-store-list/detail/2078236868960051/appinfo.json"
   },
   {
@@ -5184,7 +5220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2078236868960051/screenshots/4.jpg"
   },
   {
-    "revision": "29fe4f7d2ab3ba33c3bb46b5118ff246",
+    "revision": "54f428e9fab2dec289726faf7f6a6c8d",
     "url": "/oculus-quest-store-list/detail/2078376005587859/appinfo.json"
   },
   {
@@ -5220,7 +5256,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2078376005587859/screenshots/4.jpg"
   },
   {
-    "revision": "cd55474fa84319e318660477cff1d6b9",
+    "revision": "97bdaf239ef68c11eb5db7da7f16c410",
     "url": "/oculus-quest-store-list/detail/2082595615120854/appinfo.json"
   },
   {
@@ -5256,7 +5292,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2082595615120854/screenshots/4.jpg"
   },
   {
-    "revision": "16ecf43a39b70504f6bc40aa9efaa492",
+    "revision": "8f66ef7c605e554ea0200e3ae37d1614",
     "url": "/oculus-quest-store-list/detail/2082941345119152/appinfo.json"
   },
   {
@@ -5292,7 +5328,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2082941345119152/screenshots/4.jpg"
   },
   {
-    "revision": "d3a6eaba00dcedd03b731ee8ac766e73",
+    "revision": "87d3550e70f3dfeda06345d302cf1d05",
     "url": "/oculus-quest-store-list/detail/2088119334554800/appinfo.json"
   },
   {
@@ -5328,7 +5364,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2088119334554800/screenshots/4.jpg"
   },
   {
-    "revision": "ac1b5e2fa312a24caa0ae741a1968846",
+    "revision": "4cb0f6217c364a42e6113de247303c27",
     "url": "/oculus-quest-store-list/detail/2094303753986147/appinfo.json"
   },
   {
@@ -5364,7 +5400,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2094303753986147/screenshots/4.jpg"
   },
   {
-    "revision": "d62904b6caa92092425b27ec10cc2e65",
+    "revision": "a6bf07d18fe5d2757b6401464d506624",
     "url": "/oculus-quest-store-list/detail/2096339947076151/appinfo.json"
   },
   {
@@ -5400,7 +5436,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2096339947076151/screenshots/4.jpg"
   },
   {
-    "revision": "fbf9379f30a023e01fd3b1d8034d5fbb",
+    "revision": "6d882fe7a62715d96d51699879226500",
     "url": "/oculus-quest-store-list/detail/2096570290365140/appinfo.json"
   },
   {
@@ -5436,7 +5472,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2096570290365140/screenshots/4.jpg"
   },
   {
-    "revision": "3aaec4f557eaf85c3bdcd32fff343265",
+    "revision": "08aadd189e31257e14e59f1f8cd7f4dd",
     "url": "/oculus-quest-store-list/detail/2104963472963790/appinfo.json"
   },
   {
@@ -5472,7 +5508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2104963472963790/screenshots/4.jpg"
   },
   {
-    "revision": "1fb88f286b70ed2ccd486ed3b4f7a5da",
+    "revision": "8284c3ca74dd0bca24bcc756201f48c4",
     "url": "/oculus-quest-store-list/detail/2108775495884888/appinfo.json"
   },
   {
@@ -5508,7 +5544,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2108775495884888/screenshots/4.jpg"
   },
   {
-    "revision": "de00b962d687ea74e49e399dc6b194f0",
+    "revision": "be73fefcf2f5ba9e9e628a13e82419de",
     "url": "/oculus-quest-store-list/detail/2111191602278229/appinfo.json"
   },
   {
@@ -5544,7 +5580,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2111191602278229/screenshots/4.jpg"
   },
   {
-    "revision": "44cc9b132eab399fae56b2acb8479bf6",
+    "revision": "491759c46787b7791fd81897e2df2f5f",
     "url": "/oculus-quest-store-list/detail/2115015981923610/appinfo.json"
   },
   {
@@ -5580,7 +5616,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2115015981923610/screenshots/4.jpg"
   },
   {
-    "revision": "56ac2535f98fb685726869b670b1c5e1",
+    "revision": "30749f30f2c473e9d6afc9ae58409a44",
     "url": "/oculus-quest-store-list/detail/2121787737926354/appinfo.json"
   },
   {
@@ -5616,7 +5652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2121787737926354/screenshots/4.jpg"
   },
   {
-    "revision": "a13f8a3a43aa1bb0ac69b2142cb7ab55",
+    "revision": "f27dda01196daeb95aadbf3339bcda97",
     "url": "/oculus-quest-store-list/detail/2124523024270629/appinfo.json"
   },
   {
@@ -5652,7 +5688,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2124523024270629/screenshots/4.jpg"
   },
   {
-    "revision": "2021e0cc3ad0ee7cf64979fa0580ccee",
+    "revision": "b8516d572d1267f9905e41001c6f4d23",
     "url": "/oculus-quest-store-list/detail/2128482130504783/appinfo.json"
   },
   {
@@ -5688,7 +5724,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2128482130504783/screenshots/4.jpg"
   },
   {
-    "revision": "ce23aaa445abd6b6fcff5a8202eb1580",
+    "revision": "58047f24f0ece4bceba88d9d86167d99",
     "url": "/oculus-quest-store-list/detail/2131072803612066/appinfo.json"
   },
   {
@@ -5724,7 +5760,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2131072803612066/screenshots/4.jpg"
   },
   {
-    "revision": "62c292eeb48ca39cac0f107bc58ebaff",
+    "revision": "179075cf4f24a9c151d86cfebb55fca7",
     "url": "/oculus-quest-store-list/detail/2133027990157329/appinfo.json"
   },
   {
@@ -5760,7 +5796,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2133027990157329/screenshots/4.jpg"
   },
   {
-    "revision": "4cb8e64185ec6bc5a39c7ff03e7648ba",
+    "revision": "44966a3dc3c708743a17afb3f0c65863",
     "url": "/oculus-quest-store-list/detail/2134077359973067/appinfo.json"
   },
   {
@@ -5796,7 +5832,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2134077359973067/screenshots/4.jpg"
   },
   {
-    "revision": "b758a49d2b8e735a59f4593997d843ca",
+    "revision": "56467312257dbeb47514af85e7123a27",
     "url": "/oculus-quest-store-list/detail/2134272053250863/appinfo.json"
   },
   {
@@ -5832,7 +5868,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2134272053250863/screenshots/4.jpg"
   },
   {
-    "revision": "b09d09adf82bb5d428d41aa8a40b31f1",
+    "revision": "7c08e2fd6ee4fb60d712a0918510e637",
     "url": "/oculus-quest-store-list/detail/2134415043313547/appinfo.json"
   },
   {
@@ -5868,7 +5904,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2134415043313547/screenshots/4.jpg"
   },
   {
-    "revision": "668e27fbaadfb3a802af3f15717d40ff",
+    "revision": "d04af1a28707bd05dff8fd95c6f35fed",
     "url": "/oculus-quest-store-list/detail/2159739540797724/appinfo.json"
   },
   {
@@ -5904,7 +5940,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2159739540797724/screenshots/4.jpg"
   },
   {
-    "revision": "5266b5cff6d773fe59991bb252db221b",
+    "revision": "cdf61d7c7d1b7847fea16c39c4c7fd29",
     "url": "/oculus-quest-store-list/detail/2164469606967296/appinfo.json"
   },
   {
@@ -5940,7 +5976,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2164469606967296/screenshots/4.jpg"
   },
   {
-    "revision": "a0087f22975552d10e2155b96b8cb643",
+    "revision": "8ce6720919d1d23aef838bc81a9c445e",
     "url": "/oculus-quest-store-list/detail/2173576192720129/appinfo.json"
   },
   {
@@ -5976,7 +6012,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2173576192720129/screenshots/4.jpg"
   },
   {
-    "revision": "5a67bfb46958b31ad1bd79c19a8bb9d5",
+    "revision": "ea789742fa7d0dc036486a884a05419d",
     "url": "/oculus-quest-store-list/detail/2173678582678296/appinfo.json"
   },
   {
@@ -6012,7 +6048,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2173678582678296/screenshots/4.jpg"
   },
   {
-    "revision": "4c12b84754c60e855aeb802613ac6bfd",
+    "revision": "6f628f060c2cd9b7bc221ddbe2082f73",
     "url": "/oculus-quest-store-list/detail/2180252408763702/appinfo.json"
   },
   {
@@ -6048,7 +6084,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2180252408763702/screenshots/4.jpg"
   },
   {
-    "revision": "609766bd2c322fab45b2f69d59a76a24",
+    "revision": "25a849e5dd78202c0a4d6582902bf202",
     "url": "/oculus-quest-store-list/detail/2180753588712484/appinfo.json"
   },
   {
@@ -6084,7 +6120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2180753588712484/screenshots/4.jpg"
   },
   {
-    "revision": "6eb17f8ef9a7d222d2ab5c9134e5b55e",
+    "revision": "3151123ee58a5f47590899ba35cbc5f0",
     "url": "/oculus-quest-store-list/detail/2184912004923042/appinfo.json"
   },
   {
@@ -6120,7 +6156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2184912004923042/screenshots/4.jpg"
   },
   {
-    "revision": "c1d042e3184e29e42b05641a546b0c7c",
+    "revision": "9e1586803c052431f5be8374a826ab32",
     "url": "/oculus-quest-store-list/detail/2188021891257542/appinfo.json"
   },
   {
@@ -6156,7 +6192,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2188021891257542/screenshots/4.jpg"
   },
   {
-    "revision": "b4e2e878afacad57c057d0c2bd2a1794",
+    "revision": "d6dba5ae367a91f4d795f9d9fe6d1c4d",
     "url": "/oculus-quest-store-list/detail/2190353671014400/appinfo.json"
   },
   {
@@ -6192,7 +6228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2190353671014400/screenshots/4.jpg"
   },
   {
-    "revision": "03d864555b9f32f7d88d825c8f3f718d",
+    "revision": "b5776e079cd10ee6a7b8fcb6687073e2",
     "url": "/oculus-quest-store-list/detail/2202354219893697/appinfo.json"
   },
   {
@@ -6228,7 +6264,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2202354219893697/screenshots/4.jpg"
   },
   {
-    "revision": "1786bfb4c3e42dff03a471a97ab89ad3",
+    "revision": "8354b08d5efd12886c9c34024981678a",
     "url": "/oculus-quest-store-list/detail/2215004568539258/appinfo.json"
   },
   {
@@ -6264,7 +6300,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2215004568539258/screenshots/4.jpg"
   },
   {
-    "revision": "4ab8d6ef9d9756d81c3ea0c17baab550",
+    "revision": "d70375c556cac25c18596b07c2e9e2c2",
     "url": "/oculus-quest-store-list/detail/2215140511885250/appinfo.json"
   },
   {
@@ -6300,7 +6336,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2215140511885250/screenshots/4.jpg"
   },
   {
-    "revision": "eee672292bf076893b64b00c67c2b151",
+    "revision": "72db42c89f7db9e36ba575b8cf582f80",
     "url": "/oculus-quest-store-list/detail/2221553561229188/appinfo.json"
   },
   {
@@ -6336,7 +6372,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2221553561229188/screenshots/4.jpg"
   },
   {
-    "revision": "6bc0cf774d159f71d6a3db86bf657405",
+    "revision": "4ac82cec4272684d6f443ea86c1c24ab",
     "url": "/oculus-quest-store-list/detail/2223615721048141/appinfo.json"
   },
   {
@@ -6372,7 +6408,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2223615721048141/screenshots/4.jpg"
   },
   {
-    "revision": "1040fb92e4524496ef030d3501ff9097",
+    "revision": "97f6044924b2a9b7fee0f44acfaf9f02",
     "url": "/oculus-quest-store-list/detail/2225300714196671/appinfo.json"
   },
   {
@@ -6408,7 +6444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2225300714196671/screenshots/4.jpg"
   },
   {
-    "revision": "0c38c94a0d2adc3245a7e5b5aa43bf43",
+    "revision": "971b85d27eb5158a298b5ff91a7dcf73",
     "url": "/oculus-quest-store-list/detail/2228678273856228/appinfo.json"
   },
   {
@@ -6444,7 +6480,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2228678273856228/screenshots/4.jpg"
   },
   {
-    "revision": "7116438fe006a22abca46fc3bde14093",
+    "revision": "cdd1b157764aa1c424cbb9749a260107",
     "url": "/oculus-quest-store-list/detail/2245426295493320/appinfo.json"
   },
   {
@@ -6480,7 +6516,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2245426295493320/screenshots/4.jpg"
   },
   {
-    "revision": "f9ae2f133c4866ee49e89db03bba2083",
+    "revision": "3cac3532341fdc3a312721ebb5f63711",
     "url": "/oculus-quest-store-list/detail/2245906048808858/appinfo.json"
   },
   {
@@ -6516,7 +6552,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2245906048808858/screenshots/4.jpg"
   },
   {
-    "revision": "882cd93ae4cb056a317798a5fce42c12",
+    "revision": "135a81db23dfe89bc5e5b4d278b1b9ad",
     "url": "/oculus-quest-store-list/detail/2249318828413747/appinfo.json"
   },
   {
@@ -6552,7 +6588,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2249318828413747/screenshots/4.jpg"
   },
   {
-    "revision": "9796cbbc878ef88a2dcbb56c7d9ffcba",
+    "revision": "535962b0b6ed2e3f59d4907e2ac19dd4",
     "url": "/oculus-quest-store-list/detail/2254618957917577/appinfo.json"
   },
   {
@@ -6588,7 +6624,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2254618957917577/screenshots/4.jpg"
   },
   {
-    "revision": "688bba4f1f1172262b7ba292189e6fa6",
+    "revision": "648b38959de3720268b0824547240f82",
     "url": "/oculus-quest-store-list/detail/2255408847836468/appinfo.json"
   },
   {
@@ -6624,7 +6660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2255408847836468/screenshots/4.jpg"
   },
   {
-    "revision": "88b62759dbed221671e43fe536e37de6",
+    "revision": "1911f43d26c667e7eb7c40e746afe276",
     "url": "/oculus-quest-store-list/detail/2257223740990488/appinfo.json"
   },
   {
@@ -6660,7 +6696,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2257223740990488/screenshots/4.jpg"
   },
   {
-    "revision": "23140032212053133a2c94ef974d7328",
+    "revision": "652d59a30977ece1522925502e9a362c",
     "url": "/oculus-quest-store-list/detail/2260701747375712/appinfo.json"
   },
   {
@@ -6696,7 +6732,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2260701747375712/screenshots/4.jpg"
   },
   {
-    "revision": "e9cdb314b759c4e0c4a0110fd4e60e92",
+    "revision": "f03f438bb0508535a5c90d4e9f6c4248",
     "url": "/oculus-quest-store-list/detail/2262258467173053/appinfo.json"
   },
   {
@@ -6732,7 +6768,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2262258467173053/screenshots/4.jpg"
   },
   {
-    "revision": "a5762ab48e61e1c55793bc425a15eb14",
+    "revision": "5d67153c3b5f7fca5ca1967e8c21a442",
     "url": "/oculus-quest-store-list/detail/2264524423619421/appinfo.json"
   },
   {
@@ -6768,7 +6804,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2264524423619421/screenshots/4.jpg"
   },
   {
-    "revision": "8143bf028248b1508d3565a80f431e0a",
+    "revision": "639c6d6e7de0dce3d8947e95e040389e",
     "url": "/oculus-quest-store-list/detail/2267061756700952/appinfo.json"
   },
   {
@@ -6804,7 +6840,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2267061756700952/screenshots/4.jpg"
   },
   {
-    "revision": "ccca9ec8c11fc77c71733058114cf7a3",
+    "revision": "2f262fde75714407d809729b3e03f91e",
     "url": "/oculus-quest-store-list/detail/2274617532624269/appinfo.json"
   },
   {
@@ -6840,7 +6876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2274617532624269/screenshots/4.jpg"
   },
   {
-    "revision": "1a27f4301d127b744b8534f0cb8d0dd1",
+    "revision": "0ef6d4588e741e90811aaedd11c245e5",
     "url": "/oculus-quest-store-list/detail/2280285932034855/appinfo.json"
   },
   {
@@ -6876,7 +6912,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2280285932034855/screenshots/4.jpg"
   },
   {
-    "revision": "cfed4bfc8cee8b35e1bfa527a794bb49",
+    "revision": "2d10576da1b1d9216b9e30c0f7d612ef",
     "url": "/oculus-quest-store-list/detail/2285803881494677/appinfo.json"
   },
   {
@@ -6912,7 +6948,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2285803881494677/screenshots/4.jpg"
   },
   {
-    "revision": "8910bb0e68bc8b7853fcdf7412e2b94f",
+    "revision": "98ced6160dbafa6572e3315cda17b78f",
     "url": "/oculus-quest-store-list/detail/2295552207136342/appinfo.json"
   },
   {
@@ -6948,7 +6984,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2295552207136342/screenshots/4.jpg"
   },
   {
-    "revision": "452f439cbe59e694df6716db1fcef8f1",
+    "revision": "e92b7e026f1bc61330b29983c92d75c5",
     "url": "/oculus-quest-store-list/detail/2299215130112875/appinfo.json"
   },
   {
@@ -6984,7 +7020,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2299215130112875/screenshots/4.jpg"
   },
   {
-    "revision": "8e7564199a32e4bf00856c323f8fe254",
+    "revision": "5ae52b2b7a6e114676a17b25893654ef",
     "url": "/oculus-quest-store-list/detail/2299465166734471/appinfo.json"
   },
   {
@@ -7020,7 +7056,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2299465166734471/screenshots/4.jpg"
   },
   {
-    "revision": "494d0ce09d2d5c7cf87e5cec87dc4a04",
+    "revision": "3134092ccbdde8106777f56a39c091b0",
     "url": "/oculus-quest-store-list/detail/2299967930057156/appinfo.json"
   },
   {
@@ -7056,7 +7092,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2299967930057156/screenshots/4.jpg"
   },
   {
-    "revision": "3c0e30a12cec526ab6d759e564bd6c5e",
+    "revision": "92400117c37c395472d738b279c979e2",
     "url": "/oculus-quest-store-list/detail/2302118823192509/appinfo.json"
   },
   {
@@ -7092,7 +7128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2302118823192509/screenshots/4.jpg"
   },
   {
-    "revision": "e16d1be5a871e9136de6cf76257e9294",
+    "revision": "70c3d126edd4c93ccb5ebb7f94798da6",
     "url": "/oculus-quest-store-list/detail/2307085352735834/appinfo.json"
   },
   {
@@ -7128,7 +7164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2307085352735834/screenshots/4.jpg"
   },
   {
-    "revision": "006e63d140e5ada3698ae10ae500a8e8",
+    "revision": "b09f33fddf5027cd51e74bbee6005a96",
     "url": "/oculus-quest-store-list/detail/2322529091093901/appinfo.json"
   },
   {
@@ -7164,7 +7200,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2322529091093901/screenshots/4.jpg"
   },
   {
-    "revision": "a132b60402fe1e214f3db1f772168c2c",
+    "revision": "25d158ec9088559613724d46902fa531",
     "url": "/oculus-quest-store-list/detail/2325731427501921/appinfo.json"
   },
   {
@@ -7200,7 +7236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2325731427501921/screenshots/4.jpg"
   },
   {
-    "revision": "493b423d0966aa9cbdf41ebc2582cb62",
+    "revision": "51074bfc141562af27b7335a623aaf9c",
     "url": "/oculus-quest-store-list/detail/2327205800645550/appinfo.json"
   },
   {
@@ -7236,7 +7272,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2327205800645550/screenshots/4.jpg"
   },
   {
-    "revision": "f6855675c2d8d05d88c1bbaf1e9f51dc",
+    "revision": "0a0301ff59d4ddf37f6856d1cb9b7252",
     "url": "/oculus-quest-store-list/detail/2327302830679091/appinfo.json"
   },
   {
@@ -7272,7 +7308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2327302830679091/screenshots/4.jpg"
   },
   {
-    "revision": "58f6c66d39d693f21158b9b097b13098",
+    "revision": "d1bb8a4acfd844ca6c4713ff03670e6d",
     "url": "/oculus-quest-store-list/detail/2333124776756148/appinfo.json"
   },
   {
@@ -7308,7 +7344,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2333124776756148/screenshots/4.jpg"
   },
   {
-    "revision": "ee6cfe354808a0fbd139cedea8596a3a",
+    "revision": "b2a6aee1a6bfe0326d3a504cb4634204",
     "url": "/oculus-quest-store-list/detail/2334376869949242/appinfo.json"
   },
   {
@@ -7344,7 +7380,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2334376869949242/screenshots/4.jpg"
   },
   {
-    "revision": "0ec83f24fd848b9c33deb01bbc6638c8",
+    "revision": "1d3304cdcfb7f36c0a05743e2c0ab81a",
     "url": "/oculus-quest-store-list/detail/2337198749686376/appinfo.json"
   },
   {
@@ -7380,7 +7416,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2337198749686376/screenshots/4.jpg"
   },
   {
-    "revision": "8bc469537a33d71ffa9f476498c13f6b",
+    "revision": "295479a10918e31ab3219539ddd8db50",
     "url": "/oculus-quest-store-list/detail/2345082335516570/appinfo.json"
   },
   {
@@ -7416,7 +7452,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2345082335516570/screenshots/4.jpg"
   },
   {
-    "revision": "1ad3456b337cf94255fba1d7e1bb9100",
+    "revision": "4a7f159a70ee8b3f59e73e717d137a2f",
     "url": "/oculus-quest-store-list/detail/2352932654734987/appinfo.json"
   },
   {
@@ -7452,7 +7488,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2352932654734987/screenshots/4.jpg"
   },
   {
-    "revision": "3950f050fd29d027fff4ee7acf49f083",
+    "revision": "42286a6167874a737c4c4a3eb72a2f9d",
     "url": "/oculus-quest-store-list/detail/2359857214088490/appinfo.json"
   },
   {
@@ -7488,7 +7524,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2359857214088490/screenshots/4.jpg"
   },
   {
-    "revision": "81049bc547855c58c7d4ed0d70eaee71",
+    "revision": "b750157a2e0edca22e0ed4b163dc05b4",
     "url": "/oculus-quest-store-list/detail/2366136696841248/appinfo.json"
   },
   {
@@ -7524,7 +7560,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2366136696841248/screenshots/4.jpg"
   },
   {
-    "revision": "d02c5b0382c04d4c9111c114d583157a",
+    "revision": "015446f5a690544cab9aa1fe99faf5e3",
     "url": "/oculus-quest-store-list/detail/2366245336750543/appinfo.json"
   },
   {
@@ -7560,7 +7596,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2366245336750543/screenshots/4.jpg"
   },
   {
-    "revision": "a6f86cd12279d5a35fb10a96f7a26c98",
+    "revision": "a49f2f1c5be680313dd04cbe06e05b13",
     "url": "/oculus-quest-store-list/detail/2370815932930055/appinfo.json"
   },
   {
@@ -7596,7 +7632,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2370815932930055/screenshots/4.jpg"
   },
   {
-    "revision": "9cd764ec82073a935f5ce05997096681",
+    "revision": "0a8c81b480eb1e0f3a7eaefb7d16e2a7",
     "url": "/oculus-quest-store-list/detail/2371757336252737/appinfo.json"
   },
   {
@@ -7632,7 +7668,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2371757336252737/screenshots/4.jpg"
   },
   {
-    "revision": "35aa66dbbe685b7143daada2355473d9",
+    "revision": "3fba2b622ba32ae5a2ccfd1ea84952a5",
     "url": "/oculus-quest-store-list/detail/2376737905701576/appinfo.json"
   },
   {
@@ -7668,7 +7704,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2376737905701576/screenshots/4.jpg"
   },
   {
-    "revision": "6ee0673e592d7afb5733a1f3de2141c7",
+    "revision": "4962fc7bd25c965d2956bf2ab64e345e",
     "url": "/oculus-quest-store-list/detail/2382576078453818/appinfo.json"
   },
   {
@@ -7704,7 +7740,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2382576078453818/screenshots/4.jpg"
   },
   {
-    "revision": "4fa28418bc4f58df8cb66c8cdb369d90",
+    "revision": "e3a675f28974a5d396f37f4be7b2c667",
     "url": "/oculus-quest-store-list/detail/2393300320759737/appinfo.json"
   },
   {
@@ -7740,7 +7776,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2393300320759737/screenshots/4.jpg"
   },
   {
-    "revision": "15c5cd7f3e8a908df99b5c65b59d7e5e",
+    "revision": "a868ff4f3779270fffaac2079a2972eb",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/appinfo.json"
+  },
+  {
+    "revision": "23f5e78be6c4ab01adf1ce33dd5ca0ce",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/cover/landscape.jpg"
+  },
+  {
+    "revision": "0256a37a824425d6ba32201c5c1929cd",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/cover/portrait.jpg"
+  },
+  {
+    "revision": "e8671ef794dc8e07979a9d49a7eba29b",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/cover/square.jpg"
+  },
+  {
+    "revision": "ca465fa6f984d415eb714d49242752ea",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/screenshots/0.jpg"
+  },
+  {
+    "revision": "a7ffeda514163a448f1cbb299a87a813",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/screenshots/1.jpg"
+  },
+  {
+    "revision": "f187c1ce29c80646f90b69c110e62a6a",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/screenshots/2.jpg"
+  },
+  {
+    "revision": "b08fd521206b249113f24d488cb93f88",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/screenshots/3.jpg"
+  },
+  {
+    "revision": "932f560f2f04b713444a94f9230dbadb",
+    "url": "/oculus-quest-store-list/detail/2395213267267320/screenshots/4.jpg"
+  },
+  {
+    "revision": "6cd5b4fdfd1912e79952ecee3a4fab96",
     "url": "/oculus-quest-store-list/detail/2398880980156491/appinfo.json"
   },
   {
@@ -7776,7 +7848,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2398880980156491/screenshots/4.jpg"
   },
   {
-    "revision": "85ec6292d908b228ddaed53feb3336f6",
+    "revision": "3741d8d4aeba532e364faf7e5c2a9087",
     "url": "/oculus-quest-store-list/detail/2404437756348346/appinfo.json"
   },
   {
@@ -7812,7 +7884,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2404437756348346/screenshots/4.jpg"
   },
   {
-    "revision": "2e18f71f56c0d1bfbd0171275e0c0780",
+    "revision": "6ab5d53d9d04a53e92700789332c66c7",
     "url": "/oculus-quest-store-list/detail/2406880882663555/appinfo.json"
   },
   {
@@ -7848,7 +7920,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2406880882663555/screenshots/4.jpg"
   },
   {
-    "revision": "54872a9312443e7020a423a65ed3e030",
+    "revision": "542ac4ccbaa0aa0a2b1ca439fdc38924",
     "url": "/oculus-quest-store-list/detail/2412327085529357/appinfo.json"
   },
   {
@@ -7884,7 +7956,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2412327085529357/screenshots/4.jpg"
   },
   {
-    "revision": "760fa38224cef1b97fa395603a6b9117",
+    "revision": "749e2a892eeb0c60ef7f199d1434887d",
     "url": "/oculus-quest-store-list/detail/2426206484098337/appinfo.json"
   },
   {
@@ -7920,7 +7992,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2426206484098337/screenshots/4.jpg"
   },
   {
-    "revision": "d805e3942244a03f7b8b37e8560fc556",
+    "revision": "95d2e4ef993384218254de1770fbfe38",
     "url": "/oculus-quest-store-list/detail/2434361173248640/appinfo.json"
   },
   {
@@ -7956,7 +8028,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2434361173248640/screenshots/4.jpg"
   },
   {
-    "revision": "54e3f1dc3c0299402475c31ed1e9a9ee",
+    "revision": "b749b41166f0611bcd5f9ae68bfbd4ea",
     "url": "/oculus-quest-store-list/detail/2436558143118760/appinfo.json"
   },
   {
@@ -7992,7 +8064,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2436558143118760/screenshots/4.jpg"
   },
   {
-    "revision": "d4bd1dd1ab80cabfe79489ad9bffbc09",
+    "revision": "9b4423f8611f5b7a4643ff2fb019e898",
     "url": "/oculus-quest-store-list/detail/2436667223120459/appinfo.json"
   },
   {
@@ -8028,7 +8100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2436667223120459/screenshots/4.jpg"
   },
   {
-    "revision": "3f6c706d2d8817187cc23b36d9e9cf93",
+    "revision": "4ffc5889def4a2b4836b6960a4593ef4",
     "url": "/oculus-quest-store-list/detail/2436897736439055/appinfo.json"
   },
   {
@@ -8064,7 +8136,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2436897736439055/screenshots/4.jpg"
   },
   {
-    "revision": "2bab9fdb119d3960fd58f30c02648639",
+    "revision": "18caa4d518b779bbec0eea002b6caf5a",
     "url": "/oculus-quest-store-list/detail/2439217169469931/appinfo.json"
   },
   {
@@ -8100,7 +8172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2439217169469931/screenshots/4.jpg"
   },
   {
-    "revision": "4ee8596f09b7f6cae23220bcf9dd95aa",
+    "revision": "9e699a0e277dd410376e9e99ec342dd8",
     "url": "/oculus-quest-store-list/detail/2444056018972158/appinfo.json"
   },
   {
@@ -8136,7 +8208,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2444056018972158/screenshots/4.jpg"
   },
   {
-    "revision": "544eb92c42aa1e9152cf7cca55076c86",
+    "revision": "b37e8c9ce2b4dbabffca0c65167409cb",
     "url": "/oculus-quest-store-list/detail/2446085128829455/appinfo.json"
   },
   {
@@ -8172,7 +8244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2446085128829455/screenshots/4.jpg"
   },
   {
-    "revision": "0c41b235f04c3a991e3618b05a9cf1a9",
+    "revision": "fb64e87f8b4e2704d454f60a00e186b3",
     "url": "/oculus-quest-store-list/detail/2446271755437605/appinfo.json"
   },
   {
@@ -8208,7 +8280,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2446271755437605/screenshots/4.jpg"
   },
   {
-    "revision": "c8174b7ddefd42ed86f117e814e1235f",
+    "revision": "25432a4b814cfff6301d8827ddb89dae",
     "url": "/oculus-quest-store-list/detail/2448060205267927/appinfo.json"
   },
   {
@@ -8244,7 +8316,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2448060205267927/screenshots/4.jpg"
   },
   {
-    "revision": "2c78fa6f212ae43c50ff7c7f63daaaee",
+    "revision": "04df0571323b0399a1d2c248ddd01e7e",
     "url": "/oculus-quest-store-list/detail/2449350021843569/appinfo.json"
   },
   {
@@ -8280,7 +8352,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2449350021843569/screenshots/4.jpg"
   },
   {
-    "revision": "9e0354c76297c87edca8981c941c89a4",
+    "revision": "c2793c8fefa7e1885aa8aa342ac729d3",
     "url": "/oculus-quest-store-list/detail/2450698034945641/appinfo.json"
   },
   {
@@ -8316,7 +8388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2450698034945641/screenshots/4.jpg"
   },
   {
-    "revision": "34972c2ed56e898e2e3cf16152f01385",
+    "revision": "09e409a44cf9a581cbf62a0ca470bcac",
     "url": "/oculus-quest-store-list/detail/2451131601675079/appinfo.json"
   },
   {
@@ -8352,7 +8424,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2451131601675079/screenshots/4.jpg"
   },
   {
-    "revision": "5bdb15ec5c07a766fa5b8a12bb6aca54",
+    "revision": "1ad727f1dec0ed678ae61a54e7e0be4a",
     "url": "/oculus-quest-store-list/detail/2453152771391571/appinfo.json"
   },
   {
@@ -8388,7 +8460,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2453152771391571/screenshots/4.jpg"
   },
   {
-    "revision": "e0a5d8738acb9c52f43b835ccbdb7c75",
+    "revision": "779b62674657fe1ee7a0c5cb84903270",
     "url": "/oculus-quest-store-list/detail/2459503397416283/appinfo.json"
   },
   {
@@ -8424,7 +8496,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2459503397416283/screenshots/4.jpg"
   },
   {
-    "revision": "73609aaa2c68ee8ba32103a0bdb13730",
+    "revision": "35bda59a234029968cfa4a5e1cb0c72f",
     "url": "/oculus-quest-store-list/detail/2462678267173943/appinfo.json"
   },
   {
@@ -8460,7 +8532,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2462678267173943/screenshots/4.jpg"
   },
   {
-    "revision": "6907adc152f09f08ac83a008681bc821",
+    "revision": "d4e50d4b2b051026683ae96c88275130",
     "url": "/oculus-quest-store-list/detail/2464560730245504/appinfo.json"
   },
   {
@@ -8496,7 +8568,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2464560730245504/screenshots/4.jpg"
   },
   {
-    "revision": "55b2ceec37157ea10dc1d6a67e45d454",
+    "revision": "81f3d344388be46cf4c3541e33091840",
     "url": "/oculus-quest-store-list/detail/2466379100068882/appinfo.json"
   },
   {
@@ -8532,7 +8604,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2466379100068882/screenshots/4.jpg"
   },
   {
-    "revision": "eeb2015a73087598b0c516a29310c8d6",
+    "revision": "8dec07b752516984f0740039f2bcd8be",
     "url": "/oculus-quest-store-list/detail/2476104599150595/appinfo.json"
   },
   {
@@ -8568,7 +8640,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2476104599150595/screenshots/4.jpg"
   },
   {
-    "revision": "d7fcde8e7d6aed6f790176343b40c315",
+    "revision": "9a58fe82f98771cbfdc0806d6bae235d",
     "url": "/oculus-quest-store-list/detail/2479638112135074/appinfo.json"
   },
   {
@@ -8604,7 +8676,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2479638112135074/screenshots/4.jpg"
   },
   {
-    "revision": "ddcc4069d3ad63d78cc14fd2f2c591e0",
+    "revision": "11fe781ed3798fdeaf767d002c42f727",
     "url": "/oculus-quest-store-list/detail/2481987975166999/appinfo.json"
   },
   {
@@ -8640,7 +8712,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2481987975166999/screenshots/4.jpg"
   },
   {
-    "revision": "7246e7bb632674217c53cfcf6cea1c71",
+    "revision": "fb44328a63511536a6a97ba4f4e67fed",
     "url": "/oculus-quest-store-list/detail/2484044451715693/appinfo.json"
   },
   {
@@ -8676,7 +8748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2484044451715693/screenshots/4.jpg"
   },
   {
-    "revision": "b00f1c7827c354ab956a515e8715608e",
+    "revision": "59b9a9eb1547143f35c4c82d47f55bf3",
     "url": "/oculus-quest-store-list/detail/2497738113633933/appinfo.json"
   },
   {
@@ -8712,7 +8784,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2497738113633933/screenshots/4.jpg"
   },
   {
-    "revision": "70fe58d6e9839680292b234ee018361b",
+    "revision": "fb7c4e7f7cd9b222920106ad8280cc5f",
     "url": "/oculus-quest-store-list/detail/2507216576060698/appinfo.json"
   },
   {
@@ -8748,7 +8820,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2507216576060698/screenshots/4.jpg"
   },
   {
-    "revision": "5411c7c8e96f6ccccce77965af34dc17",
+    "revision": "4069572a408467a97151c69247091dd1",
     "url": "/oculus-quest-store-list/detail/2515021945210953/appinfo.json"
   },
   {
@@ -8784,7 +8856,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2515021945210953/screenshots/4.jpg"
   },
   {
-    "revision": "1ef979ae7188b3fda9b442063fbc43a7",
+    "revision": "6f9230a00299c49bb8273a07b86f5fe2",
     "url": "/oculus-quest-store-list/detail/2522558964527688/appinfo.json"
   },
   {
@@ -8820,7 +8892,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2522558964527688/screenshots/4.jpg"
   },
   {
-    "revision": "c91fa98d451641a29a017421ade1e60e",
+    "revision": "2a4d9a3c0f77753e67f7b22ff431e3eb",
     "url": "/oculus-quest-store-list/detail/2531338473623578/appinfo.json"
   },
   {
@@ -8856,7 +8928,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2531338473623578/screenshots/4.jpg"
   },
   {
-    "revision": "34b27e4277c939e36589511d1c1507f4",
+    "revision": "9c372950691f3e4b7e7210a14b6df04f",
     "url": "/oculus-quest-store-list/detail/2537261906377373/appinfo.json"
   },
   {
@@ -8892,7 +8964,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2537261906377373/screenshots/4.jpg"
   },
   {
-    "revision": "b06d95394cc4ead6e7af8838432c7b7d",
+    "revision": "50ad2c53ccf32d174a89e84d848f194e",
     "url": "/oculus-quest-store-list/detail/2540393919317658/appinfo.json"
   },
   {
@@ -8928,7 +9000,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2540393919317658/screenshots/4.jpg"
   },
   {
-    "revision": "9f812a76e8dc498d831e4a06a4abc387",
+    "revision": "1940349d264dfa092cc3828f6a445455",
     "url": "/oculus-quest-store-list/detail/2540541942723653/appinfo.json"
   },
   {
@@ -8964,7 +9036,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2540541942723653/screenshots/4.jpg"
   },
   {
-    "revision": "e44341fa5a5f4b7d420761bb5f62047f",
+    "revision": "b9007b61b46b45e18899bf1e5f83652c",
     "url": "/oculus-quest-store-list/detail/2557465320986444/appinfo.json"
   },
   {
@@ -9000,7 +9072,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2557465320986444/screenshots/4.jpg"
   },
   {
-    "revision": "462b4bbbc5cee1e8cea4940d1ae93db8",
+    "revision": "537ec30230de003be0e3631b6e8d92ba",
     "url": "/oculus-quest-store-list/detail/2557519677620753/appinfo.json"
   },
   {
@@ -9036,7 +9108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2557519677620753/screenshots/4.jpg"
   },
   {
-    "revision": "c28d39557b2846171deebb127e013d10",
+    "revision": "fe61a35f22afbb43cf732c1e53d71dc0",
     "url": "/oculus-quest-store-list/detail/2560149374058829/appinfo.json"
   },
   {
@@ -9072,7 +9144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2560149374058829/screenshots/4.jpg"
   },
   {
-    "revision": "45a0c193069d9a761418d969e3c086fb",
+    "revision": "490309e1c75a3f5bb0af7fb2dd5cfd8d",
     "url": "/oculus-quest-store-list/detail/2564158073609422/appinfo.json"
   },
   {
@@ -9108,7 +9180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2564158073609422/screenshots/4.jpg"
   },
   {
-    "revision": "d27631f4c37e99cf6a5d227c0c084c1d",
+    "revision": "d3304f8e4dce3da98983fb0a689994e0",
     "url": "/oculus-quest-store-list/detail/2567395559960697/appinfo.json"
   },
   {
@@ -9144,7 +9216,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2567395559960697/screenshots/4.jpg"
   },
   {
-    "revision": "b83d343991c299c2f5c3c0b09b5aceaa",
+    "revision": "1a9e82c7db63fb433b1020f07e32f675",
     "url": "/oculus-quest-store-list/detail/2567459230020142/appinfo.json"
   },
   {
@@ -9180,7 +9252,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2567459230020142/screenshots/4.jpg"
   },
   {
-    "revision": "9b830ace0df711c3041ef47c60542639",
+    "revision": "5a1e075630a283429c3fb2a3cf173430",
     "url": "/oculus-quest-store-list/detail/2582932495064035/appinfo.json"
   },
   {
@@ -9216,7 +9288,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2582932495064035/screenshots/4.jpg"
   },
   {
-    "revision": "daa646ce6b3308546adcf71a6eb90aaf",
+    "revision": "c50c15549a095ff32ced258c5db88fb4",
     "url": "/oculus-quest-store-list/detail/2586839431358655/appinfo.json"
   },
   {
@@ -9252,7 +9324,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2586839431358655/screenshots/4.jpg"
   },
   {
-    "revision": "4f8b76b1ea66e141e88794761c5454ba",
+    "revision": "3509809d079f4b789485d972282401a5",
     "url": "/oculus-quest-store-list/detail/2592096760842149/appinfo.json"
   },
   {
@@ -9288,7 +9360,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2592096760842149/screenshots/4.jpg"
   },
   {
-    "revision": "33ca6b7c74dd809fd36f74f7222a8b9f",
+    "revision": "721184e0260854595857227a8b742a92",
     "url": "/oculus-quest-store-list/detail/2610547289060480/appinfo.json"
   },
   {
@@ -9324,7 +9396,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2610547289060480/screenshots/4.jpg"
   },
   {
-    "revision": "7a037625838f1b4d6a28a7ebbb1750c3",
+    "revision": "e68ff9e30346c9e1dd462e698f9fdf83",
     "url": "/oculus-quest-store-list/detail/2615129151844974/appinfo.json"
   },
   {
@@ -9360,7 +9432,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2615129151844974/screenshots/4.jpg"
   },
   {
-    "revision": "1cefb45600ef5dbffe48c3802d19fc30",
+    "revision": "ba83e3d7157ad543f04d3af7562e3683",
     "url": "/oculus-quest-store-list/detail/2616537008386430/appinfo.json"
   },
   {
@@ -9396,7 +9468,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2616537008386430/screenshots/4.jpg"
   },
   {
-    "revision": "a918f2af6bf1d5b3f543c59dff3824b5",
+    "revision": "e41560d7ff4ba20975ee4e0a9900952b",
     "url": "/oculus-quest-store-list/detail/2617356444966011/appinfo.json"
   },
   {
@@ -9432,7 +9504,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2617356444966011/screenshots/4.jpg"
   },
   {
-    "revision": "90f74313f125cbf144a206d3846b1135",
+    "revision": "1a24577840624ed8e7dea06fd9127d3c",
     "url": "/oculus-quest-store-list/detail/2632034163584300/appinfo.json"
   },
   {
@@ -9468,7 +9540,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2632034163584300/screenshots/4.jpg"
   },
   {
-    "revision": "b1440ec961cb3e203f475d9d9aa2e8a1",
+    "revision": "8cd6be52826ded83d77961517b8a0633",
     "url": "/oculus-quest-store-list/detail/2632963266829659/appinfo.json"
   },
   {
@@ -9504,7 +9576,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2632963266829659/screenshots/4.jpg"
   },
   {
-    "revision": "99130e81fe0e6f24ea3e1e6577a5a6e7",
+    "revision": "c9c95c050322498cd5ceab6513336aea",
     "url": "/oculus-quest-store-list/detail/2642735955738627/appinfo.json"
   },
   {
@@ -9540,7 +9612,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2642735955738627/screenshots/4.jpg"
   },
   {
-    "revision": "77d1e18a58f39658c1347d93c51d454d",
+    "revision": "8dc33a1a766955131b3482d0b755711e",
     "url": "/oculus-quest-store-list/detail/2652937004788947/appinfo.json"
   },
   {
@@ -9576,7 +9648,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2652937004788947/screenshots/4.jpg"
   },
   {
-    "revision": "8582f6c8189809c145dd68647d72499f",
+    "revision": "efbb6267a5f44508e55080409a7d8714",
     "url": "/oculus-quest-store-list/detail/2658975244130479/appinfo.json"
   },
   {
@@ -9612,7 +9684,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2658975244130479/screenshots/4.jpg"
   },
   {
-    "revision": "e8e3a2e6b5e7d5c693c183117a2e111f",
+    "revision": "0b652d20568c26d6251145f46a7bb19c",
     "url": "/oculus-quest-store-list/detail/2675955252474460/appinfo.json"
   },
   {
@@ -9648,7 +9720,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2675955252474460/screenshots/4.jpg"
   },
   {
-    "revision": "c567913be33a12ce3c515f4b73e135b4",
+    "revision": "4c419e345a93aed0333ddfc3d4b7004e",
     "url": "/oculus-quest-store-list/detail/2677344882310094/appinfo.json"
   },
   {
@@ -9684,7 +9756,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2677344882310094/screenshots/4.jpg"
   },
   {
-    "revision": "b4c7a58d9e7b3207f4882ae8f1371648",
+    "revision": "6967547529a78dde8dc6535464bdb925",
     "url": "/oculus-quest-store-list/detail/2685959161497510/appinfo.json"
   },
   {
@@ -9720,7 +9792,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2685959161497510/screenshots/4.jpg"
   },
   {
-    "revision": "d2d30b898df97aa6fd84f71bda4eee2d",
+    "revision": "61e5f9a4714d5df56081d78df12662c5",
     "url": "/oculus-quest-store-list/detail/2702419963135346/appinfo.json"
   },
   {
@@ -9756,7 +9828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2702419963135346/screenshots/4.jpg"
   },
   {
-    "revision": "119d6b663d76a5cfd2b2cceb95e83f26",
+    "revision": "d1e5ce44754cbafb8f70b6529b10a220",
     "url": "/oculus-quest-store-list/detail/2703538566384665/appinfo.json"
   },
   {
@@ -9792,7 +9864,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2703538566384665/screenshots/4.jpg"
   },
   {
-    "revision": "a6d27a249b7bcc58496f1452bc1622ac",
+    "revision": "1cfd3d1d3be15c6a7bf033580576db8d",
     "url": "/oculus-quest-store-list/detail/2706567592751319/appinfo.json"
   },
   {
@@ -9828,7 +9900,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2706567592751319/screenshots/4.jpg"
   },
   {
-    "revision": "730afcd8244ff94c6858dbe029e52603",
+    "revision": "e5b295d6b67921e6e577bb8a4e693373",
     "url": "/oculus-quest-store-list/detail/2708465082504733/appinfo.json"
   },
   {
@@ -9864,7 +9936,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2708465082504733/screenshots/4.jpg"
   },
   {
-    "revision": "59f773abccbe146716a30e3aeec34790",
+    "revision": "56ada6af8d224c79281e82d189bc3786",
     "url": "/oculus-quest-store-list/detail/2718107161580827/appinfo.json"
   },
   {
@@ -9900,7 +9972,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2718107161580827/screenshots/4.jpg"
   },
   {
-    "revision": "d360ed3cd2175573cc57c7eb42f610c5",
+    "revision": "594b72c3f56fc5941158d79723880331",
     "url": "/oculus-quest-store-list/detail/2718606324833775/appinfo.json"
   },
   {
@@ -9936,7 +10008,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2718606324833775/screenshots/4.jpg"
   },
   {
-    "revision": "c7924e863595aed4e1922310a99c66fe",
+    "revision": "2cb1c77fafba9117883d5a4beaa34a87",
     "url": "/oculus-quest-store-list/detail/2719294624823942/appinfo.json"
   },
   {
@@ -9972,7 +10044,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2719294624823942/screenshots/4.jpg"
   },
   {
-    "revision": "ee652ba4cf57790759f838f6f73e357e",
+    "revision": "00db267a509aac9f78e93067009484fe",
     "url": "/oculus-quest-store-list/detail/2725629380835491/appinfo.json"
   },
   {
@@ -10008,7 +10080,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2725629380835491/screenshots/4.jpg"
   },
   {
-    "revision": "a6e14f465fb3b4bc03c9ef69c755598b",
+    "revision": "9cb35a00eea241a3802f4c3354f90ee9",
     "url": "/oculus-quest-store-list/detail/2736092446433068/appinfo.json"
   },
   {
@@ -10044,7 +10116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2736092446433068/screenshots/4.jpg"
   },
   {
-    "revision": "421dae676261f47c2e26cef3a7e7ed71",
+    "revision": "aadbd204cfd18f4f76c224d17023652f",
     "url": "/oculus-quest-store-list/detail/2736496286381191/appinfo.json"
   },
   {
@@ -10080,7 +10152,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2736496286381191/screenshots/4.jpg"
   },
   {
-    "revision": "306c35644c504b7ce2c4387a6d4a9435",
+    "revision": "5ba0efcdbfdc9a88543bdadedf0fcef4",
     "url": "/oculus-quest-store-list/detail/2740752989331803/appinfo.json"
   },
   {
@@ -10116,7 +10188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2740752989331803/screenshots/4.jpg"
   },
   {
-    "revision": "cd8a3b953ce403290772b3a1e810e489",
+    "revision": "1e0de3e8ea51bcc1b68a21f841ac5715",
     "url": "/oculus-quest-store-list/detail/2741775735863685/appinfo.json"
   },
   {
@@ -10152,7 +10224,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2741775735863685/screenshots/4.jpg"
   },
   {
-    "revision": "995421954e3e6be3ec40d9cf774ca5da",
+    "revision": "a76398aac0e7b62b8d01ed618699f395",
     "url": "/oculus-quest-store-list/detail/2773034772778845/appinfo.json"
   },
   {
@@ -10188,7 +10260,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2773034772778845/screenshots/4.jpg"
   },
   {
-    "revision": "4ecd417a8a21aeea8ed221789ad9c077",
+    "revision": "ad209d3fdcacd88afca5ebbc8cc1cf26",
     "url": "/oculus-quest-store-list/detail/2799962826754702/appinfo.json"
   },
   {
@@ -10224,7 +10296,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2799962826754702/screenshots/4.jpg"
   },
   {
-    "revision": "3bd4b5b2f22ad61a1a68da1ae35f9910",
+    "revision": "9768409d5ec610c9bd19368a500508b4",
     "url": "/oculus-quest-store-list/detail/2807364355977144/appinfo.json"
   },
   {
@@ -10260,7 +10332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2807364355977144/screenshots/4.jpg"
   },
   {
-    "revision": "760f7a91232c9eb49cfa48557d53c416",
+    "revision": "42f35939a7013a7581d59bc1d8194339",
     "url": "/oculus-quest-store-list/detail/2812851825399383/appinfo.json"
   },
   {
@@ -10296,7 +10368,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2812851825399383/screenshots/4.jpg"
   },
   {
-    "revision": "2a633d2975e574abc6108d93b74fbc59",
+    "revision": "83517f69335a472bda05a2ce8b6bb7c5",
     "url": "/oculus-quest-store-list/detail/2814449548618112/appinfo.json"
   },
   {
@@ -10332,7 +10404,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2814449548618112/screenshots/4.jpg"
   },
   {
-    "revision": "031ff2e464b4be4a892bd7954995e2da",
+    "revision": "63dea4445a170779975d3bade75b8b37",
     "url": "/oculus-quest-store-list/detail/2823006367725446/appinfo.json"
   },
   {
@@ -10368,7 +10440,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2823006367725446/screenshots/4.jpg"
   },
   {
-    "revision": "cea5375cb330e3bd4d97b89350abc6af",
+    "revision": "8d4c33561034dd36ea041c8195201d06",
     "url": "/oculus-quest-store-list/detail/2833307773392914/appinfo.json"
   },
   {
@@ -10404,7 +10476,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2833307773392914/screenshots/4.jpg"
   },
   {
-    "revision": "86c01da19ef178d10286b12768658cba",
+    "revision": "efe92b8c3191ce85eb19fceaead1914b",
     "url": "/oculus-quest-store-list/detail/2849273531812512/appinfo.json"
   },
   {
@@ -10440,7 +10512,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2849273531812512/screenshots/4.jpg"
   },
   {
-    "revision": "493656411aa3222d99c1750e44ec6bcb",
+    "revision": "82ecae7f22586223a333a308590f69ff",
     "url": "/oculus-quest-store-list/detail/2873640696088444/appinfo.json"
   },
   {
@@ -10476,7 +10548,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2873640696088444/screenshots/4.jpg"
   },
   {
-    "revision": "aea0fb50a8ac5dc0b1355ad5cdeb4aec",
+    "revision": "bfc46c39d140af3b0569467420ffe8eb",
     "url": "/oculus-quest-store-list/detail/2874244485968712/appinfo.json"
   },
   {
@@ -10512,7 +10584,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2874244485968712/screenshots/4.jpg"
   },
   {
-    "revision": "81955b1d48eb704b9329c05db20df672",
+    "revision": "9a1fb1551d8e960ba3c879e6e7d4e492",
     "url": "/oculus-quest-store-list/detail/2897337400373711/appinfo.json"
   },
   {
@@ -10548,7 +10620,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2897337400373711/screenshots/4.jpg"
   },
   {
-    "revision": "d9f05a5ba8ecdb6e42e43f8f89e5681a",
+    "revision": "7a32afad6b0d7a15ae8b1539fc1b2da4",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/appinfo.json"
+  },
+  {
+    "revision": "56429a2781d9800704e6121b6b2bf631",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/cover/landscape.jpg"
+  },
+  {
+    "revision": "2cc65505072f1ed183f28de044d193cf",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/cover/portrait.jpg"
+  },
+  {
+    "revision": "8bdfb66275652d70e657b4a2dea9313d",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/cover/square.jpg"
+  },
+  {
+    "revision": "8cf818a951ab7c731943e91d7e747fb6",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/screenshots/0.jpg"
+  },
+  {
+    "revision": "2e45bbcaf7ea1812ec2e6987a20117f9",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/screenshots/1.jpg"
+  },
+  {
+    "revision": "2d127fe288259c1bbab62ede09cb483f",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/screenshots/2.jpg"
+  },
+  {
+    "revision": "121993d6949a350d1d7bcd006c21f698",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/screenshots/3.jpg"
+  },
+  {
+    "revision": "36ead0e97e22eaabb149aa4583597697",
+    "url": "/oculus-quest-store-list/detail/2898438393596104/screenshots/4.jpg"
+  },
+  {
+    "revision": "d0d05eb26f8eaacc3c9bad607d4ea8e3",
     "url": "/oculus-quest-store-list/detail/2900834523285203/appinfo.json"
   },
   {
@@ -10584,7 +10692,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2900834523285203/screenshots/4.jpg"
   },
   {
-    "revision": "9862d39dda0bbd47302ea330273c6cc0",
+    "revision": "085a95e639982ea28b27ee817cd1ec77",
     "url": "/oculus-quest-store-list/detail/2913996261988381/appinfo.json"
   },
   {
@@ -10620,7 +10728,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2913996261988381/screenshots/4.jpg"
   },
   {
-    "revision": "d8b74467a926135522b0001117ed9f93",
+    "revision": "4d3f060f0673081ff730f6467ded0f85",
     "url": "/oculus-quest-store-list/detail/2917608654922903/appinfo.json"
   },
   {
@@ -10656,7 +10764,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2917608654922903/screenshots/4.jpg"
   },
   {
-    "revision": "bf03ef4a846ffcfe1e94d71d32111813",
+    "revision": "634f5dfd8f8cb57071c6c86d661fc2d0",
     "url": "/oculus-quest-store-list/detail/2926036530794417/appinfo.json"
   },
   {
@@ -10692,7 +10800,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2926036530794417/screenshots/4.jpg"
   },
   {
-    "revision": "45f04281f05a3a552a7510e16948e6e0",
+    "revision": "1aab28a137b9f9fef2ec9f48120acdf6",
     "url": "/oculus-quest-store-list/detail/2927141310670477/appinfo.json"
   },
   {
@@ -10728,7 +10836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2927141310670477/screenshots/4.jpg"
   },
   {
-    "revision": "a137689de4fb8c3f4ee1c07be115dd3f",
+    "revision": "478e7559ad9d0fa71eba185ade3f7530",
     "url": "/oculus-quest-store-list/detail/2933720383334150/appinfo.json"
   },
   {
@@ -10764,7 +10872,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2933720383334150/screenshots/4.jpg"
   },
   {
-    "revision": "e1fc8b49cdc4ead00a21589f7fd2fc8c",
+    "revision": "dfa12c2ad372499d715730702eeb54bf",
     "url": "/oculus-quest-store-list/detail/2941596479246841/appinfo.json"
   },
   {
@@ -10800,7 +10908,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2941596479246841/screenshots/4.jpg"
   },
   {
-    "revision": "883837fce80dba050665cc80e956bf5c",
+    "revision": "44d91257e8112e485e47b04814d2aae8",
     "url": "/oculus-quest-store-list/detail/2942600475808591/appinfo.json"
   },
   {
@@ -10836,7 +10944,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2942600475808591/screenshots/4.jpg"
   },
   {
-    "revision": "188cbf34adb7dd9195d3d79d11f6046f",
+    "revision": "ee6632c97c40e0af5b8c038b0e50af34",
     "url": "/oculus-quest-store-list/detail/2967784573246968/appinfo.json"
   },
   {
@@ -10872,7 +10980,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2967784573246968/screenshots/4.jpg"
   },
   {
-    "revision": "3a9e4d2ca2aa1496085ed7e7b0ac9f7b",
+    "revision": "0f89ea02c7051632d97dc025283d78df",
     "url": "/oculus-quest-store-list/detail/2977398372335251/appinfo.json"
   },
   {
@@ -10908,7 +11016,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/2977398372335251/screenshots/4.jpg"
   },
   {
-    "revision": "2bdf8994ae1286b060cfc7147c58b1c4",
+    "revision": "0132c3fe0ae28eb0ea108eecdd292b1f",
     "url": "/oculus-quest-store-list/detail/3002729676463989/appinfo.json"
   },
   {
@@ -10944,7 +11052,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3002729676463989/screenshots/4.jpg"
   },
   {
-    "revision": "ab0bc0b1dcb14f062b1a50b9df27176d",
+    "revision": "51e72fe45383e40d6514e3e39e54672b",
     "url": "/oculus-quest-store-list/detail/3006696236087408/appinfo.json"
   },
   {
@@ -10980,7 +11088,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3006696236087408/screenshots/4.jpg"
   },
   {
-    "revision": "f37df00900c0daef4d187961baf45f98",
+    "revision": "167cae95ab603900e0badb21b7ddd634",
     "url": "/oculus-quest-store-list/detail/3008315795852749/appinfo.json"
   },
   {
@@ -11016,7 +11124,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3008315795852749/screenshots/4.jpg"
   },
   {
-    "revision": "b8587a7256dea0da27ce0b8eef690f20",
+    "revision": "fd5a9257365aef15ddcd82b3f80f7bcb",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/appinfo.json"
+  },
+  {
+    "revision": "499ce7a2facc247926937413e9aea053",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/cover/landscape.jpg"
+  },
+  {
+    "revision": "d5acc97f1de7a7d773b76782585c1bba",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/cover/portrait.jpg"
+  },
+  {
+    "revision": "3e232f5b77d252449baff6d1730780b7",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/cover/square.jpg"
+  },
+  {
+    "revision": "b34fcd5dc92f41d821b8592840f42039",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/screenshots/0.jpg"
+  },
+  {
+    "revision": "2a8bbfaa793a0c305d2f74a84e3beca1",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/screenshots/1.jpg"
+  },
+  {
+    "revision": "90a9ed68dbeb571b290649eaa6046e50",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/screenshots/2.jpg"
+  },
+  {
+    "revision": "21d157a0b20ad7897369f8929bdc9804",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/screenshots/3.jpg"
+  },
+  {
+    "revision": "3115d7280941c2fad5bc20f47b2a4223",
+    "url": "/oculus-quest-store-list/detail/3015175041907481/screenshots/4.jpg"
+  },
+  {
+    "revision": "640f345b8aa5ac551a71502bac692647",
     "url": "/oculus-quest-store-list/detail/3043045549099845/appinfo.json"
   },
   {
@@ -11052,7 +11196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3043045549099845/screenshots/4.jpg"
   },
   {
-    "revision": "69ba72d5b1210f48a56b1d2d767adb94",
+    "revision": "529b90c89617cb48ba46e566b4e8d216",
     "url": "/oculus-quest-store-list/detail/3044656825604617/appinfo.json"
   },
   {
@@ -11088,7 +11232,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3044656825604617/screenshots/4.jpg"
   },
   {
-    "revision": "974844e0d0286860d85967ce5645e4c2",
+    "revision": "689f0cd560c59323bdcfe2506fe0073c",
     "url": "/oculus-quest-store-list/detail/3064046640291676/appinfo.json"
   },
   {
@@ -11124,7 +11268,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3064046640291676/screenshots/4.jpg"
   },
   {
-    "revision": "4889173d94f2bed75834dd405d6b3343",
+    "revision": "c06f3fcad73fb9212ef08fcda6bcb796",
     "url": "/oculus-quest-store-list/detail/3087966124548124/appinfo.json"
   },
   {
@@ -11160,7 +11304,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3087966124548124/screenshots/4.jpg"
   },
   {
-    "revision": "5798203680982d82e1c2d7f9f850a7c8",
+    "revision": "0fb535b4a72146eb1b3d4898eb6dbada",
     "url": "/oculus-quest-store-list/detail/3092079454190601/appinfo.json"
   },
   {
@@ -11196,7 +11340,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3092079454190601/screenshots/4.jpg"
   },
   {
-    "revision": "d06681b38253b3bb7924ac430d4e924f",
+    "revision": "58008f4920fc169984f642299db12dfe",
     "url": "/oculus-quest-store-list/detail/3159481670763523/appinfo.json"
   },
   {
@@ -11232,7 +11376,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3159481670763523/screenshots/4.jpg"
   },
   {
-    "revision": "20ddce7ecbc5a319d00a77388f50461c",
+    "revision": "2a06d69b326a4cfd3c5e9231823be91d",
     "url": "/oculus-quest-store-list/detail/3162101440489458/appinfo.json"
   },
   {
@@ -11268,7 +11412,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3162101440489458/screenshots/4.jpg"
   },
   {
-    "revision": "bc8f2aef9a7b7fee79dc439e38ff9695",
+    "revision": "5ec2a914718a138cd5d2814ea68b6268",
     "url": "/oculus-quest-store-list/detail/3231001163584154/appinfo.json"
   },
   {
@@ -11304,7 +11448,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3231001163584154/screenshots/4.jpg"
   },
   {
-    "revision": "1ff0615a27673f88bc25c24a6b7386e3",
+    "revision": "d5b61f7cb0541b85e6bb851e08b9999d",
     "url": "/oculus-quest-store-list/detail/3235570703151406/appinfo.json"
   },
   {
@@ -11340,7 +11484,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3235570703151406/screenshots/4.jpg"
   },
   {
-    "revision": "42fadab0ecf0ca8f3110f2fea1caad68",
+    "revision": "95605d46d3532a231ee7b802a8074175",
     "url": "/oculus-quest-store-list/detail/3323166227771391/appinfo.json"
   },
   {
@@ -11376,7 +11520,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3323166227771391/screenshots/4.jpg"
   },
   {
-    "revision": "0891264fc58aba70a1304084ede15ec8",
+    "revision": "620c7f60f1cab2b96a4319b43fd8cba4",
     "url": "/oculus-quest-store-list/detail/3386618894743567/appinfo.json"
   },
   {
@@ -11412,7 +11556,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3386618894743567/screenshots/4.jpg"
   },
   {
-    "revision": "45b87db14ad4160f125f9df6894dacb5",
+    "revision": "04cbd70b65d3b600543a30904766c09b",
     "url": "/oculus-quest-store-list/detail/3446712548672561/appinfo.json"
   },
   {
@@ -11448,7 +11592,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3446712548672561/screenshots/4.jpg"
   },
   {
-    "revision": "8497b5144a161eb7f882ad3e9a5e4fbb",
+    "revision": "55df7505e056ab85f743ba7a96b5e79d",
     "url": "/oculus-quest-store-list/detail/3457685900909916/appinfo.json"
   },
   {
@@ -11484,7 +11628,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3457685900909916/screenshots/4.jpg"
   },
   {
-    "revision": "41a45c8889ef41c39ce1e819dd5ca6bc",
+    "revision": "a642ad84ef9dd4f729fe5e4fb57ac327",
     "url": "/oculus-quest-store-list/detail/3484270071659289/appinfo.json"
   },
   {
@@ -11520,7 +11664,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3484270071659289/screenshots/4.jpg"
   },
   {
-    "revision": "eb37fbb3984c6da8e1102fbf5e4103d7",
+    "revision": "ae4911cf318b60d76b8a1005e5092c40",
     "url": "/oculus-quest-store-list/detail/3628344387191267/appinfo.json"
   },
   {
@@ -11556,7 +11700,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3628344387191267/screenshots/4.jpg"
   },
   {
-    "revision": "aa33ddd6becfdc7e9b695c59d51a374d",
+    "revision": "258f8a4058d969c13a2b5dfbde7e1739",
     "url": "/oculus-quest-store-list/detail/3675568169182204/appinfo.json"
   },
   {
@@ -11592,7 +11736,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3675568169182204/screenshots/4.jpg"
   },
   {
-    "revision": "50c0ed711ad4a17d43521626eb637c82",
+    "revision": "33edbc2a5aaf2d55a23690b19a757bcd",
     "url": "/oculus-quest-store-list/detail/3723136981093558/appinfo.json"
   },
   {
@@ -11628,7 +11772,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3723136981093558/screenshots/4.jpg"
   },
   {
-    "revision": "9f5a460b87b16dd85e5b4737cfb5ba15",
+    "revision": "973eaa009d9d1901d869016356f1effe",
     "url": "/oculus-quest-store-list/detail/3789736921099233/appinfo.json"
   },
   {
@@ -11664,7 +11808,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3789736921099233/screenshots/4.jpg"
   },
   {
-    "revision": "355ca962359398431c52d372e5fd6284",
+    "revision": "f2847c36df183d5392bd6b558970c026",
     "url": "/oculus-quest-store-list/detail/3793077684043441/appinfo.json"
   },
   {
@@ -11700,7 +11844,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3793077684043441/screenshots/4.jpg"
   },
   {
-    "revision": "ebf0de7f908253c2ddff0432bf2e79eb",
+    "revision": "260f9bd2da025e98ba2cf82516780ae5",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/appinfo.json"
+  },
+  {
+    "revision": "b20328f1c7a3760753ed8f9085012ae3",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/cover/landscape.jpg"
+  },
+  {
+    "revision": "09b4f7b0935b15f528e3969a5f441c9a",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/cover/portrait.jpg"
+  },
+  {
+    "revision": "859915ffed10aaf219b36c58df3743c7",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/cover/square.jpg"
+  },
+  {
+    "revision": "cb0c0b10755718f584e439c9dcb8f56e",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/screenshots/0.jpg"
+  },
+  {
+    "revision": "4ee213922a9d1890f3369b6b356ff881",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/screenshots/1.jpg"
+  },
+  {
+    "revision": "3dfbbe1f220b9cb5c4bed7aa117fafb7",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/screenshots/2.jpg"
+  },
+  {
+    "revision": "907783a3313b8fe6629eae945e8733ec",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/screenshots/3.jpg"
+  },
+  {
+    "revision": "15c1eeff4170081987478983cc5972ae",
+    "url": "/oculus-quest-store-list/detail/3857024597703276/screenshots/4.jpg"
+  },
+  {
+    "revision": "df145bf5ef5a7e428d2a87b320291243",
     "url": "/oculus-quest-store-list/detail/3895528293794893/appinfo.json"
   },
   {
@@ -11736,7 +11916,43 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/3895528293794893/screenshots/4.jpg"
   },
   {
-    "revision": "2eb4a894a46158d36c66acfd2ee75e01",
+    "revision": "68085ce4c93042e7bffa2b94a72cc8db",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/appinfo.json"
+  },
+  {
+    "revision": "3ae8e3798fe9005c489fff0f648409b2",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/cover/landscape.jpg"
+  },
+  {
+    "revision": "69c1d0e9bbf55a7326bf3109d98d7108",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/cover/portrait.jpg"
+  },
+  {
+    "revision": "fae23cd3ebd3dc794d4071cbfd1655fe",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/cover/square.jpg"
+  },
+  {
+    "revision": "487c93ccf68bd9b2fb88d5f0ffe01af8",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/screenshots/0.jpg"
+  },
+  {
+    "revision": "72614a28428f808d31ee23ef8d2585b1",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/screenshots/1.jpg"
+  },
+  {
+    "revision": "9c4541ea1978142ed3573fc27b4d6cab",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/screenshots/2.jpg"
+  },
+  {
+    "revision": "10fb7d30e3c35c1dd345530b5f38baad",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/screenshots/3.jpg"
+  },
+  {
+    "revision": "d331e8215da19e46c5baead2198fedaf",
+    "url": "/oculus-quest-store-list/detail/4174249979259348/screenshots/4.jpg"
+  },
+  {
+    "revision": "0d65bf7f477708bb3b37bb5428d77777",
     "url": "/oculus-quest-store-list/detail/705576999566582/appinfo.json"
   },
   {
@@ -11772,16 +11988,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/detail/705576999566582/screenshots/4.jpg"
   },
   {
-    "revision": "f0288aebc789b9b5ce5de4d1de96fa1d",
+    "revision": "266f21e0ba296c60ad9d7536791f0e4f",
     "url": "/oculus-quest-store-list/index.html"
   },
   {
-    "revision": "696c13c53c8c025e046e",
-    "url": "/oculus-quest-store-list/js/about.be38c5fc.js"
+    "revision": "f934f0385ddad45fb135",
+    "url": "/oculus-quest-store-list/js/about.b4ce7e15.js"
   },
   {
-    "revision": "8c2fb5ee987b381bbf48",
-    "url": "/oculus-quest-store-list/js/app.f6f966e5.js"
+    "revision": "ba667dfc833f00327da1",
+    "url": "/oculus-quest-store-list/js/app.35587f8e.js"
   },
   {
     "revision": "d24f7ba45a9d6a2c3935",
@@ -11792,7 +12008,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/manifest.json"
   },
   {
-    "revision": "ce35ab9ebbf1d4d1a048ebc1851c38bf",
+    "revision": "129cfa1f02c73a1554186facd39ac3bc",
+    "url": "/oculus-quest-store-list/oculus-quest-store-slim.json"
+  },
+  {
+    "revision": "5edffc8f4d7835cd5061671eaa900ae8",
     "url": "/oculus-quest-store-list/oculus-quest-store.json"
   },
   {
@@ -11800,7 +12020,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oculus-quest-store-list/robots.txt"
   },
   {
-    "revision": "e305257695a2b3f16854622bc57e3a22",
+    "revision": "0945be0e0f79954eb5595824b0e6937f",
     "url": "/oculus-quest-store-list/usd-rate.json"
   }
 ]);

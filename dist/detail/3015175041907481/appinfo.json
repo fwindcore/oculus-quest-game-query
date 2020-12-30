@@ -1,0 +1,248 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3015175041907481",
+			"display_name": "XRstadium",
+			"platform": "ANDROID_6DOF",
+			"category": "ENTERTAINMENT",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": null,
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 5,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 1,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 0,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 1,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "XRstadium is a viewer participation streaming service for VR content. Users can enjoy variety shows, live concerts, and many other types of content in real time or watch the videos of streamed content when it’s most convenient.\nRegister an account at https://xrstadium.jp! Please Note: VR device is required. Inquires: Please contact us at support-xrstadium@supership.jp for any questions or issues regarding usage.This app is only available in Japan.",
+			"developer_privacy_policy_url": "https://supership.jp/privacy/",
+			"developer_terms_of_service_url": "https://xrstadium.jp/policy",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "Supership Inc.",
+			"supported_in_app_languages": [
+				{
+					"name": "日语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人",
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "娱乐",
+			"developer_name": "Supership Inc.",
+			"genre_names": [
+				"360 度全景体验（非游戏）",
+				"电影",
+				"社交"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.1.3",
+				"change_log": "軽微なバグの修正",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "427644824",
+				"id": "3574393672652279",
+				"required_space_adjusted": "284315506",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1602514620,
+			"supported_tracking_modes": [],
+			"website_url": "https://xrstadium.jp/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "372179130899413",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "330164154641914"
+			},
+			"live_release_channel": {
+				"id": "330164154641914",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3574393672652279"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "330164154641914",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.1.3",
+							"id": "3574393672652279"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "1200409390307497",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRMj8wm1Kwchy_O6DhCO3MkO5ILgOCsIAtK8D-sU1-AUn9t2dIPDwISNrbWNg9csaMfmfpzNQhwzqEPkftu7y48Q"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_SOME",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "supership-vr-xrstadium-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "372179130899413"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "XRstadium",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 1.7142857142857,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 0,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 0,
+				"page_info": {
+					"end_cursor": null,
+					"start_cursor": null
+				},
+				"edges": []
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "XRstadium is a viewer participation streaming service for VR content. Users can enjoy variety shows, live concerts, and many other types of content in real time or watch the videos of streamed content when it’s most convenient.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_1101189563662016_4249791594516602513_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=a3Ufh5hSk-AAX-aXXY5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5fd19d161d004dcd8d40ce5874e4c59e&oe=60121FDD",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3015175041907481/",
+				"site_name": "Oculus",
+				"title": "XRstadium · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

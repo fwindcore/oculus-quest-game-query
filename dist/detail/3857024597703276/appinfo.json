@@ -1,0 +1,348 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3857024597703276",
+			"display_name": "Kizuna AI - Touch the Beat!",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39003226_712376596352428_8703783657411970236_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=MOQ-6gfz-e4AX9M92DZ&_nc_oc=AQndSyYKnBM1uOLomZGkLDFMUUq6Siku_VhF3dPCavnVh2uNm2HfHZpfbU9_bxGzxL2Qajedwj-1UiEk9z4V-9a2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a9a3afae014707b576cef5f2c274fb24&oe=60108615"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_327729661631968_3334931880357616327_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=rSxa7AiVUcoAX_9_Lxs&_nc_ht=scontent.oculuscdn.com&oh=55445a829d257a1a3077cfc4116dbfef&oe=6012CDBE"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 5,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 4,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 4,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 25,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 175,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "In the game, you are an audience at Kizuna AI's performance stage. Feel the rhythm to the song and hit the notes that come flying towards you with your penlight. \n For the update on 12/18/2020 (JST), there will be a new mode called \"CUTTING EASY\" for players who want to hit the notes with the penlight using big swings. Try out the different difficulty levels that you prefer. In addition, there will be 3 new songs added on the same day,「future base (Prod. Yunomi」「new world (Prod. Yunomi)」and「Sky High (Prod. Yunomi)」\n\nOther functions:\nVIEW: To be able to watch the performance from a close distance, which only happens during the GAME mode when you reach certain combo milestones.\nMOVIE: Watch the 360-degree and 180-degree videos.\n※The MOVIE for「melty world(Prod. TeddyLoid)」and「Hello, Morning(Prod. Nor)」will be the same movie that you can watch for free on Kizuna AI's official YouTube, and for「mirai」「the MIRACLE」「Awakening」and「Again」is the performance video of Secret Sky Music Festival.",
+			"developer_privacy_policy_url": "https://activ8.co.jp/policy/",
+			"developer_terms_of_service_url": null,
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING"
+			],
+			"publisher_name": "Kizuna AI Inc.",
+			"supported_in_app_languages": [
+				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "中文（台湾）"
+				},
+				{
+					"name": "中文（香港）"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Gemdrops, Inc.",
+			"genre_names": [
+				"街机",
+				"音乐",
+				"音乐视频"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.2",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "2175552143",
+				"id": "4734213573317703",
+				"required_space_adjusted": "3789063470",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 2
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": "AQHRvblKuGGP_I-weI38uXsLdkzN369DI6HgrnFzGnI-1sKcvm_DI7LwzvTSYdLcWmzj21WlTG4KJZiruW-vyxwNSg",
+						"start_cursor": "AQHRvblKuGGP_I-weI38uXsLdkzN369DI6HgrnFzGnI-1sKcvm_DI7LwzvTSYdLcWmzj21WlTG4KJZiruW-vyxwNSg"
+					},
+					"count": 2,
+					"edges": [
+						{
+							"__typename": "AndroidBinaryStoreAddonsIncludingBundlesEdge",
+							"node": {
+								"__typename": "AppItemBundle",
+								"id": "973293223156954",
+								"current_offer": {
+									"__typename": "AppStoreOffer",
+									"id": "707787753496273",
+									"offer_type": "APPSTORE_OFFER",
+									"__isPurchasableOfferWithApp": "AppStoreOffer",
+									"price": {
+										"currency": "JPY",
+										"offset_amount": "79000",
+										"formatted": "¥790"
+									},
+									"strikethrough_price": {
+										"currency": "JPY",
+										"offset_amount": "98400",
+										"formatted": "¥984"
+									}
+								},
+								"__isAppStoreItem": "AppItemBundle",
+								"display_name": "Kizuna AI - Touch the Beat! Pack No.2 (3 songs)",
+								"display_short_description": "こちらは、「Kizuna AI - Touch the Beat!」をより楽しみたい方に最適なMusic Packです。 このMusic Pack No.2には以下楽曲が含まれます。「future base (Prod. Yunomi)」「new world (Prod. Yunomi)」「Sky High (Prod. Yunomi)」�Kizuna AI JASRAC許諾第9025618001Y43032号",
+								"is_viewer_entitled": false,
+								"parentApplication": {
+									"canonicalName": "activ8-inc-kizuna-ai-android6d0f",
+									"id": "3857024597703276"
+								},
+								"purchase_alerts": [],
+								"bundle_items": {
+									"edges": [
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4615196488552746"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4615202715218790"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4615206188551776"
+											}
+										}
+									]
+								},
+								"is_360_sensor_setup_required": false,
+								"is_guardian_required": false,
+								"is_roomscale_required": false,
+								"is_touch_required": false,
+								"supported_input_devices_list": [],
+								"__isNode": "AppItemBundle"
+							}
+						}
+					]
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1602514746,
+			"supported_tracking_modes": [],
+			"website_url": "https://kizunaai.com/kizuna-ai-touch-the-beat/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "1035949100196197",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": [
+					{
+						"text": "提供应用内购买"
+					}
+				]
+			},
+			"viewer_release_channel": {
+				"id": "275217153598562"
+			},
+			"live_release_channel": {
+				"id": "275217153598562",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4734213573317703"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "275217153598562",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.2",
+							"id": "4734213573317703"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "601939957369679",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRSbD3WGE3rIC3JHxyOhsixeBgzon5vjYWNwzILznSVjISnJ8O31fXiaHS-LzPop7JduknblOWIt_zcYXZbNpTow"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED_FOR_DOWNLOAD",
+			"internet_connection_name": "下载内容需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "activ8-inc-kizuna-ai-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "1035949100196197"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Kizuna AI - Touch the Beat!",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.6948356807512,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 64,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 64,
+				"page_info": {
+					"end_cursor": "AQHR0GTEBzIcH_PilfGcbpCZmWJifit-BXOHiujTga7laDKTTdHm-kST6cKeZcTpBGceojaL_rG-Z_OIp-UBKAWHKQ",
+					"start_cursor": "AQHR0GTEBzIcH_PilfGcbpCZmWJifit-BXOHiujTga7laDKTTdHm-kST6cKeZcTpBGceojaL_rG-Z_OIp-UBKAWHKQ"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "171157288004234",
+							"author": {
+								"id": "105970617856235",
+								"display_name": "JAVA-the-BAD",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.635.635a/s160x160/38974574_174030077716955_2448460061140105018_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=u2WV0nIlxYQAX_NNIc3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0464750948d4db793493115fee94a4f0&oe=601326BB"
+								}
+							},
+							"score": 5,
+							"reviewDescription": "このアプリには驚かされた。\nとりあえず、無料部分を初見で試してみることをお勧めしたい。私はなめてました○rz\n\n\n以下、驚いたこと。\n①まさかテレビで観てちょっと引いていた「オタ芸」をやることになるとは(笑)そちら側体験でしたか。正解が分からないので、どなたかオタ芸のプロの方、見本を見せてください(笑)\n\n②ゲームの後に、動画鑑賞してください。\n特に360度の動画を。私はあまり彼女のことを知りませんでしたが、彼女に与えられた生命の意味と温かい未来にちょっと感動しました。\nコロナなんかに負けてる場合ではないよな。\n\n彼女に生命を吹き込んだクリエイターさんたち、ホントいい仕事してると思います。\n頑張ってください٩(๑ᵒ̴̶̷͈̀ ᗜ ᵒ̴̶̷͈́)و ̑̑ ✧ｲｪ~ｨ .:*♬\n\n\n･･･って感動したから他の楽曲買ってみたら\n「mirai」って曲のプロモひでーじゃねーか！？\nこんなもの同じ値段で買わせんじゃねーよ。\nなので後のやつ、怖くて買えない。。。",
+							"reviewTitle": "ナメてたらこのクオリティにひっくり返ったΣ ;'.･((>д< ;)ｶﾞﾊｺﾞﾎ",
+							"review_helpful_count": 7,
+							"review_rank_by_viewer": null,
+							"date": 1605736593,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Watch Kizuna AI's stage performance and cheer her on from the front row seat and use the penlight to hit back the beat flying towards you. The better you play, the closer you can watch Kizuna AI's stage performance. Aim to get consecutive combos!\nThere are 3 different difficulty levels as well as being able to change the speed of the notes. The 3 new songs don't come with a movie but can be purchased at a more affordable price than before. There will also be a special value-pack offer. ",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035332_754051128766229_3553814611836991391_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=9VuTwAaDh9EAX9T0NtJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2477aaa6c15a5ba8fa56579dde5a10d0&oe=6010A880",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3857024597703276/",
+				"site_name": "Oculus",
+				"title": "Kizuna AI - Touch the Beat! · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

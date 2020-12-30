@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oculus-quest-store-list/precache-manifest.a655a41a89f72f61b571faa4e84ed65f.js"
+  "/oculus-quest-store-list/precache-manifest.ca682a49ee50c5a0cf2f9a673ab31e62.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "web"});

@@ -1,0 +1,277 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "2898438393596104",
+			"display_name": "VR SQUARE",
+			"platform": "ANDROID_6DOF",
+			"category": "ENTERTAINMENT",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75307247_709256313358172_582842654650023182_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=Bo8toedac9EAX9RysOJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=67f18f865cf9d12d0e1744ca724db75d&oe=60128011"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_976283809565114_3529558286142453688_n.mp4?_nc_cat=109&ccb=2&_nc_sid=0ed769&_nc_ohc=Rk8SZe56IdgAX9V9FvQ&_nc_ht=scontent.oculuscdn.com&oh=56925a5d1dd1bf17dcd5bc343b0d2224&oe=60117769"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 1,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 1,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 11,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "VR SQUAREは、さまざまなVR体験が可能な全キャリア対応のVRライブ配信プラットフォームです。 時期により、様々なジャンルのVR映像を追加予定！ 自分の好きなアバターになり、友達と一緒に会話しながらコンテンツを楽しもう！ VR動画によっては、複数のVRカメラの視点を切り替えながら視聴することも可能！ 新たなLIVE体験チケット――VR SQUAREの世界を、ぜひお楽しみ下さい。",
+			"developer_privacy_policy_url": "https://livr.jp/policy",
+			"developer_terms_of_service_url": "https://livr.jp/term",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "SoftBank Corp.",
+			"supported_in_app_languages": [
+				{
+					"name": "日语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人",
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "娱乐",
+			"developer_name": "SoftBank Corp.",
+			"genre_names": [
+				"360 度全景体验（非游戏）",
+				"音乐",
+				"社交"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "0.630",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "199777475",
+				"id": "3332516523521620",
+				"required_space_adjusted": "182377512",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1607644787,
+			"supported_tracking_modes": [],
+			"website_url": "https://livr.jp/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "427264381987015",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": [
+					{
+						"text": "提供应用内购买"
+					}
+				]
+			},
+			"viewer_release_channel": {
+				"id": "746314482863318"
+			},
+			"live_release_channel": {
+				"id": "746314482863318",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3332516523521620"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "746314482863318",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "0.630",
+							"id": "3332516523521620"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "3045719242208993",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRFDaWkol9w-ab8Nshg7wqsQ68uVsWjYlhFbRLbBts56j5pwuiOa8r4ooQJuROW9SCHMDUnLg9nnhWYvi5q49dYQ"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "softbank-corp-vr-square-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "427264381987015"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "VR SQUARE",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.6153846153846,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 1,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 1,
+				"page_info": {
+					"end_cursor": "AQHRIpZPs1NKGo57bVxVjppPzumBfmTotx39T8KKaJYPu_Lt801ONANpD-ZFoTb2Hhj4jshACGou2wQiet0wz0_eBQ",
+					"start_cursor": "AQHRIpZPs1NKGo57bVxVjppPzumBfmTotx39T8KKaJYPu_Lt801ONANpD-ZFoTb2Hhj4jshACGou2wQiet0wz0_eBQ"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "191529985945053",
+							"author": {
+								"id": "100807828350603",
+								"display_name": "toKISUKE_773",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974510_187657132999005_8641351016527191225_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=67S4Q9yYiq0AX-b68F_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7483a41f0a6b9ff4e5334e393691af66&oe=60126F39"
+								}
+							},
+							"score": 4,
+							"reviewDescription": "5Gスマホ(Wi-Fi6)での視聴に比べると少し画質が落ちるのが残念ですが、カメラ切り替えがスムーズで快適です。\n今後画質が良くなる事を期待したいです。\nあと、視聴中のメニューウィンドウの位置を自由に移動出来れば便利だなあと思いました。",
+							"reviewTitle": "AKB48公演視聴",
+							"review_helpful_count": 5,
+							"review_rank_by_viewer": null,
+							"date": 1608268586,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "VR SQUAREは、さまざまなVR体験が可能な全キャリア対応のVRライブ配信プラットフォームです。 時期により、様々なジャンルのVR映像を追加予定！",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86610715_3139062199545950_1388363195758107411_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=bibkaiUpHSUAX8X5YEb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=77cfb46c34c7ae98263122762bcafa1c&oe=6010D3C8",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/2898438393596104/",
+				"site_name": "Oculus",
+				"title": "VR SQUARE · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
