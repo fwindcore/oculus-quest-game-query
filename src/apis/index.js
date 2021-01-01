@@ -9,5 +9,5 @@ export function getRate() {
 }
 
 export function getAppDetail(id) {
-  return axios.get(`./detail/${id}/appinfo.json`)
+  return axios.get(`./detail/${id}/appinfo.json?v=${Date.now()}`)
 }

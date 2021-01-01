@@ -1,5 +1,5 @@
 <template>
-  <div class="detail">
+  <div class="detail" v-if="pageDisplay">
     <van-sticky>
       <van-nav-bar
         :title="title"
@@ -98,6 +98,9 @@ export default {
     };
   },
   computed: {
+    pageDisplay() {
+      return this.$route.params.id != undefined;
+    },
     title() {
       return this.appDetail.display_name || "";
     },
