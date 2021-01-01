@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=zRWB1z6yYr0AX-jQlD5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1d60a3192d6b5735bc2a2b1c942ee9f9&oe=60162265"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=zRWB1z6yYr0AX9TsI_U&_nc_ht=scontent.oculuscdn.com&tp=28&oh=908e4ea0e5b0b0100231abc1adcf49e4&oe=60162265"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=EvKPSXUdxFcAX83OOQC&_nc_ht=scontent.oculuscdn.com&oh=2bad44a958586827ed01b961c88fd516&oe=6014204D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=EvKPSXUdxFcAX8WkFUr&_nc_ht=scontent.oculuscdn.com&oh=960c39f28233ddef92f61bce8ad6850c&oe=6014204D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 197,
+					"count": 196,
 					"starRating": 5
 				}
 			],
@@ -147,22 +147,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "745827156360977",
+				"id": "3014142328645998",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-30%",
-				"end_time": 1609487940,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -199,8 +194,8 @@
 								"current_end_timestamp": 1609529400,
 								"current_start_timestamp": 1609527600,
 								"temporal_info": {
-									"seconds_until_end_time": 43089,
-									"seconds_until_start_time": 41289
+									"seconds_until_end_time": 39551,
+									"seconds_until_start_time": 37751
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -222,7 +217,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222937_1006331456525854_9101633860803133901_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=7c-HP6MH_poAX-wgU-a&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7797c0a8f1add63dafb42abea5151349&oe=6013E109"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222937_1006331456525854_9101633860803133901_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=7c-HP6MH_poAX-Vev7a&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a290435b9070b518230fb86a2ad3d958&oe=6013E109"
 								}
 							}
 						}
@@ -235,7 +230,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRnJ3FF6VJvATSvxGfJAfHBGDUvrmO-y1OCYQprP3FSyqPwqhZCC0mP1dN-KXmwZAvjmMogJjbn0S2guIL5EfL0w"
+							"cursor": "AQHRGmLJQenJW_uv89I5AE1ZZnGXqdMqZW3hr0yUebMrvlOi7xGEm3hdrHIzCC1iSX4wRhewWoDFifXA-0No6RIktg"
 						}
 					]
 				}
@@ -283,12 +278,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "745827156360977"
+				"id": "3014142328645998"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4758364312268,
+			"quality_rating_aggregate": 4.4738805970149,
 			"support_website_url": "http://www.tribexr.chat/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -307,8 +302,8 @@
 			"firstQualityRatings": {
 				"count": 176,
 				"page_info": {
-					"end_cursor": "AQHRPgQvQ_Jl3UpoNU4dS2GYuS4NfpQjx5NpHOluoBz_kS3zTyhQbOX0f3ui_PHSlq2PPU4EnegpooFHLTvUp7DMKA",
-					"start_cursor": "AQHRPgQvQ_Jl3UpoNU4dS2GYuS4NfpQjx5NpHOluoBz_kS3zTyhQbOX0f3ui_PHSlq2PPU4EnegpooFHLTvUp7DMKA"
+					"end_cursor": "AQHRBdJx1Ffemkt74JKph2gEVTcS6xCVqJGHfuG6MVOK9snv_SlANs0yUQxikQ7LGJIYNuQ01MUvWZaPZ9aoslk5Ag",
+					"start_cursor": "AQHRBdJx1Ffemkt74JKph2gEVTcS6xCVqJGHfuG6MVOK9snv_SlANs0yUQxikQ7LGJIYNuQ01MUvWZaPZ9aoslk5Ag"
 				},
 				"edges": [
 					{
@@ -318,7 +313,7 @@
 								"id": "100722861663427",
 								"display_name": "BananasCoconut",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=G9VBa1-ShjwAX9ghnar&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d4c74a1d5dd96f2155c597b560bc9fc&oe=6012A9EB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=G9VBa1-ShjwAX85o7KF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d9226104d8351837c78a5556f30234d3&oe=6012A9EB"
 								}
 							},
 							"score": 5,
@@ -339,7 +334,7 @@
 				"description": "Become a VR DJ and mix your tracks in Tribe XR.\n\nTribe XR is a community for beginners looking to learn how to DJ and professionals looking for something fresh and fun. Feel the rush of performing and get lost in the joy of mixing. Immerse yourself the VR DJ community.\n\nImport your own music, invite your friends, and start rocking the room.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031562_425034952187960_3437542524600667248_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=GF74vTjA4fEAX9wxe_o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=058dc347e5e1115747d94fb4a88f0b75&oe=6014000D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031474_182029320257569_4015574307656848124_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=HXiIPWlqFvAAX-OSyf8&_nc_oc=AQkJmylOvEbr4cLNHBSPFEkzQsnfTw6qXD0t-2eRsec7Y6qU0nmcwLT1_70aS1VIY7A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=791823d891c53ff9bb0ba287387af0ec&oe=6015EACB",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
