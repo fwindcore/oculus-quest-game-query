@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031323_355166825162063_4568469043882754048_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=4yf31VqU6-EAX9JISb6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a4056b233c738f4e3e68f5007f6a05af&oe=60170BC5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031323_355166825162063_4568469043882754048_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=4yf31VqU6-EAX-5yq6s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=034e75102110cff7f1b61db48340f314&oe=60170BC5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_355156221829790_1527720807785037824_n.mp4?_nc_cat=101&ccb=2&_nc_sid=0ed769&_nc_ohc=--uBocXWdEgAX8ZNUcx&_nc_oc=AQmvn55XcWIiHMgYayZEyu2iJF8ooFYf9Yn6lYVZKw5s0hP7RBqClKPvqcF4Lev_FlQ&_nc_ht=scontent.oculuscdn.com&oh=09de1c1eaeb1c9d8dabf90745dd4db3f&oe=6015DC56"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_355156221829790_1527720807785037824_n.mp4?_nc_cat=101&ccb=2&_nc_sid=0ed769&_nc_ohc=--uBocXWdEgAX-fEoSn&_nc_oc=AQk35mQClPgGB3UPBnUmIAsnUDlwJPv1xNK-EQIfKDNU5eOnksdGE4Rn-I6SOFCurIs&_nc_ht=scontent.oculuscdn.com&oh=289969fcc51bf6f9abf9a53d006e3eb5&oe=6015DC56"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -185,7 +185,7 @@
 							"created_time": 1607992230,
 							"body_text": "Seasons Greetings pilots,\n\nToday we are releasing End Space 1.0.6.1 to take advantage of the new power offered by the Oculus Quest 2.\n\nThe Oculus Quest 2 brings a lot more power to End Space and we are taking full advantage to dial everything up a notch. We have enabled the newly supported 90Hz mode for a smoother experience. We enabled Phase Link for reduced latency. We now do realtime shadows inside the cockpit and we bumped up the Level of Detail to the same levels of the Rift version of End Space. This is as close to the graphics from the Rift version as we could manage inside this amazing standalone headset.\n\nRecently we have received a lot of feedback about how you control your ship not being optimal for a lot of new pilots. In this update we have changed the default control scheme to use the Thumbsticks on the Quest controllers for flight movement while aiming with the Right Touch controller to use your ships guns. We also swapped the Weapon Switch buttons from the Right Controller to the Left controller with the Brake/Boost buttons. This allows boosting and braking while flying in a more intuitive way.\nIn addition by disabling Gaze to Aim and enabling Virtual Joystick now allows two handed control. Your secondary hand aims the turret while the primary hand controls your Minos Spacefighter.\n\nAnother big change is we now use a new input curve on the Touch thumbsticks to more closely resemble those found on other Bluetooth gamepads. As a result the turning rate between touch and gamepad is much more consistent. And swapping between gamepads and Touch controllers is now more reliable too. If you are using the virtual joystick mode to control the ship, there is now an option to hold the controller at a negative angle as the resting angle which might be more comfortable for pilots.\n\nPlease come by our discord channel and let us know what you think about End Space and what you would like to see next.\n\nWishing everyone a happy and safe holiday season!\n\nJustin Wasilenko\n\nEnd Space 1.0.6.1 Update Changelog\n- Oculus System version 23 or greater is required to use these new features. See https://support.oculus.com/565676937249229/ on how to update.\n- Enabled 90Hz mode on Quest 2\n- Enabled Phase Sync\n- Added real-time shadows on Quest 2\n- Higher level of detail models on Quest 2\n- Changed the default control scheme for new pilots to use thumbsticks for flight and right Touch controller for aiming\n- Enabled two handed control mode by Enabling Virtual Joystick and disabling ‘Use Gaze to Target’\n- Enabled two handed control mode by Enabling Virtual Joystick and disabling ‘Use Gaze to Target’\n- Swapped Boost/Brake buttons with Switch weapon buttons on Touch controllers\n- Added a negative value range to the Controller Angle setting\n- Changed the input curve of Touch thumbsticks to match gamepads\n- Changing from gamepads to Touch controllers should be more reliable in swapping controls over\n- Switching from gamepad to Touch when not using Look to Aim resulted in the reticle being stuck on the Touch controller\n- Fixed missing texture on Teleport points in the hanger\n- TLF ships that attempt to flee will now be destroyed, allowing mission completion",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974530_2783867148520004_6890383118155497280_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=47Sq52SEp7kAX88qbYs&_nc_ht=scontent.oculuscdn.com&oh=531345a933bfda55b34e87634cd7588a&oe=6016DAB3"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974530_2783867148520004_6890383118155497280_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=47Sq52SEp7kAX-qjrTU&_nc_ht=scontent.oculuscdn.com&oh=e65620e370e37e7ac33ec3473ecd52ed&oe=6016DAB3"
 							}
 						}
 					]
@@ -269,26 +269,26 @@
 			"firstQualityRatings": {
 				"count": 334,
 				"page_info": {
-					"end_cursor": "AQHRvix7McwEG0r9dKccFUipQbFTzWlNFfLA3XTWPcjqhT0kCnMLEOhRmtk02aqTUNSHOgTC5CrzdNmt3TYhl9-AqA",
-					"start_cursor": "AQHRvix7McwEG0r9dKccFUipQbFTzWlNFfLA3XTWPcjqhT0kCnMLEOhRmtk02aqTUNSHOgTC5CrzdNmt3TYhl9-AqA"
+					"end_cursor": "AQHR0LhuEZR8b9iYIRv0tAKz7uiHdGsTWmwPcovkasQvsqZAY5Z2yso4uBJ-1yYC9tDVvLhmg53rUv9sh7IE9z6WYg",
+					"start_cursor": "AQHR0LhuEZR8b9iYIRv0tAKz7uiHdGsTWmwPcovkasQvsqZAY5Z2yso4uBJ-1yYC9tDVvLhmg53rUv9sh7IE9z6WYg"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "214438820099432",
+							"id": "180304370513587",
 							"author": {
-								"id": "103372107872771",
-								"display_name": "Bunboi17",
+								"id": "103807298163295",
+								"display_name": "AK_GI_JOE",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c132.0.1175.1175a/s160x160/38982529_198894058320575_8939000573487305296_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=vKNcgbCpaBoAX_Yo-Z7&_nc_oc=AQnu7rMQDGmzMTR_3yDe245UgkbW4lcMklH8BEjwKOfZjDXrat6lgWGF4V9LmfXjOUM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1d45a5813caf18681df6b2fa9b9926c6&oe=60148382"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.717.717a/s160x160/38974578_103807891496569_5356310141460292404_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=iUrDGSNx6nIAX_Jjwss&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b53dcde5b76a8e3e9657d163072e2dc7&oe=60161558"
 								}
 							},
-							"score": 3,
-							"reviewDescription": "So i got this game because iv always been a really good pilot in video games. I had a good head for navigation and area awareness along with hand eye coordination and fight tracking (the ability to always know where targets are in comparison to my vessel and the ground) \n\nso i got this game as there’s not many games like it on the store. \n\nright off the bat i liked it simply because i love space\n\nbut after my first inflight engagement i got over it. \n\nthe controls are wonky and counter intuitive and iv changed mine so many times i don’t remember the default. there’s a style that makes turning and pitch to be done with your head and acceleration and fire to be controllers. Before you ask, no you can not use the ingame throttle and stick whatsoever. your characters hands are moved by joystick. this really sucks and i wish it wasn’t so. but not one single one of these control settings are intuitive and second nature. yes all space/flight games are going to have a different spin on controls but this is just stupid. you can’t move anything but your own head and personally i removed the use of my head position other than target locking. it’s a really good concept \n\nbut like many things with vr \n\ncool concept bad execution \n\nthis isn’t Elite Dangerous \n\nthis isn’t EVE online \n\nthis isn’t No Man’s Sky \n\nit’s a 3 hour long story that wraps up extremely suddenly \n\nas an avid pilot i’d suggest this game but only if on a sale \n\nthere’s only about 25 short story missions and \n\nthat’s literally it \n\na few upgrades in the form of different weapons that i honestly barely use other than the default stuff \n\nno stat upgrades or challenges no multiplayer or even a single change you can make to your ship \n\nit’s okay i guess but could be better \n\nbut could be worse given there’s not many technical issues \n\n\n- km \n\nps: this was probably my last review",
-							"reviewTitle": "detailed review for people on the fence",
-							"review_helpful_count": 308,
+							"score": 4,
+							"reviewDescription": "This game had me racing to the end. Yes it’s lacking a story anyone cares about. Yes it doesn’t have much for options that blows you away past the default weaponry. Yes it’s kinda plane Jane. But... holy crap is it fun. It just goes to show they are definitely onto something great and scratching the surface with them for 15 dollars is a fair price for a hell of an experience. I had fun but if they could re-skin this game in Star Wars and create a half decent story they’d be rich. Or if this was a star fox game my childhood mind would be blown away. \n\n12/20/20:\n1Star - Graphics “great”\n2Star - Controls/gameplay “great”\n3Star - Motion sickness didn’t occur. \n4Star - Sound “good”",
+							"reviewTitle": "Satisfied Customer",
+							"review_helpful_count": 14,
 							"review_rank_by_viewer": null,
-							"date": 1604024780,
+							"date": 1608548850,
 							"developerResponse": null
 						}
 					}
@@ -301,7 +301,7 @@
 				"description": "Redesigned to support Oculus Quest  2 to offer the most immersive space flight you have ever experienced! \n\n'Game of the Year' - Nomination - UploadVR\n\n“This is the absolute best game I've ever played...” - vrgamerdude\n\nJump into the seat of the most advanced space fighter the United Trade Consortium has ever produced and join the fight against the Tartarus Liberation Front. With an engaging storyline, Touch controller support, improved visuals, and explosive sound fx.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974771_356081991901128_3506105369933905920_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=E95Ah3xBnxIAX8DKUFI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0fba1f49e717b491acffc5672cb80991&oe=6015705E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974771_356081991901128_3506105369933905920_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=E95Ah3xBnxIAX9NKGHA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3585ddc916b6d3b4f152474a9e427dcc&oe=6015705E",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
