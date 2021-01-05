@@ -10,43 +10,18 @@
 			"display_name": "In Death: Unchained",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [
-				{
-					"id": "230320821829026",
-					"__isAppStoreItem": "AppItemBundle",
-					"__typename": "AppItemBundle",
-					"display_name": "动作大片：新年礼包",
-					"current_offer": {
-						"__typename": "AppStoreOffer",
-						"price": {
-							"formatted": "$44.99"
-						},
-						"strikethrough_price": {
-							"formatted": "$64.97"
-						},
-						"id": "1350196805316014"
-					},
-					"cover_landscape_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/57574725_3569694239816696_350240992909822405_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=G3U2BE_f3YAAX9uy8Sr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd4b10ca970f79859eb733ba46336729&oe=6015B41F"
-					},
-					"cover_square_image": null,
-					"is_viewer_entitled": false,
-					"bundle_items": {
-						"count": 3
-					}
-				}
-			],
+			"item_bundles": [],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982584_506924100285741_3832294552568312703_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=BoB8syvXE-QAX_Apkvb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=283e0c98424a2761c38679c1a670d75c&oe=6016DFCF"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982584_506924100285741_3832294552568312703_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=WKLj2YnjgawAX9KZxL4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c66bee9b1c06883ed0bad5b93f2391c0&oe=601AD44F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75476594_597080404333493_2993264839145117171_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=QBmdDt3vrRwAX8BQ90L&_nc_ht=scontent.oculuscdn.com&oh=4493faafa2453f1660d5bfbd6e80b79f&oe=6014DA90"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75476594_597080404333493_2993264839145117171_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=6draEHYfEGgAX8Fdbh1&_nc_ht=scontent.oculuscdn.com&oh=1ead44826eab92f248aa4a3fba9d8048&oe=6018CF10"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 32,
+					"count": 34,
 					"starRating": 1
 				},
 				{
@@ -56,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 30,
+					"count": 31,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 110,
+					"count": 112,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1315,
+					"count": 1334,
 					"starRating": 5
 				}
 			],
@@ -105,14 +80,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.6",
-				"change_log": "We’re back with more improvements before the holidays!\n\nVersion 1.2.6\n- Improved the Tournament stone plate readability\n- Improved the enemy hit and death sounds\n- Improved the volume of multiple sound effects\n\nVersion 1.2.5\n- You can now play the DLC without having to finish your main mode run! \n- Items in the shop are no longer getting re-randomized after loading a saved game\n- We added a new “Total“ leaderboard to Siege of Heaven\n- We have new combo sounds that communicate the combo better and are more satisfying\n- The game now displays a screenshot when you’re in the Oculus Dashboard \n- Also when the headset is off the game’s automatically put on pause\n\nHappy holidays, we keep working hard to make the game better and we’d love to hear from you at hello@superbright.org and on our community discord at discord.com/invite/9xMrHdp",
+				"version": "1.2.7",
+				"change_log": "Siege of Heaven Legends tournament is over and we have a winner!\n\nCongratulations \"ForTheRight\" for his victory and an incredible score, and SynZin and xBeanie for 2nd and 3rd place - you guys made it super competitive!\n\nOur congratulations and thanks go out to everyone who participated in the tournament - you all made it more challenging and exciting than we could've imagined, let's do this again, soon!\nNow go visit https://www.facebook.com/SuperbrightVR/ to find out who won Oculus Quest 2 in the raffle - it could be you!\n\nChanges in version 1.2.7:\n- Tournament's top 10 players are immortalized in the Sanctuary \n- Tournament's top 100 players are listed in the game's Hall of Fame\n- Information about the tournament is removed from the game and leaderboards",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1819664353",
-				"id": "3647488408638075",
-				"required_space_adjusted": "3398450933",
+				"total_installed_space": "1818787623",
+				"id": "3675967659123483",
+				"required_space_adjusted": "3396697493",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -146,7 +121,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3647488408638075"
+					"id": "3675967659123483"
 				}
 			},
 			"release_channels": {
@@ -157,8 +132,8 @@
 						"id": "580193692384780",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.6",
-							"id": "3647488408638075"
+							"version": "1.2.7",
+							"id": "3675967659123483"
 						}
 					}
 				]
@@ -176,7 +151,7 @@
 							"created_time": 1607462361,
 							"body_text": "Defend the gates of Heaven!\n\nThe update brings a completely new mode - a gate defense mode focused on skillful shooting and comes with 3 new maps, 50+ new achievements, and new leaderboards.\n\n“Siege of Heaven” brings new and different challenges for the fans of the game’s shooting mechanics, and balances the main loop’s long session lengths with the mode’s shorter 15 minute playthrough times, with an opportunity to storm the new leaderboards that reward new skills.\n\nThe new mode has also been made to be welcoming to a wider audience - new and casual players can enjoy some of the best archery in VR at their own pace, away from enemies, and without the additional challenges of movement and 360 degree combat. Set in beautiful floating worlds, the mode can be used to get familiar with the bow and arrow mechanics in a safe environment.\n\nGet In Death: Unchained now or update the game to get the FREE DLC if you already own it!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974787_768525344010752_4575812994380982772_n.png?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=Rf67V4ZEKUEAX8FQfMw&_nc_ht=scontent.oculuscdn.com&oh=5c734b9faa70fc975e7a29e34a3a9073&oe=6016B7E5"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974787_768525344010752_4575812994380982772_n.png?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=kd77XvFBOiAAX_Z1_u-&_nc_ht=scontent.oculuscdn.com&oh=f900b7b7e6d2e5d380c3978230fac19f&oe=601AAC65"
 							}
 						}
 					]
@@ -233,11 +208,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7642762284197,
+			"quality_rating_aggregate": 4.7601307189542,
 			"support_website_url": "http://superbrig.ht/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 863,
+				"count": 870,
 				"orderings": [
 					{
 						"key": "top",
@@ -250,10 +225,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 863,
+				"count": 870,
 				"page_info": {
-					"end_cursor": "AQHR9ehW11LSeBC1_YtulI-z4ZalZats4CLB5hJEjv2fAx6CBICr9SBFtILVagpRGHB3DaMVjCdBmy-GzReXtdF9BA",
-					"start_cursor": "AQHR9ehW11LSeBC1_YtulI-z4ZalZats4CLB5hJEjv2fAx6CBICr9SBFtILVagpRGHB3DaMVjCdBmy-GzReXtdF9BA"
+					"end_cursor": "AQHRlnVTCxp_euphMRINhgq7EefmTY8urtqU59inzONLLDQ159n4JKetPGLOjwaRfJnsTKKofnCNJVAtTIyVLj-Afg",
+					"start_cursor": "AQHRlnVTCxp_euphMRINhgq7EefmTY8urtqU59inzONLLDQ159n4JKetPGLOjwaRfJnsTKKofnCNJVAtTIyVLj-Afg"
 				},
 				"edges": [
 					{
@@ -263,13 +238,13 @@
 								"id": "109985100510144",
 								"display_name": "Libertonyan",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/38974655_123593719149282_8395884374679093248_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=G7LpWxjGas0AX_5Dyes&_nc_oc=AQlAVRTlXg0kxeIPXkshCM7pjWIdgVeAbW-tWFf-tJcT0_rPi2Y4L0IVQJglPKoOVBM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b2bbe02cbb1f443d901a03c0d665e03d&oe=60152A82"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/38974655_123593719149282_8395884374679093248_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=CEsXT1lFZ-gAX8dgp2w&_nc_oc=AQmrWQbSsXN0hfcXHgV0eE3IgYZSCZbAHdhPSpmR1_JTtEetXkvkkvVujzqoOYLlSOo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2fce51d7ff012d38ebda53efe2551c6a&oe=60191F02"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Updated (again) - 11/6/2020 \n\nSuperbright is leading the way VR developers, pay attention. \n\nAnd I'm not even speaking to the quality of their game In Death Unchained, although it's excellent, I'm referring to their dedication to the gaming community. Superbright respects their audience enough to listen, engage in dialogue, and update their wonderful product to reflect the feedback, desires, and collective wisdom of us, the humble players.\n\nThis is a 21st century developer, using modern communication methods to engage with their base and improve their product. \nConstantly. \nConsistently. \nThe version of In Death which I'm about to play today is heads and shoulders above the day-1 version, and that's a fantastic thing. Even more fantastic, is the fact that 90% of these improvements were called out by us, the players. Superbright is forging the path of developing a RELATIONSHIP with us, based on 2-way communication, with everyone involved laser focused on just shaping a really really good game. Ultimately, it's all about fun, right? Buying In Death on day-1, leaving a review and having Superbright leave a thoughtful reply, playing In Death again a few days later and seeing improvements implemented that I contributed towards.....that's all been a really fun, and rewarding, experience.\n\nGoing forward, I will be buying any Quest product produced by Superbright sight unseen, because I have confidence that they have my best interests at heart, and they have the humility to exist in a state of constant learning, change, and improvement. This is how you make a customer for life. Well done Superbright.\n\nTL;DR: Agile. Nimble. Responsive. Respectful of our time & passion. They listen, and they improve. Bravo Superbright. Five Stars.",
 							"reviewTitle": "Evolving Greatness....",
-							"review_helpful_count": 443,
+							"review_helpful_count": 462,
 							"review_rank_by_viewer": null,
 							"date": 1604708363,
 							"developerResponse": null
@@ -284,7 +259,7 @@
 				"description": "Must-have bow & arrow action game with state of the art Quest graphics. \n\nNEW GAME MODE “SIEGE OF HEAVEN” AND QUEST 2 UPGRADES!!!\n\nGrab your bow and rain down arrows against forsaken souls and angelic creatures that have taken over the afterlife, battle through the beautiful medieval fantasy levels of Heaven, Purgatory & Hell to restore Harmony\n\nThree beautiful and mysterious, procedurally generated worlds, with infinite replayability, three epic boss fights, multiple optional areas.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982447_772340050042537_8806413010187400029_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=HrrTk4WcCKsAX-kdPEL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e938c4790e65dd01f5ce818c2bc7f5b1&oe=60188EE0",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982447_772340050042537_8806413010187400029_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=-Dp16pJFzygAX_iN5yc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=603409f2715ca5bf5d9be895f568b46c&oe=60188EE0",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

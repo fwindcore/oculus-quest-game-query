@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974742_329254711710100_4247240763885852236_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=5gklgU9rA7cAX9r4sA4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cc88c14a87c89b9e04f3876f2322d31a&oe=60179930"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974742_329254711710100_4247240763885852236_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=ESo7lJMbZwYAX_VFa1V&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7f62673b062a05440d03a24e4b395847&oe=601B8DB0"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_323359932294859_5783003935758088053_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=upSEPXwx5O0AX_8DsdI&_nc_ht=scontent.oculuscdn.com&oh=b8eb4415e05091990170ea26fa7a44cc&oe=6017AE31"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_323359932294859_5783003935758088053_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=upSEPXwx5O0AX_zJJ04&_nc_ht=scontent.oculuscdn.com&oh=062899018ae012f8de4a1db0b8391c0e&oe=6017AE31"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 23,
+					"count": 25,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 7,
+					"count": 8,
 					"starRating": 2
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 146,
+					"count": 154,
 					"starRating": 5
 				}
 			],
@@ -81,14 +81,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.2.1",
-				"change_log": "Patch 2.2.1 Release Notes\n[Bug fix]\n- Enable Seasonal Event in server.\n- Fix Crash in Seasonal Event Dashboy link in garage.\n- Fix disappearing player body in Lobby scene.\n- Track Factory 51 (Beta) Improve lighting for Quest.\n- Track Factory 51 (Beta) Improve laser beam for Rift.\n- Added blinking eyes in character creation screen.\n- Fix Event Leaderboard reporting wrong progress.",
+				"version": "2.2.2",
+				"change_log": "2.2.2 Release Notes\n[Bug fix]\n- Fix Dedicate server crash\n- Crystal bit progress update\n- Crash when switching Seasonal UI\n- Handling error when using steering wheel preset, but steering wheel is not connected\n- Laser Pointer is overlapped by Disconnection popup.",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "3681436543",
-				"id": "3487983034640028",
-				"required_space_adjusted": "7070090072",
+				"total_installed_space": "3681447413",
+				"id": "3499556233482708",
+				"required_space_adjusted": "7070077104",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3487983034640028"
+					"id": "3499556233482708"
 				}
 			},
 			"release_channels": {
@@ -133,8 +133,8 @@
 						"id": "316503405917151",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.2.1",
-							"id": "3487983034640028"
+							"version": "2.2.2",
+							"id": "3499556233482708"
 						}
 					}
 				]
@@ -148,8 +148,8 @@
 								"current_end_timestamp": 1609891200,
 								"current_start_timestamp": 1609884000,
 								"temporal_info": {
-									"seconds_until_end_time": 260945,
-									"seconds_until_start_time": 253745
+									"seconds_until_end_time": 60005,
+									"seconds_until_start_time": 52805
 								},
 								"vr_app_and_destination_string": "Dash Dash World",
 								"vr_applications": {
@@ -171,7 +171,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Immersive Dashing with AwakenToast",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974735_425842128771850_2355750579322335351_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=N0M6jkF4MasAX8wyXHO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a5d1015404974f292d53ffbb16d34355&oe=6016C115"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974735_425842128771850_2355750579322335351_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=POMKSHCxz4EAX8jMx-c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c32438ad3ea3c27806a4fb2f02fd5832&oe=601AB595"
 								}
 							}
 						}
@@ -186,7 +186,7 @@
 							"created_time": 1609269203,
 							"body_text": "\n\nChallenge yourself during this winter in FROSTY SEASON ☃️❄️\n\nComplete 30 new challenges throughout this season with 3 competitive events. 🏎💦\n\nYour chance to unlock all-new 26 limited exclusive items during this season ONLY!\n\n\n\nThe first tournament of Season 1 is here.\nAnd it will be IMMERSIVE !\n\n\n\nNow it’s your chance to improve your immersive driving skills with new 10 immersive quests to complete.  💪\n\nImmersive Festa event starts TODAY until  12th January 2021 (11.59 pm PDT)\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV -  Top 90/70/30/10% on Seasonal Leaderboard.\n- The Showdown - Win 3 race while playing using the Immersive control.\n- Triple Xtreme -  Place top 3 in extreme track while using super immersive control 3 times (any track)\n- Nitro Dash - Nitro 10 times in a single race while using super immersive control.\n- The Survivor - Wipe egg, dino carbo, and carbo cracker off-screen while using super immersive control.\n- Dash Store - Consume all Dash Products in a single race while using super immersive control (Bar, Bull, and Max).\n- Shoot and Drive - Hit 3 racers with a single Terminator Jr. while using super immersive control.\n\n\n\nView the Tournament trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=UWcdmi6XzoI\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75223481_179941670536628_3308136897434150453_n.png?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=_zugjM13i7QAX93jglu&_nc_ht=scontent.oculuscdn.com&oh=10fe45bda2a8aaa9bb4bccf728c36433&oe=60185839"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75223481_179941670536628_3308136897434150453_n.png?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=-6kVgKlwpZEAX-mwBtm&_nc_ht=scontent.oculuscdn.com&oh=13c777226bda79e5e0303b9612a4654b&oe=60185839"
 							}
 						},
 						{
@@ -195,7 +195,7 @@
 							"created_time": 1609267874,
 							"body_text": "\n\nWe have been developing this feature for over a year and now it is ready for prime time!\n\nView New trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=09WikLmlIUA\n\n\n\nTomorrow we will launch a 2 weeks tournament focusing on Virtual Steering. Here is a sneak peek.\n\n\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75322605_811188609610312_7520186997117274280_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=YLUkkwPBvkYAX8GxH76&_nc_ht=scontent.oculuscdn.com&oh=3bb94af412f1c5353798a254256dd139&oe=6015266A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75322605_811188609610312_7520186997117274280_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=-Pl0OOipO6sAX-uafD5&_nc_ht=scontent.oculuscdn.com&oh=a7658bf7ad8a5d1ff0ab0d70609a2e1f&oe=60191AEA"
 							}
 						}
 					]
@@ -252,11 +252,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2072072072072,
+			"quality_rating_aggregate": 4.1974248927039,
 			"support_website_url": "https://www.DashDashRacing.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 134,
+				"count": 138,
 				"orderings": [
 					{
 						"key": "top",
@@ -269,10 +269,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 134,
+				"count": 138,
 				"page_info": {
-					"end_cursor": "AQHRWZnHJ7cZAe8YdzUQVzf4ymXpuyT__bJL10ZKqj25jF_lV8cs2m0OzuROFXHCMwJdC0fRXLvKlnZjY0gst8897g",
-					"start_cursor": "AQHRWZnHJ7cZAe8YdzUQVzf4ymXpuyT__bJL10ZKqj25jF_lV8cs2m0OzuROFXHCMwJdC0fRXLvKlnZjY0gst8897g"
+					"end_cursor": "AQHRlZXcm4g2FfBjqbz7U1GS7zIk3FlqOl-rfc-ByFvTQDQaSWZT0MpKzWIv3ARE0hKY2vsgw2wV5vp9ksKkgeb4Ig",
+					"start_cursor": "AQHRlZXcm4g2FfBjqbz7U1GS7zIk3FlqOl-rfc-ByFvTQDQaSWZT0MpKzWIv3ARE0hKY2vsgw2wV5vp9ksKkgeb4Ig"
 				},
 				"edges": [
 					{
@@ -282,13 +282,13 @@
 								"id": "100472851875362",
 								"display_name": "MrPePeWr",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974621_100473095208671_8841787548079864037_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=A3AcKKDpPScAX-jODQJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8a339f03ba9263d020e47f00a1af4720&oe=6015A11B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974621_100473095208671_8841787548079864037_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=A3AcKKDpPScAX98cmZ7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b84fb3430385ec64b146258ebf740332&oe=6019959B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I am not used to make reviews and i only wrotte a few during the past years but here i am.\n\nI played a lot of different VR games such as Moss, Alyx, PopOne, Phasmophobia, Echo Arena, Walking dead & many other famous titles etc... \n\nHowever, i already played this game more than all the other games. Let me explain.\n\nThis game can and will be improved. However, it has everything you need to enjoy playing VR comfortably installed in your chair.\n\nI am not a big lazy guy but i also know that VR sessions can be very tiring so the gametime is physicaly limited. However with this game you can play comfortably sitted and remains fully immersive. In fact it is more immersive to be sitted.\n\nThere are many cosmectics, weapons and they recently improved graphics & performance with two new tracks.\n\nFrequent updates, solid base & great ambitions such as becoming the VR kart game reference.\n\nThis game is not perfect but it has EVERYTHING you need to enjoy playing VR while drifting, shotting, throwing things... \n\nDrift is the Key by the way. ;)\n\nConclusion: JUST BUY IT\n\nA few things that needs to be improved in my opinion:\n-lobby interaction is broken (Other's people moves looks weird)\n-Engines needs to be balanced in order to handle harder Track such as Volcanic Jungle and even more to be able to drift on all the maps.\n-Poison/Hack needs to be reduce because it can break a perfect run & let you loose even if you were ahead from far.  It is a great Weap btw but too powerfull in my opinion.\n-Need to be much much more known by VR community ;)",
 							"reviewTitle": "From a Guy Who never writte reviews.",
-							"review_helpful_count": 83,
+							"review_helpful_count": 91,
 							"review_rank_by_viewer": null,
 							"date": 1608244512,
 							"developerResponse": {
@@ -307,7 +307,7 @@
 				"description": "Drive, Shoot & Drift like NEVER before... Dash Dash is a cross-platform VR racing game with full hand driving and weapons controls.\n\nOver 100 hours of gameplay contents including story mode, regular online tournaments, 100s of achievements and over 1,000,000,000,000 customizable parts.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_1860819077407026_7606322470346470019_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=vL_x0Ktl51gAX9im3F7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb5664857881152707430b554d9761d2&oe=601519A2",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_1860819077407026_7606322470346470019_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=QkM7fLsPEjIAX9PtVLw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e8b1f01870bd39276442c2118cfed4d&oe=60190E22",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
