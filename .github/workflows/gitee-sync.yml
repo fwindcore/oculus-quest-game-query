@@ -16,7 +16,7 @@ on:
     types: # This configuration does not affect the page_build event above
       - created
   schedule:
-    - cron: '20 * * * *'
+    - cron: '20 8 * * *'
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         with:
           # 注意替换为你的 GitHub 源仓库地址
-          source-repo: git@github.com:fwindpeak/oculus-quest-store-query.git
+          source-repo: git@github.com:1zong/oculus-quest-game-query.git
           # 注意替换为你的 Gitee 目标仓库地址
           destination-repo: git@gitee.com:fwindpeak/oculus-quest-store-list.git
 
