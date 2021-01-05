@@ -5,7 +5,7 @@ on:
     - cron: '2 8 * * *'
 jobs:
   oculus-update:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
       - name: update json and cover
