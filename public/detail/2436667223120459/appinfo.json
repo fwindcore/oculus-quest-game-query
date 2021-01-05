@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=_d7W1sCziTkAX9MocmB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=08be05b77ff6bca7610b473fac16a0c4&oe=6014A8D5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=tVKXkRO7MdwAX9A9Twk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4404fa0102cee144afe0e8d8dfe017c2&oe=60189D55"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=Ghvyl_gn-kAAX8Ljv7T&_nc_ht=scontent.oculuscdn.com&oh=ea128b5d25136a2769ed3a06896e420d&oe=6017CFE7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=Ghvyl_gn-kAAX9jWaFT&_nc_ht=scontent.oculuscdn.com&oh=e99966cb6ea3e26d9e873776f88256be&oe=6017CFE7"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 17,
+					"count": 16,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 61,
+					"count": 64,
 					"starRating": 5
 				}
 			],
@@ -100,7 +100,7 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "3.3.1",
-				"change_log": "===============================\nv.3.3.1 Release notes: Minor release\n===============================\n- Fix junction links no longer being recognized in SMB shares\n- Revert SMB3.1.1. support for further testing. Was potentially causing socket error issues when trying to open photos on some Mac OS variants\n\n\n===========================\nPrevious v.3.3.0 Release notes\n===========================\n\nNew Features\n============\n- 180, 360 and 180 fisheye images and videos are now rendered to the spherical timewarp layer for better image clarity.\n- Added option in \"Player Settings\" to re-enable/fallback to the legacy eye buffer rendering mode (see note 1 below).\n- Device refresh rate now auto syncs as best it can to video frame rate for smoother playback (most noticeable during long panning shots).\n- Added recognition of .iso files as valid video files.\n- Added support for SMB3.1.1\n- Updated internal libvlc video decoding library to latest build to take advantage of all updates/bug fixes done to the library over the last year.\n- Added support to manually specify optional port number to use in SMB connections.\n\nQuest2 specific updates\n=======================\n- App should now be fully aware if its running on Quest2 or Quest1.\n- Enable 90Hz refresh mode as default if running on Quest2.\n- Show Quest2 controller model if running on Quest2.\n- Show Quest2 controller help screen if running on Quest2.\n\nBug fixes\n=========\n- Fixed small bug with subtitle scale slider.\n- Fixed small gui bug in SMB login screen.\n- Fix video rotation detection bug for smb shared videos.\n- Other misc minor bug fixes.\n\nNote 1: Zooming and height adjustment in VR 180/360 mode is temporarily removed to support spherical timewarp layers as this layer uses in infinite radius which negates out any zooming and height adjustment capabilities. However, the legacy eye buffer method of rendering 180/360 views can be re-enabled again via the \"Use legacy eye buffer... \" option in the Player Settings menu, which will then also re-enable the zooming and height adjustment feature again when in 180/360 view mode.\n\nNote 2: Those using their own custom build of the libvlc library should still be able to continue using their current custom build without any side effects. However, it is highly recommended to update your personal libvlc build to be built from the latest libvlc code base linked from the Pigasus FAQ so as to take advantage of any updates and/or bug fixes made to the library over the last year and if nothing else, to ensure better sync to what Pigasus expects from the library.",
+				"change_log": "===============================\nv.3.3.1 Release notes: Minor release\n===============================\n- Fix junction links no longer being recognized in SMB shares\n- Revert SMB3.1.1. support for further testing. Was potentially causing socket error issues when trying to open photos on some Mac OS variants\n- Revert internal libvlc video decoder library back to using old one for further testing as some people were reporting playback issues over SMB with new libvlc video decoder library update. Possibly related to the SMB3.1.1 support that also had to be reverted.\n\n===========================\nPrevious v.3.3.0 Release notes\n===========================\n\nNew Features\n============\n- 180, 360 and 180 fisheye images and videos are now rendered to the spherical timewarp layer for better image clarity.\n- Added option in \"Player Settings\" to re-enable/fallback to the legacy eye buffer rendering mode (see note 1 below).\n- Device refresh rate now auto syncs as best it can to video frame rate for smoother playback (most noticeable during long panning shots).\n- Added recognition of .iso files as valid video files.\n- Added support for SMB3.1.1\n- Updated internal libvlc video decoding library to latest build to take advantage of all updates/bug fixes done to the library over the last year.\n- Added support to manually specify optional port number to use in SMB connections.\n\nQuest2 specific updates\n=======================\n- App should now be fully aware if its running on Quest2 or Quest1.\n- Enable 90Hz refresh mode as default if running on Quest2.\n- Show Quest2 controller model if running on Quest2.\n- Show Quest2 controller help screen if running on Quest2.\n\nBug fixes\n=========\n- Fixed small bug with subtitle scale slider.\n- Fixed small gui bug in SMB login screen.\n- Fix video rotation detection bug for smb shared videos.\n- Other misc minor bug fixes.\n\nNote 1: Zooming and height adjustment in VR 180/360 mode is temporarily removed to support spherical timewarp layers as this layer uses in infinite radius which negates out any zooming and height adjustment capabilities. However, the legacy eye buffer method of rendering 180/360 views can be re-enabled again via the \"Use legacy eye buffer... \" option in the Player Settings menu, which will then also re-enable the zooming and height adjustment feature again when in 180/360 view mode.\n\nNote 2: Those using their own custom build of the libvlc library should still be able to continue using their current custom build without any side effects. However, it is highly recommended to update your personal libvlc build to be built from the latest libvlc code base linked from the Pigasus FAQ so as to take advantage of any updates and/or bug fixes made to the library over the last year and if nothing else, to ensure better sync to what Pigasus expects from the library.",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
@@ -221,11 +221,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8292682926829,
+			"quality_rating_aggregate": 3.88,
 			"support_website_url": "https://hanginghatstudios.com/pigasus-faq",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 66,
+				"count": 68,
 				"orderings": [
 					{
 						"key": "top",
@@ -238,10 +238,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 66,
+				"count": 68,
 				"page_info": {
-					"end_cursor": "AQHRUQEZAZqKxcgGAj4Y9YiCOxyZ9-tCj5u51ZUPuen0aPFg3nWW0h47cGReU3mnedd-SMdpniI0NRImnGNz5W6ijA",
-					"start_cursor": "AQHRUQEZAZqKxcgGAj4Y9YiCOxyZ9-tCj5u51ZUPuen0aPFg3nWW0h47cGReU3mnedd-SMdpniI0NRImnGNz5W6ijA"
+					"end_cursor": "AQHR6CSrrRsL5JZoSJEF6_uvgXFZWgRwW-6ODpUkzjKyYmB9VVpM2vuFFG6wW_4sPo1mVr6VCpUGbqHCCRly1AMIMA",
+					"start_cursor": "AQHR6CSrrRsL5JZoSJEF6_uvgXFZWgRwW-6ODpUkzjKyYmB9VVpM2vuFFG6wW_4sPo1mVr6VCpUGbqHCCRly1AMIMA"
 				},
 				"edges": [
 					{
@@ -251,13 +251,13 @@
 								"id": "100238237828536",
 								"display_name": "jumanous",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.327.327a/s160x160/39031390_135657790953247_718375435360010240_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=VKJtqPAJz_YAX_Mrtiq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d5996fe6bdd51cf7f92a85c031f6de95&oe=60180DFD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.327.327a/s160x160/39031390_135657790953247_718375435360010240_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=LggxyDmaTLIAX99EVBX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=830005e4e0ed0e3398fdc5c033673f98&oe=60180DFD"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "For starters, this is one of the best media players out there and the only one I know of that views videos, pics and music.\n\nOne thing VR needs is a lying down mode... this app comes the closest I have seen to it, but still when you start the app it is in sitting mode until you play a video or open a picture.  Still, it is better than skybox which you can never browse the menu lying down.\n\nAlso, it is awesome that this let's you view pictures, however I wish you could view picture directories with more than 100 picture files on DLNA.  I have tried this with numerous server set ups and  with other devices and apps, but it only seems to be this app which prevents me viewing the entire contents of picture directories. My various apps on my android tablet can view the entire contents of the directories connecting to the same dlna server.\n\nAll that aside, it is a great app, and well worth getting.  Very good for viewing vr180 or 3d movies or pics or anything you can throw at it.",
 							"reviewTitle": "Solid media player, with a few issues",
-							"review_helpful_count": 5,
+							"review_helpful_count": 6,
 							"review_rank_by_viewer": null,
 							"date": 1607151635,
 							"developerResponse": {
@@ -276,7 +276,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=bAk_MVw2RV0AX_FwRpE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=48f6307e381a3f7e20f215a537b50867&oe=6014B981",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=D0d0FVW0i4cAX-ZsWWQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=266aa1d35c9ebdeb587f2f781139b0f8&oe=6018AE01",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
