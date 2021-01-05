@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75485572_1174214159619097_8988390481879498212_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=kqta2Jh-mVMAX_pZ8KY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6ecf930520ba52d1fd2ca582150b8f95&oe=601B4CEA"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75485572_1174214159619097_8988390481879498212_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=kqta2Jh-mVMAX8yEkJn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed57bd1e22f0d211a206cbe62f0d48a3&oe=601B4CEA"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031397_2666921343551030_1380635867889636326_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=TSnVUOThX8AAX-D4dvT&_nc_ht=scontent.oculuscdn.com&oh=d0b33dba0864e849eec8b8093347c181&oe=601A192B"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031397_2666921343551030_1380635867889636326_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=TSnVUOThX8AAX8uCafE&_nc_ht=scontent.oculuscdn.com&oh=f6b876a944ea9263b0bb7c17840c04f2&oe=601A192B"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -116,17 +116,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "774674336615170",
+				"id": "396326678301977",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1599",
+					"formatted": "$15.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1609919940,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -213,7 +218,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "774674336615170"
+				"id": "396326678301977"
 			},
 			"externalReviews": {
 				"count": 0
@@ -237,8 +242,8 @@
 			"firstQualityRatings": {
 				"count": 63,
 				"page_info": {
-					"end_cursor": "AQHR2DtS92cCkDcDUWTr5Mt1PTERZi3K0ji0xa3y_e6Ft147AEfP-FE22yMNUAJMs3xxVJKFXR82v9X6pCjib4ikxQ",
-					"start_cursor": "AQHR2DtS92cCkDcDUWTr5Mt1PTERZi3K0ji0xa3y_e6Ft147AEfP-FE22yMNUAJMs3xxVJKFXR82v9X6pCjib4ikxQ"
+					"end_cursor": "AQHRY2_pKlG1FCjnLn-Oi6uGoAmc7vDyHfaYoljhD5fhE9ZWs1KMQrUPVih1Q52hwZOZSminCahdS6DDwZaCkVZu5A",
+					"start_cursor": "AQHRY2_pKlG1FCjnLn-Oi6uGoAmc7vDyHfaYoljhD5fhE9ZWs1KMQrUPVih1Q52hwZOZSminCahdS6DDwZaCkVZu5A"
 				},
 				"edges": [
 					{
@@ -248,13 +253,13 @@
 								"id": "108251637763773",
 								"display_name": "Beccanda",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.4.720.720a/s160x160/38984460_108251994430404_4475810163737337928_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=gctad7CapOcAX_6CwwS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f59bcf24d9dabeb15ab67beb590cb287&oe=6018E437"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.4.720.720a/s160x160/38984460_108251994430404_4475810163737337928_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=gctad7CapOcAX-g3nxg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ec5d05bbf350b7270ecca20c1bcf3c50&oe=6018E437"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Pros:\n\nThe most detailed part of the game is the bird. Developers really took their time with it. The story is there, too. The progression isn't that difficult as there are hints. \n\nThe falcon is *The Coolest* and I am bonded with it! \n\nCons: \n\nMultiple glitches. The most annoying glitch is the menu for the waist bag inventory. It often pops up behind me and even rotating around keeps it behind me. The only way to fix it is to keep moving and re-opening the menu. \n\nThe landscape is a bit bland and repetitive. It's a desert with cacti and rocks and that's about it. \n\nThis has the potential to be a 5 star game with some more time spent fixing the glitches and possibly adding some excitement to the scenery.",
 							"reviewTitle": "The pet falcon makes the game",
-							"review_helpful_count": 21,
+							"review_helpful_count": 23,
 							"review_rank_by_viewer": null,
 							"date": 1607850182,
 							"developerResponse": null
@@ -269,7 +274,7 @@
 				"description": "Bond with a baby falcon and go on an adventure. Falcon Age is a first-person, single-player action adventure where you’ll play as Ara in her fight to reclaim her cultural legacy in the lost art of falcon hunting against a force of automated colonizers.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262746_280835239747877_7172837573230854144_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=DkafENRQbokAX-YUejJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=38747b54c3f83d2d68f886a19e9ae19c&oe=6018B604",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982526_904065553465487_6768460726101109330_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=tcrce0W_rwYAX8TaQ0D&_nc_ht=scontent.oculuscdn.com&tp=28&oh=705e8fdabae0431c31fe9ab9dab5ee6a&oe=6018CB57",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

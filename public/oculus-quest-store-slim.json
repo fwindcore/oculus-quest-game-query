@@ -258,7 +258,7 @@
 			"__typename": "Application",
 			"display_name": "监狱大佬VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4912280701754,
+			"quality_rating_aggregate": 4.5,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -290,7 +290,7 @@
 				"模拟",
 				"策略"
 			],
-			"rating_count": 57
+			"rating_count": 58
 		},
 		{
 			"id": "2436897736439055",
@@ -680,7 +680,7 @@
 			"__typename": "Application",
 			"display_name": "POPULATION: ONE",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6505681818182,
+			"quality_rating_aggregate": 4.6509287925697,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -706,7 +706,7 @@
 				"射击",
 				"街机"
 			],
-			"rating_count": 3872
+			"rating_count": 3876
 		},
 		{
 			"id": "3043045549099845",
@@ -785,7 +785,7 @@
 			"__typename": "Application",
 			"display_name": "The Walking Dead: Saints & Sinners",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6720331186753,
+			"quality_rating_aggregate": 4.6723345588235,
 			"supported_in_app_languages": [
 				{
 					"name": "俄语"
@@ -820,7 +820,7 @@
 				"冒险",
 				"恐怖"
 			],
-			"rating_count": 4348
+			"rating_count": 4352
 		},
 		{
 			"id": "2610547289060480",
@@ -1443,7 +1443,7 @@
 			"__typename": "Application",
 			"display_name": "SOLARIS OFFWORLD COMBAT",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.6754772393539,
+			"quality_rating_aggregate": 3.6774193548387,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -1472,7 +1472,7 @@
 				"射击",
 				"体育"
 			],
-			"rating_count": 681
+			"rating_count": 682
 		},
 		{
 			"id": "2557519677620753",
@@ -1668,17 +1668,21 @@
 			"canonicalName": "outerloop-games-llc-falcon-age-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "774674336615170",
+				"end_time": 1609919940,
+				"show_timer": true,
+				"id": "396326678301977",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1599",
+					"formatted": "$15.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1599152400,
@@ -1824,21 +1828,17 @@
 			"canonicalName": "ndreams-shooty-fruity-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1609833540,
-				"show_timer": true,
-				"id": "621759871885254",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "803082027103067",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1598547639,
@@ -2197,7 +2197,7 @@
 			"__typename": "Application",
 			"display_name": "Onward",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4019574755316,
+			"quality_rating_aggregate": 4.4025316455696,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -2208,7 +2208,7 @@
 				"射击",
 				"模拟"
 			],
-			"rating_count": 5926
+			"rating_count": 5925
 		},
 		{
 			"id": "2334376869949242",
@@ -2233,7 +2233,7 @@
 			"__typename": "Application",
 			"display_name": "In Death: Unchained",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7601307189542,
+			"quality_rating_aggregate": 4.7602605863192,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -2244,7 +2244,7 @@
 				"射击",
 				"街机"
 			],
-			"rating_count": 1530
+			"rating_count": 1535
 		},
 		{
 			"id": "2849273531812512",
@@ -2716,7 +2716,7 @@
 			"__typename": "Application",
 			"display_name": "Trover Saves the Universe",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7412513255567,
+			"quality_rating_aggregate": 4.7415254237288,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -2739,7 +2739,7 @@
 				"冒险",
 				"故事"
 			],
-			"rating_count": 943
+			"rating_count": 944
 		},
 		{
 			"id": "2833307773392914",
@@ -3018,7 +3018,7 @@
 			"__typename": "Application",
 			"display_name": "Topgolf with Pro Putt",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6591448931116,
+			"quality_rating_aggregate": 4.660756501182,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -3029,7 +3029,7 @@
 				"模拟",
 				"体育"
 			],
-			"rating_count": 842
+			"rating_count": 846
 		},
 		{
 			"id": "2933720383334150",
@@ -3102,7 +3102,7 @@
 			"__typename": "Application",
 			"display_name": "Elixir",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.4105571847507,
+			"quality_rating_aggregate": 3.408203125,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -3128,7 +3128,7 @@
 				"休闲",
 				"故事"
 			],
-			"rating_count": 1023
+			"rating_count": 1024
 		},
 		{
 			"id": "2531338473623578",
@@ -3653,7 +3653,7 @@
 			"__typename": "Application",
 			"display_name": "Ironlights",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3015021459227,
+			"quality_rating_aggregate": 4.3034188034188,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -3697,7 +3697,7 @@
 				"格斗",
 				"体育"
 			],
-			"rating_count": 932
+			"rating_count": 936
 		},
 		{
 			"id": "2652937004788947",
@@ -3722,7 +3722,7 @@
 			"__typename": "Application",
 			"display_name": "Guns'n'Stories: Bulletproof VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.6942675159236,
+			"quality_rating_aggregate": 3.6898734177215,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -3757,7 +3757,7 @@
 				"街机",
 				"射击"
 			],
-			"rating_count": 157
+			"rating_count": 158
 		},
 		{
 			"id": "1706349256136062",
@@ -3884,7 +3884,7 @@
 			"__typename": "Application",
 			"display_name": "The Room VR: A Dark Matter",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8900274931267,
+			"quality_rating_aggregate": 4.8900824381714,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -3919,7 +3919,7 @@
 				"探索",
 				"益智"
 			],
-			"rating_count": 4001
+			"rating_count": 4003
 		},
 		{
 			"id": "2476104599150595",
@@ -4193,7 +4193,7 @@
 			"__typename": "Application",
 			"display_name": "Ghost Giant",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3475609756098,
+			"quality_rating_aggregate": 4.334008097166,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -4204,7 +4204,7 @@
 				"休闲",
 				"故事"
 			],
-			"rating_count": 492
+			"rating_count": 494
 		},
 		{
 			"id": "2522558964527688",
@@ -4772,7 +4772,7 @@
 			"__typename": "Application",
 			"display_name": "Star Trek: Bridge Crew",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.4868977176669,
+			"quality_rating_aggregate": 3.4847972972973,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -4789,7 +4789,7 @@
 				"社交",
 				"太空/宇宙"
 			],
-			"rating_count": 1183
+			"rating_count": 1184
 		},
 		{
 			"id": "2032870023439846",
@@ -5222,7 +5222,7 @@
 			"__typename": "Application",
 			"display_name": "The Climb",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4292742927429,
+			"quality_rating_aggregate": 4.4275184275184,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -5245,7 +5245,7 @@
 				"探索",
 				"体育"
 			],
-			"rating_count": 1626
+			"rating_count": 1628
 		},
 		{
 			"id": "2245906048808858",
@@ -6056,7 +6056,7 @@
 			"__typename": "Application",
 			"display_name": "Death Horizon: Reloaded",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4282223579719,
+			"quality_rating_aggregate": 4.4297924297924,
 			"supported_in_app_languages": [
 				{
 					"name": "乌克兰语"
@@ -6088,7 +6088,7 @@
 				"恐怖",
 				"射击"
 			],
-			"rating_count": 1637
+			"rating_count": 1638
 		},
 		{
 			"id": "2223615721048141",
@@ -6613,7 +6613,7 @@
 			"__typename": "Application",
 			"display_name": "Real VR Fishing",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6876932591218,
+			"quality_rating_aggregate": 4.6878862793572,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -6639,7 +6639,7 @@
 				"模拟",
 				"体育"
 			],
-			"rating_count": 1617
+			"rating_count": 1618
 		},
 		{
 			"id": "2325731427501921",
@@ -7633,7 +7633,7 @@
 			"__typename": "Application",
 			"display_name": "Gun Club VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.481820784426,
+			"quality_rating_aggregate": 4.4809728183119,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -7683,7 +7683,7 @@
 				"射击",
 				"模拟"
 			],
-			"rating_count": 3493
+			"rating_count": 3495
 		},
 		{
 			"id": "2255408847836468",
@@ -7708,7 +7708,7 @@
 			"__typename": "Application",
 			"display_name": "Racket: Nx",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7390946502058,
+			"quality_rating_aggregate": 4.7393092105263,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7719,7 +7719,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 1215
+			"rating_count": 1216
 		},
 		{
 			"id": "1587090851394426",
@@ -8585,7 +8585,7 @@
 			"__typename": "Application",
 			"display_name": "Beat Saber",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6937588270899,
+			"quality_rating_aggregate": 4.6936785474109,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -8596,7 +8596,7 @@
 				"音乐",
 				"体育"
 			],
-			"rating_count": 29738
+			"rating_count": 29740
 		},
 		{
 			"id": "2108775495884888",
@@ -8621,7 +8621,7 @@
 			"__typename": "Application",
 			"display_name": "Vader Immortal: Episode I",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4853543936819,
+			"quality_rating_aggregate": 4.4852573713143,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -8650,7 +8650,7 @@
 				"电影",
 				"故事"
 			],
-			"rating_count": 10003
+			"rating_count": 10005
 		},
 		{
 			"id": "2366245336750543",
