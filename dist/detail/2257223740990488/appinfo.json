@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974459_886213868409397_7277970959523381248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=_3BShI3cA28AX8bS9hs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=44b1c5e2ddb3f954f1013a82ee46edaf&oe=6019A8CE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974459_886213868409397_7277970959523381248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=_3BShI3cA28AX_elso-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0050293e3cf8aaf325afe9b15437d6af&oe=601D9D4E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974748_886213581742759_540362471303544832_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=tVej3QTaHwwAX8bX5f2&_nc_ht=scontent.oculuscdn.com&oh=22adf8e259b6bc964e2836c04a13aed5&oe=601B2C50"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974748_886213581742759_540362471303544832_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=H1CIjG7-ViIAX8v8yRP&_nc_ht=scontent.oculuscdn.com&oh=95d3f048351d5062e42473e9fe50aa96&oe=601B2C50"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 177,
+					"count": 176,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 167,
+					"count": 169,
 					"starRating": 5
 				}
 			],
@@ -143,7 +143,107 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1610157600,
+								"current_start_timestamp": 1610146800,
+								"temporal_info": {
+									"seconds_until_end_time": 144485,
+									"seconds_until_start_time": 133685
+								},
+								"vr_app_and_destination_string": "Poker VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2257223740990488",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Poker VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "2480630905575566",
+								"is_vr_viewer_interested": false,
+								"name": "20K Friday Madness Tournament",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974819_193500502485000_2289718849942049719_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=fP_ODtOODigAX_xqtXO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=82703aefe7a415a8136da2339baeb2f6&oe=601D7809"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1610233200,
+								"current_start_timestamp": 1610222400,
+								"temporal_info": {
+									"seconds_until_end_time": 220085,
+									"seconds_until_start_time": 209285
+								},
+								"vr_app_and_destination_string": "Poker VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2257223740990488",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Poker VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "2480637455574911",
+								"is_vr_viewer_interested": false,
+								"name": "Free to play Social Poker Tournament",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984461_774039606596947_4077004733090039232_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=JO7DOM20xf0AX_XWipY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b9786dcb5f8caebe192f02d619f000b&oe=601B841F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1610319600,
+								"current_start_timestamp": 1610308800,
+								"temporal_info": {
+									"seconds_until_end_time": 306485,
+									"seconds_until_start_time": 295685
+								},
+								"vr_app_and_destination_string": "Poker VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2257223740990488",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Poker VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "2480634498908540",
+								"is_vr_viewer_interested": false,
+								"name": "400k Millionaires Tournament",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974892_218753089723167_7032984014423037708_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=qSXwvxx-8csAX-IHcli&_nc_ht=scontent.oculuscdn.com&tp=28&oh=379243b9cc4af49a7405d3536125efad&oe=601D96DA"
+								}
+							}
+						}
+					]
 				},
 				"id": "2000625576909437",
 				"posts": {
@@ -152,7 +252,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRQw4qBF6E_x_rGGSF8Vfro6HiKEOcclqxc0HjRnnf9FZuW027NP5lbNhrs1dkmmlMA0esjABSkrpiNHDa_FneEQ"
+							"cursor": "AQHRQbeUywN8fsovxESmE-sJ3Fa4utqRo-OntNDtObtRLErlSm6DylpJ75x48-7nEZzOOFFS6Jx7MEm8xh85zmH-0Q"
 						}
 					]
 				}
@@ -199,11 +299,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.0098039215686,
+			"quality_rating_aggregate": 3.0215264187867,
 			"support_website_url": "https://www.pokervr.co/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 187,
+				"count": 188,
 				"orderings": [
 					{
 						"key": "top",
@@ -216,10 +316,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 187,
+				"count": 188,
 				"page_info": {
-					"end_cursor": "AQHRm0U_1M7YRib81oG3E20e4fVBZ_jaZbGhb2t2dJ9wKy6xVDM9bt9rVb5vweMrmAfmr9EyIXEN0TKvmzNswwJWCA",
-					"start_cursor": "AQHRm0U_1M7YRib81oG3E20e4fVBZ_jaZbGhb2t2dJ9wKy6xVDM9bt9rVb5vweMrmAfmr9EyIXEN0TKvmzNswwJWCA"
+					"end_cursor": "AQHRGS7IYFeMU6IO_l36r9uKTuxtzmFCnA4Q1GX5u1A7jK8uUUcGzBNKaP8Y3VuDTrdGKHC5OoOqsPtTtF6HKc2u6g",
+					"start_cursor": "AQHRGS7IYFeMU6IO_l36r9uKTuxtzmFCnA4Q1GX5u1A7jK8uUUcGzBNKaP8Y3VuDTrdGKHC5OoOqsPtTtF6HKc2u6g"
 				},
 				"edges": [
 					{
@@ -229,13 +329,13 @@
 								"id": "100280125205872",
 								"display_name": "briechan",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.768.768a/s160x160/75429295_100285105205374_51526378427186203_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=B1UqcuFSybwAX_xx73t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d55f2c8d7502cc06a77eeb3a01d2f251&oe=601C0FDE"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.768.768a/s160x160/75429295_100285105205374_51526378427186203_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=QkRAB0TuB8wAX8iCESZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f58ed6c048d3130ab409d0c5616b437d&oe=601C0FDE"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "Pros:\n-you get to meet new people, who are nice most of the time\n-you don't meet the same people twice\n-the game is very simple, and the controls are straight-forward\n\nCons:\n-the system is buggy at times\n-I just want to play the game. I don't care about signing up for some stupid Discord account.\n-And FOR CRYING OUT LOUD, do something about the trolls in this game.",
 							"reviewTitle": "Enjoyable, but could use a little work.",
-							"review_helpful_count": 22,
+							"review_helpful_count": 23,
 							"review_rank_by_viewer": null,
 							"date": 1608746954,
 							"developerResponse": null
@@ -250,7 +350,7 @@
 				"description": "The most popular social app on Oculus Go, now reimagined for Oculus Quest! Play poker like a pro, Poker VR is the only app to feature multi table tournaments and cash games. \n\nPlaying poker with friends was never more fun and social. Stimulated gaze tracking, facial expressions and full hand presence makes reading tells even more fun. Want to enjoy poker as a sport? Join 100s of other players in daily tournaments to hone your skill and prove to your friends that you are the best!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982665_1129859933878266_2522468223182438400_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=v0mJ_fqczgIAX_Xgy84&_nc_ht=scontent.oculuscdn.com&tp=28&oh=90b689553ad53c30716cd0ff9fbea33a&oe=601CB806",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982665_1129859933878266_2522468223182438400_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=v0mJ_fqczgIAX_B2Kqy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=03d6aa1071ed6cc665c826b1f14167d3&oe=601CB806",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

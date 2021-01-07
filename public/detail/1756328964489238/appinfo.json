@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974537_718350871956018_4465639516702507008_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=9gngujN2MfMAX_OTbAF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=edc8e4cb36b76a4e010d413a2008b947&oe=601B9C4C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974537_718350871956018_4465639516702507008_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=ZQBafcx-ugEAX9SnvAq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0ac95176e80d9a531f0f39c92a9c2686&oe=601B9C4C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_718350295289409_4486860086823616512_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=9tjC4uInMtUAX-uz2i_&_nc_ht=scontent.oculuscdn.com&oh=9548d43009eb1ad2e01d32920c8a3a68&oe=601B7A10"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_718350295289409_4486860086823616512_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=9tjC4uInMtUAX9Nvh_s&_nc_ht=scontent.oculuscdn.com&oh=c15ce1227012107563428b9a78198b15&oe=601B7A10"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,17 +26,17 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 42,
+					"count": 43,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 53,
+					"count": 54,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 104,
+					"count": 105,
 					"starRating": 4
 				},
 				{
@@ -99,22 +99,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "208194897648546",
+				"id": "625979731204790",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99",
-					"offset": 100
+					"formatted": "$9.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1610006340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -197,16 +192,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "208194897648546"
+				"id": "625979731204790"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6857142857143,
+			"quality_rating_aggregate": 3.6808510638298,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 262,
+				"count": 264,
 				"orderings": [
 					{
 						"key": "top",
@@ -219,28 +214,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 262,
+				"count": 264,
 				"page_info": {
-					"end_cursor": "AQHR2RzKxC9qfK4OPvfHwn2xqDGLUWxB9K8BPrNEB8z13hV1C9_NLjjXmb3Hwxw3mYJZsizO1EOXwec3V3-PvoD3pA",
-					"start_cursor": "AQHR2RzKxC9qfK4OPvfHwn2xqDGLUWxB9K8BPrNEB8z13hV1C9_NLjjXmb3Hwxw3mYJZsizO1EOXwec3V3-PvoD3pA"
+					"end_cursor": "AQHRNMEyKuqqpohQKLxkOIr5V69_CPeMqrCWXBtr6d1XHYZFzpdnfeXj-KvqC5JXdy-oRZUrSOqiUiOlJ3EaTvNiDQ",
+					"start_cursor": "AQHRNMEyKuqqpohQKLxkOIr5V69_CPeMqrCWXBtr6d1XHYZFzpdnfeXj-KvqC5JXdy-oRZUrSOqiUiOlJ3EaTvNiDQ"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "2615857485392080",
+							"id": "157626496142551",
 							"author": {
-								"id": "1582486238729215",
-								"display_name": "Stormjewel",
+								"id": "112364490668752",
+								"display_name": "Springtime777",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75195907_2615873708723791_5572984097843688533_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=c0vdBML_JeoAX9Ari7b&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fbf26b443bf659864f393e6b58a2b229&oe=601B7F5E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974643_112364837335384_1883837851113897834_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=OHksMhs5jaIAX_lj0Q0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2b57e37c6519289f79bdfe166790d5ad&oe=601C6E40"
 								}
 							},
 							"score": 4,
-							"reviewDescription": "Pros\n*Stunning virtual environments!\n*Hand tracking\n*Nice voice over, English accent\n*Clever idea with the orbs position guided by the music (although in practise still hard to use, see my suggestions)\n*I like just exploring the worlds and practicing my Qi Gong (unguided), having orbs of 'energy' and trails makes it feel magical. At the moment this is the best bit for me\n*Devs are continuing to put in effort and love 💖\n*You can make the teachers face you which helps a lot\n*Ghost teachers allow you to learn but also see the environments\n\nCons\n*Hard to actually learn the movements!!\n*Like others, even though I have long arms I can't reach some shapes\n*Certain exercises you can't see the teachers enough\n*I don't see how it's possible to look at your feet, the orbs and everything all at the same time. Actually stresses me out.\n\nOk so I'm a bit slow with learning movements, but I feel as though I will never learn or relax in the way the app currently is. But I think it can be fixed! \n\nSuggestions\n\n1) Have option for more teachers (in the diagonals so you can see them whichever direction you face)\n\n2) Have a reverse teacher mode so that the directionally challenged like me (!) can copy like a mirror (think Dance Central)\n\n3) Make it possible to watch the moves (forms) before doing them!!!! This would be the biggest improvement.\n\n4) The voiceover is nice but how about another option with instructions eg move right foot forward etc, this would really help\n\n5) Allow the music to be played when you explore the scenes by yourself\n\n4) As another reviewer suggested, how about some simple teaching of the deeper way to enhance energy work (eg inner smile!) or playing more with energy orbs and feeling and seeing the magnetism of energy! The orbs could grow and connect and stretch (This would be awesome)\n\n5) Fix the arms issue\n\n6) Save the user preferences (it's a bit long that I have to change the settings every time i play)\n\n7) Consider adding some Qi Gong forms as they would be easier to learn and do.\n\nI really hope you consider these tweaks as it would be so much better. I would rate 5 stars if you just did suggestions 1 and 3. \n\nI want to love this but I can't... Yet. Really it should be 3 stars but I appreciate the effort and updates, and i really want you to improve this more, so 4 for encouragement and thanks 💖",
-							"reviewTitle": "So much potential but needs tweaks",
-							"review_helpful_count": 287,
+							"reviewDescription": "Just purchased it. Lovely app. Great contrast to all the high energy sporty apps I tend to use. I just sat in one of the environments. Great it is possible to just use the hands instead of the controllers. Wish more games had that possibility. Feels more  natural and much less sweaty too.\n\nOne thing. I love this app with every distraction like music and scores and voiceover turned off. Just the sound of the landscape is lovely. But I don't know how to disable the \"game-sound\" connected to the moving of the balls. That is very distracting.  Is there a way to silence  that?",
+							"reviewTitle": "Love the environments",
+							"review_helpful_count": 45,
 							"review_rank_by_viewer": null,
-							"date": 1602889709,
+							"date": 1609098087,
 							"developerResponse": null
 						}
 					}
@@ -253,7 +248,7 @@
 				"description": "Refresh your mind, body, and spirit with 200+ Tai Chi inspired workouts across 20 beautiful nature settings!\n\nExperience a modern reimagining of an ancient practice.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982563_1512585878926798_371663489410711564_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=gCl2P7_0PuUAX8ozcNw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0a4bd4fc40bcc475b16f830de3590c0a&oe=601CF16B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982693_1984600275005152_8002693795903851814_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=imhG738kpwUAX-eVDyz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cc57f93986dd73db9c8e746e629963e&oe=601C89AE",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
