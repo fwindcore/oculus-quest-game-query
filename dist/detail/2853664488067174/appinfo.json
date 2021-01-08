@@ -1,0 +1,280 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "2853664488067174",
+			"display_name": "Holofit by Holodia",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38984443_377752279998522_7673553025954997757_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=M3Q_74yvrJkAX_Bl7nv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=47e2e031496356402d13719c6e49fae1&oe=601E4D04"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_201463158178556_5117993349592760458_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=G9MC5Fx5kZIAX8S-wby&_nc_ht=scontent.oculuscdn.com&oh=34a5a0f2765296253807835b80624b8d&oe=601C4304"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 9,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 2,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 1,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 15,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "WE MAKE FITNESS FUN. With over 100 workout options and regular updates, HOLOFIT makes sure your cardio workouts are interactive, motivating, and fun! \n\nRun, cycle, or row in 11 amazing worlds, use one of HIIT, Fat burn, or Time-attack programs, compete with other members of the community, and spend up to 400 calories in one session.\n\nWhat do I need for HOLOFIT? \n- Monthly/ Yearly Membership \n- Optional: Compatible fitness machine. \nStart your 7-day free trial today:  https://www.holodia.com/consumer/ \n\nWork out in Paris, Antarctica, Babylon, Snowy Mountains, Tropical, Saturn, Aiguebelette, Cambridge, San Francisco, Underwater, and the amazing world of Troglodytes! Measure calorie-burn, save your workout data and progress in our Android/iOS companion app.\n\nUse your bodyweight for rowing, running or cycling exercises, or connect HOLOFIT to your bike, rower, or elliptical to completely transform your workouts. HOLOFIT works on most bikes, rowers, and ellipticals. ",
+			"developer_privacy_policy_url": "https://www.holodia.com/legal-notice-holodia-virtual-reality-biking-company/",
+			"developer_terms_of_service_url": "https://www.holodia.com/holodia-legal-info/",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING"
+			],
+			"publisher_name": "Holodia",
+			"supported_in_app_languages": [
+				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
+					"name": "英语"
+				},
+				{
+					"name": "西班牙语（西班牙）"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人",
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "Holodia",
+			"genre_names": [
+				"探索",
+				"竞速",
+				"体育"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.7.20",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "1691979423",
+				"id": "3048134118620209",
+				"required_space_adjusted": "3039044642",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1610042443,
+			"supported_tracking_modes": [],
+			"website_url": "https://www.holodia.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "152578286662252",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "353721079385155"
+			},
+			"live_release_channel": {
+				"id": "353721079385155",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3048134118620209"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "353721079385155",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.7.20",
+							"id": "3048134118620209"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "407424613984207",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_FEW",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "holodia-sa-holofit-by-holodia-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "152578286662252"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Holofit by Holodia",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 3.4814814814815,
+			"support_website_url": "https://www.holodia.com/contact/",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 16,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 16,
+				"page_info": {
+					"end_cursor": "AQHRfQHK4EhjXWwdEIt2f_a7L7FTVycnw8HPt1vYSQYo7aQIvJRJOmKencV5tX9EumC2wBswXhy13BrOH_qd-ZBjRA",
+					"start_cursor": "AQHRfQHK4EhjXWwdEIt2f_a7L7FTVycnw8HPt1vYSQYo7aQIvJRJOmKencV5tX9EumC2wBswXhy13BrOH_qd-ZBjRA"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "1131272383969045",
+							"author": {
+								"id": "232259470537012",
+								"display_name": "relaxculus",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.444.444a/s160x160/39031340_1066186513810966_5497944449139585412_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=sFzmSn8A01YAX_ePJ9k&_nc_ht=scontent.oculuscdn.com&tp=28&oh=512d170d2bf1637e56ab6e7942da8320&oe=601B9FDC"
+								}
+							},
+							"score": 3,
+							"reviewDescription": "I use it since Christmas.\nThe idea is good for this pandemic time, water rowing is not so boring, here are the goods:\n- many mode (time attack, race, multiplayer)\n- many levels (cities, nature, underwater, etc)\n- bluetooth connection to the fitness machine\n- nice music\n\nBut be aware:\n- No anti aliasing fx (flashing edges, water, etc)\n- Simple graphics, low quality textures (eyebuffer size is only 1296 pixels)\n- No 90Hz support (yet)\n- No object collision detection\n\nQuest2 can do a much better job! For $10/month i think devs should make this a better app in near future. \nFor me it would be much better for pay once a higher price, and when a new content is available i can decide if i like to buy that DLC or not. \n\nPlease consider, good luck!",
+							"reviewTitle": "Good idea with low quality graphics",
+							"review_helpful_count": 26,
+							"review_rank_by_viewer": null,
+							"date": 1610045481,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "WE MAKE FITNESS FUN. With over 100 workout options and regular updates, HOLOFIT makes sure your cardio workouts are interactive, motivating, and fun! \nRun, cycle, or row in 11 amazing worlds, use one of HIIT, Fat burn, or Time-attack programs, compete with other members of the community, and spend up to 400 calories in one session.\nWhat do I need for HOLOFIT? \nMonthly/ Yearly Membership \nOptional: Compatible fitness machine. \nStart your 7-day free trial today:  https://www.holodia.com/consumer/ ",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001666_498892337753208_4501374280270654644_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=XRlUL1VQIIQAX_ddooB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=83c4e0b07311de9842c27c2aec84165d&oe=601CA1DA",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/2853664488067174/",
+				"site_name": "Oculus",
+				"title": "Holofit by Holodia · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
