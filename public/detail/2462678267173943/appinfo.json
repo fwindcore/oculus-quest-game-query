@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035424_624860298394108_5444461817199643284_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=W2-UJ98zGkMAX8ZybW2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0c95d8e0460e32e7e187f7d4ba84368e&oe=601E36EE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035424_624860298394108_5444461817199643284_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=W2-UJ98zGkMAX9j22X8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=77e6a0ea5fad8f97e8b4107052f49200&oe=601E36EE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57575369_702231377042185_2887942410031376862_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=FiBIYybU39MAX-di4LH&_nc_ht=scontent.oculuscdn.com&oh=689a1b4ecdae0dc3af4c1b481e77d95a&oe=601CF1AF"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57575369_702231377042185_2887942410031376862_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=FiBIYybU39MAX-8Kjjg&_nc_ht=scontent.oculuscdn.com&oh=eb62274406850ae6de44e0461d25b6d5&oe=601CF1AF"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 73,
+					"count": 74,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 766,
+					"count": 774,
 					"starRating": 5
 				}
 			],
@@ -80,14 +80,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.21",
-				"change_log": "Added separate music volume control\nAdded extra colliders to several holes\nFixed issue with voice quality\nFixed bug for countries that use commas for decimals\nImproved rejoin funtionality\nFixed multiplayer bug where you could hit it a 2nd time right before your turn ended\nAdditional bug fixes",
+				"version": "1.32",
+				"change_log": "Instant Replay (Press B/Y after a shot)\nProgress is now saved on courses, so you can pick up where you left off in single player.\nSaved progress also works for rejoining a multiplayer match in progress.\nFixing audio connectivity issues\nAdditional bug fixes",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "660957803",
-				"id": "3354918934616534",
-				"required_space_adjusted": "1195685496",
+				"total_installed_space": "652025510",
+				"id": "3392187554223005",
+				"required_space_adjusted": "1188319972",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -121,7 +121,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3354918934616534"
+					"id": "3392187554223005"
 				}
 			},
 			"release_channels": {
@@ -132,8 +132,8 @@
 						"id": "487187215545116",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.21",
-							"id": "3354918934616534"
+							"version": "1.32",
+							"id": "3392187554223005"
 						}
 					}
 				]
@@ -198,11 +198,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8036529680365,
+			"quality_rating_aggregate": 4.8045197740113,
 			"support_website_url": "https://mightycoconut.com/minigolf/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 624,
+				"count": 625,
 				"orderings": [
 					{
 						"key": "top",
@@ -215,10 +215,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 624,
+				"count": 625,
 				"page_info": {
-					"end_cursor": "AQHRuyOm-YZFxFI1py2J1LnvfBmKT-LtiU9S4Q_2NWuJTxWFTwv5usuPI6CxnGvt8tmTkJfR53ynmk34P89vGaEh4Q",
-					"start_cursor": "AQHRuyOm-YZFxFI1py2J1LnvfBmKT-LtiU9S4Q_2NWuJTxWFTwv5usuPI6CxnGvt8tmTkJfR53ynmk34P89vGaEh4Q"
+					"end_cursor": "AQHRmziHyeSUDs4sr_-pmLH9C3-YPwIEvyaxmY2maVvhYdhWujfpo5bI2FQeYci9I2sMCVDm65SfLfLU12bBRFe8OQ",
+					"start_cursor": "AQHRmziHyeSUDs4sr_-pmLH9C3-YPwIEvyaxmY2maVvhYdhWujfpo5bI2FQeYci9I2sMCVDm65SfLfLU12bBRFe8OQ"
 				},
 				"edges": [
 					{
@@ -228,13 +228,13 @@
 								"id": "1370473226414571",
 								"display_name": "GadgetManTK",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.1.958.958a/s160x160/38974535_3314326918695849_7622393114697603769_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=VNULgdK_WqUAX8uEUtH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7cb1cfb28973cca2bb689a019a5f7e36&oe=601E2E78"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.1.958.958a/s160x160/38974535_3314326918695849_7622393114697603769_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=VNULgdK_WqUAX8JaS9T&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1739d4ca2e3d00ff2e8bef191a706b6b&oe=601E2E78"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Online game was glitchy at 1st, but deleted and reinstalled and it’s run fine since....as such I’ve changed my 4 ⭐️ to 5 ⭐️ 👍🏻\n\nIt’s everything I expected. Simple intuitive controls (just remember you only need 1 controller left or right).\n\nThe courses are great fun and varied, challenges for beginners and experts, there’s definitely skills to be learned by playing....\n\nI played with my daughter and we just chatted away several hours while playing the course and helping each other find the lost balls ( I barely get 10mins on the phone). \n\nSo it’s really good if your family is located far and wide (she’s 400miles away), yet playing together felt like she was back home....🙂\n\nThe private game setup is the best I’ve seen so far, simply create a name for your room and up to 5 people can join in. It’s that simple and also works perfectly for multiple headsets on 1 account....(something ALL multiplayer games should do)\n\nI still think it would be good to maybe have the option to make the opponents balls remain active on the green between turns, as this would add to the game difficulty and fun 😏. Also barriers such as rocks, fences etc should be solid and not allow your club to pass through them..... there is currently no consequence for a ball that’s hard against the side....!🤔\n\nThis is a must have tittle ⭐️⭐️⭐️⭐️⭐️.\n\n👍🏻",
 							"reviewTitle": "Excellent game great social platform",
-							"review_helpful_count": 88,
+							"review_helpful_count": 89,
 							"review_rank_by_viewer": null,
 							"date": 1606599040,
 							"developerResponse": null
@@ -249,7 +249,7 @@
 				"description": "Putt your way through beautifully designed courses, collect lost balls, challenge your friends and unlock bonus levels. Extremely realistic physics create the perfect experience for hardcore golfers and casual players alike. Mini golf has never been this fun!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982677_280426996418441_3643383640089427968_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=321wKMhXp4EAX-T0YGh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=047d62ec349ee86a37fa1f9f2a479f9a&oe=601C18B5",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982677_280426996418441_3643383640089427968_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=321wKMhXp4EAX-HYmpM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=82b13bd7d42d7c896d718dc48589d08c&oe=601C18B5",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
