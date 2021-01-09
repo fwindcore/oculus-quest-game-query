@@ -10,13 +10,38 @@
 			"display_name": "Fruit Ninja",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "313190926653930",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "水果大作战",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "$25.99"
+						},
+						"strikethrough_price": {
+							"formatted": "$34.98"
+						},
+						"id": "315655056366518"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/57569430_1028324284301202_6429942937611532894_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=fnCIXbjUT80AX8bX-4p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=32c696996c3d3447d7ecaf8a5ec3671d&oe=601D2E0E"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75422381_126240285611660_7834310314031054848_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=u9OtXch8jKAAX98DpzE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d0460884562e9e190192191c902e6fbc&oe=601DA720"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75422381_126240285611660_7834310314031054848_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=u9OtXch8jKAAX85C_yA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b0a4976f400e5868f3ade740f4e3653c&oe=601DA720"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_862188157500467_312163256774950912_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=TAB38mqvyWoAX_jJsQj&_nc_ht=scontent.oculuscdn.com&oh=b2b59567e6d1a534c86b0d58f1ccee48&oe=601F4AD1"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_862188157500467_312163256774950912_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=h8j2g_SIxc0AX-g0Avr&_nc_ht=scontent.oculuscdn.com&oh=8ee47f5564f5a9da1089e4d88958579f&oe=601F4AD1"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -195,7 +220,7 @@
 							"created_time": 1597887205,
 							"body_text": "We heard you ninjas! We’ve raised the quality bar this update with gameplay improvements and crucial bug fixes 🐛 Also, with tweaks made to blades, slicing has never been so satisfying! 🤩 Download now! 🍉🔪",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75240096_1000932430379070_1425850935618977410_n.png?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=va-oKGJsogoAX9Yu_AC&_nc_ht=scontent.oculuscdn.com&oh=149c452ce5c9b9518cd7e4721eee01a9&oe=601F9DC4"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75240096_1000932430379070_1425850935618977410_n.png?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=2aHzAzc3x3AAX9JOkDc&_nc_ht=scontent.oculuscdn.com&oh=ae6cc675db4756cd06569a8acda4b2c9&oe=601F9DC4"
 							}
 						}
 					]
@@ -282,7 +307,7 @@
 								"id": "101107424746639",
 								"display_name": "Cheesecurls1227",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.8.383.383a/s160x160/38974602_160148905509157_2848321920141623296_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=rJW8J63FrYkAX9YHRXV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2807f9e16f28261f28b26cf0a51b1f8d&oe=601E420E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.8.383.383a/s160x160/38974602_160148905509157_2848321920141623296_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=QRwjtVGfkM4AX_AnaJn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c77284975d89c473f4b91f41d06b346&oe=601E420E"
 								}
 							},
 							"score": 4,
@@ -303,7 +328,7 @@
 				"description": "走进水果忍者(Fruit Ninja)世界，体验你最喜欢的水果大混乱，这是前所未有的。现在开始水果忍者（Fruit Ninja）游戏吧！",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982547_2639824366346961_3116553834472419832_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=I3MvVlkjv64AX8uWcbn&_nc_oc=AQn5w9kPEuvTNCY9HMVQNWO2k_-suBl2B_Lk6rVFHHoC-Q3rT7n_fK0HdrpHzyC6vrA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fc191678b0e830bd9a4157f1b338e11e&oe=601C1ADC",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982547_2639824366346961_3116553834472419832_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=I3MvVlkjv64AX8Yi9s5&_nc_oc=AQl_vFJtLZR1u_W0UTfLz5ZIj04cTerw4w_Hiah-ZMOjEVlz5qct-0A-a-va-IulZS8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=39c2ac51e5b0f98a79bfbda9e3d4e1d0&oe=60200F5C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

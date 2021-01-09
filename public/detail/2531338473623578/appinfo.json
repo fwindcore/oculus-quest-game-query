@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/86615890_562980487984801_1590634747162263552_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=MB7CL_pfF7sAX8MVp5J&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fbecd8b4f988328af0e9a8cf20091f72&oe=601F459F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/86615890_562980487984801_1590634747162263552_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=MB7CL_pfF7sAX8ZiYzL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=74bcf9df65d4552183cf10567d801ce7&oe=601F459F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_4348553791825108_2136961489225908224_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=PvF6UDEIzmkAX93LKst&_nc_ht=scontent.oculuscdn.com&oh=a98a7591ce12f8d39987a6f8dcaf42fe&oe=601E3676"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_4348553791825108_2136961489225908224_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=PvF6UDEIzmkAX8jc5gm&_nc_ht=scontent.oculuscdn.com&oh=0dc4f65fa68875fd072649f13d358ad7&oe=601E3676"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -82,13 +82,13 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "1.0",
-				"change_log": "General\nVOIP quality improvements, fixes for some cut outs and non-working voice that could occur!\nImproved Quest performance\nSmoothed out the movement of our UFOs\nAdded player has joined notifications\nSometimes incorrect player names fixed up \nRemoved the pumpkins!\n\nNetworking\nGame lobbies show whether open or in progress\nFixed incorrect region selection \nImproved networking of thrown objects, fixes up debris issues \n\nQuest \nFixed up colour space on Quest 1 + 2\nIncreased FX visual quality on Quest 2\n\nControls\nFixed sponge collisions with some controls\nFixes to the pump thresholds and added notifications to it, pumping should now be 42% more fun!\n\nSymbol mode\nImproved the readability of multi-glyph controls\nFixed up incidental instructions breaking symbols appearing for all the panel\n\nRobots\nYou can now play as one of our three robots! (CRT-3000, Cylindrake and Priscilla)\nShould now be friendlier and wave at you properly!\nGave them a few tweaks and upgraded their OS\n\nDifficulty\nTweaked hard mode to make it a little smoother difficulty wise\n",
+				"change_log": "New Years (bug) Resolutions!\n\nOculus Quest\n* Added an option for selecting refresh rate on Quest 2\n\nGeneral\n* Keep an eye out for ‘News Available’ notifications about our upcoming updates!\n\nBug Fixes\n* Fixed a bug that caused joining via code to place players in the wrong game\n* Fixed a bug that would allow players to join a game after it had started\n* Fixed a bug where the user could be pushed back by the in-game menu\n* Fixed a bug that caused the “public game” notification to appear for private games\n",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1285069723",
-				"id": "3582638655160216",
-				"required_space_adjusted": "2218205466",
+				"total_installed_space": "1285907653",
+				"id": "3651507078273373",
+				"required_space_adjusted": "2218614957",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3582638655160216"
+					"id": "3651507078273373"
 				}
 			},
 			"release_channels": {
@@ -134,7 +134,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "1.0",
-							"id": "3582638655160216"
+							"id": "3651507078273373"
 						}
 					}
 				]
@@ -145,44 +145,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1610074800,
-								"current_start_timestamp": 1610067600,
-								"temporal_info": {
-									"seconds_until_end_time": 840,
-									"seconds_until_start_time": 0
-								},
-								"vr_app_and_destination_string": "Spaceteam VR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2531338473623578",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Spaceteam VR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1033188977191081",
-								"is_vr_viewer_interested": false,
-								"name": "Thursday Team Time - 054 (US) - 7th January - Giveaway + Earn a Custom Name Tag! ",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031640_224539529050237_3498835260712718541_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=OZu1JgAYXDwAX-CA-ZJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3940566238089523ef9871abb6df547a&oe=601DB2C4"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1610222400,
 								"current_start_timestamp": 1610215200,
 								"temporal_info": {
-									"seconds_until_end_time": 148440,
-									"seconds_until_start_time": 141240
+									"seconds_until_end_time": 40616,
+									"seconds_until_start_time": 33416
 								},
 								"vr_app_and_destination_string": "Spaceteam VR",
 								"vr_applications": {
@@ -204,7 +171,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Solar Saturday - s11 (UK/EU) - 9th January - Giveaway + Earn a Custom Name Tag! ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982619_830004837573221_6023988391520120789_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=RVOPJdz49K8AX-AfwH5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=758b7b961af46a184fe8639fd6245e19&oe=601EB0A3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982619_830004837573221_6023988391520120789_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=RVOPJdz49K8AX-807c9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7bbace12aa9a2bf7cd1854e4baae71f4&oe=601EB0A3"
 								}
 							}
 						},
@@ -214,8 +181,8 @@
 								"current_end_timestamp": 1610247600,
 								"current_start_timestamp": 1610240400,
 								"temporal_info": {
-									"seconds_until_end_time": 173640,
-									"seconds_until_start_time": 166440
+									"seconds_until_end_time": 65816,
+									"seconds_until_start_time": 58616
 								},
 								"vr_app_and_destination_string": "Spaceteam VR",
 								"vr_applications": {
@@ -237,7 +204,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Solar Saturday - s12 (US) - 9th January - Giveaway + Earn a Custom Name Tag! ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_239324374201632_2602442065211892723_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=kYtsCnIs1okAX94EDnW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bdfad5ff30d4ac2ac2215694d5bd9416&oe=601EABDA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_239324374201632_2602442065211892723_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=kYtsCnIs1okAX-WYf1P&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8607e630b094dd2e42d3e2d91938bb8f&oe=601EABDA"
 								}
 							}
 						},
@@ -247,8 +214,8 @@
 								"current_end_timestamp": 1610654400,
 								"current_start_timestamp": 1610647200,
 								"temporal_info": {
-									"seconds_until_end_time": 580440,
-									"seconds_until_start_time": 573240
+									"seconds_until_end_time": 472616,
+									"seconds_until_start_time": 465416
 								},
 								"vr_app_and_destination_string": "Spaceteam VR",
 								"vr_applications": {
@@ -270,7 +237,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Thursday Team Time - 055 (UK/EU) - 14th January - Giveaway + Earn a Custom Name Tag! ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982471_213921763717782_6171378656790432122_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=p6RGwUbCiswAX8ngNd9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3f245cb16d49a5e03ba565464783538&oe=601E2496"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982471_213921763717782_6171378656790432122_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=p6RGwUbCiswAX-pUDqq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd00a41970cfae9150ef942a945b046f&oe=601E2496"
 								}
 							}
 						},
@@ -280,8 +247,8 @@
 								"current_end_timestamp": 1610679600,
 								"current_start_timestamp": 1610672400,
 								"temporal_info": {
-									"seconds_until_end_time": 605640,
-									"seconds_until_start_time": 598440
+									"seconds_until_end_time": 497816,
+									"seconds_until_start_time": 490616
 								},
 								"vr_app_and_destination_string": "Spaceteam VR",
 								"vr_applications": {
@@ -303,7 +270,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Thursday Team Time - 056 (US) - 14th January - Giveaway + Earn a Custom Name Tag! ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003263_424076865302623_6422320938944580699_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=Owo0yCD0xJ4AX-90B-u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c37a2b87286f55fd2384190fb95c6468&oe=601B9548"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003263_424076865302623_6422320938944580699_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=Owo0yCD0xJ4AX9s1LlC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=747d53adaa4d5957923b7c3c03b33d29&oe=601F89C8"
 								}
 							}
 						},
@@ -313,8 +280,8 @@
 								"current_end_timestamp": 1610827200,
 								"current_start_timestamp": 1610820000,
 								"temporal_info": {
-									"seconds_until_end_time": 753240,
-									"seconds_until_start_time": 746040
+									"seconds_until_end_time": 645416,
+									"seconds_until_start_time": 638216
 								},
 								"vr_app_and_destination_string": "Spaceteam VR",
 								"vr_applications": {
@@ -336,7 +303,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Solar Saturday - s13 (UK/EU) - 16th January - Giveaway + Earn a Custom Name Tag! ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031451_830546734403848_1336080657418905791_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=iblueUUdeCgAX9DoZK1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ebd055b9f00f53a39d790e692fa16066&oe=601DCD66"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031451_830546734403848_1336080657418905791_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=iblueUUdeCgAX9yXep0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=07f9ac3fdb4c6cc57788b2fb00ddaf8e&oe=601DCD66"
 								}
 							}
 						},
@@ -346,8 +313,8 @@
 								"current_end_timestamp": 1610852400,
 								"current_start_timestamp": 1610845200,
 								"temporal_info": {
-									"seconds_until_end_time": 778440,
-									"seconds_until_start_time": 771240
+									"seconds_until_end_time": 670616,
+									"seconds_until_start_time": 663416
 								},
 								"vr_app_and_destination_string": "Spaceteam VR",
 								"vr_applications": {
@@ -369,7 +336,139 @@
 								"is_vr_viewer_interested": false,
 								"name": "Solar Saturday - s14 (US) - 16th January - Giveaway + Earn a Custom Name Tag! ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001663_152649213050939_3275734666374333157_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=5GidC7inv30AX-oFqgO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e894ca10542d4dae2fb0d690547389c&oe=601F1B34"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001663_152649213050939_3275734666374333157_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=5GidC7inv30AX_2HuU0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=681a341826fcf39d11e2e5eee5993772&oe=601F1B34"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1611259200,
+								"current_start_timestamp": 1611252000,
+								"temporal_info": {
+									"seconds_until_end_time": 1077416,
+									"seconds_until_start_time": 1070216
+								},
+								"vr_app_and_destination_string": "Spaceteam VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2531338473623578",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Spaceteam VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1049242438919068",
+								"is_vr_viewer_interested": false,
+								"name": "Thursday Team Time - 057 (UK/EU) - 21st January - Giveaway + Earn a Custom Name Tag! ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982489_1138910173227902_1751303992194006913_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=wHws8JCRL6EAX8fD26j&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a27187e0580eed12f3b9e149c6c5f6c1&oe=601F6ECF"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1611284400,
+								"current_start_timestamp": 1611277200,
+								"temporal_info": {
+									"seconds_until_end_time": 1102616,
+									"seconds_until_start_time": 1095416
+								},
+								"vr_app_and_destination_string": "Spaceteam VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2531338473623578",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Spaceteam VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1049242888919023",
+								"is_vr_viewer_interested": false,
+								"name": "Thursday Team Time - 058 (US) - 21st January - Giveaway + Earn a Custom Name Tag! ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982604_159149352658704_8520530764250601100_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=9Jn_wJlT7OcAX9sVbHU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c493380ed2d1721a7593e800b518f6cc&oe=601E9C22"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1611432000,
+								"current_start_timestamp": 1611424800,
+								"temporal_info": {
+									"seconds_until_end_time": 1250216,
+									"seconds_until_start_time": 1243016
+								},
+								"vr_app_and_destination_string": "Spaceteam VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2531338473623578",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Spaceteam VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1049261185583860",
+								"is_vr_viewer_interested": false,
+								"name": "Solar Saturday - s15 (UK/EU) - 23rd January - Giveaway + Earn a Custom Name Tag! ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001667_237851354528661_6664500858759714317_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=PqYDMDR0rb4AX9_6VA5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=75186c664416169c3e23112cef1ecf8e&oe=601E7A4D"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1611457200,
+								"current_start_timestamp": 1611450000,
+								"temporal_info": {
+									"seconds_until_end_time": 1275416,
+									"seconds_until_start_time": 1268216
+								},
+								"vr_app_and_destination_string": "Spaceteam VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2531338473623578",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Spaceteam VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1049262835583695",
+								"is_vr_viewer_interested": false,
+								"name": "Solar Saturday - s16 (US) - 23rd January - Giveaway + Earn a Custom Name Tag! ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982489_129736345629024_1045737744997720674_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=fpzTTcYZodoAX-G_hHC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d37e1b17e85a78dbb4acef7eee328797&oe=601D3261"
 								}
 							}
 						}
@@ -384,7 +483,7 @@
 							"created_time": 1608023554,
 							"body_text": "Festive Greetings, Space Cadets!\n\nJust before we wrap things up for Christmas, we’re excited to announce the latest update for Spaceteam VR across all supported platforms.\n\nThis update contains several tweaks and quality of life improvements, and for the first time ever, you can now play as our iconic robots! The robots are now selectable as the player avatar in the customisation options.\n\nGeneral\n\n- VOIP quality improvements, fixes for some cut-outs and non-working voice that could occur!\n- Improved Quest performance\n- Smoothed out the movement of our UFOs\n- Added “player has joined” notifications\n- Incorrect player names sometimes being shown has been fixed up\n- Threw away the pumpkins left over from Halloween! (they were starting to go a little funky)\n\nNetworking\n\n- Game lobbies now show if open or in progress\n- Fixed incorrect region selection\n- Improved networking of thrown objects, fixes up debris issues\n\nQuest Specific\n\n- Fixed up colour space on Quest 1 + 2\n- Increased FX visual quality on Quest 2\n\nControls\n\n- Fixed sponge collisions with some controls\n- Fixes to the pump thresholds and added notifications to it, pumping should\nnow be 42% more fun!\n\nSymbol mode\n\n- Improved the readability of multi-glyph controls\n- Fixed up incidental instructions breaking symbols appearing for all the panel\n\nRobots\n\n- You can now play as one of our three robots! \n(CRT-3000, Cylindrake and Priscilla)\n- Should now be friendlier and wave at you properly!\n- Gave them a few tweaks and upgraded their OS\n\nDifficulty\n\n- Tweaked hard mode to make the difficulty increase between sectors a little smoother\n\nWe also have further updates coming in the new year offering more ways to play with your friends, new types of anomalies and reducing the wait time on multiplayer games!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974677_965081350565249_5899525578516662329_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=PtNJxtCmbYQAX9MndV4&_nc_ht=scontent.oculuscdn.com&oh=866977223f4bef7da724643de8bb1f16&oe=601D32FB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974677_965081350565249_5899525578516662329_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=PtNJxtCmbYQAX8xVt3S&_nc_ht=scontent.oculuscdn.com&oh=9a91c84d73df1378b7a9b8f936af0127&oe=601D32FB"
 							}
 						},
 						{
@@ -393,7 +492,7 @@
 							"created_time": 1597325327,
 							"body_text": "Please update your game version otherwise online functions will not work\n\nGeneral\n•    General fixes prepping for other updates coming soon – be sure to watch our Discord and Twitter for more information! \n•    Difficulty tweaks to reduce aggression of the super nova especially on easy levels! Further balancing across other sectors\n•    Ongoing improvements to panel generation and control placement\n\nAnomalies\n•    Goop and oil return!  Get those sponges ready!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003286_309966263444648_6594059627802505491_n.png?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=uWaiKmbRAw8AX-1A40z&_nc_ht=scontent.oculuscdn.com&oh=8745ac107d0cd9125ab6ce1371a2f767&oe=601C766B"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003286_309966263444648_6594059627802505491_n.png?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=uWaiKmbRAw8AX8v7FzI&_nc_ht=scontent.oculuscdn.com&oh=26585bc9057a3b1ac886942b852ee4dc&oe=60206AEB"
 							}
 						}
 					]
@@ -454,7 +553,7 @@
 			"support_website_url": "http://spaceteamvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 53,
+				"count": 54,
 				"orderings": [
 					{
 						"key": "top",
@@ -467,33 +566,29 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 53,
+				"count": 54,
 				"page_info": {
-					"end_cursor": "AQHRw3_pZeK2dnxi1_obi8rE-mvYvByHBESQ0eXka_JEks83948ETDkOfNWjM7zHNiXRmc1ongEOlEv9BsFXXNep2Q",
-					"start_cursor": "AQHRw3_pZeK2dnxi1_obi8rE-mvYvByHBESQ0eXka_JEks83948ETDkOfNWjM7zHNiXRmc1ongEOlEv9BsFXXNep2Q"
+					"end_cursor": "AQHR7CT7j4BK6YSdlsIAyGwXhrrKIseDOrX8-_yZ0uCKrxwwewVFwiqVsarlFnsl9DqJW18jj4YbM0CwKvuO0fNNow",
+					"start_cursor": "AQHR7CT7j4BK6YSdlsIAyGwXhrrKIseDOrX8-_yZ0uCKrxwwewVFwiqVsarlFnsl9DqJW18jj4YbM0CwKvuO0fNNow"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "163326625495735",
+							"id": "4170195613009180",
 							"author": {
-								"id": "110968524064879",
-								"display_name": "GeeseCTM",
+								"id": "1656609434367823",
+								"display_name": "Caeric",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.630.630a/s160x160/39001665_110969067398158_775734143330755968_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=Wq6kLnZavDoAX8xDOF9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e5472740ac8df366a67815fab5e6edeb&oe=601BCCF0"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/12522276_1656616167700483_2281367755825348608_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=7zBvyWeFWu4AX-ofWNp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e0a4680e16ecc310ba66a1729f22b565&oe=601F15A7"
 								}
 							},
-							"score": 5,
-							"reviewDescription": "I'll tell you what, this game is really fun and the developers are putting their heart and soul into it. You get two people or three people or four people playing it, yet it's a multiplayer game, and it's co-op, so you won't really feel like throwing the headset across the room when you lose like in PVP.  Well, you might (#$@& flying saucers!!)\n\nI haven't played with a six-man team yet, but I can imagine the chaos that would ensue and how absolutely a blast it would be. There would literally have to be some sort of organizational thing going on. People shouting over each other trying to get the commands out, things catching on fire, switches breaking, someone's voice sounds like they did a bunch of helium and are talking really fast and you have no idea what they're saying, the other dude's head is gigantic and he's talking really slow with a Wooommp kind of tone to his voice. People trying to figure out how to pronounce the words for the commands that you're telling other people.. honestly, it's like a board game, in a way, come to life.\n\nAlso, it's a puzzle game. Let's face it, if you like puzzle games and you like challenges, and you like to play with your friends, or you like to play with other people (with puzzle games) (get your mind out of the gutter) then this is pretty much a win-win situation. I think what people need to do when they play this game is friends list everybody that you play with and start getting groups going on on a daily basis.\n\nStop listening to these little kids that can't wait 5 minutes for someone to show up and play with them and so they leave and then write a bad review.\n\nIt's like Anthony Bourdain when he talks about yelp. Look up the YouTube video, he says that yelpers are the worst human beings on Earth because they leave bad reviews for the wrong reasons and ruin restaurants. \n\nI promise you, get this game, have your friends or family get this game, you can even play it if you have a group of people in the same room, one person jumps on the VR headset and the rest of the people can play it from their phone.\n\nObviously it's going to be even better if you're one of those Rich families where everybody has a headset LOL.\n\nOh, and I'll tell you what, if you get this game, send me a friend request, I'll accept it, then send me a chat message and tell me you bought the game, and I'll find time to jump in with ya.\n\nDo it! Do it NOW! (Get to da choppah!!)",
-							"reviewTitle": "The Reviews are Dumb. This Game Rocks",
-							"review_helpful_count": 29,
+							"score": 4,
+							"reviewDescription": "This is a phenomenal party game, especially since it works with the free phone version. If you want to shout spaceship jargon at each other, this is the most concentrated dosage of spaceship jargon a game can offer — plus in this VR version you can shoot aliens, swing a hammer at your console, cheat off the other players’ screens. It’s great. It’s got some bugs sometimes, but the devs update regularly.",
+							"reviewTitle": "Arguing in space, as a team",
+							"review_helpful_count": 0,
 							"review_rank_by_viewer": null,
-							"date": 1605317485,
-							"developerResponse": {
-								"date": 1605519983,
-								"body": "Hey there. Thanks very much for taking the time to leave a review. We're delighted to hear how much you enjoy Spaceteam VR. We've got some exciting things planned for the near future of Spaceteam VR, too! We have some new anomalies being introduced adding even more variety to the gameplay. There's a PSVR version in the works which will have cross-play with the PCVR and Oculus community, increasing player numbers and reducing any potential wait times for a game. We also have another little surprise up our sleeves which will bring even more players into the chaos of Spaceteam VR - we'll have more to reveal on that very soon.",
-								"id": "164096688752062"
-							}
+							"date": 1610168605,
+							"developerResponse": null
 						}
 					}
 				]
@@ -505,7 +600,7 @@
 				"description": "A cooperative and chaotic party game that requires you to shout technobabble at your friends! You need to work together… as a Spaceteam!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_411746466806119_2872617851179397197_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=l7JsrjOb_g0AX_P9rid&_nc_ht=scontent.oculuscdn.com&tp=28&oh=edbec535a4263e605d93ad890879f4b9&oe=601DD802",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_411746466806119_2872617851179397197_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=l7JsrjOb_g0AX-DhdVQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dc006123944d484016b57a82398f5634&oe=601DD802",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -10,13 +10,38 @@
 			"display_name": "Shooty Fruity",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "313190926653930",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "水果大作战",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "$25.99"
+						},
+						"strikethrough_price": {
+							"formatted": "$34.98"
+						},
+						"id": "315655056366518"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/57569430_1028324284301202_6429942937611532894_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=fnCIXbjUT80AX8bX-4p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=32c696996c3d3447d7ecaf8a5ec3671d&oe=601D2E0E"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75435290_2742148462730398_96781513042639743_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=s9VwwmarxFEAX_0QEgZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=799ff417d67c06b1d032c2e0d7282fa9&oe=601BD580"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75435290_2742148462730398_96781513042639743_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=s9VwwmarxFEAX-Xa7Ie&_nc_ht=scontent.oculuscdn.com&tp=28&oh=25d099bd08c2597b0464f3607280525f&oe=601FCA00"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3415353201821122_4613170621877790682_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=IdRyOoDX98kAX_EPizm&_nc_ht=scontent.oculuscdn.com&oh=1d2c148b8984d5e12fee852930afa5c4&oe=601E2754"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3415353201821122_4613170621877790682_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=IdRyOoDX98kAX-9ViKc&_nc_ht=scontent.oculuscdn.com&oh=b61bc5ab49a876ebefe3b4d317737971&oe=601E2754"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -167,7 +192,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR1uwMYff4BpYag5pVm1PYTkqMMk6fGiKwrj__l_TWDg3hqUkzLrUwF-JbCwrTnLFENct_PoviCul9eaCfwzt4kA"
+							"cursor": "AQHR-vE4dFq9LUnVs7g4hN3XgCnD43FBkesK91ASvYpzyFFqTjtd60B2ejRhZWOu4kBqVWv-S1zFzRVlRTzhRbOAZQ"
 						}
 					]
 				}
@@ -239,8 +264,8 @@
 			"firstQualityRatings": {
 				"count": 34,
 				"page_info": {
-					"end_cursor": "AQHRvdSzBuFltgMXaDzF6z7O2WN1XNcbEj5-0agdlcjdzLQFZWUd6XxylRnOmI_CqxDTbMzZ1Wi_Ox4Cc-7m5_pLEQ",
-					"start_cursor": "AQHRvdSzBuFltgMXaDzF6z7O2WN1XNcbEj5-0agdlcjdzLQFZWUd6XxylRnOmI_CqxDTbMzZ1Wi_Ox4Cc-7m5_pLEQ"
+					"end_cursor": "AQHRNCBxzxWc-uI-LgYLZU12lFTXS42xThcxSduLmvZm3HOKNYuXrx1sqw7-XTwfeu9jBpiZC4EFVmcm0w_JT-tKpw",
+					"start_cursor": "AQHRNCBxzxWc-uI-LgYLZU12lFTXS42xThcxSduLmvZm3HOKNYuXrx1sqw7-XTwfeu9jBpiZC4EFVmcm0w_JT-tKpw"
 				},
 				"edges": [
 					{
@@ -250,13 +275,13 @@
 								"id": "100252987874497",
 								"display_name": "Saxomophonist",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974781_209787800254348_6335593630849302528_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=fVdTUymx79IAX8_dINi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2808f9708c4a2b7e445e6a180e8c3307&oe=601CFE94"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974781_209787800254348_6335593630849302528_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=fVdTUymx79IAX84r2jI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4fc3827afb4548098bc0023ffa221614&oe=6020F314"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "When making Shooty Fruity, the developers seem to have found a rare balance between a quirky style and intense gameplay. This surprisingly challenging game capitalises on an almost compulsive need to tick all the boxes and earn all the stars. \n\nAs the levels become increasingly difficult, the game demands that you adjust accordingly, and makes you want to beat your previous scores. \n\nIf you consider yourself a completionist, enjoy a good challenge, or like watching your name climb up the leaderboard, this is probably a game for you.",
 							"reviewTitle": "Full review up on 6DOF Reviews",
-							"review_helpful_count": 26,
+							"review_helpful_count": 27,
 							"review_rank_by_viewer": null,
 							"date": 1609564894,
 							"developerResponse": null
@@ -271,7 +296,7 @@
 				"description": "THE AWARD WINNING MULTI-TASKING SHOOTER\n\nDo your job whilst shooting guns! Shooty Fruity combines high agency job simulation with exhilarating combat that makes you feel like a true action hero - whether McClane, Wick or Rambo. \n\nScan, serve & pack across countless missions. Take on new roles and unlock weapons to fight your way through your career. Scan shoot repeat!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031433_2769855023339321_3743352667922796993_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=yeWiALobQTsAX8C_yY_&_nc_oc=AQndOmb2WS3wNNlllI8M-d0PX_8FiAiWSCvEJXj0uSxsykp3CMUIHeFjRpK4Kl9Chxs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=52be553cabaf5e9b65de8717067bf386&oe=601E50F6",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031433_2769855023339321_3743352667922796993_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=yeWiALobQTsAX8uC7wA&_nc_oc=AQlY4_pn4KkKYrkRZwgj23bH5ZEppPJOKLXWhugEhqG_lxwNL5zMorb2VbRp6zbD3Xk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46746ff46fafffc3eefb061c4607986e&oe=601E50F6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
