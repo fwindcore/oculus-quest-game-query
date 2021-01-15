@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974529_397817817726354_5123164521132720128_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=PhW8Y48QQo4AX9anQls&_nc_ht=scontent.oculuscdn.com&tp=28&oh=da05090a1973e154fbfcb833aec5cd75&oe=6026406C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974529_397817817726354_5123164521132720128_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=i0AV2k-G9iQAX8zOnJj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f7d081ac909fb7e53ccd190d93800f87&oe=6026406C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38984443_397817171059752_1902088608483901440_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=vGi709zFtdQAX91imgM&_nc_ht=scontent.oculuscdn.com&oh=01e2eac6de1a187f5447ab3c05821d36&oe=6025E30A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38984443_397817171059752_1902088608483901440_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=vGi709zFtdQAX8JbmVN&_nc_ht=scontent.oculuscdn.com&oh=f5f6d63d058e6859dcebd995a2bd6edb&oe=6025E30A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -212,8 +212,11 @@
 			"is_demo_of": null,
 			"appName": "Ultrawings",
 			"platformOffer": null,
-			"is_giftable": false,
-			"current_gift_offer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "2074239079361872"
+			},
 			"externalReviews": {
 				"count": 0
 			},
@@ -236,8 +239,8 @@
 			"firstQualityRatings": {
 				"count": 424,
 				"page_info": {
-					"end_cursor": "AQHRur87rEqt_54U4fe3u56JegYtWdFggClH-H4CD1YJxw9ETYRhAy-pQkPLC2pt9KtNzDpGJGJlh4muGKxK2pKiHg",
-					"start_cursor": "AQHRur87rEqt_54U4fe3u56JegYtWdFggClH-H4CD1YJxw9ETYRhAy-pQkPLC2pt9KtNzDpGJGJlh4muGKxK2pKiHg"
+					"end_cursor": "AQHRTRGOiliaHTEyuMS_9fht1j9gQMFKE-OenbjkkDXPnqr1d7bq9j_3skez3z6ukb-sKR19XALXbw19JumqtViUxA",
+					"start_cursor": "AQHRTRGOiliaHTEyuMS_9fht1j9gQMFKE-OenbjkkDXPnqr1d7bq9j_3skez3z6ukb-sKR19XALXbw19JumqtViUxA"
 				},
 				"edges": [
 					{
@@ -247,13 +250,13 @@
 								"id": "106345077546104",
 								"display_name": "InQuestor",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38984443_218153559698588_1559055600755071051_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=gdGmhtHrNTUAX84pofL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6915b823130642e6fcf02f8a0bb3fbbd&oe=602488EF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38984443_218153559698588_1559055600755071051_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=gdGmhtHrNTUAX_J84_B&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dc6d05a1b11a81306a5e41094eac6aa4&oe=60287D6F"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Fun game. Pleasant to fly around. Pity the hills are so blocky and untextured. I think the aircraft banking is a bit limited. Overall I like it. But I would like to see some more flight sim games, WW2 type like CFS2 OR even the old Red Baron, still one of my favourites. With even more modern graphics these would be fantastic.",
 							"reviewTitle": "Fun",
-							"review_helpful_count": 24,
+							"review_helpful_count": 27,
 							"review_rank_by_viewer": null,
 							"date": 1608919253,
 							"developerResponse": null
@@ -268,7 +271,7 @@
 				"description": "Needs text",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035353_426276311276994_7329258572754190336_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=fkCDv58tlo4AX-FGdyG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0ffbac59e9aa26f4feda80e70dd3ae37&oe=6024B74E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035353_426276311276994_7329258572754190336_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=fkCDv58tlo4AX8jUAt2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b2af24636bba0d41af217866218896e0&oe=6028ABCE",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

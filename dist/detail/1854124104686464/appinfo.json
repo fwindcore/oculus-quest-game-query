@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982475_739835543063121_4841531184682893312_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=XF658shw2NYAX9Qc7gm&_nc_oc=AQmN8JqnHQ4eG9M8Fmc4lZD-BCORZhpmnZTY4H6dvRU27zCyY41u1hmsdPMnMDU_UAE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4d00ab9994d758de114604d9e4a1678d&oe=6025ED66"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982475_739835543063121_4841531184682893312_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=Ymd0snetxPUAX_SxWTE&_nc_oc=AQkPqvo1UWBJ5oQzwqj4ihYsgvIFBBqiFVDJ7s-IX3IIhop7g0z5tPSgmhICgjaDZxI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=17f96f5a2936337fc0e423887b99a089&oe=6025ED66"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_739834173063258_3048899396830756864_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=JDYFct4bmz0AX-5GKCR&_nc_ht=scontent.oculuscdn.com&oh=ce9c85594a1c86eeeae6726f7ed5b90c&oe=6026265D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_739834173063258_3048899396830756864_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=3pT-aivwQP8AX9sUlcv&_nc_ht=scontent.oculuscdn.com&oh=405b3095b18efe34519cb0ab75a9bdb4&oe=6026265D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -239,8 +239,11 @@
 			"is_demo_of": null,
 			"appName": "Thumper",
 			"platformOffer": null,
-			"is_giftable": false,
-			"current_gift_offer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "831110897287312"
+			},
 			"externalReviews": {
 				"count": 0
 			},
@@ -263,8 +266,8 @@
 			"firstQualityRatings": {
 				"count": 108,
 				"page_info": {
-					"end_cursor": "AQHRKE_QWgrMh3wGQfwmna1x9sLIhbFU3L0hdSPoFSiueokVh34cHwC_KafWtIFx-XX2UI4bllaHYi6PhxLCyjuXzQ",
-					"start_cursor": "AQHRKE_QWgrMh3wGQfwmna1x9sLIhbFU3L0hdSPoFSiueokVh34cHwC_KafWtIFx-XX2UI4bllaHYi6PhxLCyjuXzQ"
+					"end_cursor": "AQHRxpJDKs4zuSc4Tzyo7URupDC20bsDn9ZmLwZ31r-N_pm-AX_neWux8hqjJEbHufCiqke0pzUg4DyhZT9J5NEHUw",
+					"start_cursor": "AQHRxpJDKs4zuSc4Tzyo7URupDC20bsDn9ZmLwZ31r-N_pm-AX_neWux8hqjJEbHufCiqke0pzUg4DyhZT9J5NEHUw"
 				},
 				"edges": [
 					{
@@ -274,13 +277,13 @@
 								"id": "109909384225877",
 								"display_name": "skyrios",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75240106_129304288953053_7300531341522752756_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=wvuh8MBrrvgAX8mJsFt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed548c55536bfee294d6d2044b5f7ed9&oe=602255FD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75240106_129304288953053_7300531341522752756_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=ujsA_0J_7MQAX-rEGK_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f498bc61fb74d773aaa1513f7086b2a&oe=60264A7D"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game is really good. It really immerses you into this weird world. Easy to catch with only one button and analog stick even a non gamer will get really fast into it, but as it goes it gets challenging. \n\nMy complaint is that playing this in quest 2 thought seems worst than I thought. The screen seems like having the screen door effect. \n\nPlease make this update so that is played as it deserves!",
 							"reviewTitle": "Great game! Please make quest 2 update!",
-							"review_helpful_count": 7,
+							"review_helpful_count": 9,
 							"review_rank_by_viewer": null,
 							"date": 1609335947,
 							"developerResponse": null
@@ -295,7 +298,7 @@
 				"description": "《Thumper》充滿節奏暴力：有經典節奏動作、疾風般速度，和殘暴的肉體打鬥。遊戲中由您扮演太空甲蟲，勇闖煉獄般的虛空，面對來自未來，令人陷入瘋狂的巨頭。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974760_1938861752892444_3989627990639116288_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=SciyERx8fZsAX8b2BUV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=be740eab6fcd1b8708942a30dfd9a68b&oe=6024F778",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974760_1938861752892444_3989627990639116288_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=SciyERx8fZsAX-wvKas&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f306657ce9102cfc627b795449c6f35&oe=6024F778",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

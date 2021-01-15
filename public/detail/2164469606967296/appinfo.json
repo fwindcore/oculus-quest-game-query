@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982716_428153231354471_2640931573054046208_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=Zc35AubbJrsAX_7VgAr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6b804286757a60944fe5c12d82c7957e&oe=6023493C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982716_428153231354471_2640931573054046208_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=vYn54irZ6O8AX__wmDy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e97dff42119ac202648d67474092a5df&oe=60273DBC"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974659_428149661354828_2828981970170544128_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=CExFx-keWK8AX9lzaY6&_nc_ht=scontent.oculuscdn.com&oh=e2ffb4ac6cc582bdff6156c0897d378c&oe=6022B590"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974659_428149661354828_2828981970170544128_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=CExFx-keWK8AX_rKpD4&_nc_ht=scontent.oculuscdn.com&oh=512b8a176e515c66984137c67ff2ddd6&oe=6026AA10"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -192,8 +192,11 @@
 			"is_demo_of": null,
 			"appName": "Apollo 11",
 			"platformOffer": null,
-			"is_giftable": false,
-			"current_gift_offer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "654419535005248"
+			},
 			"externalReviews": {
 				"count": 0
 			},
@@ -216,8 +219,8 @@
 			"firstQualityRatings": {
 				"count": 69,
 				"page_info": {
-					"end_cursor": "AQHRyBJSU-w2K39o-vy6HIWjCO8cLQQWUiKq2x5ERPjWAYDdCOI2GNuhVNpuQU0zoXHn1R0-YcLxYfJr1TE-THy30g",
-					"start_cursor": "AQHRyBJSU-w2K39o-vy6HIWjCO8cLQQWUiKq2x5ERPjWAYDdCOI2GNuhVNpuQU0zoXHn1R0-YcLxYfJr1TE-THy30g"
+					"end_cursor": "AQHRSZL_BwIPg6Zobi38NZWXYAYy4M0qp4CzlXApLeWr-QpS5I2L2RckpsLp7Eto5Zrv1kTlMqNl4EQPJxVMV8pogQ",
+					"start_cursor": "AQHRSZL_BwIPg6Zobi38NZWXYAYy4M0qp4CzlXApLeWr-QpS5I2L2RckpsLp7Eto5Zrv1kTlMqNl4EQPJxVMV8pogQ"
 				},
 				"edges": [
 					{
@@ -231,7 +234,7 @@
 							"score": 3,
 							"reviewDescription": "It’s mostly a series of short 3d videos.  There are a couple of sims, but they are not at all accurate (as anyone who has played KSP will immediately notice).  And there are no options, for example, to turn off the distracting background music.  But it’s still an interesting documentary.",
 							"reviewTitle": "Not terrible",
-							"review_helpful_count": 12,
+							"review_helpful_count": 15,
 							"review_rank_by_viewer": null,
 							"date": 1602047496,
 							"developerResponse": null
@@ -246,7 +249,7 @@
 				"description": "Apollo 11 is the story of the greatest journey ever taken by humankind. Apollo 11 is a complete remake of the very popular Apollo 11 VR which was a launch title on the Oculus Rift. This new version has all new assets, new textures, new animation, new lighting and revamped audio. Take one small step today and climb aboard Apollo 11 for the journey of a lifetime.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982447_2688349147878697_5368003375268888576_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=nAVnkqEebowAX-ajsOp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2605182b21000d53345b3088c11f6e65&oe=602579A5",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982447_2688349147878697_5368003375268888576_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=rQ66gGOi8eMAX_BKNlG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f4f27c2417acd73c29436c923f8ac22c&oe=602579A5",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
