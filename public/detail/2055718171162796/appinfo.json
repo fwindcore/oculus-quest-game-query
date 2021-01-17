@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=Ffc3z0t6IPsAX8BTIVn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=662a77d59fd427fecb02d2b87da94136&oe=6025F465"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=xs3bGn9-Fr4AX-NDULw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1fd5bd707cf105b4d315a6f6dafb3386&oe=6029E8E5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=TG_Tzh4A7JUAX8Z74gG&_nc_ht=scontent.oculuscdn.com&oh=8144c0fbe330a7208a63b696e45392ca&oe=6027E6CD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=qvr3sfqtH9kAX-_Si9h&_nc_ht=scontent.oculuscdn.com&oh=8362b5a25f88877262f491d43ff3023f&oe=6027E6CD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 39,
+					"count": 40,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 207,
+					"count": 208,
 					"starRating": 5
 				}
 			],
@@ -82,14 +82,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.09.2",
-				"change_log": "Desert Lounge Alpha: Getaway to your own private lounge in the new desert environment by Thomas Mouraille. This Desert Lounge is a classic loft style space with 180 degree views of a surreal desert where you can set up your decks and host a private party with friends. This is an early-access, alpha version of the environment. We'll be adding more features to it in the coming weeks.\n\nNew Skins: We've added a couple of new dope community skins from Miss Sandvich and BadDawGe.\n\nUpdate to Audio Library:  we're rolling out an update to our audio signal processing library.\n\nContent UI: We've introduced a new content UI to make it easier for you to access your skins and environments.\n\nUpdated Lighting: Lighting updates to properly support new desert environments, also affects the original lounge environment. Should be better lighting and reflections. Still Some tweaking to be done to get it balanced but should be a big Improvement.\n",
+				"version": "0.09.3",
+				"change_log": "New 3D Lessons with DJ Hapa: A set of interactive 3D lessons delivered by our resident mentor DJ Hapa. When you play the lessons, Hapa will demonstrate techniques virtually, on the decks and challenge to you do the lessons. \n\nImproved lighting for the environment, avatars and equipment. ",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "555230915",
-				"id": "3637121736355757",
-				"required_space_adjusted": "887239194",
+				"total_installed_space": "572766300",
+				"id": "3724547360946527",
+				"required_space_adjusted": "917738000",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 6
@@ -168,7 +168,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3637121736355757"
+					"id": "3724547360946527"
 				}
 			},
 			"release_channels": {
@@ -179,8 +179,8 @@
 						"id": "2230116180561926",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.09.2",
-							"id": "3637121736355757"
+							"version": "0.09.3",
+							"id": "3724547360946527"
 						}
 					},
 					{
@@ -200,44 +200,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1610739000,
-								"current_start_timestamp": 1610737200,
-								"temporal_info": {
-									"seconds_until_end_time": 37904,
-									"seconds_until_start_time": 36104
-								},
-								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2055718171162796",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Tribe XR: DJ in VR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "711860046181864",
-								"is_vr_viewer_interested": false,
-								"name": "Learn to DJ - a Tribe XR Class",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031495_475214230540014_8630163206433234541_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=ZqVMuK_Jf6IAX_L1xmp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f19162edfbb4933625d6b297fbed6b57&oe=6027C95A"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1611171000,
 								"current_start_timestamp": 1611169200,
 								"temporal_info": {
-									"seconds_until_end_time": 469904,
-									"seconds_until_start_time": 468104
+									"seconds_until_end_time": 297189,
+									"seconds_until_start_time": 295389
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -259,7 +226,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_705150597058823_3423581799774412685_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=74ZtMguBULcAX8E1LSC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5979ee6b6ad5482c04512ccfeff69ffd&oe=6028149C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_705150597058823_3423581799774412685_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=74ZtMguBULcAX9xY03N&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8175726470360a773e2e786470ad584b&oe=6028149C"
 								}
 							}
 						},
@@ -269,8 +236,8 @@
 								"current_end_timestamp": 1611343800,
 								"current_start_timestamp": 1611342000,
 								"temporal_info": {
-									"seconds_until_end_time": 642704,
-									"seconds_until_start_time": 640904
+									"seconds_until_end_time": 469989,
+									"seconds_until_start_time": 468189
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -292,7 +259,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_235116071356514_4730592534428421557_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=vE97tLzk7GAAX9Kv8lO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c97a85eacb0bc14587030a32db3267d7&oe=60264692"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_235116071356514_4730592534428421557_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=-oHLLfonWbUAX89rYtq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a9c31e7ff51dcc323dae18278d9c0fa&oe=602A3B12"
 								}
 							}
 						}
@@ -305,7 +272,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRtaLtNKXdA0N_lHYidZjem5YWcr94ufCa6JfmMqma87zLN34MyN5Wct6igFWLD06JWM0CnyuaqIkSDyg-FbnMZA"
+							"cursor": "AQHRbJ3ZMfKqc5-3GakvSFt_-9kqnkx61f8YurPAGxGyn-1z0jiIWrmzw7jzcduD9GMB3D2R5n87nDISh6vZXFxOtg"
 						}
 					]
 				}
@@ -358,11 +325,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4770318021201,
+			"quality_rating_aggregate": 4.4771929824561,
 			"support_website_url": "http://www.tribexr.chat/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 186,
+				"count": 187,
 				"orderings": [
 					{
 						"key": "top",
@@ -375,10 +342,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 186,
+				"count": 187,
 				"page_info": {
-					"end_cursor": "AQHRV55Tokf7CoP4Us53IiiZ93zdvb_DvKFsm6chXP01XxsQhd_uHFrwZs9ePXZ7sx6ksqIEGsnjpYPPWRLrM23Dnw",
-					"start_cursor": "AQHRV55Tokf7CoP4Us53IiiZ93zdvb_DvKFsm6chXP01XxsQhd_uHFrwZs9ePXZ7sx6ksqIEGsnjpYPPWRLrM23Dnw"
+					"end_cursor": "AQHR95MGb1HPJhMgxsCEkDXGtmNC3IBWAqhfI1akORxIJIK8kQQlGaNCTzCJMq8ycX56DY3AbvHrglj45DE3_c1R1Q",
+					"start_cursor": "AQHR95MGb1HPJhMgxsCEkDXGtmNC3IBWAqhfI1akORxIJIK8kQQlGaNCTzCJMq8ycX56DY3AbvHrglj45DE3_c1R1Q"
 				},
 				"edges": [
 					{
@@ -388,13 +355,13 @@
 								"id": "100722861663427",
 								"display_name": "BananasCoconut",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=w8r-s5u8OKkAX9ukhYZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c03fa2d269199860040ef7742f4e3658&oe=6026706B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=jKqnay7cCbwAX9Lxx25&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1bcc9f0d765a49ec9b84f1b26f689923&oe=602A64EB"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Hey all\n\nBought my quest in the spring of 2020..have a couple handful of games /apps and haven’t felt as compelled to review one as Tribe DJ....first this isn’t a game, it’s an incredible virtual tool..so anyone looking for beatsaber etc this isn’t for you ..UNLESS you are ready to learn a new skill ...in which case this is amazing. \n\nA full dj deck loaded with catchy tracks to learn off of.  Detailed instructions and In house/YouTube tutorials.  Apparently a great online community as well. For me , this is what VR is truly for ....unlimited growth potential.\n \nI work in a creative field and was in a studio a month ago ...saw a  DJ mix board off to the side .....it looked like an alien spaceship cockpit👽...went back a week and half later after having Tribe, and when I saw the board it felt oddly like a friend. 👍 can’t wait till we can play together 👍👍\n\nIf you truly want to be productive in between Zombie blasting and fruit slashing then do not hesitate to purchase. \n Fact : Everyone loves a bumpin’ dj. You want to make friends and fans  and have excuses to go to clubs every weekend after pandemic is over ?  Download this now and make it happen.",
 							"reviewTitle": "Amazing. Unlimited potential.",
-							"review_helpful_count": 58,
+							"review_helpful_count": 64,
 							"review_rank_by_viewer": null,
 							"date": 1609100030,
 							"developerResponse": {
@@ -413,7 +380,7 @@
 				"description": "Become a VR DJ and mix your tracks in Tribe XR.\n\nTribe XR is a community for beginners looking to learn how to DJ and professionals looking for something fresh and fun. Feel the rush of performing and get lost in the joy of mixing. Immerse yourself the VR DJ community.\n\nImport your own music, invite your friends, and start rocking the room.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566687_428175518373042_8591877291159277685_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=BzO2wtcORUQAX8LPADW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a89482b61846a3779fc72f5fc94b319b&oe=6028A03C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566687_428175518373042_8591877291159277685_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=qNG1UMLGwkYAX9Z_e89&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62dcd82652afa1a47cdc7eda6e9f87e3&oe=6028A03C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

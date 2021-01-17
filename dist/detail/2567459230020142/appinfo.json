@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031376_1410560309140416_1131387466216546176_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=XxKuqNVxcAMAX-Zt9so&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b87f2fad775a9701fa0a52924a2987a6&oe=6026D248"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031376_1410560309140416_1131387466216546176_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=XxKuqNVxcAMAX_49r0V&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b7d3a2590789599949b26bed3bee286a&oe=602AC6C8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_324819305392302_4484775244299607313_n.mp4?_nc_cat=101&ccb=2&_nc_sid=0ed769&_nc_ohc=5tgd7MELlhkAX9GqgIz&_nc_ht=scontent.oculuscdn.com&oh=51ebb6cba13aa7f8a794693f46625948&oe=602816FE"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_324819305392302_4484775244299607313_n.mp4?_nc_cat=101&ccb=2&_nc_sid=0ed769&_nc_ohc=B6WuC9vQUn8AX-_0CGr&_nc_ht=scontent.oculuscdn.com&oh=fe9991ed32139d678bf0f734a8ba1afc&oe=602816FE"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 13,
+					"count": 14,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 10,
+					"count": 12,
 					"starRating": 2
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 567,
+					"count": 574,
 					"starRating": 5
 				}
 			],
@@ -99,22 +99,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "4481700841866548",
+				"id": "403670321028259",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2249",
-					"formatted": "$22.49"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99",
-					"offset": 100
+					"formatted": "$24.99"
 				},
-				"promo_benefit": "-10%",
-				"end_time": 1610870340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -197,16 +192,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "4481700841866548"
+				"id": "403670321028259"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7339312406577,
+			"quality_rating_aggregate": 4.7231222385862,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 418,
+				"count": 425,
 				"orderings": [
 					{
 						"key": "top",
@@ -219,10 +214,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 418,
+				"count": 425,
 				"page_info": {
-					"end_cursor": "AQHRLsZYKK0JYcKRDyD31HNkKp7lBlyrih_PrbX_gBwgCNziNDvhlZq4a150W6MW2R1M7hNNrqAI76PKzzQFnNXG2A",
-					"start_cursor": "AQHRLsZYKK0JYcKRDyD31HNkKp7lBlyrih_PrbX_gBwgCNziNDvhlZq4a150W6MW2R1M7hNNrqAI76PKzzQFnNXG2A"
+					"end_cursor": "AQHRIrxgPhopMJ-gRTtW7O2zFvReD6CVOWcNZ6L6Rj6lgUqo0wSt3g6iEn_nYwCWa51tuaroB9JDiiKLgcSoAtrz3A",
+					"start_cursor": "AQHRIrxgPhopMJ-gRTtW7O2zFvReD6CVOWcNZ6L6Rj6lgUqo0wSt3g6iEn_nYwCWa51tuaroB9JDiiKLgcSoAtrz3A"
 				},
 				"edges": [
 					{
@@ -232,13 +227,13 @@
 								"id": "110456780673322",
 								"display_name": "LordBiscuits",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269157_190111589374507_4327032328098116735_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=2Rd4OVBSvNEAX-EU_Pw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe5e033fdf108a0420971fecf4c4dd65&oe=6027EB63"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269157_190111589374507_4327032328098116735_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=2Rd4OVBSvNEAX-LHS2w&_nc_ht=scontent.oculuscdn.com&tp=28&oh=795180aeb2fac072bd7af07650291be4&oe=6027EB63"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Just getting started with this game but loving it so far. Top tip though, if you do go for an overhand smash with a mace at any point, ensure they're isn't a table in the way. The game is still playable with two fingers taped together.\n\nThis one requires a bit more room than the average non-roomscale standing title.",
 							"reviewTitle": "10/10, would break fingers again",
-							"review_helpful_count": 184,
+							"review_helpful_count": 251,
 							"review_rank_by_viewer": null,
 							"date": 1607193553,
 							"developerResponse": null
@@ -253,7 +248,7 @@
 				"description": "Fantasy and synthwave collide in this physically active VR sword fighting game. Grow stronger as you battle through an awesome neon environment and strike down magic-infused monstrosities in this hack-and-slash roguelite. Fight. Fall. Rise Again.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035425_218190093278303_4024475556306434038_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=y3IfL2c9a4YAX_3Yxm5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d1119a602589ea00a78e8a96e11b51b8&oe=6027FCD2",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982664_699428520908267_2230358571810266920_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=hjKXP3BLjaYAX8GMfWe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8cfb07bffbe0f7c9b986446ff5a3e53e&oe=6027F70B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
