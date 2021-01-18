@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=U11GBKMkDAUAX_Ktl5A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bbeff28b2387c96e5d7837290b3c1031&oe=602A7586"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=U11GBKMkDAUAX9ZyagO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=918f3579af75e49bac2f50db0a63e83c&oe=602A7586"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=GlUCELeLOE8AX8hqE2Q&_nc_ht=scontent.oculuscdn.com&oh=18dc53bb5afe07f90ea2dd98463b77b7&oe=6029E72F"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=GlUCELeLOE8AX-j3U02&_nc_ht=scontent.oculuscdn.com&oh=d29a47f0a22a3d85ea2905a63b8bd02a&oe=6029E72F"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,12 +31,12 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 176,
+					"count": 177,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 324,
+					"count": 326,
 					"starRating": 4
 				},
 				{
@@ -150,110 +150,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1610913600,
-								"current_start_timestamp": 1610906400,
+								"current_end_timestamp": 1610978400,
+								"current_start_timestamp": 1610977500,
 								"temporal_info": {
-									"seconds_until_end_time": 39785,
-									"seconds_until_start_time": 32585
-								},
-								"vr_app_and_destination_string": "Bigscreen Beta",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2497738113633933",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Bigscreen Beta"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1647629322086537",
-								"is_vr_viewer_interested": false,
-								"name": "Watch THE SPONGEBOB MOVIE: SPONGE OUT OF WATER in 3D",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_422986785418518_1599891923171141405_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=4vsH6Dm2IhkAX9ZVXpM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3fdb83f475a4bbb7a6672baf8b800879&oe=60284A75"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1610920800,
-								"current_start_timestamp": 1610916300,
-								"temporal_info": {
-									"seconds_until_end_time": 46985,
-									"seconds_until_start_time": 42485
-								},
-								"vr_app_and_destination_string": "Bigscreen Beta",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2497738113633933",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Bigscreen Beta"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1650544131795056",
-								"is_vr_viewer_interested": false,
-								"name": "SPACEX FALCON 9 LAUNCH: Starlink 16",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_239093577809180_6321836859654191050_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=9RUko1tFgbQAX_t24j9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e3a5e35e70582025b580b4329f9a7524&oe=602A9204"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1610946000,
-								"current_start_timestamp": 1610938800,
-								"temporal_info": {
-									"seconds_until_end_time": 72185,
-									"seconds_until_start_time": 64985
-								},
-								"vr_app_and_destination_string": "Bigscreen Beta",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2497738113633933",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Bigscreen Beta"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1647629688753167",
-								"is_vr_viewer_interested": false,
-								"name": "Watch STAR TREK BEYOND in 3D",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974684_733365753981598_1691045884255837873_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=hzK-gba3DnEAX9Y4lZf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d4aceb768b548b1d13afe287bca61d6b&oe=602891DF"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1611010800,
-								"current_start_timestamp": 1611007200,
-								"temporal_info": {
-									"seconds_until_end_time": 136985,
-									"seconds_until_start_time": 133385
+									"seconds_until_end_time": 18102,
+									"seconds_until_start_time": 17202
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -275,7 +176,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "SPACEX FALCON 9 LAUNCH: Starship SN9",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_4278013808892518_2570851045012233590_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=1DitVolrgzYAX92ear-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=492f61cb79222dc4f221c73832734445&oe=602B6AAB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_4278013808892518_2570851045012233590_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=1DitVolrgzYAX9KeqIW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e14b0fda8faa6cca69fb7a6129608be&oe=602B6AAB"
 								}
 							}
 						},
@@ -285,8 +186,8 @@
 								"current_end_timestamp": 1611032400,
 								"current_start_timestamp": 1611025200,
 								"temporal_info": {
-									"seconds_until_end_time": 158585,
-									"seconds_until_start_time": 151385
+									"seconds_until_end_time": 72102,
+									"seconds_until_start_time": 64902
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -308,7 +209,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch MY HERO ACADEMIA: TWO HEROES",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75622020_428467165018273_3147468229428509636_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=UPk7rZCP5LcAX_OIiCP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a98078e6541fb4608b4d4fabf5379749&oe=6028CC5A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75622020_428467165018273_3147468229428509636_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=UPk7rZCP5LcAX87NLuU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8846e8520930c436c5de757bf8a002f7&oe=602CC0DA"
 								}
 							}
 						},
@@ -318,8 +219,8 @@
 								"current_end_timestamp": 1611118800,
 								"current_start_timestamp": 1611111600,
 								"temporal_info": {
-									"seconds_until_end_time": 244985,
-									"seconds_until_start_time": 237785
+									"seconds_until_end_time": 158502,
+									"seconds_until_start_time": 151302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -341,7 +242,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TERMINATOR GENISYS in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982601_320750305855455_3754738813689586072_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=Jcc9jebnO4QAX_N8O07&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1715c2aee7510bdb6eef3cdf693633ce&oe=602798DF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982601_320750305855455_3754738813689586072_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=Jcc9jebnO4QAX88-2nM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=da78600475977f7a9f93d404e11306bc&oe=602B8D5F"
 								}
 							}
 						},
@@ -351,8 +252,8 @@
 								"current_end_timestamp": 1611205200,
 								"current_start_timestamp": 1611198000,
 								"temporal_info": {
-									"seconds_until_end_time": 331385,
-									"seconds_until_start_time": 324185
+									"seconds_until_end_time": 244902,
+									"seconds_until_start_time": 237702
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -374,7 +275,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch STAR TREK INTO DARKNESS in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003273_245527953651716_8997576404652237526_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=cf4M210UMkIAX9BYvfm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5d533b996cd3f3d2bce6e6783dce97d6&oe=60292B29"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003273_245527953651716_8997576404652237526_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=cf4M210UMkIAX-dLHqR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe8f1de45ddd8bb713f4e72cd2e8d70d&oe=60292B29"
 								}
 							}
 						},
@@ -384,8 +285,8 @@
 								"current_end_timestamp": 1611234000,
 								"current_start_timestamp": 1611226800,
 								"temporal_info": {
-									"seconds_until_end_time": 360185,
-									"seconds_until_start_time": 352985
+									"seconds_until_end_time": 273702,
+									"seconds_until_start_time": 266502
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -407,7 +308,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch JACKASS in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974809_530214787855328_1777894750277332068_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=utGLkl9IY-QAX9uiS0P&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cddbe7645b22a1be89f4d81770c0f013&oe=602B74D9"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974809_530214787855328_1777894750277332068_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=utGLkl9IY-QAX8yCOpN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3e16369bd1b23916b6e6136d6e973a9a&oe=602B74D9"
 								}
 							}
 						},
@@ -417,8 +318,8 @@
 								"current_end_timestamp": 1611277200,
 								"current_start_timestamp": 1611273600,
 								"temporal_info": {
-									"seconds_until_end_time": 403385,
-									"seconds_until_start_time": 399785
+									"seconds_until_end_time": 316902,
+									"seconds_until_start_time": 313302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -440,7 +341,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "SPACEX FALCON 9 LAUNCH: Transporter 1 (Dedicated SSO Rideshare)",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75322601_1019569588556207_5866926438769072297_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=PgrdgRKn83EAX997Fsz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f216d136b7adc62d6318b21cfcffbea1&oe=6027EC60"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75322601_1019569588556207_5866926438769072297_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=qjB3b5GYyh4AX83xFRE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d5be7214bee5e76cac09fbc45618cd6b&oe=602BE0E0"
 								}
 							}
 						},
@@ -450,8 +351,8 @@
 								"current_end_timestamp": 1611291600,
 								"current_start_timestamp": 1611284400,
 								"temporal_info": {
-									"seconds_until_end_time": 417785,
-									"seconds_until_start_time": 410585
+									"seconds_until_end_time": 331302,
+									"seconds_until_start_time": 324102
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -473,7 +374,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch GHOST IN THE SHELL in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_175716024300537_8423127094700812413_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=6_1LI5w5YsYAX_Z8t8v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f7bbda24db15a015e67b3385c8854f82&oe=602AD811"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_175716024300537_8423127094700812413_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=6_1LI5w5YsYAX_wza6X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a6df04834f15426793d9d3d906cf95af&oe=602AD811"
 								}
 							}
 						},
@@ -483,8 +384,8 @@
 								"current_end_timestamp": 1611320400,
 								"current_start_timestamp": 1611313200,
 								"temporal_info": {
-									"seconds_until_end_time": 446585,
-									"seconds_until_start_time": 439385
+									"seconds_until_end_time": 360102,
+									"seconds_until_start_time": 352902
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -506,7 +407,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TOP GUN in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982715_2552006351766507_6244900974930412950_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=QJEb_fYXb9EAX9sOOyQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9376ffc18c32301854f091a8610e8a2d&oe=6028B73F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982715_2552006351766507_6244900974930412950_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=QJEb_fYXb9EAX-6Nufh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=86dbd933dda0cc69b753c0772d3f1bd8&oe=602CABBF"
 								}
 							}
 						},
@@ -516,8 +417,8 @@
 								"current_end_timestamp": 1611367200,
 								"current_start_timestamp": 1611360000,
 								"temporal_info": {
-									"seconds_until_end_time": 493385,
-									"seconds_until_start_time": 486185
+									"seconds_until_end_time": 406902,
+									"seconds_until_start_time": 399702
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -539,7 +440,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch DRAGON BALL SUPER: BROLY",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031391_401644624268660_8109352921348120608_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=LsLmhPIMDNcAX8eJ5zZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=47556f8210b672fa2b4aab0c07ebd61f&oe=6029154D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031391_401644624268660_8109352921348120608_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=LsLmhPIMDNcAX-et4VT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c90524226d5b9a6e72b06cfa6daee38e&oe=6029154D"
 								}
 							}
 						},
@@ -549,8 +450,8 @@
 								"current_end_timestamp": 1611378000,
 								"current_start_timestamp": 1611370800,
 								"temporal_info": {
-									"seconds_until_end_time": 504185,
-									"seconds_until_start_time": 496985
+									"seconds_until_end_time": 417702,
+									"seconds_until_start_time": 410502
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -572,7 +473,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch INTERSTELLAR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_225337572423496_5702305938106044311_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=y14kTHU9-S0AX8BttnL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=43f412dd58449a932e1bc093ffd742c3&oe=6029BF35"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_225337572423496_5702305938106044311_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=y14kTHU9-S0AX_cHxmu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3afc963aa6496c2f785e5489fbcb78bb&oe=6029BF35"
 								}
 							}
 						},
@@ -582,8 +483,8 @@
 								"current_end_timestamp": 1611406800,
 								"current_start_timestamp": 1611399600,
 								"temporal_info": {
-									"seconds_until_end_time": 532985,
-									"seconds_until_start_time": 525785
+									"seconds_until_end_time": 446502,
+									"seconds_until_start_time": 439302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -605,7 +506,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TRANSFORMERS: THE LAST KNIGHT in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974841_336179784118903_6877307004721196335_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=BUqlxfXjnYAAX_sdlPy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=15a3709dda049d158680006a18b661c5&oe=60292A91"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974841_336179784118903_6877307004721196335_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=BUqlxfXjnYAAX-8O4Cw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed60a7d0902a5f2e45d8b104f795536d&oe=60292A91"
 								}
 							}
 						},
@@ -615,8 +516,8 @@
 								"current_end_timestamp": 1611453600,
 								"current_start_timestamp": 1611446400,
 								"temporal_info": {
-									"seconds_until_end_time": 579785,
-									"seconds_until_start_time": 572585
+									"seconds_until_end_time": 493302,
+									"seconds_until_start_time": 486102
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -638,7 +539,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch WORLD WAR Z in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_452138089129897_353768507548382710_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=XWPEAPqcCCIAX9TPaMn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=54a7454a4236ee6b5b3b5a7c7d84f7a8&oe=60298457"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_452138089129897_353768507548382710_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=wzh4z1wVC4AAX_febqC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=16a48b1b999e98c3f9026a8197a84264&oe=60298457"
 								}
 							}
 						},
@@ -648,8 +549,8 @@
 								"current_end_timestamp": 1611464400,
 								"current_start_timestamp": 1611457200,
 								"temporal_info": {
-									"seconds_until_end_time": 590585,
-									"seconds_until_start_time": 583385
+									"seconds_until_end_time": 504102,
+									"seconds_until_start_time": 496902
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -671,7 +572,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch YOUR NAME",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_264605435086408_5916966951961031018_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=NL4P-o_MrkEAX8KDLjO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bc61b353ab59fbedb00ad46f582cecb7&oe=602A7734"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_264605435086408_5916966951961031018_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=NL4P-o_MrkEAX8-2eFP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fa3f8a8016f87904cb6d9dee34c139a6&oe=602A7734"
 								}
 							}
 						},
@@ -681,8 +582,8 @@
 								"current_end_timestamp": 1611540000,
 								"current_start_timestamp": 1611532800,
 								"temporal_info": {
-									"seconds_until_end_time": 666185,
-									"seconds_until_start_time": 658985
+									"seconds_until_end_time": 579702,
+									"seconds_until_start_time": 572502
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -704,7 +605,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch GHOST IN THE SHELL in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982607_710896812947973_8753533335200536917_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=LNk3WUONYdYAX-cXXaS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=91c4b96d07cd34b4910bc1e3a2b60af0&oe=6029B185"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982607_710896812947973_8753533335200536917_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=FxtxhiDuYqsAX_qrf1u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4aadebd83bc18f734ccbb504ecffe18d&oe=6029B185"
 								}
 							}
 						},
@@ -714,8 +615,8 @@
 								"current_end_timestamp": 1611550800,
 								"current_start_timestamp": 1611543600,
 								"temporal_info": {
-									"seconds_until_end_time": 676985,
-									"seconds_until_start_time": 669785
+									"seconds_until_end_time": 590502,
+									"seconds_until_start_time": 583302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -737,7 +638,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TEENAGE MUTANT NINJA TURTLES in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_838656216709721_7744475242953044315_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=LTbhHUeISskAX--ShL4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=db254a756f110e5afc59f7492a0cb479&oe=602964E4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_838656216709721_7744475242953044315_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=LTbhHUeISskAX_z8oMR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6994138e06414bfb7833065c9cd46800&oe=602964E4"
 								}
 							}
 						},
@@ -747,8 +648,8 @@
 								"current_end_timestamp": 1611637200,
 								"current_start_timestamp": 1611630000,
 								"temporal_info": {
-									"seconds_until_end_time": 763385,
-									"seconds_until_start_time": 756185
+									"seconds_until_end_time": 676902,
+									"seconds_until_start_time": 669702
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -770,7 +671,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch GHOST IN THE SHELL in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974684_689226635028411_2064169772930408395_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=Sn-YiM8zISAAX_7JmkS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=24cc3c246dfb5f24249068144e5338b0&oe=602A8D9B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974684_689226635028411_2064169772930408395_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=Sn-YiM8zISAAX8Qfgqf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=02bf643228fe589ef31098c9a789ca7e&oe=602A8D9B"
 								}
 							}
 						},
@@ -780,8 +681,8 @@
 								"current_end_timestamp": 1611723600,
 								"current_start_timestamp": 1611716400,
 								"temporal_info": {
-									"seconds_until_end_time": 849785,
-									"seconds_until_start_time": 842585
+									"seconds_until_end_time": 763302,
+									"seconds_until_start_time": 756102
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -803,7 +704,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch MY HERO ACADEMIA: TWO HEROES",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_799335847591540_554669483871512909_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=Su6GMarGjUwAX-jqzNE&_nc_oc=AQlFzkmTTqjfq6ixdaDrNYJ_02fePJZl0yoLXtIhl8VOYpSbP3TM1aMaoxZvAjvoMrg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97fb86481a67bbf08d5a4b30292cc395&oe=602B2D7E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_799335847591540_554669483871512909_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=Su6GMarGjUwAX8uvQEC&_nc_oc=AQmOrKxNKENIqeyD1AIdmiDN89ONmc2i72tPFJXCv8jraNDVBO2SDVftGBjZSCIvw1E&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96410b3c5e31c58885ad040a2f389d7b&oe=602B2D7E"
 								}
 							}
 						},
@@ -813,8 +714,8 @@
 								"current_end_timestamp": 1611810000,
 								"current_start_timestamp": 1611802800,
 								"temporal_info": {
-									"seconds_until_end_time": 936185,
-									"seconds_until_start_time": 928985
+									"seconds_until_end_time": 849702,
+									"seconds_until_start_time": 842502
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -836,7 +737,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch THE SPONGEBOB MOVIE: SPONGE OUT OF WATER in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_3593003097448736_7449042056571715542_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=-w1kskel_cYAX8ib3Db&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd08907b4f9789021a270e2bd8858556&oe=6028BA09"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_3593003097448736_7449042056571715542_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=-w1kskel_cYAX9qR9ed&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a5ec6d9eca24e70bb22242a1ab4f48ef&oe=602CAE89"
 								}
 							}
 						},
@@ -846,8 +747,8 @@
 								"current_end_timestamp": 1611838800,
 								"current_start_timestamp": 1611831600,
 								"temporal_info": {
-									"seconds_until_end_time": 964985,
-									"seconds_until_start_time": 957785
+									"seconds_until_end_time": 878502,
+									"seconds_until_start_time": 871302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -869,7 +770,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch YOUR NAME",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_1004605833363614_7696299050307399352_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=bcYv0jq3HdwAX8rFm-U&_nc_ht=scontent.oculuscdn.com&tp=28&oh=280f0fb7d16fbbdbf4360986ffb02b99&oe=60279B23"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_1004605833363614_7696299050307399352_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=bcYv0jq3HdwAX9k03bC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cedb6ccfebe51225189f84a7529940a4&oe=602B8FA3"
 								}
 							}
 						},
@@ -879,8 +780,8 @@
 								"current_end_timestamp": 1611896400,
 								"current_start_timestamp": 1611889200,
 								"temporal_info": {
-									"seconds_until_end_time": 1022585,
-									"seconds_until_start_time": 1015385
+									"seconds_until_end_time": 936102,
+									"seconds_until_start_time": 928902
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -902,7 +803,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch WORLD WAR Z in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_426849265183173_8622970985226086147_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=SjdIPLhP46EAX_8EZd6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bf6d9d223dff2ab5dec64be474b7c3ec&oe=602B5905"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_426849265183173_8622970985226086147_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=SjdIPLhP46EAX9Q2YqN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cb185dcbe0463bc35e9ffee26c737997&oe=602B5905"
 								}
 							}
 						},
@@ -912,8 +813,8 @@
 								"current_end_timestamp": 1611925200,
 								"current_start_timestamp": 1611918000,
 								"temporal_info": {
-									"seconds_until_end_time": 1051385,
-									"seconds_until_start_time": 1044185
+									"seconds_until_end_time": 964902,
+									"seconds_until_start_time": 957702
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -935,7 +836,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TOP GUN in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_165390858309155_3421412183492237006_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=W9XJ-xAEHCcAX9rlAG4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=74d652db72bcad4081a72f9908816903&oe=60292641"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_165390858309155_3421412183492237006_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=W9XJ-xAEHCcAX_s1of4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ffcc4a7c29a715494d92e06999d2c290&oe=60292641"
 								}
 							}
 						},
@@ -945,8 +846,8 @@
 								"current_end_timestamp": 1611972000,
 								"current_start_timestamp": 1611964800,
 								"temporal_info": {
-									"seconds_until_end_time": 1098185,
-									"seconds_until_start_time": 1090985
+									"seconds_until_end_time": 1011702,
+									"seconds_until_start_time": 1004502
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -968,7 +869,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TRANSFORMERS: AGE OF EXTINCTION in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982670_2910449399186711_3189757751153962466_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=dSN2JrxSLBYAX8ZKGdO&_nc_oc=AQlNOmCLCH9SfCRkKSdRTnV5_pwaH7LX_cwMoZECyijrMfG8b8dRSjK_oztfCovJKKI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ab294551f91503fd5ffcfc8a07755cb9&oe=6029B563"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982670_2910449399186711_3189757751153962466_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=dSN2JrxSLBYAX_DA1xO&_nc_oc=AQmIpTcCi2pQ5ymXVPgTQb5Im1p2uD3AvYnGPGfSqSYYHsQCYBDVkSXPgjdYEBoUuzU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a45577d4a41482c3d57fdc6f8fd2131c&oe=6029B563"
 								}
 							}
 						},
@@ -978,8 +879,8 @@
 								"current_end_timestamp": 1611982800,
 								"current_start_timestamp": 1611975600,
 								"temporal_info": {
-									"seconds_until_end_time": 1108985,
-									"seconds_until_start_time": 1101785
+									"seconds_until_end_time": 1022502,
+									"seconds_until_start_time": 1015302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1001,7 +902,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch STAR TREK BEYOND in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001687_710547016518196_2899364584313049633_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=8VzzeTLDoYsAX_7B_p7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b734bc0dc9ca830b33b9a0b607d7ece4&oe=6027B031"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001687_710547016518196_2899364584313049633_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=8VzzeTLDoYsAX_ptvuD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6d933daf88987be6591f2cbb17c27277&oe=602BA4B1"
 								}
 							}
 						},
@@ -1011,8 +912,8 @@
 								"current_end_timestamp": 1612011600,
 								"current_start_timestamp": 1612004400,
 								"temporal_info": {
-									"seconds_until_end_time": 1137785,
-									"seconds_until_start_time": 1130585
+									"seconds_until_end_time": 1051302,
+									"seconds_until_start_time": 1044102
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1034,7 +935,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch YOUR NAME",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974841_834672367078264_1938586279340514393_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=eQ3TqSc7dWIAX9vLrUY&_nc_oc=AQn98trVYO16G-MgKx_qTLuIztpy5__xz5oZFByeVbMINMvVS85RbgEyodZ4rsY9IBA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=647fdc8e1c6ce9c9e76f9e5f86a6d216&oe=602A016D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974841_834672367078264_1938586279340514393_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=eQ3TqSc7dWIAX8XEv8M&_nc_oc=AQnogFnHMl_6HBuPQBVt4uIL-v86-9UwrYmRaG3S_rIa8F5uZSjHUvgE3gMhtsuhdYg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3935693cafcf52e5e251774201193fd5&oe=602A016D"
 								}
 							}
 						},
@@ -1044,8 +945,8 @@
 								"current_end_timestamp": 1612054800,
 								"current_start_timestamp": 1612051200,
 								"temporal_info": {
-									"seconds_until_end_time": 1180985,
-									"seconds_until_start_time": 1177385
+									"seconds_until_end_time": 1094502,
+									"seconds_until_start_time": 1090902
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1067,7 +968,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "SPACEX FALCON 9 LAUNCH: Sirius SXM-8",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75230051_2916943405214028_6523207080212345430_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=HC3xq4whmsEAX_H-TAT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62bc90b4849c229dd22e09fd0c8e5441&oe=6029697B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75230051_2916943405214028_6523207080212345430_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=GdY-ZgKPlyAAX-3nOrX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fb6dfede4434e623938591faa24ba0cf&oe=6029697B"
 								}
 							}
 						},
@@ -1077,8 +978,8 @@
 								"current_end_timestamp": 1612058400,
 								"current_start_timestamp": 1612051200,
 								"temporal_info": {
-									"seconds_until_end_time": 1184585,
-									"seconds_until_start_time": 1177385
+									"seconds_until_end_time": 1098102,
+									"seconds_until_start_time": 1090902
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1100,7 +1001,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch PARANORMAL ACTIVITY: THE GHOST DIMENSION in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569430_145124397292698_7712978586476100725_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=10Wf6ejKrG8AX8qRnuk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=90c25b0e18f823d86ac14d1563450b3a&oe=6027BCEB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569430_145124397292698_7712978586476100725_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=10Wf6ejKrG8AX_oUZ_A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=feb31c60645d51293fe7324703d124d9&oe=602BB16B"
 								}
 							}
 						},
@@ -1110,8 +1011,8 @@
 								"current_end_timestamp": 1612069200,
 								"current_start_timestamp": 1612062000,
 								"temporal_info": {
-									"seconds_until_end_time": 1195385,
-									"seconds_until_start_time": 1188185
+									"seconds_until_end_time": 1108902,
+									"seconds_until_start_time": 1101702
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1133,7 +1034,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch G.I. JOE: RETALIATION in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035342_240689837422649_6999288613582996313_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=CMVWbBtG7ZQAX-M97o3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f806afadcf45c1daceea099dd1bb4260&oe=6028351E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035342_240689837422649_6999288613582996313_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=nGS-Xd6U4tUAX_faQWo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9fa0b59f9adf3928a1d5921585b78896&oe=602C299E"
 								}
 							}
 						},
@@ -1143,8 +1044,8 @@
 								"current_end_timestamp": 1612144800,
 								"current_start_timestamp": 1612137600,
 								"temporal_info": {
-									"seconds_until_end_time": 1270985,
-									"seconds_until_start_time": 1263785
+									"seconds_until_end_time": 1184502,
+									"seconds_until_start_time": 1177302
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1166,7 +1067,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch INTERSTELLAR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974450_428822528267163_3211667742023620851_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=9kx-s2TkV6QAX8xd0YG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=43fcc3268acd0bd662b46f269c81703c&oe=6027A118"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974450_428822528267163_3211667742023620851_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=9kx-s2TkV6QAX-uK1oO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=56ab0b2217c5c20f62d74b9a09d9c5f2&oe=602B9598"
 								}
 							}
 						},
@@ -1176,8 +1077,8 @@
 								"current_end_timestamp": 1612155600,
 								"current_start_timestamp": 1612148400,
 								"temporal_info": {
-									"seconds_until_end_time": 1281785,
-									"seconds_until_start_time": 1274585
+									"seconds_until_end_time": 1195302,
+									"seconds_until_start_time": 1188102
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -1199,7 +1100,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch STAR TREK INTO DARKNESS in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974917_219376173149970_3168258897975757513_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=5UIwFjdCM0kAX-7ikpu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=964b59187e4c2b38b32cb43902a8724a&oe=602950CF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974917_219376173149970_3168258897975757513_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=5UIwFjdCM0kAX8ML9js&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4fc40e55cb9d1d51296485cc70626bb2&oe=602950CF"
 								}
 							}
 						}
@@ -1214,7 +1115,7 @@
 							"created_time": 1610160138,
 							"body_text": "Today, we're launching some amazing new free TV channels in Bigscreen such as Rick and Morty, Aqua Teen Hunger Force, Samurai Jack, Robot Chicken, The Venture Bros, The Eric Andre Show, and more!\n\nBigscreen TV lets you watch free Internet livestreams with your friends. Bigscreen doesn't host these channels. They are Internet livestreams on websites such as Twitch and YouTube. These sites are usually ad-supported and are sometimes region-restricted, so unfortunately not all channels are available worldwide.\n\nIn total, Bigscreen now has more than 172 free TV channels for people to watch. Our recent UI update released in December makes it easy to browse all of this content. In addition, Bigscreen also has dozens of 3D movies for rent, a free Videoplayer to watch your own video files, a free Remote Desktop feature to stream your Windows desktop screen into a room, and also public and private rooms to hang out and chat.\n\nToday's new TV channels all have an age restriction on them, requiring users to consent that they are 18 or older before entering. Bigscreen's built-in Parental Controls also allow parents to prevent their children from entering any of these 18+ rooms, public rooms, or social situations.\n\nWe have a lot in store for 2021! We're developing a Friends System, new servers that dramatically improve the video/audio streaming quality, a new Remote Desktop feature with ultra-low latency desktop streaming to the Quest, built-in YouTube support, enabling TV Channels in private rooms, and more!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003273_694133964619442_7404485028371218771_n.png?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=5n23IfMdllgAX-GrSU6&_nc_ht=scontent.oculuscdn.com&oh=ca8bb66f23771e16310e38eab4446198&oe=602830EF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003273_694133964619442_7404485028371218771_n.png?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=79OwkZDSQb4AX9hz9DT&_nc_ht=scontent.oculuscdn.com&oh=5c48060bce835f9ebebe70b334a126da&oe=602C256F"
 							}
 						}
 					]
@@ -1222,7 +1123,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRRCCJSclF0rtUhw43Z19tY0B11pJ388t93R2aVPUyGA1i_4hIT4eyEw1ZWzPcBcx1ZOTwXnoBtB4WAX6S5fAl1g"
+							"cursor": "AQHRipOFt-e7DCEphAB2lT49dKw9DGAK0udgZXB9X6EHHPzGR8E4-D9ldPu7k2WBTdVyprZV2TX4KxaTO7i1FnfTxg"
 						}
 					]
 				}
@@ -1269,11 +1170,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0852305896089,
+			"quality_rating_aggregate": 4.0844988344988,
 			"support_website_url": "https://bigscreenvr.com/discord",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 480,
+				"count": 483,
 				"orderings": [
 					{
 						"key": "top",
@@ -1286,10 +1187,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 480,
+				"count": 483,
 				"page_info": {
-					"end_cursor": "AQHRNcrb9i_EnaX9cjD6pn5UF_ZdtNOCNCikD79ZT_4IOMYT_5H4zaJgMwiN5K2Ec9WwhF_Uw_0poNViC8enzcpp6A",
-					"start_cursor": "AQHRNcrb9i_EnaX9cjD6pn5UF_ZdtNOCNCikD79ZT_4IOMYT_5H4zaJgMwiN5K2Ec9WwhF_Uw_0poNViC8enzcpp6A"
+					"end_cursor": "AQHRusRjWpZ1wC2dcYpHlubyKGTgJ37l80SPaLZWQMRAt1kkX_EaSwEaMeAJPUrwClVRpQNTCWzRZwZUvGbrTw6Yvw",
+					"start_cursor": "AQHRusRjWpZ1wC2dcYpHlubyKGTgJ37l80SPaLZWQMRAt1kkX_EaSwEaMeAJPUrwClVRpQNTCWzRZwZUvGbrTw6Yvw"
 				},
 				"edges": [
 					{
@@ -1299,13 +1200,13 @@
 								"id": "111698444044236",
 								"display_name": "Eternal_Conundrum",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974469_145786607302086_7516913691567767932_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=B6n6ap0puTIAX_PqA1W&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6380a115dfa50d4edfe07ec532a06922&oe=602846F7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974469_145786607302086_7516913691567767932_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=B6n6ap0puTIAX87YS8L&_nc_ht=scontent.oculuscdn.com&tp=28&oh=07a0ab16a7f4a885c43a77b74f45cbd4&oe=602C3B77"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Is it just me or everyone's mics are way too loud in this app? I have to turn down the volume of the headset way down for bearable voice volume but then I can't hear the movie content. Or mute lobbies and watch things normally without any chatting. There is no setting for just voice volume, only watch content.\n\nRecRoom and even vTime XR have voice levels that are on point, what happened here? Besides this caveat, this is a great app to check out 3D movies. But please fix the volume levels.\n\nUpdate: There's an option to turn down a user's volume when you select them in watch room menu. Updating review to 4 stars because it's still annoying to have to do that everytime. I wish there was an option to select a user with your pointer to lower their volume.",
 							"reviewTitle": "Mics are way too loud",
-							"review_helpful_count": 97,
+							"review_helpful_count": 105,
 							"review_rank_by_viewer": null,
 							"date": 1607974432,
 							"developerResponse": null
@@ -1320,7 +1221,7 @@
 				"description": "WATCH movies with friends in a virtual movie theater. \nPLAY your favorite PC video games on a huge screen. \nHANG OUT in social VR chat rooms.\nEVENTS like weekly 3D Movie Nights and VR LAN parties!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=0O0vq3SsmloAX_6D_o1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f08585a3039482e415b29893200acd00&oe=6027CD58",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=0O0vq3SsmloAX_W3Gea&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a1dce643cc9d107f2aafc022697a5245&oe=602BC1D8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

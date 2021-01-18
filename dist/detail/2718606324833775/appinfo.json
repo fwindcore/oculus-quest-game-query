@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031411_489972785111754_2739197242215759872_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=TKmyW3TZypsAX-O5AML&_nc_ht=scontent.oculuscdn.com&tp=28&oh=66018d932ad7253bcdde305f4e286f5a&oe=602909F5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031411_489972785111754_2739197242215759872_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=TKmyW3TZypsAX8mPyq4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a916a6ce9960e51caa5901998340115f&oe=602909F5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_489455451830154_5905819862973808640_n.mp4?_nc_cat=103&ccb=2&_nc_sid=0ed769&_nc_ohc=GDBF4jC2EakAX_nxRXE&_nc_ht=scontent.oculuscdn.com&oh=4d0a6cf934790f8fdeaa07caebe05256&oe=602A2EB9"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_489455451830154_5905819862973808640_n.mp4?_nc_cat=103&ccb=2&_nc_sid=0ed769&_nc_ohc=zjJm21Pl_f4AX8JW98q&_nc_ht=scontent.oculuscdn.com&oh=1da2df1cf99d9948fb8f87c9b28909be&oe=602A2EB9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 404,
+					"count": 405,
 					"starRating": 5
 				}
 			],
@@ -149,17 +149,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2326830277411457",
+				"id": "949607462112297",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1199",
+					"formatted": "$11.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1611043140,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -200,7 +205,7 @@
 							"created_time": 1603291059,
 							"body_text": "The horrifying Dr. Frankenswine is back with his minions. They're bringing along 13 new spooky levels set in Slimy Slopes. Pick up your slingshot and help Red, Chuck, Bomb and the Blues put a stop to Dr. Frankenswine's evil schemes!\n\nPatch notes:\n- A new level pack: Slimy Slopes is now available!\n- Added hints on how to unlock spooky levels\n- Added three more achievements\n- Fixed an issue where the music sometimes stops playing in the spooky levels\n- General bug fixes and polish",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001667_3292441324206156_3741857328085321514_n.png?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=GwN4yUE3K5QAX8l9zV5&_nc_ht=scontent.oculuscdn.com&oh=5b7a6388ecd211cdfd70121cb832a766&oe=6027D702"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001667_3292441324206156_3741857328085321514_n.png?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=GwN4yUE3K5QAX8fXhCL&_nc_ht=scontent.oculuscdn.com&oh=ce945feef9c27b205768fc9513ba459c&oe=602BCB82"
 							}
 						}
 					]
@@ -252,12 +257,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2326830277411457"
+				"id": "949607462112297"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4728171334432,
+			"quality_rating_aggregate": 4.4736842105263,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -276,8 +281,8 @@
 			"firstQualityRatings": {
 				"count": 301,
 				"page_info": {
-					"end_cursor": "AQHRXjWLCQh4x5bf_frmiUd2LDga_s4BGNhct7dYtsLXdNCQOMfCgMPVrcQfAOjb0suOPhPLkrnvE5efA4SVR5o-pw",
-					"start_cursor": "AQHRXjWLCQh4x5bf_frmiUd2LDga_s4BGNhct7dYtsLXdNCQOMfCgMPVrcQfAOjb0suOPhPLkrnvE5efA4SVR5o-pw"
+					"end_cursor": "AQHRjiLwsAT4LzRgJLD91ezziFUIno0DzoLQsfv_GgyxJ05qp76cANbBen2KVFZjwFaq79Anje9tceLk4FDlcThSFg",
+					"start_cursor": "AQHRjiLwsAT4LzRgJLD91ezziFUIno0DzoLQsfv_GgyxJ05qp76cANbBen2KVFZjwFaq79Anje9tceLk4FDlcThSFg"
 				},
 				"edges": [
 					{
@@ -287,13 +292,13 @@
 								"id": "1827229674155362",
 								"display_name": "ChuckWalker",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.387.665.665a/s160x160/38974562_2734827170062270_6005675276963805633_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=s8rOun5RolUAX9vr0IV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b887de28a34480bc48a2f52b54862442&oe=602A05BD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.387.665.665a/s160x160/38974562_2734827170062270_6005675276963805633_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=s8rOun5RolUAX-jl6-2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6cbe8966461d705d5014249affd8e7c0&oe=602A05BD"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is a great game,  it single player gets boring. Multiplayer would allow me and my family and friends to continue to play together. Not sure if best way to make multiplayer but single player on my phone gets boring and single player in VR gets boring. Oculus created a way for friends and family to be even closer, so most games should really offer multiplayer. Plus once your board with levels whats left? But with multiplayer mode it’s something to do while hanging out with your peeps. \nJust a suggestion. Keep up the good work. \nThe last star is waiting for multiplayer mode. Obviously the quest is here to stay and replace everything else, so don’t even invest any time in other headsets. Just Quest units.",
 							"reviewTitle": "Great game but needs multiplayer",
-							"review_helpful_count": 55,
+							"review_helpful_count": 56,
 							"review_rank_by_viewer": null,
 							"date": 1605463874,
 							"developerResponse": {
@@ -312,7 +317,7 @@
 				"description": "Join Red, Chuck, Bomb and the Blues to save the stolen eggs in Angry Birds VR: Isle of Pigs, an immersive VR adventure! Discover the remote island where the greedy pigs vacation; slingshot your way through 91 fun-filled levels (with more to come!) of beaches, cliffs and slopes; destroy structures in the most spectacular way to earn those all-important stars; and create, share and discover an infinite number of levels with the online level builder.  ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974879_1256880918021943_7755566948541598249_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=mKTEMgJ43FgAX8L7jrD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=db4a76a478382c5dc1c52e00a4481f7f&oe=602B611A",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036643_3579805562140511_3580442424824732252_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=YtwQVDerC4UAX9jeJw_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f306d8fde37cafa2346fe5aecee8ba0&oe=6029EBA7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
