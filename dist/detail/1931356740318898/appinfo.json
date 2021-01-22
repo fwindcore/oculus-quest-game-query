@@ -16,7 +16,7 @@
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 410,
+					"count": 412,
 					"starRating": 1
 				},
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 51,
+					"count": 52,
 					"starRating": 3
 				},
 				{
@@ -36,7 +36,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 159,
+					"count": 161,
 					"starRating": 5
 				}
 			],
@@ -75,14 +75,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.18.56",
-				"change_log": "Hotfix for Fandango NOW v1.3 crash",
+				"version": "2.20.8",
+				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "31912202",
-				"id": "3631328533655035",
-				"required_space_adjusted": "31603510",
+				"total_installed_space": "31434778",
+				"id": "3647431608711394",
+				"required_space_adjusted": "31245562",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -116,7 +116,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3631328533655035"
+					"id": "3647431608711394"
 				}
 			},
 			"release_channels": {
@@ -127,8 +127,8 @@
 						"id": "772595736415538",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.18.56",
-							"id": "3631328533655035"
+							"version": "2.20.8",
+							"id": "3647431608711394"
 						}
 					}
 				]
@@ -141,21 +141,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "127851069165539",
+							"title": "Steve Aoki now in 'Venues Replay' playlist",
+							"created_time": 1611167829,
+							"body_text": "New videos from award-winning DJ and producer, Steve Aoki, now available in Oculus TV!  Steve Aoki’s album, Neon Future IV released earlier last year, and now you can watch him perform like you've never seen him before.  Jump in today and binge each of his live-recorded songs: ‘Closer to God’, ‘Popcorn’, and ‘I Wanna Rave’ within the Venues Replay playlist!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974738_1468616880010568_6993029116283471312_n.png?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=duhd-eBqCIgAX8oIHg1&_nc_ht=scontent.oculuscdn.com&oh=4ebe90c8ae21d1e51621d5de049b2fbb&oe=602FFB3A"
+							}
+						},
+						{
 							"id": "406243390640014",
 							"title": "MIYAVI concert in 360",
 							"created_time": 1610993709,
 							"body_text": "MIYAVI has attracted worldwide attention as a guitarist with his unique \"slap technique,\" playing the electric guitar entirely with his fingers without using a pick.  So far he’s performed over 350 shows in about 30 countries, successfully completing eight world tours. Check out his new performance, \"Connecting both the virtual and the real world”, now available on Oculus TV.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001699_163925271854910_3695217189842159735_n.png?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=lCU-Qvi6TdUAX-jK8FK&_nc_ht=scontent.oculuscdn.com&oh=25ae2ee34de66ba51aae42080e493055&oe=602FF862"
-							}
-						},
-						{
-							"id": "3767864186614218",
-							"title": "Celebrating Martin Luther King Day in a Front Row Seat to Protest in Atlanta",
-							"created_time": 1610674695,
-							"body_text": "Join filmmaker James Tiago Bertrand, who put himself in harm’s way to deliver to you the real story from the front lines of protest in Atlanta. Get a close-up view of police lines, burning cars, and protestors.\n\nThe fourth volume in the 4-part series, ‘IN PROTEST: Atlanta’ explores political and economic empowerment with Killer Mike, Ayanna Gregory, and Tiago Bertrand. Now available!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974820_238078004423446_6430601061641188301_n.png?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=yc7WEJZJhY4AX9kVeJD&_nc_ht=scontent.oculuscdn.com&oh=cb9541182d7b6fa90fa6eb49414fddcf&oe=602D48FB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001699_163925271854910_3695217189842159735_n.png?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=lCU-Qvi6TdUAX8EIcdc&_nc_ht=scontent.oculuscdn.com&oh=a536070dfab31c8786d4811dc993c70d&oe=602FF862"
 							}
 						}
 					]
@@ -206,11 +206,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 2.2886002886003,
+			"quality_rating_aggregate": 2.2936962750716,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 152,
+				"count": 155,
 				"orderings": [
 					{
 						"key": "top",
@@ -223,10 +223,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 152,
+				"count": 155,
 				"page_info": {
-					"end_cursor": "AQHR7Z-ajWY2-2D6UxTWyN6OJLp2FdSEY8FcP1LwYGQ3Ej1U4nglz0TNnfIxJzKv-uCzHrZnKnPbC7IAysG3QJDcdw",
-					"start_cursor": "AQHR7Z-ajWY2-2D6UxTWyN6OJLp2FdSEY8FcP1LwYGQ3Ej1U4nglz0TNnfIxJzKv-uCzHrZnKnPbC7IAysG3QJDcdw"
+					"end_cursor": "AQHREuoFSuz7XJg91cihXUlgO832I-Bb8k26zqpwFacXgBITSv8tDTMqroLzGyk-awvGuyhNbotWqFvQq5jG1l3N4g",
+					"start_cursor": "AQHREuoFSuz7XJg91cihXUlgO832I-Bb8k26zqpwFacXgBITSv8tDTMqroLzGyk-awvGuyhNbotWqFvQq5jG1l3N4g"
 				},
 				"edges": [
 					{
@@ -240,7 +240,7 @@
 							"score": 2,
 							"reviewDescription": "Oculus TV has simply stopped working on my quest unit. Will not reset or restart. Any chance someone has a solution? So far no tip has worked. Other reviewers seem to have had the same problem and lack of resolution. Was great when it worked hands : stars rather than one or none",
 							"reviewTitle": "Oculus TV failed",
-							"review_helpful_count": 27,
+							"review_helpful_count": 32,
 							"review_rank_by_viewer": null,
 							"date": 1609423715,
 							"developerResponse": null
@@ -255,7 +255,7 @@
 				"description": "Oculus TV is a VR home for the best in immersive entertainment where you’re always at the center of the action. Get access to award-winning interactive stories, as well as immersive TV, animation and photos. Our regularly-updated lineup includes a variety of genres including sci-fi, travel, sports and more.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207239_416610032700292_9172747376243013450_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=6zkzrjE8Z-oAX_ucLVT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4defb5d8637fb4215f96367aa1f7d2a9&oe=602D9D59",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207239_416610032700292_9172747376243013450_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=iz-5a3wMeNoAX_raRHq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=821b7c9013fad559c1fc73049495cead&oe=603191D9",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

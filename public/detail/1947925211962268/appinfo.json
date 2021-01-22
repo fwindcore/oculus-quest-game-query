@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001727_809564826499055_5858700799584474015_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=pwtOWgaK66MAX-X2qgJ&_nc_oc=AQlb4jZEdL6DD35uOqsu6BT3vejbde_lp9z3l07veRI1oYVV1znKU4CgKYA_DKXaYlo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=43045418425729064c801c4d1494dcba&oe=602FB71F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001727_809564826499055_5858700799584474015_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=pwtOWgaK66MAX-dloPY&_nc_oc=AQlmfFK5rcLr_JBwKdvp3iglJhl6TtdavALO7QG8rVXFXUgN7VESI4tT5WLlp4QWu1c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c0b8dd56373fc660f04a7d7e654897b5&oe=602FB71F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031431_361376651668599_2565868102282494061_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=XTGznLj8i58AX_AyEDR&_nc_ht=scontent.oculuscdn.com&oh=5bf861205e067f1fc5ab08c0b06bf9ff&oe=602FEE5E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031431_361376651668599_2565868102282494061_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=VVzky5bpcpQAX8mLij5&_nc_ht=scontent.oculuscdn.com&oh=a1e5d0392e374acbe263ecd18878b468&oe=602FEE5E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 26,
+					"count": 27,
 					"starRating": 3
 				},
 				{
@@ -138,17 +138,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "340092353357409",
+				"id": "1287710654944378",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1749",
+					"formatted": "$17.49"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-30%",
+				"end_time": 1611388740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -231,16 +236,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "340092353357409"
+				"id": "1287710654944378"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0727272727273,
+			"quality_rating_aggregate": 4.0694864048338,
 			"support_website_url": "http://exorcistvr.com/bugs",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 204,
+				"count": 205,
 				"orderings": [
 					{
 						"key": "top",
@@ -253,10 +258,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 204,
+				"count": 205,
 				"page_info": {
-					"end_cursor": "AQHRDZDaBzQGdOgTtlwX5RAg7iCYUfhaCd5kWBewMBBlTFkK7uSAc1NqdqJD4wwq5YxCRHbRR0Q4rebDqIW2y4xM7g",
-					"start_cursor": "AQHRDZDaBzQGdOgTtlwX5RAg7iCYUfhaCd5kWBewMBBlTFkK7uSAc1NqdqJD4wwq5YxCRHbRR0Q4rebDqIW2y4xM7g"
+					"end_cursor": "AQHRaYV-mD4fhklT_W_VRZlrVU4K-WuEwcAkSTb0-agAGxygym2puDzhH18081oY3sEc47vx-T32xeVvND6EzpaslQ",
+					"start_cursor": "AQHRaYV-mD4fhklT_W_VRZlrVU4K-WuEwcAkSTb0-agAGxygym2puDzhH18081oY3sEc47vx-T32xeVvND6EzpaslQ"
 				},
 				"edges": [
 					{
@@ -266,13 +271,13 @@
 								"id": "100339865297028",
 								"display_name": "TrueExcalibur01",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/38974633_100340238630324_1103683594664344731_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=oSZozuCZ8T4AX_a4cKk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=24b99fcd7d56f8db4a0624351588ebaf&oe=6030AAF4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/38974633_100340238630324_1103683594664344731_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=oSZozuCZ8T4AX_ElPH5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d1e751c1365b6c1740618ae80e47ceb8&oe=6030AAF4"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I have to give it 4 stars because it needs more chapters. We finished the game in a few hours. This game was perfect for party nights with the boys. Just cast it to your phone or tv and you’ve got perfect entertainment. The game is very immersive. Please bring us some DLCs or more content!",
 							"reviewTitle": "Epic!",
-							"review_helpful_count": 30,
+							"review_helpful_count": 31,
 							"review_rank_by_viewer": null,
 							"date": 1609262629,
 							"developerResponse": null
@@ -287,7 +292,7 @@
 				"description": "The Exorcist: Legion is an acclaimed horror game set in the Academy Award-winning franchise of The Exorcist. Delve deep into the heart of the supernatural as you learn the ancient trade of demonic exorcism and uncover a supernatural conspiracy.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031385_2233540060293030_2725341823747751936_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=Q89l2ypumaAAX8-eQ5C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f004ca9a3c1de2aec40106ec409c130b&oe=602DE9C1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035365_810004849724508_7005746358523904429_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=IK9USLXg950AX_xWv30&_nc_ht=scontent.oculuscdn.com&tp=28&oh=727ce949228f19817895bba53f5b5a0e&oe=60301340",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

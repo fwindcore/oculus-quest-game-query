@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031640_2762335543986829_5936103490408270971_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=M6dtF6VVV8IAX-MVV9j&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fd115825f652ca05757694cd9f17fa29&oe=602F3BAF"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031640_2762335543986829_5936103490408270971_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=M6dtF6VVV8IAX-YKPLl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d6f7cf77063ee5a9fd7e29e7b632c81f&oe=602F3BAF"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_634829780744469_7066543016576805423_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=JDnaNW245MEAX9VTjbu&_nc_ht=scontent.oculuscdn.com&oh=67054b02625f3fd61e24c1d03b1ed193&oe=602F1393"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_634829780744469_7066543016576805423_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=JDnaNW245MEAX-IqpTX&_nc_ht=scontent.oculuscdn.com&oh=bf48c993d1ce767e270c0daeb0e874ac&oe=602F1393"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -80,14 +80,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.12.0",
-				"change_log": "October Update 1.12.0\n- Graphical Improvements for Quest 2\n\nSeptember Update 1.11.0\n- New button activation mechanic\n- New free locomotion mode\n- Improved font rendering\n- Support for custom radio stations\n- Added area to practice throwing/deleting items in reception\n- Fixed hand animation\n- Potential fix for game freezing due to low memory\n- New glass shader\n- Minor bug fixes\n\nFollow the game's updates and roadmap at http://gravitylab-game.com/roadmap",
+				"version": "1.14.0",
+				"change_log": "The Micro Star Update - v1.14.0\n\n- Added 6 new Micro Star Levels\n- Changed Gravity Modifier Logic. Now using the same modifier effect on an item toggles the effect\n- Improved visuals in Micro Star environment\n- Bugfix for level editor not displaying own custom levels in some circumstances",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1492559207",
-				"id": "3547174978673639",
-				"required_space_adjusted": "1220393366",
+				"total_installed_space": "1478924192",
+				"id": "3868322586558875",
+				"required_space_adjusted": "1222002910",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -121,7 +121,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3547174978673639"
+					"id": "3868322586558875"
 				}
 			},
 			"release_channels": {
@@ -132,8 +132,8 @@
 						"id": "575220919577787",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.12.0",
-							"id": "3547174978673639"
+							"version": "1.14.0",
+							"id": "3868322586558875"
 						}
 					},
 					{
@@ -141,8 +141,8 @@
 						"id": "786128868812304",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.12.0",
-							"id": "3547174978673639"
+							"version": "1.14.0",
+							"id": "3868322586558875"
 						}
 					}
 				]
@@ -160,7 +160,7 @@
 							"created_time": 1599747072,
 							"body_text": "Hey everyone,\n\nI have just pushed the September Update for Gravity Lab. It adds a new alternate activation mechanic for buttons as well as much better font rendering. These were the biggest points of critique after launch, so if they bothered you, please check out this update :).\n\nThere is also a bunch of other fixes/additions. Here is the full changelog:\n\nSeptember Update 1.11.0\n\n- New button activation mechanic\n- New free locomotion mode\n- Improved font rendering\n- Support for custom radio stations\n- Added area to practice throwing/deleting items in reception\n- Fixed hand animation\n- Potential fix for game freezing due to low memory\n- New glass shader\n- Minor bug fixes",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001716_3379144442147019_8699743652115825196_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=vJEJ_VnFtxcAX-Gc_b3&_nc_ht=scontent.oculuscdn.com&oh=42f51266ffa2cb351d9b411791fc6323&oe=602D87EE"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001716_3379144442147019_8699743652115825196_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=D0JSr70iL6oAX-h3-I-&_nc_ht=scontent.oculuscdn.com&oh=315d19e615b496077ffc2968c068abbe&oe=60317C6E"
 							}
 						},
 						{
@@ -169,7 +169,7 @@
 							"created_time": 1598585769,
 							"body_text": "Gravity Lab players have solved over 100.000 puzzles since the game has launched! This is an amazing milestone. Thank you!\n\n-=Roadmap=-\nI think now is a great time to share a bit about what the future will bring. Head over to gravitylab-game.com/roadmap for the most up to date info!\n\n-=Bug Fixes / Improvements=-\nI have created a simple system for players to report bugs (in addition to already available ways like email). Head to gravitylab-game.com/bugs to submit any reports and suggestions\n\n-=Consider Leaving a Review=-\nGravity Lab is a small indie title and as it turns out, puzzle games don't really have a wide mass market appeal that I have hoped.\nAnyway, if you enjoy the game, please consider leaving a rating and/or review for it. It really helps.\n\n\nThat is all for now. As always, thank you for playing the game. You can reach out to me any time at gravitylab@mark-schramm.com\n\n\nCheers,\nMark\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001683_310724736666703_7229733412850310011_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=2to_nDzLQi0AX8RRt_k&_nc_ht=scontent.oculuscdn.com&oh=032d05c24ad53fd2b5348c90a2103f41&oe=602D3935"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001683_310724736666703_7229733412850310011_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=2to_nDzLQi0AX_kKK5h&_nc_ht=scontent.oculuscdn.com&oh=3b85c9156ce69fdcff7bb44b91b44a0d&oe=60312DB5"
 							}
 						}
 					]
@@ -256,7 +256,7 @@
 								"id": "175102656586934",
 								"display_name": "rodrigue.amyot",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974844_867891480641378_1104348026519937228_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=BPLUIpXRkRUAX8qMlu0&_nc_oc=AQk-bfhWr_Qg-Jw5mmeTImdZA5dKveIv52c-03kQGSgroTuLH8DgiOGqeTpNdXNzev4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=53f4634d42b9dd701c0bbf302bc7da50&oe=602D9637"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974844_867891480641378_1104348026519937228_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=j1th894w1hwAX_ULnaG&_nc_oc=AQkSMt4VGZ6IoALUagBrrb0Uyq74tVzdkZgKsrMVMxE6wufOQLcVRRp9ihDtY651RO4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=576e0d78802fceb3cfcceb2ae86ec87a&oe=60318AB7"
 								}
 							},
 							"score": 4,
@@ -277,7 +277,7 @@
 				"description": "Build your incredible machine and solve physics puzzles with gravity bending appliances! Gravity Lab's new lunar testing facility welcomes you to try out our standardized testing scenarios - now designed for humans!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262743_1061812047566671_8759868414140300864_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=VtEge8VMQNwAX9qu8m-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0cd5bd0ae5d1083b2632e80d88ab114f&oe=60300200",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262743_1061812047566671_8759868414140300864_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=VtEge8VMQNwAX_wk7S_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=27ed9bb7022132c2bcef7a2bc0cfe0e2&oe=60300200",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

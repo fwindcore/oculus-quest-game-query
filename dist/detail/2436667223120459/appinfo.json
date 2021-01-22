@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=D9TgLkQxuEYAX-Vfbrk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=03d0a0c47aa87f09f320589e1ad4f1c4&oe=60305855"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=wd8C7DWKUVQAX9dD36u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7b3afc88fa984c7b98bf53ae0beafa1b&oe=60305855"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=DFqicOUPvrMAX-k6-EZ&_nc_ht=scontent.oculuscdn.com&oh=ac5a05e8ceea3dce5a1d650301aca34b&oe=602F8AE7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=DFqicOUPvrMAX8UMXaJ&_nc_ht=scontent.oculuscdn.com&oh=8471a30556d888e101cebf4a9b5a38e2&oe=602F8AE7"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -240,30 +240,30 @@
 			"firstQualityRatings": {
 				"count": 72,
 				"page_info": {
-					"end_cursor": "AQHRUaV8chpOGe1WvXkzKN5pSYuLKD5iNMjxlLGw7KeD9HbASWZWKknBx_gQsoSn1w0kZkhwMHuZGOiH1-FcuqM54Q",
-					"start_cursor": "AQHRUaV8chpOGe1WvXkzKN5pSYuLKD5iNMjxlLGw7KeD9HbASWZWKknBx_gQsoSn1w0kZkhwMHuZGOiH1-FcuqM54Q"
+					"end_cursor": "AQHRuN5MGeZOYgKIm4WOiOg4sn0ldAokgzlWjBgGpoGUaVEK7bJMK0kwWOpXr3Wk3jDx5tjvN5HovqNBT7naeHluNg",
+					"start_cursor": "AQHRuN5MGeZOYgKIm4WOiOg4sn0ldAokgzlWjBgGpoGUaVEK7bJMK0kwWOpXr3Wk3jDx5tjvN5HovqNBT7naeHluNg"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "414367166415640",
+							"id": "671928643503915",
 							"author": {
-								"id": "100238237828536",
-								"display_name": "jumanous",
+								"id": "169842700379181",
+								"display_name": "tltsaia",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.327.327a/s160x160/39031390_135657790953247_718375435360010240_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=wwEHCIFqBZIAX-Boc4h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e52784011f47125757edee59619c935&oe=602FC8FD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/12139007_169842777045840_8324540836133994496_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=H9kfwbi8O0QAX-phbLv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2ee0155b61c8c439b7746d51b50f9150&oe=60307C2D"
 								}
 							},
 							"score": 4,
-							"reviewDescription": "For starters, this is one of the best media players out there and the only one I know of that views videos, pics and music.\n\nOne thing VR needs is a lying down mode... this app comes the closest I have seen to it, but still when you start the app it is in sitting mode until you play a video or open a picture.  Still, it is better than skybox which you can never browse the menu lying down.\n\nAlso, it is awesome that this let's you view pictures, however I wish you could view picture directories with more than 100 picture files on DLNA.  I have tried this with numerous server set ups and  with other devices and apps, but it only seems to be this app which prevents me viewing the entire contents of picture directories. My various apps on my android tablet can view the entire contents of the directories connecting to the same dlna server.\n\nAll that aside, it is a great app, and well worth getting.  Very good for viewing vr180 or 3d movies or pics or anything you can throw at it.",
-							"reviewTitle": "Solid media player, with a few issues",
-							"review_helpful_count": 13,
+							"reviewDescription": "We know the quest2 display not support HDR, but there are more and more videos ask for it.\nCurrently, pigasus using libvlc not enable the HDR tone mapping feature, so HDR videos play abnormal (color washed out and dark), but libvlc supports HDR tone-mapping since ver. 3.0, have any plan ?",
+							"reviewTitle": "Is it possible to support HDR tone map ?",
+							"review_helpful_count": 3,
 							"review_rank_by_viewer": null,
-							"date": 1607151635,
+							"date": 1610222547,
 							"developerResponse": {
-								"date": 1607190274,
-								"body": "Hi jumanous. There should be no limits set to how many picture files show up on a DLNA media server. For testing, I have several picture folders shared out on my test DLNA media servers with about a thousand or so images in each of them and every image shows up.\nI would recommend double checking your DLNA media server settings again for possible listing limit settings (I know some media servers have such settings) just to be on the safe side. Also, make sure you are testing with a third party DLNA client on your other devices instead of the official DLNA apps of the media servers as this will give you a true test. For reference, I tend to use either Serviio and/or Plex when running a quest DLNA functionality test in Pigasus.",
-								"id": "414708229714867"
+								"date": 1611296253,
+								"body": "Despite Pigasus using libvlc for its video decoding backend, HDR tone mapping needs to be done on the rendering front end. So unfortunately it's not as simple as just using libvlc and suddenly getting HDR tone mapping on the decoded data for free. However in saying that, there are plans to look into HDR tone-mapping support for Pigasus sometime this year. Keep an eye out on the future release notes.",
+								"id": "678242446205868"
 							}
 						}
 					}
@@ -276,7 +276,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=lSrtd7Ozu88AX8yXiU4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5d561e2211a68a2acf7dee5a6b4235ed&oe=60306901",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=1vfckp4T6kgAX8mtQUr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c287a492508fadb911bc173a3b0ea9e4&oe=60306901",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
