@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974742_329254711710100_4247240763885852236_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=FNu-XTb0RgsAX8Sz5ZN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ee2d5608c5be174b7ef4593b1b2b4398&oe=602F5430"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974742_329254711710100_4247240763885852236_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=FNu-XTb0RgsAX-uK9QR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=da607a8eadeac504a922eb74fe820eee&oe=603348B0"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_323359932294859_5783003935758088053_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=PtnfZ-0TcdIAX9K-AFE&_nc_ht=scontent.oculuscdn.com&oh=4fa7a65a904621c4fce01c396391cc69&oe=602F6931"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_323359932294859_5783003935758088053_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=ArYxIHYruQwAX9cGRt2&_nc_ht=scontent.oculuscdn.com&oh=b44daadebe42eb86b41e393c22e2f4cc&oe=60335DB1"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 173,
+					"count": 176,
 					"starRating": 5
 				}
 			],
@@ -81,14 +81,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.4.0",
-				"change_log": "Patch 2.4.0 Release Notes\n[Features]\n- Continue Next Seasonal Event\n- New Training stage revamp!\n   - License 2 added freedom for players to experience and test new weapons at the end of the tutorial.\n   - In License 3 teaches players to be familiar with win objectives, boost(nitro), and sparks for the first time. \n   - Change Loading cover License 3, 4 to be more inline with story and objectives.\n   - Change License 4 Extreme track to be Onsen Shima instead of Slushy Slope.\n- Polish UI (Scoreboard after match ends, Gender card when viewing cards for different genders).\n- Add Ghost controller in Intro scene specifically for each device platform.\n- Improve race again UX/UI in Reward scene.\n- Improve sound in Reward scene(cheering SFX).\n- Rebalance dashmax drop rate in all maps.\n\n[Bug fixes]\n- Factory 51 Red Crashcodile is missing.\n- Onsen Shima forced gliding backwards when landing from fly zone.\n- Immersive controls grabbing steering wheel error.\n- Seasonal Event rewards can not be claimed.\n- Seasonal Event Quest can be passed without specified NPC.",
+				"version": "2.5.0",
+				"change_log": "Patch 2.5.0 Release Notes\n[Features]\n- Polish character creation (Gender cards, new 8 Presets per gender, 3D Character preview)\n- Unisex customization\n- New preset for Fanatec steering wheel (Swap drift & Acc from default )\n- New steering wheel preset and UI\n- Revise Valve Index sensitivity and Pressure for grip\n- Allow oculus button on forced SteamVR SDK to support Virtual Desktop\n\n[Bug fixes]\n- Karts will keep accelerating when trying to enter flying path before the race ends.\n- When claiming many mails at the same time the delete button will overlap the claim button.\n- Objectives Bar will disappear in Academy Stage 9 when going to the next track.\n- After disconnecting and reconnecting to game, the your friend’s name will be showing \"...\" in the Party UI.\n- Special NPC’s name tag is not correct.\n- Academy Reward with 3 medals did not send to the Mailbox.\n- Reward scene overall score on some cards are all in black color.\n- Reward scene overall score remains stuck on the screen(Grand Prix mode).\n- Stun effect(duckling) animation is not moving.\n- Minimap is disappearing when opening and closing Options menu.\n- Meta scene: player’s hand appear with black textures.\n\n[Quest and Achievements]\n- Daily Quest: Make a Mess progression failed.\n- Achievement \"THE PROOF OF AWESOMENESS I\" can unlock expert only.\n- Achievement \"THE PROOF OF AWESOMENESS II\" can unlock expert only.\n- Achievement \"BOOST PAD AMATEUR\" wrong limit number.\n- Fix Seasonal Full Throttle: High score board timer.\n- Full Throttle: Event Quest progression issues.",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "3891400087",
-				"id": "3524256917679306",
-				"required_space_adjusted": "5962158001",
+				"total_installed_space": "3926882600",
+				"id": "3544868885618109",
+				"required_space_adjusted": "6036336674",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3524256917679306"
+					"id": "3544868885618109"
 				}
 			},
 			"release_channels": {
@@ -133,8 +133,8 @@
 						"id": "316503405917151",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.4.0",
-							"id": "3524256917679306"
+							"version": "2.5.0",
+							"id": "3544868885618109"
 						}
 					}
 				]
@@ -152,7 +152,7 @@
 							"created_time": 1609269203,
 							"body_text": "\n\nChallenge yourself during this winter in FROSTY SEASON ☃️❄️\n\nComplete 30 new challenges throughout this season with 3 competitive events. 🏎💦\n\nYour chance to unlock all-new 26 limited exclusive items during this season ONLY!\n\n\n\nCircuit Wonder (LIVE NOW)\n\n\n\nRace in 6 wonderful circuits with 10 new quests and meet Dash Dash Academy members during the Circuits Wonder event. 🏎  🗺\n\nWho knows you might face some Top Racers from Dash Dash Academy. So watch out cause they won’t go easy on you!\n\nCircuits Wonder event starting TODAY until 27 January 2021\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV -  Tier 90%/70%/30%/10% on Seasonal Leaderboard.\n- Alpaca Brawl - Beat Special Character in Monte Alpaca 2 times.\n- Mad Liberty - Beat Special Character in Liberty Circuit 5 times.\n- Kabo Dojo Havoc - Beat Special Character in Kabo Dojo 2 times.\n- The Witness Meddy - Beat Special Character in Ideon Grotto 2 times.\n- Mariachi Smash Down - Beat Special Character in Los Muertos 5 times.\n- Evopolis Era - Best Special Character in Evopolis 5 times.\n\nImmersive Festa (Ended)\n\n\n\nNow it’s your chance to improve your immersive driving skills with new 10 immersive quests to complete.  💪\n\nImmersive Festa event starts TODAY until  12th January 2021 (11.59 pm PDT)\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV - Top 90/70/30/10% on Seasonal Leaderboard.\n- The Showdown - Win 3 race while playing using the Immersive control.\n- Triple Xtreme -  Place top 3 in extreme track while using super immersive control 3 times (any track)\n- Nitro Dash - Nitro 10 times in a single race while using super immersive control.\n- The Survivor - Wipe egg, dino carbo, and carbo cracker off-screen while using super immersive control.\n- Dash Store - Consume all Dash Products in a single race while using super immersive control (Bar, Bull, and Max).\n- Shoot and Drive - Hit 3 racers with a single Terminator Jr. while using super immersive control.\n\n\n\nView the Tournament trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=UWcdmi6XzoI\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75404388_232023355053464_3463171900241806301_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=TKappY4RRLQAX_k0KAz&_nc_ht=scontent.oculuscdn.com&oh=fe1bb7afc32e3b0520090598cb495e05&oe=6031B676"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75404388_232023355053464_3463171900241806301_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=CR0YurkHizMAX_S8lTg&_nc_ht=scontent.oculuscdn.com&oh=f99f4d3123ba473f9ead4a1a5f2802a3&oe=6031B676"
 							}
 						},
 						{
@@ -161,7 +161,7 @@
 							"created_time": 1609267874,
 							"body_text": "\n\nWe have been developing this feature for over a year and now it is ready for prime time!\n\nView New trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=09WikLmlIUA\n\n\n\nTomorrow we will launch a 2 weeks tournament focusing on Virtual Steering. Here is a sneak peek.\n\n\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75322605_811188609610312_7520186997117274280_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=aWHz-OgHYecAX9A0oCo&_nc_ht=scontent.oculuscdn.com&oh=27a9ac94b1c5593b2900af1d1989c33c&oe=6030D5EA"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75322605_811188609610312_7520186997117274280_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=aWHz-OgHYecAX-pb8No&_nc_ht=scontent.oculuscdn.com&oh=f2f81860c5c1ead91330301680483638&oe=6030D5EA"
 							}
 						}
 					]
@@ -218,11 +218,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1465201465201,
+			"quality_rating_aggregate": 4.1557971014493,
 			"support_website_url": "https://www.DashDashRacing.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 155,
+				"count": 157,
 				"orderings": [
 					{
 						"key": "top",
@@ -235,10 +235,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 155,
+				"count": 157,
 				"page_info": {
-					"end_cursor": "AQHR4r-cGZUrDpZxVSCg8FaMcMskEm28f5mAUstltd3o7ZKEcPOAhSKGf3nr9a3mc1zwz9vAz0NpKwP5Lr8oW_6OFA",
-					"start_cursor": "AQHR4r-cGZUrDpZxVSCg8FaMcMskEm28f5mAUstltd3o7ZKEcPOAhSKGf3nr9a3mc1zwz9vAz0NpKwP5Lr8oW_6OFA"
+					"end_cursor": "AQHREGbx7N6jIRbriZ0NthAFTPUtq8YLAfc_OKqew2HNpKUtsy7VCiTqcuVn-xXOxNijr40WASuBBxu43RaDrgq2vg",
+					"start_cursor": "AQHREGbx7N6jIRbriZ0NthAFTPUtq8YLAfc_OKqew2HNpKUtsy7VCiTqcuVn-xXOxNijr40WASuBBxu43RaDrgq2vg"
 				},
 				"edges": [
 					{
@@ -248,13 +248,13 @@
 								"id": "100472851875362",
 								"display_name": "MrPePeWr",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974621_100473095208671_8841787548079864037_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=ZiNnlGk09sAAX-3w2MQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8cfa08f7bf3d8f8a0cfd642e30b245fe&oe=6031509B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974621_100473095208671_8841787548079864037_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=ZiNnlGk09sAAX9X30Lt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d3e2981940ffe05e80822c63d79ff327&oe=6031509B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I am not used to make reviews and i only wrotte a few during the past years but here i am.\n\nI played a lot of different VR games such as Moss, Alyx, PopOne, Phasmophobia, Echo Arena, Walking dead & many other famous titles etc... \n\nHowever, i already played this game more than all the other games. Let me explain.\n\nThis game can and will be improved. However, it has everything you need to enjoy playing VR comfortably installed in your chair.\n\nI am not a big lazy guy but i also know that VR sessions can be very tiring so the gametime is physicaly limited. However with this game you can play comfortably sitted and remains fully immersive. In fact it is more immersive to be sitted.\n\nThere are many cosmectics, weapons and they recently improved graphics & performance with two new tracks.\n\nFrequent updates, solid base & great ambitions such as becoming the VR kart game reference.\n\nThis game is not perfect but it has EVERYTHING you need to enjoy playing VR while drifting, shotting, throwing things... \n\nDrift is the Key by the way. ;)\n\nConclusion: JUST BUY IT\n\nA few things that needs to be improved in my opinion:\n-lobby interaction is broken (Other's people moves looks weird)\n-Engines needs to be balanced in order to handle harder Track such as Volcanic Jungle and even more to be able to drift on all the maps.\n-Poison/Hack needs to be reduce because it can break a perfect run & let you loose even if you were ahead from far.  It is a great Weap btw but too powerfull in my opinion.\n-Need to be much much more known by VR community ;)",
 							"reviewTitle": "From a Guy Who never writte reviews.",
-							"review_helpful_count": 148,
+							"review_helpful_count": 151,
 							"review_rank_by_viewer": null,
 							"date": 1608244512,
 							"developerResponse": {
@@ -273,7 +273,7 @@
 				"description": "Drive, Shoot & Drift like NEVER before... Dash Dash is a cross-platform VR racing game with full hand driving and weapons controls.\n\nOver 100 hours of gameplay contents including story mode, regular online tournaments, 100s of achievements and over 1,000,000,000,000 customizable parts.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_1860819077407026_7606322470346470019_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=1P-mO7FZvEYAX85am-o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=64b6921e0b8666aa4e2d27cd798747da&oe=6030C922",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_1860819077407026_7606322470346470019_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=1P-mO7FZvEYAX_6Y_bn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed692c00bc3b342c83825564338c9ed7&oe=6030C922",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
