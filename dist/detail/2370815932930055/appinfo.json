@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=xcuQtptMpToAX_9F8Hu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a1fe388145648940e138e54ebf24e01&oe=60335A3F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=xcuQtptMpToAX_DYlt-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f9f60298bb569d636e0ba7ea84550c8e&oe=60335A3F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=IQTCXd34izoAX_6G4TJ&_nc_ht=scontent.oculuscdn.com&oh=b880b616665ff01d35ee9ee7c89383cf&oe=6034B371"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=DhtHfdjtdKMAX9N25K_&_nc_ht=scontent.oculuscdn.com&oh=925e4b0be709c98b8b6e4ec3c111e23d&oe=6034B371"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 517,
+					"count": 525,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 212,
+					"count": 214,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 287,
+					"count": 291,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 594,
+					"count": 600,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1664,
+					"count": 1671,
 					"starRating": 5
 				}
 			],
@@ -142,7 +142,74 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1611795600,
+								"current_start_timestamp": 1611788400,
+								"temporal_info": {
+									"seconds_until_end_time": 230419,
+									"seconds_until_start_time": 223219
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "711326216231891",
+								"is_vr_viewer_interested": false,
+								"name": "PokerStars VR 2X Creds Power Hours",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001654_343768643318458_3720739725064830454_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=7TmvGw0N_hAAX8e4aCm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=afa4becc284ea0ed28680a2e3e32ca05&oe=60344E73"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1612400400,
+								"current_start_timestamp": 1612393200,
+								"temporal_info": {
+									"seconds_until_end_time": 835219,
+									"seconds_until_start_time": 828019
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "711326402898539",
+								"is_vr_viewer_interested": false,
+								"name": "PokerStars VR 2X Creds Power Hours",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031366_1521106724765796_1589229892618211517_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=Kf8v84v-XZoAX-azv_Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=677a38210c27b15145823b8eaba458ea&oe=60358D01"
+								}
+							}
+						}
+					]
 				},
 				"id": "177864522911399",
 				"posts": {
@@ -151,7 +218,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRFNJBMoalFkNPXx1tEbwjztkv8_qSInku4hgYiUh-0j2SLMXy_TR1BRSw3BuUnftLD2j3DjIpZ474-4Rjh9P8OQ"
+							"cursor": "AQHRkUNrnbnSKVHxvvALHktiRFDDniHU7wz71wjtdd6RgmA8EI2V_-7cWK01qqXi6FDQx6S3Tk3Hu2iA_xhum9NbcQ"
 						}
 					]
 				}
@@ -198,11 +265,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8173488087966,
+			"quality_rating_aggregate": 3.8112693123296,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1157,
+				"count": 1162,
 				"orderings": [
 					{
 						"key": "top",
@@ -215,10 +282,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1157,
+				"count": 1162,
 				"page_info": {
-					"end_cursor": "AQHRgyJDax4lUVPS20zgpDS1tKryp_uCE7XmkEW0-D6lvvsxsXNKwkezZFzw8ecqZegQfAZfrwEznAMQ0hsgE_xX5g",
-					"start_cursor": "AQHRgyJDax4lUVPS20zgpDS1tKryp_uCE7XmkEW0-D6lvvsxsXNKwkezZFzw8ecqZegQfAZfrwEznAMQ0hsgE_xX5g"
+					"end_cursor": "AQHRnuWrAIAodE5_co1sCU2sXPcjmbp6FwJXLwgFQYj4WUDD3NuBkXXdn5rHTRfDxR_1p8xPaJtLPhX0HgjdsbO5VQ",
+					"start_cursor": "AQHRnuWrAIAodE5_co1sCU2sXPcjmbp6FwJXLwgFQYj4WUDD3NuBkXXdn5rHTRfDxR_1p8xPaJtLPhX0HgjdsbO5VQ"
 				},
 				"edges": [
 					{
@@ -228,13 +295,13 @@
 								"id": "103026144991632",
 								"display_name": "Ryank77",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974818_103026698324910_2497707150342293409_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=O-QYauh43ykAX_p4l9m&_nc_oc=AQnbp5YKvqi8ZICxBo7CDKpbyLD75eOM7GWSSd_01aggnoDyp5MPFBOdIGvCd4i_d-k&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0a8836526df39f34c2851c6aceb702d7&oe=603162D1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974818_103026698324910_2497707150342293409_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=O-QYauh43ykAX9Xan29&_nc_oc=AQnk9cuIyvYIaie7PflrmVFdyNhizewVZMuNRECCzmp6KpxzOkqAtdHNT8Nux394mAU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eaf43465a93dd3bd7d9f2df14179cce2&oe=60355751"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game has been very fun for me, best way to play poker and blackjack from home. The game has lots of fun props and different stakes to play at, with a cool vr touch. The issue with this game is the bugs. Many times the game will freeze and you are forced to restart, the functions stop working and require a restart and tables stop working. If these bugs were fixed the game would be a 5 for sure",
 							"reviewTitle": "Great game with issues",
-							"review_helpful_count": 25,
+							"review_helpful_count": 28,
 							"review_rank_by_viewer": null,
 							"date": 1609819451,
 							"developerResponse": {
@@ -253,7 +320,7 @@
 				"description": "Step into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_498861201281923_6357791679001971845_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=O5kJmIiKuwkAX8N0wWY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=88b5df3329ca71a950d1eda5a1b752db&oe=60325FDD",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_498861201281923_6357791679001971845_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=Kov-GewR8KMAX_cI6vZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8d203217946c7bff3a855ab89ea0c110&oe=60325FDD",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75458095_305399953880427_8420033076631816571_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=JXJwaZW72F4AX8INCQR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fa92ffc1878cb7cc27ca6aa1b6b562bd&oe=6030FC2C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75458095_305399953880427_8420033076631816571_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=rAMQf3dLyVAAX9vQQuv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5a3cb0e4ed1a1679e0cec5fc3c8837ec&oe=6034F0AC"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75230043_638152580467907_1299311026309951950_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=ACdti-QrIoEAX80cKkl&_nc_ht=scontent.oculuscdn.com&oh=d0ba11c771476c98eefef17667d98609&oe=603448E4"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75230043_638152580467907_1299311026309951950_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=ACdti-QrIoEAX9wcFnS&_nc_ht=scontent.oculuscdn.com&oh=4d8bfd177196777a405565581b42c499&oe=603448E4"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 11,
+					"count": 12,
 					"starRating": 2
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 45,
+					"count": 46,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 55,
+					"count": 56,
 					"starRating": 5
 				}
 			],
@@ -134,22 +134,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "229193452158451",
+				"id": "757386551765675",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99",
-					"offset": 100
+					"formatted": "$14.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1611561540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -236,16 +231,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "229193452158451"
+				"id": "757386551765675"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.5766871165644,
+			"quality_rating_aggregate": 3.578313253012,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 102,
+				"count": 105,
 				"orderings": [
 					{
 						"key": "top",
@@ -258,28 +253,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 102,
+				"count": 105,
 				"page_info": {
-					"end_cursor": "AQHRKGOWJrY9otX0HUTf3xE0im7HZMA1-fT92Vd_Uy33-589EX6PQGZFDiFHq0GxKC_gsP3ba0SAsFol5ERgJ2wYCA",
-					"start_cursor": "AQHRKGOWJrY9otX0HUTf3xE0im7HZMA1-fT92Vd_Uy33-589EX6PQGZFDiFHq0GxKC_gsP3ba0SAsFol5ERgJ2wYCA"
+					"end_cursor": "AQHR_u8ekn-SRgf3naV6EVkExtmi6zHyV2Hfu-_5lUxcnDpbKUQ9BF2HjVdKzwXLMse__lhQ4_emRJDavD1tZgy0_w",
+					"start_cursor": "AQHR_u8ekn-SRgf3naV6EVkExtmi6zHyV2Hfu-_5lUxcnDpbKUQ9BF2HjVdKzwXLMse__lhQ4_emRJDavD1tZgy0_w"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "154578666412166",
+							"id": "125716906058896",
 							"author": {
-								"id": "109244967612203",
-								"display_name": "starjumper2004",
+								"id": "100891255208128",
+								"display_name": "ThumperJay",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982635_109245480945485_8018849070388276105_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=J-bP8IVGxhYAX9cqu9Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d6518b462e2d72572b856ca2129a646&oe=60321C9D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39036675_125712299392690_6054942969240629056_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=yA2KtLDfwK0AX9eo6DH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=79527a34170dfc86310170745adb1579&oe=60339D8C"
 								}
 							},
 							"score": 3,
-							"reviewDescription": "I have this game on Steam and my phone (haven't got far in to the mobile version yet), however I can say that while this is indeed a game I enjoy enough to lose track of time; it is missing some of the best, most satisfying parts.\n\nI'd personally like to see Landscaping, tiling, vacuuming up bugs and, window cleaning come to the VR version as well, the ability to search the names of items in the store would be nice also.\n\nIf these come out in an update I'll come back and give 5 stars, til then it's limited to spackling, painting, picking up trash and mopping... so it's only worth 3 stars.",
-							"reviewTitle": "Fun but missing some great parts.",
-							"review_helpful_count": 72,
+							"reviewDescription": "the game is ok its the same concept as the pc version but it's too cartoony which I can handle BUT as someone who has a type of color blindness I feel there should be names on items that you need and also in the shop as I have to keep purchasing different paints when trying to finish the quest as some of the colors all look the same to me other than that I don't think I have any other downfalls of the game but I did just start playing\n\nUPDATE\nGot further into the game thinking it would be house flipper but there is no remodeling or anything just cleaning so if your after the PC or psvr version dont buy this wish I could get a refund this should be called Cartoon Cleaners",
+							"reviewTitle": "Nope",
+							"review_helpful_count": 38,
 							"review_rank_by_viewer": null,
-							"date": 1606807033,
+							"date": 1610939741,
 							"developerResponse": null
 						}
 					}
@@ -292,7 +287,7 @@
 				"description": "在虚拟现实中装修从未如此真实过！借助VR技术，您将能够亲身体验到翻修房屋的乐趣，通过出色的工作获得客户的认可和自我的满足！",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982659_1136354626822395_2358447265749179197_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=LInjXCbvfG4AX8azXgn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b272e48c09812cffab2ec9938d211ba7&oe=60325085",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75240097_1651363748366604_7044399017435616965_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=LjedthEne9EAX9LvYIU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=746e98db3783cff0606861eec2796de7&oe=60328B9D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
