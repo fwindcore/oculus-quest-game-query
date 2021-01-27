@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982489_417378882961848_6298505001730829370_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=Q65caB6DvwwAX8NeWUa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c01a5757da2b8169e3eeb82dc438ea75&oe=6034B727"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982489_417378882961848_6298505001730829370_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=Efv4dsl7gnAAX_XQeM5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=47ffa9809c0993f17a11961d66ae35df&oe=6038ABA7"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974731_2274025196220755_6054692122466975744_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=EG29Qv8ztqkAX_ZgbGF&_nc_ht=scontent.oculuscdn.com&oh=978d6d0299fe4e43945e81d698e157f3&oe=6033C3D7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974731_2274025196220755_6054692122466975744_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=NDziCydaU3EAX_Z8hLC&_nc_ht=scontent.oculuscdn.com&oh=13b78117d0f647c961302d28a0fa81e3&oe=6037B857"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 297,
+					"count": 298,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2424,
+					"count": 2429,
 					"starRating": 5
 				}
 			],
@@ -151,7 +151,12 @@
 									"canonicalName": "vertigo-games-arizona-sunshine-android6d0f",
 									"id": "2190353671014400"
 								},
-								"purchase_alerts": [],
+								"purchase_alerts": [
+									{
+										"type": "PARENT_APP_REQUIRED",
+										"message": "这是附加内容，需要有主游戏 (亚利桑那阳光 (Arizona Sunshine®)) 才能玩"
+									}
+								],
 								"parent_application": {
 									"id": "2190353671014400"
 								},
@@ -221,7 +226,7 @@
 							"created_time": 1608054757,
 							"body_text": "The Trailer Park is here!\n\nSet in one of the more advanced campaign environments of Arizona Sunshine, the Trailer Park map is an entirely new content update to the popular VR zombie shooters multiplayer horde mode, where up to 4 survivors team up in co-op to fend off wave after wave of hangry undead for as long as they can.\n\nGood luck surviving in the scorched apocalypse.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974917_140516727625402_90593302403189660_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=3ZpMZiEo9mMAX_7nUVi&_nc_ht=scontent.oculuscdn.com&oh=a704bb3b2c1cb059a1c3e96c96f140ab&oe=603590C6"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974917_140516727625402_90593302403189660_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=3ZpMZiEo9mMAX8UCFO3&_nc_ht=scontent.oculuscdn.com&oh=1f7bcb396c35bf82fdc86553cb5be95b&oe=603590C6"
 							}
 						},
 						{
@@ -230,7 +235,7 @@
 							"created_time": 1604079840,
 							"body_text": "We've just patched Arizona Sunshine to resolve the multiplayer connectivity issues that arose with the Quest 2 release. Rejecting Oculus' microphone usage previously could prevent players from joining each other in a multiplayer lobby. Please update Arizona Sunshine to the latest version to continue the zombie adventure with your friends!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031486_403895273947108_2196275561493266716_n.png?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=Yzx1uxVZ12cAX8UOz7J&_nc_ht=scontent.oculuscdn.com&oh=6e54da3653dff72cc746de071e11494d&oe=603610D2"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031486_403895273947108_2196275561493266716_n.png?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=QmAqSYAdeaQAX-mAklu&_nc_ht=scontent.oculuscdn.com&oh=620d4c9544d4bad806a76c20317e214e&oe=603610D2"
 							}
 						}
 					]
@@ -238,7 +243,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRoLvgTAx_PMUVvTKU7y2SHy_ejt39KLb4DUFApiDfrj4LHToKAeu3x67bhiZEvxac_pPqyqfnl-xrdjUETrNjVg"
+							"cursor": "AQHRSSXfJfggr6V4OzW18QO613nphzu-5vJY3SfsVW6XJ6hkTmd6fLm1OsiZb9V2vAZvtHFZymfJG3z898Hyd-q5_Q"
 						}
 					]
 				}
@@ -291,11 +296,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3042505592841,
+			"quality_rating_aggregate": 4.3047902705386,
 			"support_website_url": "https://docs.google.com/forms/d/e/1FAIpQLSdELqDplawzh8j8qJjBRJAwQzq3B6cBz6Vd8u7rdFgRT4tkcQ/viewform",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2244,
+				"count": 2245,
 				"orderings": [
 					{
 						"key": "top",
@@ -308,10 +313,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2244,
+				"count": 2245,
 				"page_info": {
-					"end_cursor": "AQHRtHh-hoLS2qXjLa4EpqdeeRYtkGCSsf-k4rO-vVer2Mni0D1ancQyJX8fMo1m39UNrQSZQJig_MtbwxpU16-B0w",
-					"start_cursor": "AQHRtHh-hoLS2qXjLa4EpqdeeRYtkGCSsf-k4rO-vVer2Mni0D1ancQyJX8fMo1m39UNrQSZQJig_MtbwxpU16-B0w"
+					"end_cursor": "AQHRR7Qnf7Cey9n5FLXIm-iY6svjHerZ9JaH2ghkrLCiPEBZa3b-Kz6TxJ4ARhnjyHk_pK7HDZYZZemplfZN-Q4LUQ",
+					"start_cursor": "AQHRR7Qnf7Cey9n5FLXIm-iY6svjHerZ9JaH2ghkrLCiPEBZa3b-Kz6TxJ4ARhnjyHk_pK7HDZYZZemplfZN-Q4LUQ"
 				},
 				"edges": [
 					{
@@ -321,13 +326,13 @@
 								"id": "104065491289042",
 								"display_name": "MindOfBlake",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/39035412_177001097328814_6637673879798476523_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=-9Aja0EjEiEAX-8OPBj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=422992031e895bda76d9dab3fece64d3&oe=603623D8"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/39035412_177001097328814_6637673879798476523_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=9NQDRGhWzdcAX_liV0T&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eef28e3b102cf8b698f98b3c23a2d7d3&oe=603623D8"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Please if you see this developers please add cross platform I am on oculus quest and I have a friends that is on psvr and we have being waiting for some time now to play the campaign together. If any developer sees this please try and add crossplay.",
 							"reviewTitle": "Cross platform",
-							"review_helpful_count": 238,
+							"review_helpful_count": 243,
 							"review_rank_by_viewer": null,
 							"date": 1608084927,
 							"developerResponse": null
@@ -342,7 +347,7 @@
 				"description": "亚利桑那阳光 (Arizona Sunshine®) 是一款专为虚拟现实（VR）打造的游戏，将让你置身于僵尸横行的末日世界。在VR中，你可以通过现实中的动作操控武器，自由探索末日之后的世界，接受生存技能考验——击杀不死僵尸的刺激程度前所未有!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031432_815554045669057_8876705599578681943_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=S2-keUi0zT8AX-a_Qcm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bf956cfc24604bf9a7f156a96ae45d64&oe=60359DC7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031432_815554045669057_8876705599578681943_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=S2-keUi0zT8AX-YXqi-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=07c78a839d8c5082df222d2f94e82d7d&oe=60359DC7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

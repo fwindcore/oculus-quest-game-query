@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974487_196908208095925_3870201249538244608_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=Iy4aUjopeGsAX_Z6zvu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f4ab7ab397131ac191df671a6e7b6a56&oe=60371742"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974487_196908208095925_3870201249538244608_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=Iy4aUjopeGsAX8ZdUxq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d633bffa0ec54cbed51ea3abeecf302&oe=60371742"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_196905524762860_6908572822533046272_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=v-EXPxGHaPcAX_u4XSB&_nc_ht=scontent.oculuscdn.com&oh=397c0e5658d09b7256dfe592714273f6&oe=60369988"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_196905524762860_6908572822533046272_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=v-EXPxGHaPcAX9Wc6w2&_nc_ht=scontent.oculuscdn.com&oh=692fd31c7b84695c4166132cbcc971c7&oe=60369988"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -148,7 +148,12 @@
 									"canonicalName": "harmonix-audica-android6d0f",
 									"id": "2333124776756148"
 								},
-								"purchase_alerts": [],
+								"purchase_alerts": [
+									{
+										"type": "PARENT_APP_REQUIRED",
+										"message": "这是附加内容，需要有主游戏 (AUDICA) 才能玩"
+									}
+								],
 								"parent_application": {
 									"id": "2333124776756148"
 								},
@@ -216,7 +221,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRwLuQq3F0jW_DM-BUnR2RoUQsfI4uoyiWA75Lt9BVqDRfZnQgYXJjeDCY1RdmRidldX3We49og2UvI3qzsVXq4A"
+							"cursor": "AQHRYY1ST2ukQ-yoNj-QYpMJhHoi78USluBW9CTq0KKtrQaCB1vvN1pqYjYeLetp2SDkHCkERsjJ6Vd9M5G1-xd1hw"
 						}
 					]
 				}
@@ -288,8 +293,8 @@
 			"firstQualityRatings": {
 				"count": 263,
 				"page_info": {
-					"end_cursor": "AQHRi8pJ3kQHPbrJfReQaQJzGdaWxQzs1Pxkp1T6t-zZ9Xo6QZ7gDasZPmo_Jz-EhZTE9Eu9_-Y3M8wYaR67hmMgiA",
-					"start_cursor": "AQHRi8pJ3kQHPbrJfReQaQJzGdaWxQzs1Pxkp1T6t-zZ9Xo6QZ7gDasZPmo_Jz-EhZTE9Eu9_-Y3M8wYaR67hmMgiA"
+					"end_cursor": "AQHRM-lVG-dWGJcDnhcdPz8pyjUPxlZdZ-czE4u3rh9cXVRWwKVisLMRw2yH2vvuIjZDfgArIY_2sb8r375ScGul0w",
+					"start_cursor": "AQHRM-lVG-dWGJcDnhcdPz8pyjUPxlZdZ-czE4u3rh9cXVRWwKVisLMRw2yH2vvuIjZDfgArIY_2sb8r375ScGul0w"
 				},
 				"edges": [
 					{
@@ -299,13 +304,13 @@
 								"id": "358845251226032",
 								"display_name": "Finerphenomenon",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/11162708_358845657892658_6504984078691860480_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=ClaSJDWIHJAAX9XTvrV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a53417aad1134be5d84d9149699daf6b&oe=6033CC07"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/11162708_358845657892658_6504984078691860480_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=ClaSJDWIHJAAX9ISO8L&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd6c0bcfc80397643f8b07ce2dbc16af&oe=6037C087"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Also, don’t expect this to be like other VR rhythm games. Going Into this game thinking of Beat Saber and Pistol Whip is the wrong line of thinking. This game is much different and, imho, much better and more technical, which makes it that much more satisfying when you hit a perfect run. I think of Beat Saber, Pistol Whip, and Synth Riders a workout for the body and Audica a workout for the brain. There are customs galore on the Audica Modding discord; from guns and arenas, to hundreds of customs songs of all difficulty levels. The discord also has a very welcoming and helpful group of players, mappers, and modders who will help you get going.",
 							"reviewTitle": "Don’t overlook this awesome game",
-							"review_helpful_count": 61,
+							"review_helpful_count": 64,
 							"review_rank_by_viewer": null,
 							"date": 1607124043,
 							"developerResponse": null
@@ -320,7 +325,7 @@
 				"description": "AUDICA™ is a VR “rhythm shooter” that combines Harmonix’s award-winning music gameplay with precision shooting mechanics and a 33-song soundtrack, all set in a mesmerizing cosmic arena.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974531_264913654703623_8319708263486586880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=T_tluqVuXGAAX8QHT3K&_nc_ht=scontent.oculuscdn.com&tp=28&oh=49d11a7ddd422c1e1a4dddd28d98d716&oe=60358705",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974531_264913654703623_8319708263486586880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=2ZZwVjhdTDwAX_DTw6y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8f5c82b130d088bba4b445be1c64cd20&oe=60358705",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

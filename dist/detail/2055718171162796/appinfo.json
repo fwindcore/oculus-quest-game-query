@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=blBODZ5UTuYAX8r4y91&_nc_ht=scontent.oculuscdn.com&tp=28&oh=02033a959bdfe6b139f1c96079c712c7&oe=6035C665"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=blBODZ5UTuYAX_dOpPJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=acea9d902cc2f52a847d9538bc20ff40&oe=6035C665"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=72LIbgedPcoAX-rXKoj&_nc_ht=scontent.oculuscdn.com&oh=55a33f7d666027694b10a0e405e3f3b3&oe=6033C44D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=72LIbgedPcoAX-Blb95&_nc_ht=scontent.oculuscdn.com&oh=6724f0650d7cb8f7fb18d8b39769ad9d&oe=6037B8CD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -128,7 +128,12 @@
 									"canonicalName": "tribe-xr-inc-tribexr-dj-school-android6d0f",
 									"id": "2055718171162796"
 								},
-								"purchase_alerts": [],
+								"purchase_alerts": [
+									{
+										"type": "PARENT_APP_REQUIRED",
+										"message": "这是附加内容，需要有主游戏 (Tribe XR: DJ in VR) 才能玩"
+									}
+								],
 								"parent_application": {
 									"id": "2055718171162796"
 								},
@@ -203,8 +208,8 @@
 								"current_end_timestamp": 1611775800,
 								"current_start_timestamp": 1611774000,
 								"temporal_info": {
-									"seconds_until_end_time": 125763,
-									"seconds_until_start_time": 123963
+									"seconds_until_end_time": 39273,
+									"seconds_until_start_time": 37473
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -226,7 +231,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974557_1761068210720930_2435053144967777962_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=6NofzSXN96YAX-L4Ltx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4879ac59d0b129ccd42069b17ecf9da3&oe=60365BCB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974557_1761068210720930_2435053144967777962_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=6NofzSXN96YAX_n2UUO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=70208e30803f822c274bf38377a9225c&oe=60365BCB"
 								}
 							}
 						},
@@ -236,8 +241,8 @@
 								"current_end_timestamp": 1611948600,
 								"current_start_timestamp": 1611946800,
 								"temporal_info": {
-									"seconds_until_end_time": 298563,
-									"seconds_until_start_time": 296763
+									"seconds_until_end_time": 212073,
+									"seconds_until_start_time": 210273
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -259,7 +264,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974557_1761068210720930_2435053144967777962_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=6NofzSXN96YAX-L4Ltx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4879ac59d0b129ccd42069b17ecf9da3&oe=60365BCB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974557_1761068210720930_2435053144967777962_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=6NofzSXN96YAX_n2UUO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=70208e30803f822c274bf38377a9225c&oe=60365BCB"
 								}
 							}
 						},
@@ -269,8 +274,8 @@
 								"current_end_timestamp": 1612380600,
 								"current_start_timestamp": 1612378800,
 								"temporal_info": {
-									"seconds_until_end_time": 730563,
-									"seconds_until_start_time": 728763
+									"seconds_until_end_time": 644073,
+									"seconds_until_start_time": 642273
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -292,7 +297,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_2902331360004155_4289968261681732691_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=IH6uupi-AzkAX9AclvL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=23284512a23069d37cedb61f2fc7448b&oe=603731C7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_2902331360004155_4289968261681732691_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=nFjfK5-WFTUAX8eY1Tc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3bb0106ce6a4cfa24d87d82851a9af0f&oe=603731C7"
 								}
 							}
 						},
@@ -302,8 +307,8 @@
 								"current_end_timestamp": 1612553400,
 								"current_start_timestamp": 1612551600,
 								"temporal_info": {
-									"seconds_until_end_time": 903363,
-									"seconds_until_start_time": 901563
+									"seconds_until_end_time": 816873,
+									"seconds_until_start_time": 815073
 								},
 								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
 								"vr_applications": {
@@ -325,7 +330,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_773920086807915_6004848492440422508_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=j3QlAg-2Zr8AX8qeM7u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ef676d4600b495727a85de428aa5ab6&oe=60357EAF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_773920086807915_6004848492440422508_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=MNBEenvwac8AX9582FW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cabd2dc82e4131c6edb7edf4f140f0c5&oe=60357EAF"
 								}
 							}
 						}
@@ -338,7 +343,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRhfsw_zsT5eA8GbY1WLoYJ9qiua5CBPh1zIhevAgmElwQtf0DCj2eMJ_JhrbzEoo8xrGkqhrsdHSZID3M2kOeJA"
+							"cursor": "AQHRducGaEsnaiLCIU0z6YYjmG7ICfayKLClBQYDcpcZyh2-JR9E-1TRi0epZY_CeAGDaaMXguRVNHRhZgyCzhAirg"
 						}
 					]
 				}
@@ -410,8 +415,8 @@
 			"firstQualityRatings": {
 				"count": 189,
 				"page_info": {
-					"end_cursor": "AQHRL7NK5ybMlHruTKJpVkS9AB9BZVrWhm3BSZL9XTqsO8eCSt6yi_rWksylLPMSQASC9dVmRF1YCy-ei12kHDMjIw",
-					"start_cursor": "AQHRL7NK5ybMlHruTKJpVkS9AB9BZVrWhm3BSZL9XTqsO8eCSt6yi_rWksylLPMSQASC9dVmRF1YCy-ei12kHDMjIw"
+					"end_cursor": "AQHRTKVwiY99uioZjsovqdQVwW0tnb1UsOjxkA8SYQkHxuO8fOR1UqGnRJyYHqwC13Z-KKGyMg9UcNEy6E7AhknPOw",
+					"start_cursor": "AQHRTKVwiY99uioZjsovqdQVwW0tnb1UsOjxkA8SYQkHxuO8fOR1UqGnRJyYHqwC13Z-KKGyMg9UcNEy6E7AhknPOw"
 				},
 				"edges": [
 					{
@@ -421,13 +426,13 @@
 								"id": "100722861663427",
 								"display_name": "BananasCoconut",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=Dcf6Vy703_cAX8XnhRo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6422d32452d22f8868a32152da54fc1a&oe=6036426B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=Dcf6Vy703_cAX-VQ4Z6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4f2961f94f1dc97a2f9b979bfd9ef57c&oe=6036426B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Hey all\n\nBought my quest in the spring of 2020..have a couple handful of games /apps and haven’t felt as compelled to review one as Tribe DJ....first this isn’t a game, it’s an incredible virtual tool..so anyone looking for beatsaber etc this isn’t for you ..UNLESS you are ready to learn a new skill ...in which case this is amazing. \n\nA full dj deck loaded with catchy tracks to learn off of.  Detailed instructions and In house/YouTube tutorials.  Apparently a great online community as well. For me , this is what VR is truly for ....unlimited growth potential.\n \nI work in a creative field and was in a studio a month ago ...saw a  DJ mix board off to the side .....it looked like an alien spaceship cockpit👽...went back a week and half later after having Tribe, and when I saw the board it felt oddly like a friend. 👍 can’t wait till we can play together 👍👍\n\nIf you truly want to be productive in between Zombie blasting and fruit slashing then do not hesitate to purchase. \n Fact : Everyone loves a bumpin’ dj. You want to make friends and fans  and have excuses to go to clubs every weekend after pandemic is over ?  Download this now and make it happen.",
 							"reviewTitle": "Amazing. Unlimited potential.",
-							"review_helpful_count": 72,
+							"review_helpful_count": 73,
 							"review_rank_by_viewer": null,
 							"date": 1609100030,
 							"developerResponse": {
@@ -446,7 +451,7 @@
 				"description": "Become a VR DJ and mix your tracks in Tribe XR.\n\nTribe XR is a community for beginners looking to learn how to DJ and professionals looking for something fresh and fun. Feel the rush of performing and get lost in the joy of mixing. Immerse yourself the VR DJ community.\n\nImport your own music, invite your friends, and start rocking the room.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566687_428175518373042_8591877291159277685_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=-MW8i7bs2xoAX9EIrfa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=531c89b82d47589fa212c9c8d97d67f6&oe=60347DBC",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566687_428175518373042_8591877291159277685_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=-MW8i7bs2xoAX8rHzj2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f1560580100292fb6cac3b443470a8f1&oe=6038723C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

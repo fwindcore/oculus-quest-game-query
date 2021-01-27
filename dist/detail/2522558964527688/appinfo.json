@@ -14,7 +14,7 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": null,
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_394673165075889_6249594968386024907_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=xC2cTAMTkqEAX8EeGBd&_nc_ht=scontent.oculuscdn.com&oh=be2953b7281f970ea1c5499fab4ab824&oe=60346DF6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_394673165075889_6249594968386024907_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=xC2cTAMTkqEAX_jjpvQ&_nc_ht=scontent.oculuscdn.com&oh=d00b184f6d8e36a66f20b89cc1811f55&oe=60386276"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 279,
+					"count": 280,
 					"starRating": 5
 				}
 			],
@@ -141,7 +141,12 @@
 									"canonicalName": "odders-ohshape-android6d0f",
 									"id": "2522558964527688"
 								},
-								"purchase_alerts": [],
+								"purchase_alerts": [
+									{
+										"type": "PARENT_APP_REQUIRED",
+										"message": "这是附加内容，需要有主游戏 (OhShape) 才能玩"
+									}
+								],
 								"parent_application": {
 									"id": "2522558964527688"
 								},
@@ -204,11 +209,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1611651600,
-								"current_start_timestamp": 1611608400,
+								"current_end_timestamp": 1611900000,
+								"current_start_timestamp": 1611856800,
 								"temporal_info": {
-									"seconds_until_end_time": 1565,
-									"seconds_until_start_time": 0
+									"seconds_until_end_time": 163475,
+									"seconds_until_start_time": 120275
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -226,11 +231,44 @@
 									"nodes": []
 								},
 								"vr_deeplink_message": null,
-								"id": "1392722661064972",
+								"id": "1393075564363015",
 								"is_vr_viewer_interested": false,
-								"name": "OhShape January Challenge Last Week!",
+								"name": "OhShape January Challenge 3 days left!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_3621295377958430_9129431416452719676_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=br4NbFU6hJsAX94TJHu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=65b1c0aeda63cde99fc2592ee0debd53&oe=60340C0F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031337_4068823416464111_8569485083090927102_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=XATiAZtP8GwAX8eS3Z_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=76dd722ac620f6fcc7ebbb0bab30ca25&oe=6038488F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1612072800,
+								"current_start_timestamp": 1612029600,
+								"temporal_info": {
+									"seconds_until_end_time": 336275,
+									"seconds_until_start_time": 293075
+								},
+								"vr_app_and_destination_string": "OhShape",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2522558964527688",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "OhShape"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1393079714362600",
+								"is_vr_viewer_interested": false,
+								"name": "OhShape January Challenge Last Day!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001662_1318848691818365_3533173434096839716_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=KOARn31qgkYAX9_YZcR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8580d8bf524eb160b01e25780fe46c8c&oe=60378606"
 								}
 							}
 						}
@@ -245,7 +283,7 @@
 							"created_time": 1608200885,
 							"body_text": "Holidays are around the corner and OhShape has just released a very special update to celebrate! The main course of this update is the first ever DLC “Electro Party”, a music pack that takes you into a wild party with upbeat electronic music, vibrant moving elements, and electricity. A lot of electricity! This new album features a dark environment that resembles an epic disco stage, something widely demanded by the OhShape community. The Electro Party music pack includes 8 new songs:\n\n-\"Attack\" by Red City Hero\n-\"Detonate\" by Stretched\n-\"Is This All There\" by Arch Tremors\n-\"Keeping Love Alive\" by Guest of Rapture\n-\"Pump Up The Bass\" by Fassounds\n-\"Radio Love\" by Tyler Fiore\n-\"Save Me\" by Kiba\n-\"The One\" by Fassounds\n\nThe Electro Party DLC is available for $2.99 on the Oculus Quest and Steam, with the PSVR version coming soon at the same price.\n\n\nChallenges in Oculus Quest\n\nFrom now on, Quest players will also enjoy the Challenges feature where each week they will be able to join 2 exclusive challenges with different songs and modifiers, each featuring a different leaderboard. Players can compete on the global leaderboard and can challenge a friend to beat their score. Let the true competition begin!\n\n\nNewcomers welcome!\n\nThe Odders Lab team has been doing a deep research around the feedback received from the community and some adjustments have been made so the new players can have a better experience with OhShape. There is a new difficulty naming that provides a clearer information about the challenge and the skills the player needs to master each level.\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001663_4100804946615167_2317697925207429971_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=P1zO2hdmtzQAX8wDG0K&_nc_ht=scontent.oculuscdn.com&oh=9ba3176ef24c2d5f653629635014c36c&oe=6035B593"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001663_4100804946615167_2317697925207429971_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=VH3-0Bv0YhMAX_Do9lY&_nc_ht=scontent.oculuscdn.com&oh=b547980bb01e794e40b059f9cdd5639a&oe=6035B593"
 							}
 						},
 						{
@@ -254,7 +292,7 @@
 							"created_time": 1605274258,
 							"body_text": "We’re seeing more and more of you turn to VR to stay active while at home. Oculus Move is a new platform feature that helps you track your calories burned and physically active minutes you play any game or app, including OhShape. Set goals, check your progress and have fun while you work out. The Oculus team let us know that they’re rolling Oculus Move out gradually, so some Quest and Quest 2 users will have access to this platform feature starting today. Find Oculus Move in your library!\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031530_320497235926810_7656648860544670034_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=rallo5mT6yMAX-dE6-k&_nc_oc=AQk-9n0j07U0CFHCZQ_gCbQJVpTKDwN2ho_yNTJDBWJIByIpM2xi7nwZaVgcJcyTvd0&_nc_ht=scontent.oculuscdn.com&oh=c72467858ff64c852921ecd654347d52&oe=6035DA18"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031530_320497235926810_7656648860544670034_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=rallo5mT6yMAX-cjgnh&_nc_oc=AQnPGvI8O2DnIyzr39lv2rMeMG3hcD760G2LuA2Yg4Ct_50_t7J-qZBuMX10SXjV_VA&_nc_ht=scontent.oculuscdn.com&oh=57dfce22e5aebab5fe53dec3e9f66600&oe=6035DA18"
 							}
 						}
 					]
@@ -262,7 +300,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRfIeDvJIPdOEwyfL9gZ4d2Xw5SRB90ElZMujKhaRl4ZWFTMnio91kTJ4r_MFkpXJtqhCf-56YrSdOcOOl0A2t1A"
+							"cursor": "AQHR-7iIsGh6hRwz_f2j5Jfq2njn6Vjah9VGoFwuPL-DTnTCpuX7xvYhFYoB6YHAtloU0WQBE1bNcn_QWCtQp_Xmcg"
 						}
 					]
 				}
@@ -315,11 +353,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1215932914046,
+			"quality_rating_aggregate": 4.1234309623431,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 278,
+				"count": 279,
 				"orderings": [
 					{
 						"key": "top",
@@ -332,10 +370,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 278,
+				"count": 279,
 				"page_info": {
-					"end_cursor": "AQHRWJj8vrJNZKWRbliauTtxCpYIymFyTLP1Iwrtm8oIYMnZ2KspxbMD-tJtji_jfc9J9MW3WRD4ASscbr4t9yWEXA",
-					"start_cursor": "AQHRWJj8vrJNZKWRbliauTtxCpYIymFyTLP1Iwrtm8oIYMnZ2KspxbMD-tJtji_jfc9J9MW3WRD4ASscbr4t9yWEXA"
+					"end_cursor": "AQHRF_yGeC_Wr90NFNjdjV2TQOe9n5pLejF8EREMhw0MLJn9xVzZzqU-ueLzUmzU0SQC86yU49F2AnEGn0nPZkNBVA",
+					"start_cursor": "AQHRF_yGeC_Wr90NFNjdjV2TQOe9n5pLejF8EREMhw0MLJn9xVzZzqU-ueLzUmzU0SQC86yU49F2AnEGn0nPZkNBVA"
 				},
 				"edges": [
 					{
@@ -345,13 +383,13 @@
 								"id": "101452098273329",
 								"display_name": "Ingle42",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.319.319a/s160x160/39031400_200578915027313_4276003698389082668_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=7mEyL8Q4KN0AX-A3_kY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=95c64c9879c25a6c300d72528fb87cc1&oe=60344725"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.319.319a/s160x160/39031400_200578915027313_4276003698389082668_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=YGm-QhkmjmcAX_E9nIL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8ac38ac3d6d2c0b681bce88fd87b19c1&oe=60383BA5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is a great game for a workout, especially on the higher difficulties. Has me sweating quicker than any other rhythm game, even Beat Saber on Expert+!\n\nPlease add extra information on the leaderboards though. Just the score doesn't tell me much at all - I can't really tell how well I did. I want to know what my highest grade letter was, my highest combo, whether I got a full combo etc. This kind of information makes me want to keep playing songs and improve, but if I only see the score I'm really not sure how well I actually did or if I can improve much or not.\nA comparison at the end of a play through a song on the results screen to my previous high would be even better. These things are what I love the most about rhythm games such as beatmania IIDX. Please have a look at beatmania IIDX's results screen and score tracking and if you can emulate something like this it would be awesome!\n\nOverall a really fun game though and some tracks you can really feel like you're dancing if you get into the rhythm :)",
 							"reviewTitle": "Great game, enjoying the new DLC, but...",
-							"review_helpful_count": 39,
+							"review_helpful_count": 40,
 							"review_rank_by_viewer": null,
 							"date": 1608379796,
 							"developerResponse": null
@@ -366,7 +404,7 @@
 				"description": "OhShape是一款能够带来独一无二全身活动的音乐节奏类游戏。每张地图都需要躲避障碍，打击墙壁和做出可爱造型。通过游戏获取奖励，做自己的超级明星。\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031315_1277082152658098_4009000642312919711_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=8ba8DNj86YAAX_e15Xo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7a747341256b79ccc546788f425cf268&oe=6034C36D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031315_1277082152658098_4009000642312919711_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=8ba8DNj86YAAX-LbIP-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1a94b58e82967aa15dc0530182d2594c&oe=6034C36D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
