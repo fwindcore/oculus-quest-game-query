@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=iW5sS4uIY1QAX-UjF-c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=acd6ab1e02f83e9186c9cf3de2c3882c&oe=60380258"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=iW5sS4uIY1QAX8_ZdE4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=99e15452bd538cf42bd08c09e2017a01&oe=60380258"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=t0PEvidzFYwAX9UHEhD&_nc_ht=scontent.oculuscdn.com&oh=18b9f5da69ac917a51535602af64721d&oe=603814FA"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=t0PEvidzFYwAX-FexvY&_nc_ht=scontent.oculuscdn.com&oh=168a3fe77f551a22b697abac6c4e65ed&oe=603814FA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 468,
+					"count": 470,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 327,
+					"count": 330,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 896,
+					"count": 898,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 6548,
+					"count": 6562,
 					"starRating": 5
 				}
 			],
@@ -82,14 +82,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "20210107",
-				"change_log": "Rec Room PATCH - the \"Rec Royale Update\" edition\n\nHappy new year! We wanted to ring in the new year with a small patch for you all:## General Improvements- There's a new share button on the room details screen of the watch menu. We're hoping this will drive more accurate numbers for statistics around sharing rooms, which we'll be sharing with creators soon!- We're happy to report torso and holsters are more stable when looking up or down.- VR: We've also made finger-pressing in the new UI more reliable, especially for quick presses.- Fixed a shader issue affecting certain avatar outfits.- Fixed a minor issue where other players wouldn't get notified when you invite them if you appear offline to them.- PC: Fixed an issue where the Desktop Sharing Speaker wouldn't switch input devices.As always, thanks for playing Rec Room!Please see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/communityWe love to hear your feedback, so please don't hesitate to let us know what you think...",
+				"version": "20210121",
+				"change_log": "Rec Room PATCH - the \"Rec Royale Update\" edition\n\nWe rebalanced some of the weapons in Rec Royale. Here are the changes:\n\nGhostbeard's Sidearm\n\n- Reduced body shot damage from 100 to 75\n- Reduced headshot damage from 200 to 125\n- Reduced ammo capacity from 6 to 5\n- Reduced drop rate slightly\n\nDeafening Boomstick\n\n- Full shot damage reduced from 170 to 153\n\nRigid Thwapper\n\n- Reduced projectile speed slightly\n\n## General Improvements\n\n- Fixed a bug where players could keep playing after being knocked out in Rec Royale.\n- Fixed a bug where game props could be edited with the Maker Pen in UGC rooms.\n- Fixed a bug where players were being notified of an upcoming event despite already being in the event's room.\n- Disabled players' ignore effects during games.\n- Most rich text tags are no longer supported on Buttons and other text elements in UGC.\n- Possible fix for performance degradation in rooms where the Game Rules chip is set to a large number of teams or large team sizes.\n- Fixed an issue on PS4 where colorful spots would occasionally appear in camera photos.\n- Link buttons can now display two lines of text!\n- Made it easier to select floating room comments.\n\n## Beta Content Changes\n\n- New chip: Reset Object\n- New object: Vector Gadget\n- Room Reset bug which caused objects to reset to incorrect locations has been fixed.\n- More cameras will display CV2 wires. This is helpful for tutorials.\n- Fixed disconnect issues in rooms with large amounts of chips. We now support 5x the previous number of chips. However, we will fix this permanently in the future.\n- Event nodes display the name of the event again.\n- PlayStation players can receive updates to the default values on ports again.\n- Cycles in graphs are now supported.\n- Breaking Change: the physics of impulse chips have been modified to prevent some bugs.\n- Breaking Change: roles are now reset on room reset.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "2007936824",
-				"id": "3740257339353738",
-				"required_space_adjusted": "2018680796",
+				"total_installed_space": "2017585746",
+				"id": "3777260232320115",
+				"required_space_adjusted": "2022982954",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -127,7 +127,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3740257339353738"
+					"id": "3777260232320115"
 				}
 			},
 			"release_channels": {
@@ -138,8 +138,8 @@
 						"id": "2159376657710378",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "20210107",
-							"id": "3740257339353738"
+							"version": "20210121",
+							"id": "3777260232320115"
 						}
 					}
 				]
@@ -155,7 +155,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRkTY8I7Psm1rWOnhL1lJuMricTbwYca7j8DCc2pHxMYuhRO3tWPmtNhR6O6A2_E_TZrCffs07M94eVTp5dxjEDA"
+							"cursor": "AQHRjn_PjG-CorukqnLYGsm-uqZoOlbxDZutKT6MTHsIsp9zTONee8hEMyYgf0Tzdwr3czOFj9j-ePXbOyoAVmQ9iQ"
 						}
 					]
 				}
@@ -202,11 +202,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5445094993428,
+			"quality_rating_aggregate": 4.5437425506555,
 			"support_website_url": "https://recroom.happyfox.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1591,
+				"count": 1603,
 				"orderings": [
 					{
 						"key": "top",
@@ -219,10 +219,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1591,
+				"count": 1603,
 				"page_info": {
-					"end_cursor": "AQHROFzvmBYwqk-mGWP7ddqks0SjUNzomutF9bqvrqGAtcbyQ_fiuwKSCsPjtMgf0F6cVcFpvQSyAmpvMUahbi_8gA",
-					"start_cursor": "AQHROFzvmBYwqk-mGWP7ddqks0SjUNzomutF9bqvrqGAtcbyQ_fiuwKSCsPjtMgf0F6cVcFpvQSyAmpvMUahbi_8gA"
+					"end_cursor": "AQHR1EcWaXO6LReUj8zTXN4qTCmKXAiRPoibwGZ6S5lXRirLRazEZXbJNvoTdGLpG4nir-q-8Vj80bAdAoWuTm-sNQ",
+					"start_cursor": "AQHR1EcWaXO6LReUj8zTXN4qTCmKXAiRPoibwGZ6S5lXRirLRazEZXbJNvoTdGLpG4nir-q-8Vj80bAdAoWuTm-sNQ"
 				},
 				"edges": [
 					{
@@ -232,13 +232,13 @@
 								"id": "100456541476917",
 								"display_name": "Alexl342",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974853_255713089284594_6286214703870411923_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=SeypwiYBAvQAX_rDwef&_nc_oc=AQldd5sHO8TAbk-eJMeGWvL13h9klT_W1C4upqMrgURzXr_61-lDveTMdo-PRddWNvM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c9a8a5d0e4f3c6c46693e7c190416ddc&oe=603689FA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974853_255713089284594_6286214703870411923_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=7iJ0G7b6o0UAX_Vv0lW&_nc_oc=AQka0ogNkEUaGYjvL2e6advLKk4OUMyjXK6HVLfqG9clAye-YSVXFSy1UWgguHN31bE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3dd6f856cb355aaac0439691e26fe0ee&oe=603689FA"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Started my quest\nGot online with the boys\nPlayed some parkour\nAnd shot cardboard decoys\nFound a new game\nSeemed like fun\nClimbing a wall\nBut my friends had won\nI climbed faster and faster\nBut to no avail\nWhen it came to climbing \nI was destined to fail\nAs I tried again\nI jumped to gain height\nAnd it flew off of my head\nMy headset gained flight\nIt fell to the floor\nAnd I heard a loud crack\nWhen I finally saw it\nMy left strap had snapped\nTighten your headset\nDon’t go through my pain\nBut other than that\nYou need this game",
 							"reviewTitle": "A poem",
-							"review_helpful_count": 1432,
+							"review_helpful_count": 1467,
 							"review_rank_by_viewer": null,
 							"date": 1607568030,
 							"developerResponse": null
@@ -253,7 +253,7 @@
 				"description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game! Rec Room is a fun and welcoming place for people from all walks of life. Let us help you find people you’ll LOVE to hang out with. Join the club!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=83yOMv5-hgEAX-VnVme&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e8334e8b912d885196f18f3b3bf9ad07&oe=60381A81",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=jSqrAY0H5qcAX-S-MA1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5619683733a56803f532668d7376395c&oe=60381A81",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

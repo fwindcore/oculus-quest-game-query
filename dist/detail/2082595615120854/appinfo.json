@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031460_201330007374484_7730455393473658880_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=lCe5bYZ8bVQAX-IPrVv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e537a665019e4d6eea99ec7554837610&oe=60369629"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031460_201330007374484_7730455393473658880_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=lCe5bYZ8bVQAX_Gs4Pd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=34a757dde3fbe49cc0482ac77de1660d&oe=60369629"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974736_2278439319041320_4453991032819810304_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=xoweXMab6iQAX-ZUlEu&_nc_ht=scontent.oculuscdn.com&oh=f5857875daaa04ea86cb8bd5668f5ef6&oe=6037D1CF"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974736_2278439319041320_4453991032819810304_n.mp4?_nc_cat=110&ccb=2&_nc_sid=0ed769&_nc_ohc=oyBVyNOUJEIAX9I2gCx&_nc_ht=scontent.oculuscdn.com&oh=b23e71dbc4126f8490153554ef184224&oe=6037D1CF"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 78,
+					"count": 80,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 200,
+					"count": 202,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 485,
+					"count": 486,
 					"starRating": 5
 				}
 			],
@@ -130,14 +130,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.13.93604",
-				"change_log": "",
+				"version": "1.13.101326",
+				"change_log": "- Fixed performance issue that could occur when grabbing the handle repeatedly\n- Minor fixes",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "223037270",
-				"id": "3529746510405750",
-				"required_space_adjusted": "380821822",
+				"total_installed_space": "223040097",
+				"id": "3774091612637904",
+				"required_space_adjusted": "380819794",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -175,7 +175,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3529746510405750"
+					"id": "3774091612637904"
 				}
 			},
 			"release_channels": {
@@ -186,8 +186,8 @@
 						"id": "1097089890462091",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.13.93604",
-							"id": "3529746510405750"
+							"version": "1.13.101326",
+							"id": "3774091612637904"
 						}
 					}
 				]
@@ -203,7 +203,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR20aLM8EhX7bY_cuVAtrPMEK-XTmskJZrnZM-t-xxEuZnPQbwKQJoXbT29JPyPBKwJSnd7SH3sIgNhOOOuMnLkw"
+							"cursor": "AQHRyNZYQanNz0cUJLvqpb8iSm2x2B-PgmW9hzsC8jZsXputbt6tozRs4wRu52jSdZLlqgvom12SowJ0zyiOY1tZFw"
 						}
 					]
 				}
@@ -250,11 +250,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1225658648339,
+			"quality_rating_aggregate": 4.1161731207289,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 334,
+				"count": 336,
 				"orderings": [
 					{
 						"key": "top",
@@ -267,10 +267,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 334,
+				"count": 336,
 				"page_info": {
-					"end_cursor": "AQHRd-EldNPQpmjRgQXoSKGHxcKMAQfV7mTBr1YhHz295oFT1eYifZymrsx8QmwuDKUMEJKxrsTk92cnR_80hFcnTw",
-					"start_cursor": "AQHRd-EldNPQpmjRgQXoSKGHxcKMAQfV7mTBr1YhHz295oFT1eYifZymrsx8QmwuDKUMEJKxrsTk92cnR_80hFcnTw"
+					"end_cursor": "AQHRTxZbbnPx8hchdBdUd5iusTdxFp6KUZgsNrDRqVmokThd1sNNWAT_VZsILDDn3g6RgLWXZ76rXHmDvz6Lqry0Ng",
+					"start_cursor": "AQHRTxZbbnPx8hchdBdUd5iusTdxFp6KUZgsNrDRqVmokThd1sNNWAT_VZsILDDn3g6RgLWXZ76rXHmDvz6Lqry0Ng"
 				},
 				"edges": [
 					{
@@ -280,13 +280,13 @@
 								"id": "101948821757271",
 								"display_name": "MidshipSquirrel",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.718.718a/s160x160/39031347_104799148138905_5480094460721026301_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=616mutr55LcAX95xqab&_nc_oc=AQmNrRcE5yQm2JVtxFEuPOYW5nmxB8DOc9g5ZhBkPisCPV6eStzuUbTwCDbyaYQE0qQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=157caafca45d64ea19c438effa3bebb1&oe=6034C14E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.718.718a/s160x160/39031347_104799148138905_5480094460721026301_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=616mutr55LcAX8EDGX4&_nc_oc=AQnMR2ePmVtVn_dBUSH1vvkxn_sRQS6ieAyNjxQAcpeb-vN_1IZef6dQrqMgJ_6sW1Y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=55b7125769f166174d0fd7406e1f0ac1&oe=6038B5CE"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This was a fun little game! I enjoy fishing IRL, and this cartoony fishing game with fun, creative fish to catch was an excellent intro to VR gaming for us. I genuinely enjoyed just hopping in for a little fishing, and was kind of sad when I found the last fish. There was plenty of play in the free version, and the add on was very reasonably priced for another location. I hope there are expansions someday, as I would be happy to play more.",
 							"reviewTitle": "Delightful little fishing game",
-							"review_helpful_count": 70,
+							"review_helpful_count": 73,
 							"review_rank_by_viewer": null,
 							"date": 1608167762,
 							"developerResponse": null
@@ -301,7 +301,7 @@
 				"description": "Join the more than 3 million players who already enjoy Bait! \n\n“Bait! is one of those pleasant games for everyone.” - VRScout\n\nYou’re invited to Bait! Island to help your boss catch a rare fish, and thereby save the struggling aquarium where you work.\n\nDuring the game, you will catch a lot of different fish and make friends with the locals. But, will you be able to keep your loyalties both to your new friends and to your boss?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_584659778707210_5242566029300727808_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=FadxIQ0yQRsAX9hDSEU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d1a9711f2aadaf383bfe38224bdc222&oe=60359107",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_584659778707210_5242566029300727808_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=mo3HtgVkrh4AX-NBsOj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7898bc952c6461ae2dc639925a8bd0fe&oe=60398587",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

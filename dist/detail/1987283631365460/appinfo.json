@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031331_2287808851458088_5337945489029464064_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=jhfjOF4JlqMAX_MjVFT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=94ba9a8db6381f7eb0bc8486fa6d2f02&oe=6035B459"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031331_2287808851458088_5337945489029464064_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=jhfjOF4JlqMAX_Abl2G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d8f6134d332edab63c676531b4f06929&oe=6039A8D9"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2287800581458915_8097200911417344000_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=BP5fyoCIknYAX8Tiz8E&_nc_ht=scontent.oculuscdn.com&oh=34d21af5e8f4de65e152aaa6cccc9c75&oe=6034C095"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2287800581458915_8097200911417344000_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=BP5fyoCIknYAX-xOEXW&_nc_ht=scontent.oculuscdn.com&oh=f22eab9b297ab4b814e87e38a8368fcb&oe=6038B515"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2288,
+					"count": 2294,
 					"starRating": 5
 				}
 			],
@@ -98,17 +98,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "673205466453008",
+				"id": "1133283363757215",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1999",
+					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1611907140,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -191,16 +196,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "673205466453008"
+				"id": "1133283363757215"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8050623347185,
+			"quality_rating_aggregate": 4.8055032039201,
 			"support_website_url": "https://iexpectyoutodie.schellgames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1226,
+				"count": 1228,
 				"orderings": [
 					{
 						"key": "top",
@@ -213,10 +218,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1226,
+				"count": 1228,
 				"page_info": {
-					"end_cursor": "AQHRnsrc2US0uoD2_-l4pWny7R1qp4Q6orgUZUkp7QVvRj4kOXNVS7aXECf5Nudb1rSChnBRWmVbO3e2WLJOh0oLgA",
-					"start_cursor": "AQHRnsrc2US0uoD2_-l4pWny7R1qp4Q6orgUZUkp7QVvRj4kOXNVS7aXECf5Nudb1rSChnBRWmVbO3e2WLJOh0oLgA"
+					"end_cursor": "AQHRZH0f6RiCooCJU4k2U_dYtxjRKa-cUf13dYkDp3MCKz16VqfhXHKzMX8gjaKr6zk5XK68N5GiBDUqYJ34Mo6cGw",
+					"start_cursor": "AQHRZH0f6RiCooCJU4k2U_dYtxjRKa-cUf13dYkDp3MCKz16VqfhXHKzMX8gjaKr6zk5XK68N5GiBDUqYJ34Mo6cGw"
 				},
 				"edges": [
 					{
@@ -226,13 +231,13 @@
 								"id": "100949181670593",
 								"display_name": "NotTwitchKidd",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/39031461_201748271590683_8481170498120290245_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=K_MkutFXIygAX8VMhWC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=823e1b102da9690519f55415a56d415a&oe=60359BFF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/39031461_201748271590683_8481170498120290245_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=qIxBdicgbEYAX-jpgFA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f239307bfd1bd9f1ee864669472408f3&oe=6039907F"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Hey what’s up, so I really enjoyed this game, the puzzles were unexpectedly difficult and really fun.\nMy only downs of this game is that it’s kinda expensive for its short duration and some puzzles may be really difficult and stressful (at least for me).\nIf you like puzzles and having fun being a spy I would really recommend it but be aware of its short duration.",
 							"reviewTitle": "THIS GAME IS WORTH IT FOR COUPLE HOURS",
-							"review_helpful_count": 242,
+							"review_helpful_count": 251,
 							"review_rank_by_viewer": null,
 							"date": 1605931104,
 							"developerResponse": null
@@ -247,7 +252,7 @@
 				"description": "Play as a secret agent armed with telekinetic abilities on a mission to stop Zoraxis, a nefarious global weapons and pharmaceutical corporation.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003233_485838955591718_7907010976342343680_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=P_WyApfJnroAX_ah15V&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f0bf74022727efa7c2f9c4f9cfbd024f&oe=6036FE68",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_792878181433353_1992652665178480351_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=dSezJS2drGMAX_sHE54&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a6abff3e91c4942f277533adb33ac1da&oe=60363203",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
