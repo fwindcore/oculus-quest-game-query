@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=BKR787NbkIQAX-D8T5O&_nc_ht=scontent.oculuscdn.com&tp=28&oh=73d1ace8c41064278ed9ac1f6a9ab7d6&oe=60384155"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=BKR787NbkIQAX83Dqkr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=720d3e300484d708e5314ea7362dd19f&oe=60384155"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=3rDVeM0s9_0AX9LCsD1&_nc_ht=scontent.oculuscdn.com&oh=4fcf0567d9e5eb299ceab43ab8b495e9&oe=603773E7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=3rDVeM0s9_0AX9hT7n_&_nc_ht=scontent.oculuscdn.com&oh=1c6900cb9324d61636168585af79e8aa&oe=603773E7"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -240,30 +240,28 @@
 			"firstQualityRatings": {
 				"count": 76,
 				"page_info": {
-					"end_cursor": "AQHRkN3hBu2kilGsRix8w4aOj1YdeAQUBRKma4H82HH6Luc8S7vXrJb9CjzjLA-NpoHzCclDltYk9N_Box4zna_GUQ",
-					"start_cursor": "AQHRkN3hBu2kilGsRix8w4aOj1YdeAQUBRKma4H82HH6Luc8S7vXrJb9CjzjLA-NpoHzCclDltYk9N_Box4zna_GUQ"
+					"end_cursor": "AQHRpNYAhoBwTIxHEAoAK1OFzTZ9O5ZMuYECOSFPuILX0s6g_RpebUvtWSrg2EtxCXvRNDX3K_scL4D9jjc10sd-Ng",
+					"start_cursor": "AQHRpNYAhoBwTIxHEAoAK1OFzTZ9O5ZMuYECOSFPuILX0s6g_RpebUvtWSrg2EtxCXvRNDX3K_scL4D9jjc10sd-Ng"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "671928643503915",
+							"id": "452654532402016",
 							"author": {
-								"id": "169842700379181",
-								"display_name": "tltsaia",
-								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/12139007_169842777045840_8324540836133994496_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=1kyzEaUS93kAX-lTHOU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=77d1d74aaed49a54aac72b0ead0bd815&oe=6038652D"
-								}
+								"id": "111761916491281",
+								"display_name": "tincan321",
+								"profile_photo": null
 							},
 							"score": 4,
-							"reviewDescription": "We know the quest2 display not support HDR, but there are more and more videos ask for it.\nCurrently, pigasus using libvlc not enable the HDR tone mapping feature, so HDR videos play abnormal (color washed out and dark), but libvlc supports HDR tone-mapping since ver. 3.0, have any plan ?",
-							"reviewTitle": "Is it possible to support HDR tone map ?",
-							"review_helpful_count": 4,
+							"reviewDescription": "It's a great media player like everybody says, but has a flickering issue with 90Hz refresh rate. it wont be a problem if you change it to 72Hz through Sidequest or something, but its a bother to change refresh rate frequently. Skybox doesn't have the issue with the same video source, so i hope it will be fixed.",
+							"reviewTitle": "great app, but not compatible with 90Hz",
+							"review_helpful_count": 3,
 							"review_rank_by_viewer": null,
-							"date": 1610222547,
+							"date": 1611402762,
 							"developerResponse": {
-								"date": 1611296253,
-								"body": "Despite Pigasus using libvlc for its video decoding backend, HDR tone mapping needs to be done on the rendering front end. So unfortunately it's not as simple as just using libvlc and suddenly getting HDR tone mapping on the decoded data for free. However in saying that, there are plans to look into HDR tone-mapping support for Pigasus sometime this year. Keep an eye out on the future release notes.",
-								"id": "678242446205868"
+								"date": 1611424452,
+								"body": "Pigasus always tries to auto sync the refresh rate to the video frame rate. 60fps videos play at 60hz, 24fps plays at 72hz, 30fps plays at 90hz etc. It does this so videos play back as smoothly as possible. This is particularly noticeable in things like linear tracking shots in movies where you would perceive stuttering because the video frame rate and device refresh rate are out of sync.\n\nHowever, it seems that some people, such as yourself, are more sensitive to lower refresh rates and perceive screen flickering when the app auto switches to run at the lower 60hz end. I will be adding an option in the future to allow you to turn off this auto fps to refresh rate sync. You'll lose the advantage of video playback looking as smooth as it could be but it will resolve your flickering issue on 60fps videos.",
+								"id": "452848615715941"
 							}
 						}
 					}
@@ -276,7 +274,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=atMaV11QdwQAX_EY9H9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c9c6a3a2c8a094f3673781037ee434cb&oe=60385201",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=atMaV11QdwQAX-S9ZDE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb64e23def4983a505c409ea22514af8&oe=60385201",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

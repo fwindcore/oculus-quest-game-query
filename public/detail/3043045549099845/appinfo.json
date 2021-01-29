@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031495_1273756729668571_1862766943830709131_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=fYK4MKsdfDEAX_B7Pb9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b9fd35730434805693c50678a60c3e8&oe=6036B796"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031495_1273756729668571_1862766943830709131_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=fYK4MKsdfDEAX_tfDAb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d723447a7036cbf0fed7d39b69bb0c0&oe=603AAC16"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_406458283890645_6094136976081531790_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=oq5x36BfJ90AX_tXurq&_nc_ht=scontent.oculuscdn.com&oh=ccb1cc4b247872394f697b228dcef815&oe=6039B82E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_406458283890645_6094136976081531790_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=oq5x36BfJ90AX_nJM5F&_nc_ht=scontent.oculuscdn.com&oh=05d6238201126306b9812d95fe03c90a&oe=6039B82E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -117,17 +117,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "348752599732952",
+				"id": "797575854433521",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1599",
+					"formatted": "$15.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1611993540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -168,7 +173,7 @@
 							"created_time": 1608059870,
 							"body_text": "Greetings Shaman\n\nHere at Lunar Grove we have been circling the galaxy in preparation for your next voyage. We are incredibly grateful for all the initial feedback we received on the game. Please don’t stop sharing. We love hearing from you.\n\nToday, Star Shaman 2.0 is released and with it comes some big changes.\n\nA stronger sense of character progression. Weapons and perks now unlock in the Reliquary during the game instead of when you die. In addition, each time you die, perks and persistent spells will be added to your Shaman Sphere for your next run, giving you more strength for your return. Additionally, respawning now grants you more money.\n\nIn this update, we've managed to trade 3 new spells with the Kybele:\n•    Beam: Hold trigger to channel it towards enemies.\n•    Nova: Stun/Fry hand-thrown grenade.\n•    Jolt Daemon: A jolt-firing entity to fight alongside you for a limited time.\n\nYou will notice a reworked HUD (Heads-Up-Display) where it is easier to check your hit points and current score.\n\nFellow Shamans are also getting a beautiful 90Hz refresh rate on Quest 2.\n\nBe on the lookout for 15 new moons.\n\nThe tutorial has been entirely reworked thanks to your feedback. You will see it is shorter and more fluid to move through. It also emphasizes the use of both hands as using the shield is key to your success. You will notice how parrying an incoming projectile now translates into an additional charge on your attack wand!\n\nYour space traveling has sped up! The tunnels are shorter from planet to planet making your time traveling through space more dynamic.\n\nEvery character has its own distinct voice, and our favorite mentor Heidi is now speaking English when the Astral Teleporter allows it.\n\nFinally, fellow Shamans speaking Spanish, Italian, Japanese or Chinese can join in on the fun. That’s 7 languages supported!\n\nNow go, Shaman.\nThe Universe is counting on you!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_1152321508557906_9188930203318926332_n.png?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=DWVHD2z3UjAAX8esmp3&_nc_ht=scontent.oculuscdn.com&oh=1efcc81a280bbc3859fc96ca5a83f36c&oe=603946E8"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_1152321508557906_9188930203318926332_n.png?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=DWVHD2z3UjAAX-9juMI&_nc_ht=scontent.oculuscdn.com&oh=7cf71d604278e1b7580e59ff68e5d2cd&oe=603946E8"
 							}
 						}
 					]
@@ -220,7 +225,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "348752599732952"
+				"id": "797575854433521"
 			},
 			"externalReviews": {
 				"count": 0
@@ -255,7 +260,7 @@
 								"id": "104730590931380",
 								"display_name": "Proto_here",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974440_159833935421045_49980422754402304_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=ahP0ary6CY0AX-IANZy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=550f9c71223575b77b1fc9332cd42407&oe=603817E8"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974440_159833935421045_49980422754402304_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=ahP0ary6CY0AX9PGEFL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7645248471ac02aad54c3045cfb87a40&oe=603817E8"
 								}
 							},
 							"score": 4,
@@ -280,7 +285,7 @@
 				"description": "Become a STAR SHAMAN and embark on an epic adventure to bring the funk of life back into a universe whose existence has been depleted to boring cubes by the Architects of Entropy. Travel through enchanting, futuristic galaxies to funky french-touch music.\n\nSTAR SHAMAN is an active VR adventure with touches of roguelite.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974442_411071690094212_8940259996862795142_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=Upfl0J3P0L4AX-k3RxS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b167d5bc685b94dca23ddffae54335cd&oe=6038E6E7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974669_822515258479095_5706898022261633658_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=xcLo06olLF0AX9Ao8Vb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3b8d3be515053da43e018f4d658ad63&oe=603A55EA",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

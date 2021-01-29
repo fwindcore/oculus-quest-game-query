@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/43931336_1038433353291513_4839799993921368269_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=WLr2PaL7YccAX8_Lf5T&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8ad0f81710c5a8edc4f6df3cbe4ce1cb&oe=60364DFA"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/43931336_1038433353291513_4839799993921368269_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=eQ3lu--YRGEAX-t6ydo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c02c607255ff3a6dfd4dd25ab3595ae5&oe=603A427A"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_345270833261612_7381730552743195720_n.mp4?_nc_cat=109&ccb=2&_nc_sid=0ed769&_nc_ohc=43D13-29QsMAX-DivpL&_nc_oc=AQnnb0o0bX3RI8Igh3SAmDGjrDYmXdmW6Xu6YLB8746Alj5Hz5U6j7ECWr7KwVJCXN0&_nc_ht=scontent.oculuscdn.com&oh=def25a2d409719520cee5c70d721031b&oe=60378D53"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_345270833261612_7381730552743195720_n.mp4?_nc_cat=109&ccb=2&_nc_sid=0ed769&_nc_ohc=43D13-29QsMAX_J4-QQ&_nc_oc=AQlbCkHwbizy7dvskAdLe2vN-saJ75IyX696Jie3Pb_4QyzrxGzhcNpbTO6Pdq1c2Uw&_nc_ht=scontent.oculuscdn.com&oh=81c481682cef625535f4bf10ad0dc24f&oe=60378D53"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 181,
+					"count": 180,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 130,
+					"count": 131,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 422,
+					"count": 431,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 3717,
+					"count": 3777,
 					"starRating": 5
 				}
 			],
@@ -89,23 +89,34 @@
 			"developer_name": "BigBox VR, Inc.",
 			"genre_names": [
 				"动作",
-				"射击",
-				"街机"
+				"街机",
+				"射击"
 			],
 			"is_360_sensor_setup_required": false,
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.15669",
+				"version": "1.2.15849",
 				"change_log": "The best version of POP: ONE to date!",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "2921592240",
-				"id": "5254568621235007",
-				"required_space_adjusted": "3710067875",
-				"storeAddOns": null,
-				"firstIapItems": null
+				"total_installed_space": "2926446052",
+				"id": "5280925338599335",
+				"required_space_adjusted": "3703299517",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
 			},
 			"recommended_graphics": null,
 			"recommended_memory_gb": null,
@@ -137,7 +148,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5254568621235007"
+					"id": "5280925338599335"
 				}
 			},
 			"release_channels": {
@@ -148,8 +159,8 @@
 						"id": "733026950405276",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.15669",
-							"id": "5254568621235007"
+							"version": "1.2.15849",
+							"id": "5280925338599335"
 						}
 					}
 				]
@@ -160,11 +171,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1611907200,
-								"current_start_timestamp": 1611864000,
+								"current_end_timestamp": 1612231200,
+								"current_start_timestamp": 1612188000,
 								"temporal_info": {
-									"seconds_until_end_time": 82288,
-									"seconds_until_start_time": 39088
+									"seconds_until_end_time": 321859,
+									"seconds_until_start_time": 278659
 								},
 								"vr_app_and_destination_string": "POPULATION: ONE",
 								"vr_applications": {
@@ -182,11 +193,11 @@
 									"nodes": []
 								},
 								"vr_deeplink_message": null,
-								"id": "767492910546084",
+								"id": "768155037146538",
 								"is_vr_viewer_interested": false,
-								"name": "Darkest Days Event",
+								"name": "Monday XP Happy Hour",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974809_271686197960778_7214976291615801418_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=7WzaTeq4QIsAX8TCFLp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=635c573551476bfb876e227b85a0a092&oe=60398A8C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_794860227783318_5900403867791478423_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=dgaKbZFCP0MAX9gS1Cs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0505c870fd6b58bb566386bf8d0aded5&oe=6039C97A"
 								}
 							}
 						}
@@ -196,17 +207,19 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "865478660691428",
+							"title": "Darkest Days Event + War Mode!🌙🦇",
+							"created_time": 1611787902,
+							"body_text": "January 28, 2021 Change List\nThe main update week is our Darkest Days and War Mode Event!\nThis is the last major update until Season 1. Look for more info coming soon!\n\nDarkest Days Event\n- Night version of the game map\n- Getting the night map is a random chance (more rare than the normal map)\n- Removed the ice/snow in Plains\n- Gun skin rewards\n- Event runs from 1/28 - 2/7 (10 days)\n\nLimited Time War Mode\n- 9 vs 9 limited time War Mode (choose via the mode select on the Play Screen)\n- Squad up with 1-2 friends as usual, in the match you will be paired with other players to form the 9-person teams\n- Longer looting period and then 1 major zone shrink forces the 2 teams to fight\n- A man says \"The war... has begun\" when the major zone shrink happens\n- War Mode runs from 1/28 - 2/7 (10 days)\n\nGraphics\n- Improved illumination to better preserve detail in low light\n- Improved loot item highlights for better readability\n- More dynamic & higher quality environment, character, tree, and item lighting\n- Multiple light improvements to better support Day and Night\n- Misc environment FX Updates\n\nGeneral\n- App Launch: New loading bar now shows progress when launching Pop1\n- Loading: Fixed initial slow framerate when joining a lobby\n- Ammo/Resources: Fixed ejecting duplicates when pulling both triggers & grips at the same time (or other input combinations)\n- Ammo/Resources: Fixed issue where dropping 1 ammo/resource dropped a full crate\n- Loot: Fixed issue where rarity was always distributed in the same locations every match\n\nKnown Issues\n- Desktop VR: Climbing jitter can happen in some cases. Actively working on a fix for this.\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\n&#x200B;\nCan't wait to play these new changes with all of you ~ see you in game!\n\n\nFollow on Twitter\nFollow on Facebook\nFollow on Reddit\n",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_185384680001759_7094905421106754344_n.png?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=KDYpvQIIGckAX-HyC_w&_nc_ht=scontent.oculuscdn.com&oh=9e293df16a0e453b3b79f02572c8a4ad&oe=603AC4EB"
+							}
+						},
+						{
 							"id": "132536995368142",
 							"title": "Weekly POP:ONE update!",
 							"created_time": 1611185620,
 							"body_text": "January 21, 2021 Change List\n\nNote: All friend codes will change with this update (we fixed the 0O & I1 issues)\n\nNetworking\n\n- Bullets: Fixed issue causing slightly offset bullets (affected shooting at a distance, especially noticeable with the AWP)\n- Prediction: General improvements to hit detection\n- Movement: Fixed issues where players could severely rubber band with a poor network connection\n\nReticle\n\n- 4 color presets are now available from Settings -> Weapon Settings (Red, Yellow, Pink, or Green)\n- Changing the reticle color will update the world UI Reticle, Reflex Lens, and Tunnel Sights\n\nGeneral\n\n- Squads: Assorted fixes for repeat matchmaking failure while in a squad\n- Friend Codes: Removed 0 and 1 from friend codes to avoid confusion\n- Friends: Fixed edge case where removing a friend might remove the wrong friend\n- Loadout: Fixed icon for NYE Millie\n\nKnown Issues\n\n- Desktop VR: Climbing jitter can happen in some cases. Actively working on a fix for this.\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\nCan't wait to play these new changes with all of you ~ see you in game!\n\nJanuary 21, 2021 Change List\n\nNote: All friend codes will change with this update (we fixed the 0O & I1 issues)\n\nNetworking\n\n- Bullets: Fixed issue causing slightly offset bullets (affected shooting at a distance, especially noticeable with the AWP)\n- Prediction: General improvements to hit detection\n- Movement: Fixed issues where players could severely rubber band with a poor network connection\n\nReticle\n\n- 4 color presets are now available from Settings -> Weapon Settings (Red, Yellow, Pink, or Green)\n- Changing the reticle color will update the world UI Reticle, Reflex Lens, and Tunnel Sights\n\nGeneral\n\n- Squads: Assorted fixes for repeat matchmaking failure while in a squad\n- Friend Codes: Removed 0 and 1 from friend codes to avoid confusion\n- Friends: Fixed edge case where removing a friend might remove the wrong friend\n- Loadout: Fixed icon for NYE Millie\n\nKnown Issues\n\n- Desktop VR: Climbing jitter can happen in some cases. Actively working on a fix for this.\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\nCan't wait to play these new changes with all of you!\n\nFollow on Twitter\nFollow on Facebook\nFollow on Reddit",
-							"tile_landscape_image": null
-						},
-						{
-							"id": "3719161661512085",
-							"title": "Weekly POP: ONE update!",
-							"created_time": 1610573721,
-							"body_text": "January 14, 2021 Change List\nSmall update this week, focusing our energy on bigger changes coming soon!\n\nGeneral\n- Minimap: Icons now have a subtle outline to help differentiate them from the background\n- Play Screen: Mode select moved to the center and made more prominent\n- Quest Only: Low battery popup when headset power is less than 10% when on the Play Screen\n\nKnown Issues\n- Desktop VR: Climbing jitter can happen in some cases. Actively working on a fix for this.\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\nCan't wait to play these new changes with all of you ~ see you in game!\n\nFollow on Twitter\nFollow on Facebook\nFollow on Reddit",
 							"tile_landscape_image": null
 						}
 					]
@@ -214,7 +227,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRTTMC0o9dDzokF8ak0-__IaaJQ9SAyW0avE2YvmdzROMlJZSqP7WBUBOAMxheYklci-FQLxtt1MZhViWlrRYPqA"
+							"cursor": "AQHRkK2KTW8QhyjDiqjp6NMIO_nLbVMLyUt0gbKsfHrvskWVWdICf2QNOAye36cbCSIgM2YyptKzaYtdR35BJDZR0g"
 						}
 					]
 				}
@@ -267,11 +280,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6348996249724,
+			"quality_rating_aggregate": 4.638852672751,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2430,
+				"count": 2451,
 				"orderings": [
 					{
 						"key": "top",
@@ -284,10 +297,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2430,
+				"count": 2451,
 				"page_info": {
-					"end_cursor": "AQHR37umbSyOI2RAFZoEQ6ybx_2w_HVlz4veUVpKrXbP0B7M8N-FCyE8dP1KgHvd_6BrUJd_QFmNaB3AJKBSx5I8xw",
-					"start_cursor": "AQHR37umbSyOI2RAFZoEQ6ybx_2w_HVlz4veUVpKrXbP0B7M8N-FCyE8dP1KgHvd_6BrUJd_QFmNaB3AJKBSx5I8xw"
+					"end_cursor": "AQHR0fc3un4s-CTO0XjOp_icc-UJa3glUVbMqXaNxVlR_XdrSolPFRThVTTkssS_9Th88B2QhwmX0cosAbZA6_z6Ug",
+					"start_cursor": "AQHR0fc3un4s-CTO0XjOp_icc-UJa3glUVbMqXaNxVlR_XdrSolPFRThVTTkssS_9Th88B2QhwmX0cosAbZA6_z6Ug"
 				},
 				"edges": [
 					{
@@ -297,13 +310,13 @@
 								"id": "100791361714939",
 								"display_name": "MyCatIsADogYes",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.194.194a/s160x160/39031481_166288471831894_5180981603112769604_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=2MYwNfnDIXcAX8JktzS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=de41235b98b70550306135a91ebc8321&oe=6038D87A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.194.194a/s160x160/39031481_166288471831894_5180981603112769604_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=e_PK5AP-wGsAX8EpbcL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ff4a7964a6d876bea47e12c0c22653fe&oe=6038D87A"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "So this game has good graphics and stuff, but I have a few recommendations.\n\n1. You should add a sandbox mode. It would be nice to be able to just hang out and explore the map.\n2. You should add a pistol only mode. Basically, the only weapons are pistols. I love using pistols in this game but they’re pretty much useless when it comes to combat.\n3. You should add two holsters that don’t take up backpack space. One for a rifle to go on your back, and another for a pistol on your hip. \n4. You should add characters to the store.\n5. You should make it a little easier to level up. I’ve been stuck on level 12 for a while now.\n\nThat’s it. This is a great game, so keep up the good work!\n\nSincerely,   \n                 MyCatIsADogYes",
 							"reviewTitle": "Hi there!",
-							"review_helpful_count": 693,
+							"review_helpful_count": 723,
 							"review_rank_by_viewer": null,
 							"date": 1608066621,
 							"developerResponse": null
@@ -318,7 +331,7 @@
 				"description": "CLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_198268188640326_9155583499312522904_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=HESIt-f5xjUAX-xoo4X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=aa3eec0eafcd6474d8f7aa0118cd9598&oe=6038C501",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_198268188640326_9155583499312522904_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=HESIt-f5xjUAX9O8UPs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cbabaa17f789ccf9ba4707f4409fc154&oe=6038C501",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

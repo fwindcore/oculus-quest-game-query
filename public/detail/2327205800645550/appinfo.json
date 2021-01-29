@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974578_223776969089679_453940404945053755_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=8o-h47Bzv_gAX8KNY5z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd66a5772371a401ce14e7a0e59a945f&oe=603621F6"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974578_223776969089679_453940404945053755_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=xuZ5Ic4bsBgAX9MvVxc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5aeda87937a91ada6a4691678e8ae4d4&oe=603A1676"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001674_1013862005793083_2945892537726857637_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=WvqnTe7h48wAX8em9xF&_nc_ht=scontent.oculuscdn.com&oh=19854ca12de924e59868f57d11c03f02&oe=60378A9C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001674_1013862005793083_2945892537726857637_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=WvqnTe7h48wAX-I9iqN&_nc_ht=scontent.oculuscdn.com&oh=66aeca675a541267e192e982a8ba75e4&oe=60378A9C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,22 +26,22 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 201,
+					"count": 202,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 344,
+					"count": 345,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 670,
+					"count": 671,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1741,
+					"count": 1749,
 					"starRating": 5
 				}
 			],
@@ -102,24 +102,24 @@
 				"required_space_adjusted": "3596784664",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
-					"count": 4
+					"count": 6
 				},
 				"firstIapItems": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"page_info": {
-						"end_cursor": "AQHRAQJ5VsVaniRm80LcXAK_p5Z-veAX6_JkqmsqPaIW8cecXYvkpuePHsRK43bG8wvWWa-OM7MC02tUkaW2ps1D6Q",
-						"start_cursor": "AQHRAQJ5VsVaniRm80LcXAK_p5Z-veAX6_JkqmsqPaIW8cecXYvkpuePHsRK43bG8wvWWa-OM7MC02tUkaW2ps1D6Q"
+						"end_cursor": "AQHRufrPGXK9IbwNY5njWX_kJvvRpoib7YZfQTL_RaU8SXBhGZAbOfEvbVv2ml2IWErCwwwok8CQfhNcxoLuUecMIQ",
+						"start_cursor": "AQHRufrPGXK9IbwNY5njWX_kJvvRpoib7YZfQTL_RaU8SXBhGZAbOfEvbVv2ml2IWErCwwwok8CQfhNcxoLuUecMIQ"
 					},
-					"count": 4,
+					"count": 6,
 					"edges": [
 						{
 							"__typename": "AndroidBinaryStoreAddonsIncludingBundlesEdge",
 							"node": {
 								"__typename": "IAPItem",
-								"id": "3409602342405885",
+								"id": "3947924045240376",
 								"current_offer": {
 									"__typename": "AppStoreOffer",
-									"id": "625715564733077",
+									"id": "238083931131169",
 									"offer_type": "APPSTORE_OFFER",
 									"__isPurchasableOfferWithApp": "AppStoreOffer",
 									"price": {
@@ -130,8 +130,8 @@
 									"strikethrough_price": null
 								},
 								"__isAppStoreItem": "IAPItem",
-								"display_name": "Total Body Pack",
-								"display_short_description": "Expect high energy cardio workouts that use squats, dodges and punches to give a challenging but fun total body workout.",
+								"display_name": "Absolute Box Pack",
+								"display_short_description": "These classes really pack a punch! Featuring full-body workouts that mix high-intensity cardio with muscle endurance. Great to get your heart rate up and challenge you!",
 								"is_viewer_entitled": false,
 								"latest_supported_asset_file": null,
 								"parentApplication": {
@@ -202,61 +202,27 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1611889200,
-								"current_start_timestamp": 1611849600,
-								"temporal_info": {
-									"seconds_until_end_time": 64275,
-									"seconds_until_start_time": 24675
-								},
-								"vr_app_and_destination_string": "FitXR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2327205800645550",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "FitXR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "923393775064788",
-								"is_vr_viewer_interested": false,
-								"name": "Absolute Box & Absolute Dance Packs Launch",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031519_815664409014483_945580933690078607_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=6UJX1knlciUAX9zGbk4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e42fb2f73f187ab97f3b506e781c0047&oe=60397F10"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "433988217338682",
 				"posts": {
 					"nodes": [
+						{
+							"id": "3725618120833805",
+							"title": "Absolute Box & Absolute Dance Packs — Out Jan 28!",
+							"created_time": 1611330912,
+							"body_text": "Launching Jan 28 are two workout packs for FitXR, each containing an hour of new workouts.\n\nThe Absolute Box Pack provides the perfect workouts to sweat out a busy day, get your heart rate pumping, and give a welcome endorphin boost.\n\nThe four new workouts really pack a punch and feature full-body workouts that mix high-intensity cardio with muscle endurance training.\n \nAlternatively, turn up the music and get your blood flowing with the Absolute Dance Pack, featuring four new workouts for our recently launched Dance studio.\n\nThe classes take your body through a range of movements, working every muscle group and are a really fun way to improve your cardio fitness, coordination and lower body strength.\n\nBoth packs include an eclectic range of music to enjoy, varying from soundtracks of rock, hip hop, electro, and pop.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75392879_413919276493523_2380609061004797929_n.png?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=8gldAuInbokAX-yapzu&_nc_ht=scontent.oculuscdn.com&oh=cdd798d5b06630f8e201bcfc4ac1e08e&oe=6039B009"
+							}
+						},
 						{
 							"id": "204536134553453",
 							"title": "New Update: Introducing new Box environment and streak mode",
 							"created_time": 1608223941,
 							"body_text": "Today we're launching a new sky park-style boxing environment, amongst other new updates to FitXR.\n \nWhen you next go to work up a sweat in a Box workout, you'll get to choose between a new Sky Park environment featuring an urban rooftop space with views of the city skyline, or the original FitXR studio environment.\n \nWe're also launching new features, including a new streak mode and the ability to adjust your glove alignment.\n \nTraining Mode vs. Power Mode\nThe streak system will involve choosing between Training Mode - where any successful cue punch count towards your streak, or Power Mode, where streaks can only be maintained with explosive punches.\n\nFits like a Glove\nOur new glove adjustment feature gives you the ability to reposition your gloves to create improved calibration.\n \nImproved Performance\nFurther updates include improved hit detection, a more accurate recording of statistics, and an enhanced class filter.\n\nHappy exercising!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75314851_3886050701445430_4854880682540226795_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=DdK5duMM3GYAX-ABhu8&_nc_ht=scontent.oculuscdn.com&oh=b9f247a941484b6b4dc27b18e1f01ff8&oe=60399C92"
-							}
-						},
-						{
-							"id": "693424071607885",
-							"title": "Track your fitness in FitXR!",
-							"created_time": 1605521238,
-							"body_text": "With more and more people turning to VR to stay active while at home, Oculus are rolling out a new feature to help you maximise results.\n\nOculus Move is a new platform feature that helps you track your calories burned and physically active minutes you play in any game or app, including FitXR. Set goals, check your progress and have fun while you work out.\n\nThe Oculus team have let us know that they’re rolling Oculus Move out gradually, so some Quest and Quest 2 users will have access to this platform feature starting today.\n\nFind Oculus Move in your library!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974908_847916462678324_6864649460085004788_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=R36MN-vEIjIAX_OWzf6&_nc_ht=scontent.oculuscdn.com&oh=08ddadb8fe78e37c623a742f809f8b5d&oe=6038AEFD"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75314851_3886050701445430_4854880682540226795_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=RTXgjYU4YlMAX_3A0y2&_nc_ht=scontent.oculuscdn.com&oh=b733d3f351f16d1adaf0525815d497dd&oe=60399C92"
 							}
 						}
 					]
@@ -264,7 +230,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRs5YnBmxO1GTqZl2g1aOtbbSn5dnlbzK1HgMd4ZoEjByq0R1WPcu-wAdX0v4UqKircwfajFxhiwKDv3TmO_0V3Q"
+							"cursor": "AQHRWi9ig25-0fqbbUGzt5QsLI68H43_LHF4oK63bAOCsu5B5tHbMBmAve5BIby2DODn5p8FH5BoDboo_ibJ190Tgw"
 						}
 					]
 				}
@@ -317,11 +283,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9068670792809,
+			"quality_rating_aggregate": 3.9086368977673,
 			"support_website_url": "https://fitxr.zendesk.com/hc/en-gb",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2185,
+				"count": 2191,
 				"orderings": [
 					{
 						"key": "top",
@@ -334,10 +300,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2185,
+				"count": 2191,
 				"page_info": {
-					"end_cursor": "AQHRjAuj4xV5QTZs9ooaqm6MEBB0RSQOheKxR82lFmuA9N0CCdOW46S7oPnEBld9HSTDBvK-5Gm2cI9fNGWgnKmpBQ",
-					"start_cursor": "AQHRjAuj4xV5QTZs9ooaqm6MEBB0RSQOheKxR82lFmuA9N0CCdOW46S7oPnEBld9HSTDBvK-5Gm2cI9fNGWgnKmpBQ"
+					"end_cursor": "AQHRRXyYAn42KwO05Jyl7H25FsKCCgJpmVPO1uyPWgzdVLi9Pf_IMsJsGOjWatGaca3gsx3jFYbpoNaWoYsrVvXUhg",
+					"start_cursor": "AQHRRXyYAn42KwO05Jyl7H25FsKCCgJpmVPO1uyPWgzdVLi9Pf_IMsJsGOjWatGaca3gsx3jFYbpoNaWoYsrVvXUhg"
 				},
 				"edges": [
 					{
@@ -347,13 +313,13 @@
 								"id": "111121367475367",
 								"display_name": "frankensteinfood",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39035363_114292350491602_3527380642175681286_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=3VaxQQCxZYcAX8R2Lv6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=787a1c1afe63ac250d3174551a8a4cc1&oe=60370D21"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39035363_114292350491602_3527380642175681286_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=3VaxQQCxZYcAX-lRKzG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=18fd80db39cc4481607ff6492e1d3e17&oe=603B01A1"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I was super skeptical when purchasing this game as I was a USA Boxing Instructor and thought how gimmicky it could be.  The game is really good, but does lack some fluidity and rhythm.   Some of the sessions are near perfect, but a lot of them are very simple and easily put together with no thought to \"on rhythm\" hits.  Another way to put it is, the hits are not to the rhythm of most of the songs.  The producer should have played the games before approving them.  I am also a video editor and know how easy this is, but this design team missed the mark big time.  I still enjoy my \"VRKouts\" every morning and so grateful to have a product such as this in these times.  If you are looking to lose weight, grab this now....it does work.  One more thing...they could use WAY more heavy rock music!",
 							"reviewTitle": "Good not Great",
-							"review_helpful_count": 177,
+							"review_helpful_count": 185,
 							"review_rank_by_viewer": null,
 							"date": 1608668812,
 							"developerResponse": null
@@ -368,7 +334,7 @@
 				"description": "Who said exercise needs to be full of pain and misery? Not us!\n\nWe believe it’s easy to get fit and stay motivated when you actually enjoy your workout.\n\nFitXR is bursting with Box and Dance workouts that you’ll love. We’ve got a class for every mood, goal and fitness level. All guaranteed to get you feeling sweaty and uplifted.\n\nIt’s time to join FitXR and say goodbye to ‘no pain, no gain' today!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75458095_947403539122058_135386638951581396_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=N03mJL59qBkAX9vQwOi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=71d33a9dda26bf0d7ca1fa046fc2fa7a&oe=6037966C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75458095_947403539122058_135386638951581396_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=N03mJL59qBkAX-AFmOf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=56a203f41a94d37f39cfa7f94c23aa8a&oe=6037966C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
