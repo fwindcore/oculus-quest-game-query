@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031495_1273756729668571_1862766943830709131_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=fYK4MKsdfDEAX_tfDAb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d723447a7036cbf0fed7d39b69bb0c0&oe=603AAC16"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031495_1273756729668571_1862766943830709131_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=fYK4MKsdfDEAX9uwSWQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=061e4029d470149b7ef02c134df80c15&oe=603AAC16"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_406458283890645_6094136976081531790_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=oq5x36BfJ90AX_nJM5F&_nc_ht=scontent.oculuscdn.com&oh=05d6238201126306b9812d95fe03c90a&oe=6039B82E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_406458283890645_6094136976081531790_n.mp4?_nc_cat=100&ccb=2&_nc_sid=0ed769&_nc_ohc=oq5x36BfJ90AX8QrRLU&_nc_ht=scontent.oculuscdn.com&oh=3cb441aba2ecabc21fcbdb0a76ff86b8&oe=6039B82E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 8,
+					"count": 9,
 					"starRating": 3
 				},
 				{
@@ -97,14 +97,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "11.0.0",
-				"change_log": "Greetings Shamans, \nWe are delighted to share our first major update that we have been working on based on your feedback:\n\n- Better player progression: you now unlock spells and items within your runs, and unlock permanent weapons and abilities in-between runs. Save three planets and you’ll be wielding the astral sword for the rest of your runs!\n- 3 new spells: Beam (hold trigger to channel it towards enemies) Nova (fry hand-thrown grenade) and Jolt Daemon (a jolt-firing entity to fight alongside you for a limited time).\n- Updated graphics with 15 new moons, in-game UI in a higher resolution.\n- Revised and shortened tutorial.\n- 90Hz mode on Quest 2.\n- Quicker loading times.\n- Italian, Spanish, Chinese and Japanese subtitled added\n\nStay safe, and see you on the Milky Way.",
+				"version": "11.2.0",
+				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "974993871",
-				"id": "4741738539230529",
-				"required_space_adjusted": "1196155730",
+				"total_installed_space": "1027959864",
+				"id": "4937725872965127",
+				"required_space_adjusted": "1423917742",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -117,22 +117,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "797575854433521",
+				"id": "348752599732952",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1611993540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -143,7 +138,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4741738539230529"
+					"id": "4937725872965127"
 				}
 			},
 			"release_channels": {
@@ -154,8 +149,8 @@
 						"id": "371518837066864",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "11.0.0",
-							"id": "4741738539230529"
+							"version": "11.2.0",
+							"id": "4937725872965127"
 						}
 					}
 				]
@@ -168,12 +163,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "2191438820988602",
+							"title": "Wasabi Super Nova Update",
+							"created_time": 1611834367,
+							"body_text": "Happy New Year, Shamans!\n\nReporting live from Lunar Groves. After a successful December update, we got straight to work on more of the features YOU have been asking for.\n\nToday, our Star Shaman Balancing Update has arrived and it will introduce Shamans old and new to a more welcoming galaxy.\n\nBALANCING ADJUSTMENTS\nShamans, we heard you loud and clear about the difficulty of our solar systems. You will now see that the combat is a bit easier, and shorter. Also, every time you regenerate a planet, your health is now refilled, so you can breathe a little more after a challenging level.\n\nBOSS CHECKPOINT MODE\nIn this game mode, your progression will be saved once you defeat a Boss - no more starting the game over when you die in solar system 2 or 3. We’ve kept a classic mode for Shamans who revel in the original challenge of the game.\n\nA NEW OFFENSIVE SPELL\nYou can now unlock a new spell, the Carom. It’s a rippling shot which damages your target and the nemies nearby, like a ricochet.\n\n\n\nACHIEVEMENTS\n11 original achievements help you track your progress in the game.\n\nGRAPHIC REFRESH\nWe have added 14 new moons and you will be delighted to see the skies have been improved.\n\nAll these additions will give you more time for multiple runs to explore new combos, play styles and everything our galaxy has to offer.\n\nHurry Shaman! Adventure awaits!\nDon’t forget; the Universe is counting on you.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982678_753206228927232_136676098355649141_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=4hGcyuATSBUAX97DXPm&_nc_ht=scontent.oculuscdn.com&oh=2aa0684f477ff3cf75a38baa4e7725ce&oe=6039E174"
+							}
+						},
+						{
 							"id": "214987283448758",
 							"title": "Major Update to Star Shaman",
 							"created_time": 1608059870,
 							"body_text": "Greetings Shaman\n\nHere at Lunar Grove we have been circling the galaxy in preparation for your next voyage. We are incredibly grateful for all the initial feedback we received on the game. Please don’t stop sharing. We love hearing from you.\n\nToday, Star Shaman 2.0 is released and with it comes some big changes.\n\nA stronger sense of character progression. Weapons and perks now unlock in the Reliquary during the game instead of when you die. In addition, each time you die, perks and persistent spells will be added to your Shaman Sphere for your next run, giving you more strength for your return. Additionally, respawning now grants you more money.\n\nIn this update, we've managed to trade 3 new spells with the Kybele:\n•    Beam: Hold trigger to channel it towards enemies.\n•    Nova: Stun/Fry hand-thrown grenade.\n•    Jolt Daemon: A jolt-firing entity to fight alongside you for a limited time.\n\nYou will notice a reworked HUD (Heads-Up-Display) where it is easier to check your hit points and current score.\n\nFellow Shamans are also getting a beautiful 90Hz refresh rate on Quest 2.\n\nBe on the lookout for 15 new moons.\n\nThe tutorial has been entirely reworked thanks to your feedback. You will see it is shorter and more fluid to move through. It also emphasizes the use of both hands as using the shield is key to your success. You will notice how parrying an incoming projectile now translates into an additional charge on your attack wand!\n\nYour space traveling has sped up! The tunnels are shorter from planet to planet making your time traveling through space more dynamic.\n\nEvery character has its own distinct voice, and our favorite mentor Heidi is now speaking English when the Astral Teleporter allows it.\n\nFinally, fellow Shamans speaking Spanish, Italian, Japanese or Chinese can join in on the fun. That’s 7 languages supported!\n\nNow go, Shaman.\nThe Universe is counting on you!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_1152321508557906_9188930203318926332_n.png?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=DWVHD2z3UjAAX-9juMI&_nc_ht=scontent.oculuscdn.com&oh=7cf71d604278e1b7580e59ff68e5d2cd&oe=603946E8"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_1152321508557906_9188930203318926332_n.png?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=DWVHD2z3UjAAX9IuhUy&_nc_ht=scontent.oculuscdn.com&oh=9f598fec8cf430c21ad4678586beaa71&oe=603946E8"
 							}
 						}
 					]
@@ -225,16 +229,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "797575854433521"
+				"id": "348752599732952"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0740740740741,
+			"quality_rating_aggregate": 4.0545454545455,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 33,
+				"count": 34,
 				"orderings": [
 					{
 						"key": "top",
@@ -247,10 +251,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 33,
+				"count": 34,
 				"page_info": {
-					"end_cursor": "AQHRiWvcVdHk-X2wCrKbttiZH-Db0jLDQwcgIsgUXXImW0_OuTVdK1ccn7adGB1oml7nkCqRsNR1EA62Oja_eLBC5A",
-					"start_cursor": "AQHRiWvcVdHk-X2wCrKbttiZH-Db0jLDQwcgIsgUXXImW0_OuTVdK1ccn7adGB1oml7nkCqRsNR1EA62Oja_eLBC5A"
+					"end_cursor": "AQHR9kI0fe_sPSe8q8i5_wRRIJ-GfwRRJhGifSMxeC26Ih_nqJ3QvFWf_T8hZuc3kbU06DEBWuHBRFEPiDoJkGulGg",
+					"start_cursor": "AQHR9kI0fe_sPSe8q8i5_wRRIJ-GfwRRJhGifSMxeC26Ih_nqJ3QvFWf_T8hZuc3kbU06DEBWuHBRFEPiDoJkGulGg"
 				},
 				"edges": [
 					{
@@ -260,13 +264,13 @@
 								"id": "104730590931380",
 								"display_name": "Proto_here",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974440_159833935421045_49980422754402304_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=ahP0ary6CY0AX9PGEFL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7645248471ac02aad54c3045cfb87a40&oe=603817E8"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974440_159833935421045_49980422754402304_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=BrbTf-oI4zIAX9VmFMB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=805656dc1687d1c303de572b77a3397e&oe=603C0C68"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "The game is already really well fleshed out, well worth the current price. The casting mechanic is super intuitive and after a few minutes you can get pretty quick with it. The music is pretty fun too and it really adds to the experience. It has massive potential, but needs a few changes and some more content. It’s also really nice to see the devs updating it, support is always a bonus.\n\nI have a few changes that could help improve it a bit: there should be a setting to keep the battle music playing constantly like a radio. I love the music, but I almost never get a chance to fully enjoy a track before I beat a level and I’d like to maintain the energetic pacing. There should also be a list of current spells or modifiers equiped when you pause the game, it wouldn’t really benefit much in game but it would help remember what you have during a run if you ever take a break. It would also be cool if there was a mode where you fight against waves of enemies and you obtain new spells over time as a sort of endless mode, though that’s a completely different play style. There’s also a few bugs that induce lag, such as any spells that attack automatically being multiplied repeatedly. The daemon has this problem sometimes. The sword spell also seems to be a little inconsistent on what counts as a hit, though I might just not be great with it. Other than that the game is pretty well optimized. It is very pleasing to the eyes and well thought out and super easy to sink a lot of time into. I’m excited to see what the devs do with it next!",
 							"reviewTitle": "Massive Potential",
-							"review_helpful_count": 15,
+							"review_helpful_count": 35,
 							"review_rank_by_viewer": null,
 							"date": 1609057446,
 							"developerResponse": {
@@ -285,7 +289,7 @@
 				"description": "Become a STAR SHAMAN and embark on an epic adventure to bring the funk of life back into a universe whose existence has been depleted to boring cubes by the Architects of Entropy. Travel through enchanting, futuristic galaxies to funky french-touch music.\n\nSTAR SHAMAN is an active VR adventure with touches of roguelite.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974669_822515258479095_5706898022261633658_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=xcLo06olLF0AX9Ao8Vb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3b8d3be515053da43e018f4d658ad63&oe=603A55EA",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974442_411071690094212_8940259996862795142_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=htw3WVdBiUAAX_Zad3h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=916f6112f7803071e628273ead3973aa&oe=6038E6E7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
