@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/43931336_1038433353291513_4839799993921368269_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=eQ3lu--YRGEAX9g4lHA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46637c2d2c41ad44ae7a868abba91b1f&oe=603A427A"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/43931336_1038433353291513_4839799993921368269_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=eQ3lu--YRGEAX8z-jNO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=86643fa13c6358d0af4e8502bbb42cec&oe=603A427A"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_345270833261612_7381730552743195720_n.mp4?_nc_cat=109&ccb=2&_nc_sid=0ed769&_nc_ohc=43D13-29QsMAX8kP2lH&_nc_oc=AQmf7bbIFASIzMZDdKzlMlg9O8aVzcTaVjRZkT78ib9eQweREMa9Hq8rh4scSw3YnZs&_nc_ht=scontent.oculuscdn.com&oh=ad01301db9bd0a78fade06c0de2ae0b4&oe=603B81D3"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_345270833261612_7381730552743195720_n.mp4?_nc_cat=109&ccb=2&_nc_sid=0ed769&_nc_ohc=nEqF-dqO_XgAX9nWUcr&_nc_oc=AQl5xzFcTDPSQPUSR4wqSWsGoZ94WL6CG-qEVqDhACIaRcMx5YjB9BRwfBTH5xI-pN0&_nc_ht=scontent.oculuscdn.com&oh=1f7a93355e15c4c192a6c644daf9de56&oe=603B81D3"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 181,
+					"count": 183,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 131,
+					"count": 134,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 438,
+					"count": 448,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 3821,
+					"count": 3876,
 					"starRating": 5
 				}
 			],
@@ -127,22 +127,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "470507690779015",
+				"id": "355435665769643",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-10%",
-				"end_time": 1612079940,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -179,8 +174,8 @@
 								"current_end_timestamp": 1612231200,
 								"current_start_timestamp": 1612188000,
 								"temporal_info": {
-									"seconds_until_end_time": 235599,
-									"seconds_until_start_time": 192399
+									"seconds_until_end_time": 149175,
+									"seconds_until_start_time": 105975
 								},
 								"vr_app_and_destination_string": "POPULATION: ONE",
 								"vr_applications": {
@@ -202,7 +197,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Monday XP Happy Hour",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_794860227783318_5900403867791478423_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=XpoM9_9_R5MAX-j-_yy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0b48499c05eb1e2957be87505bcf074d&oe=6039C97A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_794860227783318_5900403867791478423_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=XpoM9_9_R5MAX84_Avt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1c0cfb36c203c80d52e0cb3a523c089b&oe=603DBDFA"
 								}
 							}
 						}
@@ -217,7 +212,7 @@
 							"created_time": 1611787902,
 							"body_text": "January 28, 2021 Change List\nThe main update week is our Darkest Days and War Mode Event!\nThis is the last major update until Season 1. Look for more info coming soon!\n\nDarkest Days Event\n- Night version of the game map\n- Getting the night map is a random chance (more rare than the normal map)\n- Removed the ice/snow in Plains\n- Gun skin rewards\n- Event runs from 1/28 - 2/7 (10 days)\n\nLimited Time War Mode\n- 9 vs 9 limited time War Mode (choose via the mode select on the Play Screen)\n- Squad up with 1-2 friends as usual, in the match you will be paired with other players to form the 9-person teams\n- Longer looting period and then 1 major zone shrink forces the 2 teams to fight\n- A man says \"The war... has begun\" when the major zone shrink happens\n- War Mode runs from 1/28 - 2/7 (10 days)\n\nGraphics\n- Improved illumination to better preserve detail in low light\n- Improved loot item highlights for better readability\n- More dynamic & higher quality environment, character, tree, and item lighting\n- Multiple light improvements to better support Day and Night\n- Misc environment FX Updates\n\nGeneral\n- App Launch: New loading bar now shows progress when launching Pop1\n- Loading: Fixed initial slow framerate when joining a lobby\n- Ammo/Resources: Fixed ejecting duplicates when pulling both triggers & grips at the same time (or other input combinations)\n- Ammo/Resources: Fixed issue where dropping 1 ammo/resource dropped a full crate\n- Loot: Fixed issue where rarity was always distributed in the same locations every match\n\nKnown Issues\n- Desktop VR: Climbing jitter can happen in some cases. Actively working on a fix for this.\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\n&#x200B;\nCan't wait to play these new changes with all of you ~ see you in game!\n\n\nFollow on Twitter\nFollow on Facebook\nFollow on Reddit\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_185384680001759_7094905421106754344_n.png?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=KDYpvQIIGckAX_r2g22&_nc_ht=scontent.oculuscdn.com&oh=469c3f7be1cfb15e831d42eb4c94a244&oe=603AC4EB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_185384680001759_7094905421106754344_n.png?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=KDYpvQIIGckAX91gfjC&_nc_ht=scontent.oculuscdn.com&oh=a5baa170a518e70266536cd04254123b&oe=603AC4EB"
 							}
 						},
 						{
@@ -232,7 +227,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRhDk4VdsQnnizv8lHc_mPl-xVTOGuyhQyP1dfHQ35G99li8uE--py5f73XuzPkEk1YKIhsh3GzBKn16bab0zxqQ"
+							"cursor": "AQHRuiRcRNBAzpktAnlProbO2a2scZWQJ5DIYPqCf8KOxc_hWNh2tZ8LJHdaRPKnEJxIq2h3lyIb7KXwgThXxB1A1g"
 						}
 					]
 				}
@@ -280,16 +275,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "470507690779015"
+				"id": "355435665769643"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6405242801891,
+			"quality_rating_aggregate": 4.6407705334462,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2475,
+				"count": 2512,
 				"orderings": [
 					{
 						"key": "top",
@@ -302,28 +297,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2475,
+				"count": 2512,
 				"page_info": {
-					"end_cursor": "AQHRpuTBCbCPf2rbkC7XGipNsb05MJVNbuKH-t6C8htgeONdY-4ge0c-3xvc2_D_kN-Xu1yIVmhUhXGlBNiof7CVig",
-					"start_cursor": "AQHRpuTBCbCPf2rbkC7XGipNsb05MJVNbuKH-t6C8htgeONdY-4ge0c-3xvc2_D_kN-Xu1yIVmhUhXGlBNiof7CVig"
+					"end_cursor": "AQHR-XKln20Z2NqQiHhNYvVEuM6Uwq42-ejtrajJTsC0d8EDhD-NEOmQbaw_8mScwp-4mxpnlJBkcnt-3I3jYegq1Q",
+					"start_cursor": "AQHR-XKln20Z2NqQiHhNYvVEuM6Uwq42-ejtrajJTsC0d8EDhD-NEOmQbaw_8mScwp-4mxpnlJBkcnt-3I3jYegq1Q"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "226393935821347",
+							"id": "236039904571754",
 							"author": {
-								"id": "100791361714939",
-								"display_name": "MyCatIsADogYes",
+								"id": "109877683854644",
+								"display_name": "Abyss2639",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.194.194a/s160x160/39031481_166288471831894_5180981603112769604_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=e_PK5AP-wGsAX-S2io5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c398b2da59e24a18dd88eedfb56f2826&oe=6038D87A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974831_233614788147599_2139518088069782883_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=Du2oyUjKECAAX93Ac9m&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ced1a7fcdc89acae17301691d6089b86&oe=603BDD57"
 								}
 							},
 							"score": 5,
-							"reviewDescription": "So this game has good graphics and stuff, but I have a few recommendations.\n\n1. You should add a sandbox mode. It would be nice to be able to just hang out and explore the map.\n2. You should add a pistol only mode. Basically, the only weapons are pistols. I love using pistols in this game but they’re pretty much useless when it comes to combat.\n3. You should add two holsters that don’t take up backpack space. One for a rifle to go on your back, and another for a pistol on your hip. \n4. You should add characters to the store.\n5. You should make it a little easier to level up. I’ve been stuck on level 12 for a while now.\n\nThat’s it. This is a great game, so keep up the good work!\n\nSincerely,   \n                 MyCatIsADogYes",
-							"reviewTitle": "Hi there!",
-							"review_helpful_count": 752,
+							"reviewDescription": "This is absolutely amazing with almost no downsides. But there are some, as always for new games. \n1. Lobby. I want to be able to turn around and do target practice, or run through a course. I always get bored after having to wait for a game.\n2. Game modes. There should be different game modes/maps to play on, and you should be able to decide how many you want in your squad, so I could do solos, duos, trios, or squads(four people). \n3. Tutorial, this game definitely needs a tutorial, it has one, but it doesn’t cover everything, it took me a bit to figure everything out.\n4. Building. I find it hard to start building while playing the game, I’m fighting and I need to build to heal, but I have to put my gun away, then do it, can there be a button for building without putting your gun away?\n5. Communication, this game really needs a mic to win, I have won a few without it, but the only way to communicate without a mic is the pinging, I want a button to say “people here”, but I have to got to the menu, select it, then ping, just maybe make it so we can alter our settings so a certain button does a certain thing depending on what you want.\n6. Grenades, lots of reviews say this but grenade throwing isn’t realistic in any way, normally, I don’t care about immersion, but this is just weird, at least make it so I can get a grenade, pull the pin, drop it, then I damage the person following me, I have to pull the trigger just to throw it. Maybe they did this for a reason, but maybe let us choose how it works in the settings or something.\n7. Guns, the guns in this game are nice, but some mechanics are weird, why can’t I just see through the scope instead of needing 2 hands then putting my face on it, that actually took me a long time to figure it out, make the scope see through and I’ll be happy. But maybe add new guns, like rocket launchers, or an airplane where you use it and a drop spawns in front of you, or a mini gun, or maybe even add a knife to start with, you can always drop it for other stuff.\n9. Crosshairs, make an option to have crosshairs or not, personally, I like them, but some people don’t.\n10. Party options. Maybe to be able to choose to be on the same team or different teams, like in echo, you can get into a private match with only the people in your party.\nI have also been running into issues with the healing stuff, like bananas or sodas. It makes the sound when I do whatever to use it but doesn’t actually do it. Almost like it lags every time.\nUpdate: I love how the devs let you do solo against bots, but it is basically you against all the bots, they don’t attack each other and they come right at you, at least make it somewhat like a legit game. \nI get it, lots of wants, (big imagination), lots of bugs I hate, but this game could be a whole lot better with at least some of these improvements. But again, this game is new, but I love it all, play it every day. 100% recommended, loving it. Always be ready.\nUpdate, instead of having to buy coins can there be challenges to get them? I don’t want to spend money after the 30 dollar price tag.",
+							"reviewTitle": "Before reading this review, get the game",
+							"review_helpful_count": 180,
 							"review_rank_by_viewer": null,
-							"date": 1608066621,
+							"date": 1609272210,
 							"developerResponse": null
 						}
 					}
@@ -336,7 +331,7 @@
 				"description": "CLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982696_2772913432974886_1186251873868747132_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=h5eqcPVMHikAX-cCvYQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=11aac431abcfa2f84d4619b119e6e5bf&oe=603A0B9D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_198268188640326_9155583499312522904_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=jZUhhbAq8agAX9-f-lp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a8df723b8dcdd01f23a6f2fd7d720269&oe=603CB981",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

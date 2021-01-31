@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974908_1009214746246706_2402224874042023136_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=ZP6-UXzOjgQAX_KXfPn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ef5d424aa298a26eba85db4c8b7ea028&oe=603C24CE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974908_1009214746246706_2402224874042023136_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=ZP6-UXzOjgQAX9fAfsg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3f8ef5d3e7874104672a770cf73ace6&oe=603C24CE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_439122327466314_3093816590931379_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=LXTG79HmGBsAX8GB_Xf&_nc_ht=scontent.oculuscdn.com&oh=48dfee642286a6f92f33c7c6d6d9bdd3&oe=603996A0"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_439122327466314_3093816590931379_n.mp4?_nc_cat=108&ccb=2&_nc_sid=0ed769&_nc_ohc=LXTG79HmGBsAX9i2iSL&_nc_ht=scontent.oculuscdn.com&oh=4013e28e275dcd2f76cfa80c023b0150&oe=603D8B20"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -156,60 +156,26 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1612000800,
-								"current_start_timestamp": 1611957600,
-								"temporal_info": {
-									"seconds_until_end_time": 5195,
-									"seconds_until_start_time": 0
-								},
-								"vr_app_and_destination_string": "魔杖",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2096339947076151",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "魔杖"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1662604897263787",
-								"is_vr_viewer_interested": false,
-								"name": "Rare Wand Weekend",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_1013078112435181_4059126354501151590_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=TGM_mK52eUoAX8HKB4k&_nc_oc=AQl92cJ-WhdvZGCJj19YVm8kNzi1lGJFo2RKyZrJJOoJPTlJopdj8J573_XL1_suIkM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5ed5078c5d4444035492edb913ae521d&oe=6039909F"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "1100025990188350",
 				"posts": {
 					"nodes": [
-						{
-							"id": "3014500455444122",
-							"title": "Announcing New Events!",
-							"created_time": 1608654610,
-							"body_text": "There are 5 new recurring Wands events!! The game's most valuable items are more accessible than ever. You can learn all about the new events here.\n\nSee you in The Beyond!\n",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001691_841840936668632_9101608064478830939_n.png?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=nrGkFd6iba4AX8A6usK&_nc_ht=scontent.oculuscdn.com&oh=d7b2c386ffde00b358282d066d124d83&oe=603936FD"
-							}
-						},
 						{
 							"id": "401321784339165",
 							"title": "Wand Powers Balance Update",
 							"created_time": 1606144610,
 							"body_text": "The new Wand powers have gotten their first balance update! \n(there's no need to update your game to get the changes)\n-Lion's Pride: Armor HP reduced to 15 (down from 20)\n-Invicta: point change improved to 35% (up from 25%)\n-Invicta: HP and Mana penalty reduced to 20 (down from 25)\n-Ophidian's Vigil: acid cloud duration reduced to 2.5s (down from 4s) \nWe're thrilled that the community is enjoying the update, and we'll continue to make balance tweaks as needed. See you in The Beyond!\n",
 							"tile_landscape_image": null
+						},
+						{
+							"id": "392295538562299",
+							"title": "MAJOR FEATURE UPDATE: WAND POWERS OUT NOW",
+							"created_time": 1604366735,
+							"body_text": "This update introduces a massive feature update, unique powers to all wands. We've also crafted five new arena-themed wands that have powers unique enough to match their marvelous designs. A new playable character, The Templar makes her debut. Log in to find out how to attain this elite warrior.\n\nWe'll see you in The Beyond.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982553_641605016459542_6889278063699317786_n.png?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=2mJ-UM9XxvwAX_p3nQf&_nc_ht=scontent.oculuscdn.com&oh=07a6527dd15755a8d1a266d236c6dcb1&oe=603D0C5A"
+							}
 						}
 					]
 				},
@@ -284,30 +250,30 @@
 			"firstQualityRatings": {
 				"count": 226,
 				"page_info": {
-					"end_cursor": "AQHRMD_RRegESfOykMa-bJ3l7R_uLcACjs7UbACkAqvbvqgVuigmyFRJs1IcAlNQGriVoamDFRjGz1hvKujM3lf2uA",
-					"start_cursor": "AQHRMD_RRegESfOykMa-bJ3l7R_uLcACjs7UbACkAqvbvqgVuigmyFRJs1IcAlNQGriVoamDFRjGz1hvKujM3lf2uA"
+					"end_cursor": "AQHRORpFYk0jRcrPLD4zE7bt59SqWaEYGUPtmdDouGkwqyM1l_GLKfSZP72nDbtC8Kl_njFLYp9JBqGQtNf_bi51sw",
+					"start_cursor": "AQHRORpFYk0jRcrPLD4zE7bt59SqWaEYGUPtmdDouGkwqyM1l_GLKfSZP72nDbtC8Kl_njFLYp9JBqGQtNf_bi51sw"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "188010066241669",
+							"id": "260169125504345",
 							"author": {
-								"id": "108285257547484",
-								"display_name": "Ghost_Dance",
+								"id": "101158818072044",
+								"display_name": "Blade-of-Light",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75458095_122301702812506_2762146150126452736_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=rS7Fyh2rzZIAX-RCaTV&_nc_oc=AQlVNKutXY-JuVVia3rGom3wYSSxN2uWkUtf21PDGL3DltaUBgXlUKGWVu76ypl8GG0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d5d1088c64c84c63193c2d6ffe195b10&oe=603B6ED9"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982597_253246059529985_4009424299869518169_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=_kIa809gCnoAX-w_Eyy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=795610d43d9d912e26a6200082cef7a5&oe=603B0ACE"
 								}
 							},
-							"score": 4,
-							"reviewDescription": "The graphics are really cool...as is the ability to customize the spells in your wand.  But combat is not very enjoyable...I think because of the clunky teleporting.  I like to be able to move freely in combat games...",
-							"reviewTitle": "Cool...but something lacking",
-							"review_helpful_count": 31,
+							"score": 5,
+							"reviewDescription": "Matchmaking used to be a problem but isn’t bad at all anymore. Dual wands is awesome, strategy is a thing, game is good. Super worth.\n\nTip: Don’t get discouraged when you get put up against the top players and lose. You will not be as good as the players who have thousands, sometimes even tens of thousands of games played. Watch how they play, don’t hit yourself with your own spells, and don’t spend all of your mana at once. Good luck wizard :)",
+							"reviewTitle": "My Favorite Game On Quest",
+							"review_helpful_count": 3,
 							"review_rank_by_viewer": null,
-							"date": 1606087544,
+							"date": 1611527174,
 							"developerResponse": {
-								"date": 1606177395,
-								"body": "Hey Ghost_Dance. You can always walk around freely in a room-scale sized area, but I'm guessing you want to be able to move freely throughout the arena by using the joystick. We'd love to hear more detailed feedback if you have time. Please reach out at support@cortopia.com. Thanks!",
-								"id": "188808036161872"
+								"date": 1611711954,
+								"body": "Thanks, Blade-of-Light. You're an amazing player :)",
+								"id": "261366012051323"
 							}
 						}
 					}
@@ -320,7 +286,7 @@
 				"description": "魔杖®是一款第一人称虚拟现实体验，提供快节奏的魔法决斗为你的魔杖汲取更多的法术，咒语，能量，为了名利，权力，和和至高荣耀。在接二连三的战斗之间，在你的秘密工作室中探索新法术和磨练你的技能。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984464_449791636380731_5999505946485682772_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=Ub-tV-centYAX9unbP7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ebbef1e529881c1a121bdedc5ea3a7dd&oe=6039E610",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984464_449791636380731_5999505946485682772_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=Ub-tV-centYAX9ryxwu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1541daabd46fb76298e8b3db7c7f89c3&oe=603DDA90",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
