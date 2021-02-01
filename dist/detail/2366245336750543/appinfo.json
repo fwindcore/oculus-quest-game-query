@@ -16,7 +16,7 @@
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 123,
+					"count": 124,
 					"starRating": 1
 				},
 				{
@@ -26,17 +26,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 163,
+					"count": 164,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 351,
+					"count": 356,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 855,
+					"count": 862,
 					"starRating": 5
 				}
 			],
@@ -135,22 +135,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "146247113972298",
+				"id": "371074933503925",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2399",
-					"formatted": "$23.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1612166340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -187,8 +182,8 @@
 								"current_end_timestamp": 1613246400,
 								"current_start_timestamp": 1613239200,
 								"temporal_info": {
-									"seconds_until_end_time": 1164369,
-									"seconds_until_start_time": 1157169
+									"seconds_until_end_time": 1077848,
+									"seconds_until_start_time": 1070648
 								},
 								"vr_app_and_destination_string": "Creed: Rise to Glory",
 								"vr_applications": {
@@ -210,7 +205,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Creed PvP Happy Hour!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982584_151949376497090_42290115154490090_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=vxM95oazvRMAX9UZwqc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f042f51c4359544c8bc1b5d67939f711&oe=603CE13C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982584_151949376497090_42290115154490090_n.jpg?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=vxM95oazvRMAX9wp2Bv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3dd17b8769edf68bc3384a4bd0c02381&oe=603CE13C"
 								}
 							}
 						}
@@ -267,16 +262,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "146247113972298"
+				"id": "371074933503925"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0824937027708,
+			"quality_rating_aggregate": 4.083645443196,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 897,
+				"count": 906,
 				"orderings": [
 					{
 						"key": "top",
@@ -289,26 +284,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 897,
+				"count": 906,
 				"page_info": {
-					"end_cursor": "AQHRdKNY1YrWD5tkfLj0ifTMg-FevcqRwdXtaMlo8pzp8BxZx67W77mcgMSgFVYOBCc11ZlcMwsLG4G0eOYAbKRdWA",
-					"start_cursor": "AQHRdKNY1YrWD5tkfLj0ifTMg-FevcqRwdXtaMlo8pzp8BxZx67W77mcgMSgFVYOBCc11ZlcMwsLG4G0eOYAbKRdWA"
+					"end_cursor": "AQHRlY0FGVeJNSaZDk7nIGGjRsKguAQ_UoiT5mjWGKl4gtZN0vs10cIopHPMs5_YL8So6AZ8pDseRkICfT_XT3911Q",
+					"start_cursor": "AQHRlY0FGVeJNSaZDk7nIGGjRsKguAQ_UoiT5mjWGKl4gtZN0vs10cIopHPMs5_YL8So6AZ8pDseRkICfT_XT3911Q"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "124300489464759",
+							"id": "117544680199844",
 							"author": {
-								"id": "106150111279797",
-								"display_name": "G_loth",
-								"profile_photo": null
+								"id": "104514314836214",
+								"display_name": "Daniel_Yakk",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974469_105147708106208_97668215137701591_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=gBrdmcxQWnIAX_1G-8p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=84a7de40d48f05b9e9ae88c3b04cb608&oe=603ED192"
+								}
 							},
 							"score": 4,
-							"reviewDescription": "Pros: It's nice that you can have several different practices, nice to see Rocky, and movements are pretty realistic. Great idea with the training before fight to stablish stamina. \n\nCons: Stamina is too fast (small) to the point that you can barely do a 4 or 5 hit combo. What can I do if the opponent never defends well and leave openenings? Walking method doesn't work well and could play a better role in rink for strategies.",
-							"reviewTitle": "Expecting more for the price",
-							"review_helpful_count": 237,
+							"reviewDescription": "Rating: Okay/Good \n\nLength: Short (1-2 hours of playtime)\n\nVisuals: Good... You really get to experience what it’s like to box in a big arena... graphics are good\n\nSummary: Good game however very repetitive and short. I recommend buying on a sale... but when it’s on a sale it’s worth it! I'm in decent shape and after 2 boxing matches I'm sweating like CRAZY! \n\nFinal thoughts: Zero regrets purchasing, cool game to show people what VR is all about",
+							"reviewTitle": "Good game but repetitive and short",
+							"review_helpful_count": 39,
 							"review_rank_by_viewer": null,
-							"date": 1605932397,
+							"date": 1608958356,
 							"developerResponse": null
 						}
 					}
@@ -321,7 +318,7 @@
 				"description": "Do you have what it takes to become a champion? Follow the ascent of boxer Adonis Creed as you go toe-to-toe with the world’s top opponents in this intense, cinematic boxing experience. Featuring new Phantom Melee Technology for impactful VR melee combat, you’ll train, fight, and win like Creed.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974753_713589236189547_9065884829194893777_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=HwdZCduaVAkAX8niM04&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e4ed9d581b6818970a75d29fa805980&oe=603AC2F2",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75443236_643030886289447_4524572545382350848_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=xWOyY7RayaEAX_-18iW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c8565edd149dcd511d7418ced0bba1cb&oe=603BEE93",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
