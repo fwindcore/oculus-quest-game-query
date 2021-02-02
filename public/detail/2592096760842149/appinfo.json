@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001713_440179740756093_1635579265723184880_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=1UiNdmVOifUAX97aT9I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d008830c71041625dea4ff8dce6edac2&oe=603CA55E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001713_440179740756093_1635579265723184880_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=-gx1EwznV5UAX9wqzsk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7d7548e10d6e1ee589a94f8fca6f630&oe=604099DE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_801850223718856_4839038684197333077_n.mp4?_nc_cat=101&ccb=2&_nc_sid=0ed769&_nc_ohc=YGKWGR--eqwAX_K2bYA&_nc_ht=scontent.oculuscdn.com&oh=46a95112790151cf0b946dbfdc44a334&oe=603D912C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_801850223718856_4839038684197333077_n.mp4?_nc_cat=101&ccb=2&_nc_sid=0ed769&_nc_ohc=YGKWGR--eqwAX-rwXfv&_nc_ht=scontent.oculuscdn.com&oh=d20d3af71c269be394141b5a938cc62a&oe=603D912C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 44,
+					"count": 43,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 328,
+					"count": 329,
 					"starRating": 5
 				}
 			],
@@ -79,14 +79,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.05",
-				"change_log": "2MD: VR Football Unleashed ver 1.05 Patch Notes:\n- Players can now select between DUMMY and ROBOT body types!\n- Unique player helmet design based on body types selected.\n- improved performance across Quest and Quest 2 platforms\n- improved audio spacialization\n- improved pickupable object highlighting",
+				"version": "1.07",
+				"change_log": "2MD version 1.07 Update notes\n——————————————\n-Grip button control can now be toggled in the practice field\n-New lighting effects throughout ‘bots variant fields\n-Inclement weather added to Unicorns and Truants ‘bot fields\n-New guest fields added for round 3 and round 5\n-Major update to Pixel’s stadium: 3 story screen and new field material\n-Improvements to F16 flyby attraction\n-Texture improvements in Androids field\n-Additional performance improvements for Quest 1 and 2 platforms\n",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1108457938",
-				"id": "3643829259002222",
-				"required_space_adjusted": "958681656",
+				"total_installed_space": "1239062379",
+				"id": "3823351631049983",
+				"required_space_adjusted": "1124561066",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -120,7 +120,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3643829259002222"
+					"id": "3823351631049983"
 				}
 			},
 			"release_channels": {
@@ -131,8 +131,8 @@
 						"id": "457462021532652",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.05",
-							"id": "3643829259002222"
+							"version": "1.07",
+							"id": "3823351631049983"
 						}
 					}
 				]
@@ -145,21 +145,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "745481443051493",
+							"title": "2MD VR: Football Unleashed ver 1.07 Update: GET A GRIP!",
+							"created_time": 1611807939,
+							"body_text": "The day of the big game is almost here!  To celebrate this week, we're adding a new feature that has been oft requested, as well as some fun improvements to the on-field presentation!  So without further delay, let's get started!\n\nThe biggest news is, as of this update, we're adding the ability to toggle between the trigger and grip buttons for all interactions.\n\n\n\nThis addition comes with a couple of caveats.\n\n-Firstly, because of how the HMD tracks the controllers, we don't recommend changing your hold orientation significantly.  We've found that maintaining the same hand positions when using the trigger yields the most accurate tracking and, in turn, the best results.\n\n-Second, because the travel for the grip button is significantly different from the trigger, you will need to re-calibrate your release timing and throw power when changing controls.\n\n-Lastly, and we really can't stress it enough, wear the wrist straps when using the controllers at all times, but especially with this control orientation.\n\nThrowing a football is a kinematically complex action, involving progressive movements of the feet, hips, shoulders, arm, and forearm down to the fingertips.  It's for this reason that we still consider the trigger the default and preferred way to play the game.  We are, however, always open to giving players more options, so it is our hope that providing this control gives some folks an added dimension to their VR football experience!\n\nNext!  We've added new lighting conditions to all the 'Bot fields.\n\n\n\nThese include sunrise, sunset, overcast and more.  The new lighting conditions help bring out some of additional character to each of the stadiums, and help bring out previously hidden detail in some of them.\n\nLastly, with regards to certain field details, we've gone another step further -- in the effort to squeeze as much out of the remaining performance as we can, we've added some alternative weather conditions to the Truants' and Unicorns' fields with rain and snow!\n\n\n\n\nThis is our first attempt at alternative weather conditions on the mobile platform, but hopefully not our last.  As is standard, ALL updates will be available to both Quest 1 and Quest 2 HMDs!\n\nIf you want to let us know how we're doing, as always, reach out to us on Twitter or via our email at the support links on the store page.  You can also join our discord server, if you want to interact with other members of the 2MD community across platforms.  And, as always, thanks for your time, and for your support.\n",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_123742576278379_389344356401501076_n.png?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=ZBniLg48DKkAX8ISQVj&_nc_ht=scontent.oculuscdn.com&oh=9e7f04a3e136ceae29fe6410e2e03b05&oe=603D4DCF"
+							}
+						},
+						{
 							"id": "667052354171783",
 							"title": "2MD ver 1.05 Update | The Dummies Strike Back!",
 							"created_time": 1606489896,
 							"body_text": "The tackle dummies return to exact their softly-padded revenge upon the football field . . . if only it was that dramatic! But seriously, now players can swap between body types using the whiteboard prior to starting on the road to the championship.  And a few other small improvements here and there because, you know, who can resist endlessly tweaking something.\n\n2MD: VR Football Unleashed ver 1.05 Patch Notes:\n- Players can now select between DUMMY and ROBOT body types!\n- Unique sound effects for each body type\n- Unique player helmet design based on body types selected.\n- improved performance across Quest and Quest 2 platforms\n- improved audio spacialization and performance\n- improved pickupable object highlighting",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974558_815028402400469_8713932832116062252_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=npBKrc-5Z7EAX8NPWpT&_nc_ht=scontent.oculuscdn.com&oh=fdf94f00c0a1cbec9498d198c12ad94c&oe=603E826F"
-							}
-						},
-						{
-							"id": "701893583763872",
-							"title": "2MD: VR Football Unleashed Robot Rampage Edition 1.04 Update - User feedback and more!",
-							"created_time": 1604884312,
-							"body_text": "2MD: VR Football Unleashed Robot Rampage Edition. - 1.04 Release Notes\n- Updated player movement sounds to include more realistic footsteps for different surfaces (grass, metal)\n- Updated player impacts to include traditional tackle sounds\n- Further decreased prominence of spark sounds\n- Minor texture improvements",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974621_813135622753523_3876570845074604262_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=uy8kp4ByxvQAX9OTgoG&_nc_ht=scontent.oculuscdn.com&oh=1d23df7ba8695bbab8561c47d6262ec2&oe=603EC4DB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974558_815028402400469_8713932832116062252_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=npBKrc-5Z7EAX8Xect6&_nc_ht=scontent.oculuscdn.com&oh=a923bb429de89f288dbf33b778fadb7e&oe=603E826F"
 							}
 						}
 					]
@@ -216,7 +216,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2263513513514,
+			"quality_rating_aggregate": 4.2297297297297,
 			"support_website_url": "http://truantpixel.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -235,8 +235,8 @@
 			"firstQualityRatings": {
 				"count": 424,
 				"page_info": {
-					"end_cursor": "AQHR6dxFTDwB5WAThYeThCtCfzFW2KUD2rwfKnQH-knhgU7qZgwv-PUJu95aHq8vg86Bwak9t33DOC5v3azTpjcK_A",
-					"start_cursor": "AQHR6dxFTDwB5WAThYeThCtCfzFW2KUD2rwfKnQH-knhgU7qZgwv-PUJu95aHq8vg86Bwak9t33DOC5v3azTpjcK_A"
+					"end_cursor": "AQHRedWmcbHcCtm8HGX5YoAkO5f4bIqQOB5vC2IwjiPfYuQBKZhMMe4O3b8A0eVaChFyjTD30dKQ-b1UN1aUs3Mjeg",
+					"start_cursor": "AQHRedWmcbHcCtm8HGX5YoAkO5f4bIqQOB5vC2IwjiPfYuQBKZhMMe4O3b8A0eVaChFyjTD30dKQ-b1UN1aUs3Mjeg"
 				},
 				"edges": [
 					{
@@ -246,7 +246,7 @@
 								"id": "102859645092529",
 								"display_name": "dead_inside666",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982489_102859811759179_5631090206343188002_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=p0NXiJAiwIgAX-NA-Sq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6d3526e2e5e57e42e000c96e9222cf4f&oe=603D2220"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982489_102859811759179_5631090206343188002_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=p0NXiJAiwIgAX9LWiq0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=10e21472c38b88d6298755aeead0e025&oe=603D2220"
 								}
 							},
 							"score": 4,
@@ -267,7 +267,7 @@
 				"description": "2MD is a groundbreaking motion-controlled VR football game. Draw the plays, call the shots, and throw, hand-off, or run the ball before the clock runs out!\n\n‣ Throw like a pro with realistic motion controls in a room-scale quarterback experience.\n‣ Draw up to 8 offensive plays in VR before taking the field.\n‣ 8 customizable teams and 8 immersive stadiums.\n‣ Exciting arcade presentation, challenging AI, achievements, leaderboards, virtual trophy case, and more.\n‣ Oculus Rift Cross-Buy Enabled.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001725_208877203977808_2806429630284785261_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=uHTgRlZqUc0AX8oAGoc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0092cecad009ceb37fb3297756c22734&oe=603C7369",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001725_208877203977808_2806429630284785261_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=uHTgRlZqUc0AX_s5IMx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f73a029d6f9e93b7a4cf02c0b1cf66dd&oe=604067E9",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
