@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=b4OE7n0KGcUAX8Q8hi8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fec10df6535c9a24c5a92639b36fdcc1&oe=603D7842"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=b4OE7n0KGcUAX9C87GF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=baca74b3699c11b82d879158872e2499&oe=60416CC2"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=You18Li-278AX8WsPWd&_nc_ht=scontent.oculuscdn.com&oh=f658f07dd7ece685144f62d58f473c8c&oe=603CD113"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=-ePaed_of1IAX_ZS1ic&_nc_ht=scontent.oculuscdn.com&oh=af4e4a9c359698c35ee190088279cb26&oe=6040C593"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1044,
+					"count": 1046,
 					"starRating": 5
 				}
 			],
@@ -89,14 +89,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.0.9",
-				"change_log": "v2.0.9\n\nHey @everyone, the February monthly challenge is finally here, and it's a special one!\nNot only do we have a guest music track by *Paul Oakenfold* that will be featured in this month's challenge\nbut we also made the challenge different this month to make it more interesting!\n\nThe goal is to score as high as possible before the track ends.\n\nTo play this new challenge you need to update the game to the latest version (2.0.9).\n\nThis update also includes a few tweaks and bug fixes:\n* Tweak - SpeedUp text fades away quicker\n* Tweak - Hitting a floating powerup will count as a successful shot and increment the streak\n* Bug fix - racket stops being able to hit the ball\n\nGL;HF :)",
+				"version": "2.0.10",
+				"change_log": "Patch 2.0.10 notes:\n* Bug fix: February Challenge continues after music ends (leaderboards will be fixed separately)\n* Bug fix - We probably fixed the \"Game ends after one shot\" bug in Versus, please let us know if it's still happening after this update.\n* Bug fix - \"Best bug by Jackkline\"\n* Bug fix - Ball get's stuck in portal entrance\n* Tweak - Removed the invisible collider between the players in the Multiplayer Arena",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "672626006",
-				"id": "4068700573173944",
-				"required_space_adjusted": "582932536",
+				"total_installed_space": "672644034",
+				"id": "4071209702923031",
+				"required_space_adjusted": "582914842",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -130,7 +130,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4068700573173944"
+					"id": "4071209702923031"
 				}
 			},
 			"release_channels": {
@@ -141,8 +141,8 @@
 						"id": "613025645811908",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.0.9",
-							"id": "4068700573173944"
+							"version": "2.0.10",
+							"id": "4071209702923031"
 						}
 					}
 				]
@@ -160,7 +160,7 @@
 							"created_time": 1605563676,
 							"body_text": "Today we're rolled out a brand new game mode for Racket: Nx - Co-op!\nCo-op lets you team up with a friend or stranger and play shoulder to shoulder for the high score in a game against time!\nWe expect a lot of new players to join and veteran players to pop back in, so please be nice and welcoming.\n\nThis is the biggest update to RNX since launch, and after playtesting it for several weeks now, we've found it to be a super fun and bonding experience.\nAs always, this mode can be played cross platform and between devices sharing the same account, so hopefully some of you will be able to play with your kids, spouses and arch-enemies.\n\nIn addition to Co-op mode, we've added a few game mechanics to Arcade, making it more dynamic and interesting. These additions change Arcade enough for us to have had to reset the leaderboards. Apologies. We do hope you find these new changes worth it, though!\n\nThank you all for sticking with us as we continue to develop and expand RNX!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=ZXt8uKq9yg0AX9xX77M&_nc_ht=scontent.oculuscdn.com&oh=764d05a60448036769a9bd7a69c2e261&oe=603E13CC"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=ZXt8uKq9yg0AX-mz-KR&_nc_ht=scontent.oculuscdn.com&oh=2045076b59b59ec7a8b8a5e1db10e861&oe=603E13CC"
 							}
 						},
 						{
@@ -169,7 +169,7 @@
 							"created_time": 1598276847,
 							"body_text": "What can one do with a racket and ball in VR? Come and see Racket: Nx's top players fight for the VAL tournament championship! Aug 26th - Sep 5th. Links and updates @ vrfitsummit.com.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974613_357586195271333_4748893024649499295_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=3P3vZEhTzJ8AX9GMgIN&_nc_oc=AQm6J2L6obbSk_Vjku9H7If2_6Z5ygYaT24KF8ohG62Mkk3FK0198sEkX3rF6hMq_mw&_nc_ht=scontent.oculuscdn.com&oh=4a7a3ddc9b674b6bda4517cad58b1887&oe=603FBFC2"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974613_357586195271333_4748893024649499295_n.png?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=vBlJ3rQjnFcAX8u8T7y&_nc_oc=AQnymPOIJrs9Si4hj3A0pCIgfBGpqQYECSd1k_ltjsQG6Bnd9Ws8pLq_wpdenkU3dUo&_nc_ht=scontent.oculuscdn.com&oh=697cece38f1db71679e9d1d07b2ead1c&oe=603FBFC2"
 							}
 						}
 					]
@@ -226,11 +226,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7313552526063,
+			"quality_rating_aggregate": 4.7317854283427,
 			"support_website_url": "https://racketnx.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 597,
+				"count": 598,
 				"orderings": [
 					{
 						"key": "top",
@@ -243,10 +243,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 597,
+				"count": 598,
 				"page_info": {
-					"end_cursor": "AQHRtCHRNae399Tn0bXDIkR8gzjnNZV00UBU0YolzlXuf4pBlrUPQRm6BhukFZsVQ_uJcvxokgt0NJgoi_q0V9Uy5w",
-					"start_cursor": "AQHRtCHRNae399Tn0bXDIkR8gzjnNZV00UBU0YolzlXuf4pBlrUPQRm6BhukFZsVQ_uJcvxokgt0NJgoi_q0V9Uy5w"
+					"end_cursor": "AQHRP5wtkrixHdnf8MQQhGY-wMYq9Pd_SE8auW3rUSySBZxVMDqFT8loFruYGgKFZ-KkGuL6GocljmCMkRYSItvVaQ",
+					"start_cursor": "AQHRP5wtkrixHdnf8MQQhGY-wMYq9Pd_SE8auW3rUSySBZxVMDqFT8loFruYGgKFZ-KkGuL6GocljmCMkRYSItvVaQ"
 				},
 				"edges": [
 					{
@@ -256,13 +256,13 @@
 								"id": "106134397994194",
 								"display_name": "Locochap",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.152.1135.1135a/s160x160/39001667_120998536507780_446662799208738672_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=5Roatoq_V00AX8RO5-S&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0de7118fc04097afd468741ddc5ddad4&oe=604080C1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.152.1135.1135a/s160x160/39001667_120998536507780_446662799208738672_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=RAW3LTfN338AX-wotZ0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1bc4b49adf5c980549e337795339e47a&oe=604080C1"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I have a son with autism who struggles with games in which you can fail. This game allows him to play and not fail and makes him so happy and increases his confidence. Thanks devs for helping my son experience vr in such a positive way. Great immersion and response from the controllers. If I could add anything it would be more  verbal encouragement when you do well. 5 star game awesome",
 							"reviewTitle": "Solid game suitable for children as well",
-							"review_helpful_count": 47,
+							"review_helpful_count": 49,
 							"review_rank_by_viewer": null,
 							"date": 1609807458,
 							"developerResponse": null
@@ -277,7 +277,7 @@
 				"description": "Racket: Nx是一款前所未见的游戏，旨在挑战玩家在VR中使用球拍的极限。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001691_675640956362084_4526402606596644154_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=YmjuaqzrcLMAX-She-t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4f89e175519be5f72eb3f8f5e08c98ef&oe=603D4E31",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001691_675640956362084_4526402606596644154_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=YmjuaqzrcLMAX9AbcKE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9731ca3234dc8b05b6ea5c199ed7fef3&oe=604142B1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
