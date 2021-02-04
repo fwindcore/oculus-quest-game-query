@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974487_196908208095925_3870201249538244608_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=1KIAyUB4sw4AX9wdW_u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3223e685e6b07268a2efd9dc7d07ee40&oe=603F0042"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974487_196908208095925_3870201249538244608_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=1KIAyUB4sw4AX92_93m&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5623704964756307de13ea331a67668f&oe=6042F4C2"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_196905524762860_6908572822533046272_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=UUW7PUVf3gAAX-OFMO5&_nc_ht=scontent.oculuscdn.com&oh=9b5539b7f2ae4727e7bdd2c5f7789aea&oe=603E8288"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_196905524762860_6908572822533046272_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=UUW7PUVf3gAAX8rik0x&_nc_ht=scontent.oculuscdn.com&oh=29b9be063d6e52d809fbd489fe134722&oe=60427708"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 19,
+					"count": 20,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 52,
+					"count": 53,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 390,
+					"count": 391,
 					"starRating": 5
 				}
 			],
@@ -172,22 +172,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "423521895769922",
+				"id": "534991910700882",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2299",
-					"formatted": "$22.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-23%",
-				"end_time": 1612425540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -226,7 +221,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRvOENWOJ-WcufjpXmA0JPEq4PIvxxsjPcZHGRcw73wx66qLQPZDDnaTN3CDDeMufubg0OS1A0KPz0-Qnvm4zVTw"
+							"cursor": "AQHRGy6SQkUzuEe_ci7I33zeUeMW_daQUkq1xIGSZV5Gon1sdJ7GAQLU0T4GN2r2AYmvvjWPZLCgBh3FE40tgPfdNg"
 						}
 					]
 				}
@@ -274,16 +269,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "423521895769922"
+				"id": "534991910700882"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.51953125,
+			"quality_rating_aggregate": 4.5126213592233,
 			"support_website_url": "http://harmonix.zendesk.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 264,
+				"count": 265,
 				"orderings": [
 					{
 						"key": "top",
@@ -296,10 +291,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 264,
+				"count": 265,
 				"page_info": {
-					"end_cursor": "AQHRgrMzR8rWHl4HbiNdNdjWKhX22dOinhTvRNuTO5MLi5XY4sj2YLm2yyL1OiIZ_JshOIxI3CNBPRo5R00ItK4NIA",
-					"start_cursor": "AQHRgrMzR8rWHl4HbiNdNdjWKhX22dOinhTvRNuTO5MLi5XY4sj2YLm2yyL1OiIZ_JshOIxI3CNBPRo5R00ItK4NIA"
+					"end_cursor": "AQHR_RpVr7MAKE-UXpcU1QTfAUtlu1i8w6-ln3A25_dc15MdY6GFgaDiRF2Z9X2gUqANLMafeuEgqzlv1nmomE8JCA",
+					"start_cursor": "AQHR_RpVr7MAKE-UXpcU1QTfAUtlu1i8w6-ln3A25_dc15MdY6GFgaDiRF2Z9X2gUqANLMafeuEgqzlv1nmomE8JCA"
 				},
 				"edges": [
 					{
@@ -309,13 +304,13 @@
 								"id": "358845251226032",
 								"display_name": "Finerphenomenon",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/11162708_358845657892658_6504984078691860480_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=QQSl7MVbxzwAX8eNtK1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e386a573f152dc874712e7e8668fb5b&oe=603FA987"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/11162708_358845657892658_6504984078691860480_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=AAenHsSM-3gAX89pJhO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46370fa00eaeef621734280fea71a78e&oe=603FA987"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Also, don’t expect this to be like other VR rhythm games. Going Into this game thinking of Beat Saber and Pistol Whip is the wrong line of thinking. This game is much different and, imho, much better and more technical, which makes it that much more satisfying when you hit a perfect run. I think of Beat Saber, Pistol Whip, and Synth Riders a workout for the body and Audica a workout for the brain. There are customs galore on the Audica Modding discord; from guns and arenas, to hundreds of customs songs of all difficulty levels. The discord also has a very welcoming and helpful group of players, mappers, and modders who will help you get going.",
 							"reviewTitle": "Don’t overlook this awesome game",
-							"review_helpful_count": 71,
+							"review_helpful_count": 107,
 							"review_rank_by_viewer": null,
 							"date": 1607124043,
 							"developerResponse": null
@@ -330,7 +325,7 @@
 				"description": "AUDICA™ is a VR “rhythm shooter” that combines Harmonix’s award-winning music gameplay with precision shooting mechanics and a 33-song soundtrack, all set in a mesmerizing cosmic arena.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974883_845319249582459_7030889709139378179_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=rR3txqQ3FsYAX9fMMgY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4fa616fbeecdd4ef1e28cb84d1e219b0&oe=6040C62E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974531_264913654703623_8319708263486586880_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=jMhxkufjo4oAX-HOOPW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a8c5ad6ed533e1561a7ece3964d6bb1&oe=60416485",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
