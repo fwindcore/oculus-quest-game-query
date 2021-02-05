@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035457_250723189782106_2649516145910888399_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=G2hs4veybVQAX-JLJxE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b0df7ed1ef9ef8139520d9c27a58e85a&oe=60413213"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035457_250723189782106_2649516145910888399_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=U3OqvmrJnLsAX9fwYRm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ec5eb3e327ecdf0af85f185b4b20ae22&oe=60413213"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75443244_528062538088297_8586798335564190677_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=-r7x-9U4kFkAX8u9dsL&_nc_ht=scontent.oculuscdn.com&oh=8655c9bffc5b36a0e1c258306e3b5fd4&oe=6041ED0D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75443244_528062538088297_8586798335564190677_n.mp4?_nc_cat=105&ccb=2&_nc_sid=0ed769&_nc_ohc=-r7x-9U4kFkAX91qmBH&_nc_ht=scontent.oculuscdn.com&oh=fafcca07985d1d03215faa0efc6f677d&oe=6041ED0D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 25,
+					"count": 26,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 942,
+					"count": 945,
 					"starRating": 5
 				}
 			],
@@ -81,14 +81,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.3.6.a14",
-				"change_log": "Minor Release\nThis is a bug fix and improvement release, as always we appreciate the feedback from the player community to help us identify and resolve these issues!\n\nGENERAL BUG FIXES & IMPROVEMENTS\n- Players may now choose a completely solid colour as a note texture in Settings > Colors\n- Songs were sometimes not being selected correctly after changing playlists.\n- Experiences will always be offered if available, and the players’ modifiers (e.g. spin mode) will instead be overridden if the experience is not compatible.\n\nMULTIPLAYER\n- Change to the display of estimated time remaining no longer overlaps long song names.\n- Fixed issue causing players to see 0x multiplier on the summary board.\n\nQUEST SPECIFIC\n- Users were prevented from accessing nonstop play for the new Synthwave 2 pack.\n- Oculus Link users in the Oculus native version found some stages would not render particles in HMD correctly.\n\nAs always we welcome your feedback and bug reports on our Official discord server (Invite: http://discord.synthridersvr.com). Please use #bug-report to make sure that we see your feedback.\n\nIf you want to support the development of Synth Riders, we really appreciate reviews left on the Steam/Oculus Store!\n",
+				"version": "2.3.7.a6",
+				"change_log": "Introducing minor update with major improvements!\n\nHIGHLIGHTS\n- Audio and voice will no longer glitch while loading\n- Random song will trigger random stage if enabled\n- Everyone will hear song previews in multiplayer\n\nGENERAL IMPROVEMENTS\n- With Random Stage selected, using the Random Song button on the song summary screen will now select both a random song & stage.\n- (PCVR Only) Notes now have an increased polygon count and note textures no longer have minimaps.\n\nMULTIPLAYER IMPROVEMENTS\n- Audio is now muted when starting songs, ending songs and returning to the lobby from the scoreboard to eliminate voice chat stuttering effect.\n- All players in a multiplayer room can now hear audio previews or the room's selected song, provided they have the song available to play! Volume is controlled by the in-lobby volume control, and the feature can be disabled in Settings > Multiplayer > Song Audio Preview.\n\nPOWER-UPS IMPROVEMENTS\n- Power-Ups are clearer when identifying grouped targets - look for the labels \"All Leaders\", \"All Pursuers\" as well as \"Everyone\".\n- Power-Ups attack messages are now a little smaller in size.\n\nTWITCH INTEGRATION IMPROVEMENTS (PCVR ONLY)\n- You can now connect your Twitch channel in game and have the default Synthriders bot visit you!  If you wish to personalize your bot, you can still do so in the usual way, but now you can also simply enter your channel name in game (Settings > Interface > Twitch Integration) and let our bot come to you.\n- Twitch Mods Panel renamed to the Twitch Integration panel, and will not be visible when the game can't connect to Twitch.\n- To avoid interaction with other bots (specifically SteamElements), the !set command is now !srset\n- When enabled, the twitch help message is now part of the connection message.\n- Viewers who change status will now correctly be reflected in cooldowns.\n\nBUG FIXES\n- In game news no longer overlaps onboarding in the case that the player launches the game twice before completing onboarding.\n- Pausing and resuming on Spin City stage no longer causes the special effect tunnel to occur\n- Non-stop play in the Electroswing Essentials DLC fixed.\n- Input keyboard no longer stays open when you leave the Playlist edit screen via the close button before closing the keyboard.\n- Playing a song with a Custom difficulty and then selecting Random Song on completion could cause the next song to incorrectly load with no notes and finish immediately.\n- Fixed Settings > Calibration > PLAY AREA title text.\n- Multiplayer: Fixed a condition which could cause players to display 0x multiplier on the Power-Ups summary board.\n- Multiplayer: Fixed an issue causing all scores on the leaderboard to incorrectly display as full combo (lightning bolts) on return to the lobby.\n- Power-Ups: Players in first place using Embiggen power-up now have a target selected correctly, identified as “All Pursuers”.\n\nAs always we welcome your feedback and bug reports on our Official discord server (Invite: http://discord.synthridersvr.com). Please use #bug-report to make sure that we see your feedback.\n\nIf you want to support the development of Synth Riders, we really appreciate reviews left on the Oculus Store!",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "993572676",
-				"id": "3708080729299822",
-				"required_space_adjusted": "1728714136",
+				"total_installed_space": "993957280",
+				"id": "3749178715190023",
+				"required_space_adjusted": "1729483752",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 20
@@ -206,7 +206,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3708080729299822"
+					"id": "3749178715190023"
 				}
 			},
 			"release_channels": {
@@ -217,8 +217,8 @@
 						"id": "1294977310680058",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.3.6.a14",
-							"id": "3708080729299822"
+							"version": "2.3.7.a6",
+							"id": "3749178715190023"
 						}
 					}
 				]
@@ -232,8 +232,8 @@
 								"current_end_timestamp": 1612670400,
 								"current_start_timestamp": 1612663200,
 								"temporal_info": {
-									"seconds_until_end_time": 243067,
-									"seconds_until_start_time": 235867
+									"seconds_until_end_time": 156684,
+									"seconds_until_start_time": 149484
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -255,7 +255,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375770_434650837949100_2067574355341227539_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=4vgnFxJ1IoQAX-pT7ec&_nc_ht=scontent.oculuscdn.com&tp=28&oh=acc23d4bc30de6de724889c378a99429&oe=60432407"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375770_434650837949100_2067574355341227539_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=4vgnFxJ1IoQAX9XDZsE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6eebe113ed3689f5102b6668976fb755&oe=60432407"
 								}
 							}
 						},
@@ -265,8 +265,8 @@
 								"current_end_timestamp": 1613275200,
 								"current_start_timestamp": 1613268000,
 								"temporal_info": {
-									"seconds_until_end_time": 847867,
-									"seconds_until_start_time": 840667
+									"seconds_until_end_time": 761484,
+									"seconds_until_start_time": 754284
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -288,7 +288,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75395587_397326751548762_4023836917901776354_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=Igcfpac9xU8AX8wOxQV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=26e86aff9443b220d079c3bfd2c2372b&oe=60405113"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75395587_397326751548762_4023836917901776354_n.jpg?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=Igcfpac9xU8AX-sBa_h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9060f332d3e2acff4b83e2dc133649da&oe=60444593"
 								}
 							}
 						},
@@ -298,8 +298,8 @@
 								"current_end_timestamp": 1613880000,
 								"current_start_timestamp": 1613872800,
 								"temporal_info": {
-									"seconds_until_end_time": 1452667,
-									"seconds_until_start_time": 1445467
+									"seconds_until_end_time": 1366284,
+									"seconds_until_start_time": 1359084
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -321,7 +321,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75339311_112977877288891_8709993292040894070_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=ltGldbl6TOQAX95mRtp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=713359ad47eed5df11dfae571bb72e1a&oe=6041224A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75339311_112977877288891_8709993292040894070_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=w2fRgzQyficAX8Wmx25&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9763f46d747107683bde1d2e66afdd41&oe=6041224A"
 								}
 							}
 						},
@@ -331,8 +331,8 @@
 								"current_end_timestamp": 1614484800,
 								"current_start_timestamp": 1614477600,
 								"temporal_info": {
-									"seconds_until_end_time": 2057467,
-									"seconds_until_start_time": 2050267
+									"seconds_until_end_time": 1971084,
+									"seconds_until_start_time": 1963884
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -354,7 +354,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210885_1065174363987725_6724086126274184641_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=3P5thpFP71wAX8lDJO8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cb5f902cb2f5ab331a990f5fa5241202&oe=6042023C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210885_1065174363987725_6724086126274184641_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=3P5thpFP71wAX9Crfkf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f01e615b6fed26ea011a668685abe947&oe=6042023C"
 								}
 							}
 						},
@@ -364,8 +364,8 @@
 								"current_end_timestamp": 1615089600,
 								"current_start_timestamp": 1615082400,
 								"temporal_info": {
-									"seconds_until_end_time": 2662267,
-									"seconds_until_start_time": 2655067
+									"seconds_until_end_time": 2575884,
+									"seconds_until_start_time": 2568684
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -387,7 +387,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75240097_3300955710009213_6962228369456572528_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=muYauAZ6I4wAX9VL_Yq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=95899e7378e92b7305f24a52a0f03ea8&oe=60413959"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75240097_3300955710009213_6962228369456572528_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=4943woliuikAX8YZuAn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bfbb822e57c2ab8bc5dcea40f13587e7&oe=60413959"
 								}
 							}
 						},
@@ -397,8 +397,8 @@
 								"current_end_timestamp": 1615694400,
 								"current_start_timestamp": 1615687200,
 								"temporal_info": {
-									"seconds_until_end_time": 3267067,
-									"seconds_until_start_time": 3259867
+									"seconds_until_end_time": 3180684,
+									"seconds_until_start_time": 3173484
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -420,7 +420,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75223483_462382558500527_381476764005863643_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=QXi7eaY2stkAX8e8lUE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e4ff2bf37b8b22c847734a73f063549e&oe=60413D98"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75223483_462382558500527_381476764005863643_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=QXi7eaY2stkAX-ltXCv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9d0c78d51f45ca8e0b244332a27222c3&oe=60413D98"
 								}
 							}
 						},
@@ -430,8 +430,8 @@
 								"current_end_timestamp": 1616299200,
 								"current_start_timestamp": 1616292000,
 								"temporal_info": {
-									"seconds_until_end_time": 3871867,
-									"seconds_until_start_time": 3864667
+									"seconds_until_end_time": 3785484,
+									"seconds_until_start_time": 3778284
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -453,7 +453,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75289919_2761242847538151_7378183669332545026_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=WmT6of5s57EAX-Dp0IT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cc3213d9a55e2418d32afc15dbae9281&oe=60416867"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75289919_2761242847538151_7378183669332545026_n.jpg?_nc_cat=110&ccb=2&_nc_sid=79b88e&_nc_ohc=WmT6of5s57EAX8qmUL2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59593aef3712240a5a1aa6b28c2e9d79&oe=60416867"
 								}
 							}
 						},
@@ -463,8 +463,8 @@
 								"current_end_timestamp": 1616900400,
 								"current_start_timestamp": 1616893200,
 								"temporal_info": {
-									"seconds_until_end_time": 4473067,
-									"seconds_until_start_time": 4465867
+									"seconds_until_end_time": 4386684,
+									"seconds_until_start_time": 4379484
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -486,7 +486,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375762_491043988528392_2855055394507377326_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=4QIc07WPBu8AX8g8BmL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f80b8f64b506bfda2d886f0044405fbe&oe=60400D5C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375762_491043988528392_2855055394507377326_n.jpg?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=4QIc07WPBu8AX8MxHwF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=74d0998fc0085b9410541acd705c87b3&oe=604401DC"
 								}
 							}
 						}
@@ -501,7 +501,7 @@
 							"created_time": 1610377049,
 							"body_text": "Enter a neon future!\n\nWe are proud to present the “Synthwave Essentials 2” Music Pack featuring 3 free and 5 DLC songs!\n\nHeadlined by Muse with tracks from “Simulation Theory” sitting alongside incredible Synthwave classics, this pack pays tribute to 80s music culture, while blending in future influences.\n\n“Algorithm” by Muse comes with a free “Experience”. More than just a stage, this is artistically-driven, immersive visuals that result in the blending of sight, sound, and movement together into a transformative experience.\n\nCheck out the trailer of the Muse “Algorithm” Experience\n\nFree songs are already in your library! DLC songs can be purchased for $1.99 or as a bundle with a 20% discount.\n\nYou are invited to join our Community on Discord and leave a review on the Oculus Store to support the development.\n\nSee you in the game!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75493235_748038052498576_7695123735658244992_n.png?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=fjl4fV62_W0AX9r5J0e&_nc_ht=scontent.oculuscdn.com&oh=1725073b8f96d10bd925c0c7f332fc48&oe=60424A15"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75493235_748038052498576_7695123735658244992_n.png?_nc_cat=100&ccb=2&_nc_sid=79b88e&_nc_ohc=fjl4fV62_W0AX9zOnDO&_nc_ht=scontent.oculuscdn.com&oh=e4df0be23138b4dfb1b5066ab8b6d18e&oe=60424A15"
 							}
 						},
 						{
@@ -510,7 +510,7 @@
 							"created_time": 1607606925,
 							"body_text": "Dear Riders,\n\nWe are thrilled to present Power-Ups, a Kart Racer-style collection of boosts and attacks that you can pick up and use in the Multiplayer to turn the tide of the battle!\n\nThe Power-Ups arsenal comes with two boosts (Shield and Score multiplier) and seven attacks, such as “Embiggen” that will turn the notes into beach balls, “Warp” that will make them approach at an impossible speed, and \"Invaders” that will hover over the stage and try to hit you with their projectiles. And yes, the power-ups can totally stack up for the craziest combinations!\n\nCheck out the Power-Ups trailer on YouTube.\n\nWe wish you many great laughs and unforgettable moments playing Synth Riders multiplayer with your friends and family. Power-Ups put smiles on many faces during the beta testing and we are delighted to finally share them with all of you!\n\nYou are invited to join the Synth Riders Community on Discord and leave a review on the Oculus Store to support the development.\n\nSee you in the Multiplayer!\n\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974907_149924673556488_8724902949519868668_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=E10VTJVcGdcAX9bLLSs&_nc_ht=scontent.oculuscdn.com&oh=9e5eb2d1c8ca7476567726a06029dd0b&oe=6041F5D6"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974907_149924673556488_8724902949519868668_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=E10VTJVcGdcAX_pM7Fe&_nc_ht=scontent.oculuscdn.com&oh=33e6a7dcbdb811959d673c62bc47009d&oe=6041F5D6"
 							}
 						}
 					]
@@ -518,7 +518,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRS43Tn5AoXlTXPYuCj1jUjUDfVo8c8h8YVYcsiz4743pW0wDxfmnYC0xitTL18lq5d_mPgQHFk0uvziCgT4dnVw"
+							"cursor": "AQHRhrBatUcjxXjEjTgsjFXye9lPzW2iuWa2EPnDeY0dfJRp6ZD3_8BUJma17-TRg2POVJsca-qHLibAxFQQhkpWXg"
 						}
 					]
 				}
@@ -571,11 +571,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6423728813559,
+			"quality_rating_aggregate": 4.6402027027027,
 			"support_website_url": "https://synthridersvr.com/contact-us/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 687,
+				"count": 689,
 				"orderings": [
 					{
 						"key": "top",
@@ -588,10 +588,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 687,
+				"count": 689,
 				"page_info": {
-					"end_cursor": "AQHRp8tcIYlDjnglO4TIS6OqxXjljC24Du-8A785aBzQqCw7-4hJHH53BWhCdpL7YXVEEyjuC8bvNEAkvh1VDb9Qaw",
-					"start_cursor": "AQHRp8tcIYlDjnglO4TIS6OqxXjljC24Du-8A785aBzQqCw7-4hJHH53BWhCdpL7YXVEEyjuC8bvNEAkvh1VDb9Qaw"
+					"end_cursor": "AQHRC--5TUmEHPZEz-CcfedBQfabyB9XZqQGpAtDz4YDFQSCVn9Ko0qSLv0uFZdlM4CRypQTa4TH9DJiyUW-iXKs8g",
+					"start_cursor": "AQHRC--5TUmEHPZEz-CcfedBQfabyB9XZqQGpAtDz4YDFQSCVn9Ko0qSLv0uFZdlM4CRypQTa4TH9DJiyUW-iXKs8g"
 				},
 				"edges": [
 					{
@@ -601,13 +601,13 @@
 								"id": "110999309587806",
 								"display_name": "MarkoDeeJay",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/39001669_649970589024006_3017304766211699288_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=BATbRGmkrNYAX-I_xew&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1e471a71879ce351220aa73c04970bf1&oe=6042C913"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/39001669_649970589024006_3017304766211699288_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=11cP9QCPppAAX_RW_PE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cd90d1afce62d721c0f1d486c111c54&oe=6042C913"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "After Beat Saber I didn’t think I’d find something as fun but mainly different than just hitting blocks following the rhythm, but I was wrong. Synth Raider has an excellent original soundtrack, and each track lasts very long, so the sessions are a proper dancing experience. Since it’s you moving towards the blocks, and not the opposite, the environment keeps changing, while the dynamics of catching the spheres is very different than just hitting them. After getting it and move to a more challenging difficulty, you’ll find yourself dancing, or moving all your body in harmony like if you were doing a Kung-Fu relaxing session, widely opening your arms while leaning in all directions, and focusing on touching the spheres with a specific hand or both of them. In just a few songs I got why it’s so appealing and often I alternate my always favourite Beat Saber to my new best favourite, Synth Raider, and I can’t advice it enough to everyone who wants to enjoy a very well made rhythm game that will guarantee many hours of fun.",
 							"reviewTitle": "The Beat Saber killer",
-							"review_helpful_count": 74,
+							"review_helpful_count": 75,
 							"review_rank_by_viewer": null,
 							"date": 1608986279,
 							"developerResponse": null
@@ -622,7 +622,7 @@
 				"description": "Synth Riders is a freestyle dancing VR rhythm alternative. Lose yourself in the incredible music, ride the unique rail system, meet friends in the multiplayer, and get a good workout in the process!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982658_392466715384402_8528147996543921361_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=rJDpxrdpQ-MAX91iZ5s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=852b8daa078ae013982c8b5fc4a18e22&oe=604069F1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982658_392466715384402_8528147996543921361_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=rJDpxrdpQ-MAX9QAVuY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c728e2c00a686434363e922e3914fef9&oe=60445E71",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

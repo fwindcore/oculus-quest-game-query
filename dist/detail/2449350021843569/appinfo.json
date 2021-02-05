@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75339310_375622683886929_37702664461215181_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=f-7xw0mMSY4AX84rVLg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f682eed5a59c7d7cc264915c83a1aa5c&oe=603F5BF9"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75339310_375622683886929_37702664461215181_n.jpg?_nc_cat=106&ccb=2&_nc_sid=79b88e&_nc_ohc=TKVcsvkJUR4AX85uf--&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4153addbf330f9ff3f130f8aefabbdd0&oe=60435079"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_509536369709162_8376108403923091456_n.mp4?_nc_cat=103&ccb=2&_nc_sid=0ed769&_nc_ohc=lNn840eSeK0AX_kYp1D&_nc_ht=scontent.oculuscdn.com&oh=1a97d0a941c8aaa16ce6f69118f5e2cb&oe=6042D960"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_509536369709162_8376108403923091456_n.mp4?_nc_cat=103&ccb=2&_nc_sid=0ed769&_nc_ohc=lNn840eSeK0AX80YVJQ&_nc_ht=scontent.oculuscdn.com&oh=69a3dc3134360f7ae6e99c1823be5ca6&oe=6042D960"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 176,
+					"count": 177,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 629,
+					"count": 630,
 					"starRating": 5
 				}
 			],
@@ -133,22 +133,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "341281610258782",
+				"id": "1090185464674877",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%",
-				"end_time": 1612511940,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -198,7 +193,7 @@
 							"created_time": 1595185930,
 							"body_text": "A new class has entered the arena! The Reaper is a swift and deadly fighter who wields a grim, heavy scythe. Look out for other new features as well, including voice chat, new GIF options, and new cosmetics.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035332_1586850171486195_4026298046320207427_n.png?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=wCArvEwN9BIAX_epFry&_nc_ht=scontent.oculuscdn.com&oh=9dfc49c01e1b717f98f31f22546fe719&oe=60411271"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035332_1586850171486195_4026298046320207427_n.png?_nc_cat=107&ccb=2&_nc_sid=79b88e&_nc_ohc=Sz7mOnAtI8UAX_Airze&_nc_ht=scontent.oculuscdn.com&oh=eb7bf9d5d6ca75673b74ff6a7d637f6f&oe=60411271"
 							}
 						}
 					]
@@ -206,7 +201,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRYkWDF4u4914eTI_uRM-GMWnM2tHgx4a8dmLlB4aX7PdYjQoNa-KSaKORAIYmPBH-zGKkpnUPZelzLE92AyFUZg"
+							"cursor": "AQHRcfGaMMgEOq7KbAqY2NWL8GIwValBGRsZqXSXzFaPmz2yc6xQ5xckaPCS-qCgHHR6h_1mHE5yb3MYSdIK2VZlZw"
 						}
 					]
 				}
@@ -254,16 +249,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "341281610258782"
+				"id": "1090185464674877"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3009307135471,
+			"quality_rating_aggregate": 4.3013415892673,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 570,
+				"count": 572,
 				"orderings": [
 					{
 						"key": "top",
@@ -276,10 +271,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 570,
+				"count": 572,
 				"page_info": {
-					"end_cursor": "AQHRaopB3dm0To9gODzIHvNeegzW8VBSvsQidGIHoewi4DNwixJ5NPAiZ3yHDeQIn1F5LCoBJ-dofCJAgUvG-Ijspg",
-					"start_cursor": "AQHRaopB3dm0To9gODzIHvNeegzW8VBSvsQidGIHoewi4DNwixJ5NPAiZ3yHDeQIn1F5LCoBJ-dofCJAgUvG-Ijspg"
+					"end_cursor": "AQHReGzwlXPWF0TNnDb4BWnWkW-NllsBvXULR8o7kcIP0nVT9jySEuMy22wbecWNT5TkYbZaJ-CzBqMsSSFlVhGLsQ",
+					"start_cursor": "AQHReGzwlXPWF0TNnDb4BWnWkW-NllsBvXULR8o7kcIP0nVT9jySEuMy22wbecWNT5TkYbZaJ-CzBqMsSSFlVhGLsQ"
 				},
 				"edges": [
 					{
@@ -289,13 +284,13 @@
 								"id": "110917164122075",
 								"display_name": "Awesomaniac13",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031552_110918304121961_5322997969113377295_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=HUT9QqYDzKsAX_GFydp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7585a224448833205f30dddd59fb0d28&oe=604108CD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031552_110918304121961_5322997969113377295_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=b21aA7phre8AX8I7qLt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2abe70b7ab06e50cc8d366073265d630&oe=604108CD"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game is beautiful. Just take that into account. The weapons feel natural to use, the fighting feels really satisfying, and the game just looks beautiful in general.\n\nSo why am I giving it 4 stars you ask?\n\nThe community.\n\nSimply put, the community is toxic as hell\n\nThere are so many times that I have hopped into a multiplayer match, just to be destroyed by people who use the ninja class as the gun class. On top of that, I have experienced many players who make obscene gestures in the middle of fights. \n\nTL:DR\nGood game, bad community",
 							"reviewTitle": "Amazing game but...",
-							"review_helpful_count": 172,
+							"review_helpful_count": 246,
 							"review_rank_by_viewer": null,
 							"date": 1607703607,
 							"developerResponse": null
@@ -310,7 +305,7 @@
 				"description": "Ironlights is a VR dueling game with skillful, fluid, slow-motion melee combat. Parry, block, and strike down your opponents using a variety of diverse physics-based weapons. Test your skills in online multiplayer battles, or fight to the top of the league in the huge single-player campaign!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974684_247420720311309_567260805992594639_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=e9vJ7zAP3dcAX-H830p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=84d3087eda5b91c41c1923de88dc9ec2&oe=60404F72",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75230049_1509765539212706_7459112308114270234_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=lZrcniMWAI8AX-9glHo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ace7fd1cc3ed75aa86d50e48ab655ee1&oe=604285D7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

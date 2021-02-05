@@ -1,0 +1,272 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3882524545155280",
+			"display_name": "Catan VR",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031349_1044586259313452_1201325813482557882_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=r5swwULMeAIAX_phfyC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=15857beb60de50c0da31135e3aedd002&oe=6041A329"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75462203_430292771618108_282341372261470112_n.mp4?_nc_cat=111&ccb=2&_nc_sid=0ed769&_nc_ohc=YXYdwTpbfSsAX-WBt-3&_nc_ht=scontent.oculuscdn.com&oh=8c36172154764800746c852f5e9c097b&oe=6040B462"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 0,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 1,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 2,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 13,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "NOW ON QUEST & QUEST 2! \n\nCatan VR allows tabletop fans and new players alike to experience the best-selling board game in a fresh, fully-immersive format. Take on other players around the world or play against Catan personalities and watch the island come to life in VR for the first time. Catan VR brings everything board gamers love to the Oculus Rift, Oculus Go and Oculus Quest. \n\n* Classic Catan Gameplay, Now in VR – Experience the award-winning strategy classic for the first time in virtual reality. \n\n* Custom Catan Environment – Wheat sways, a mandolin strums, and clouds roll over the mountains as you play on the iconic island of Catan itself. \n\n* Invite-a-Friend & Matchmaking Multiplayer – Enjoy a game with longtime friends or take on the world-wide Catan community via online matchmaking. \n\n* Catan AI Personalities – Play vs. classic Catan AI opponents designed with guidance from Catan creator Klaus Teuber. \n\n* Cross-Platform Play – Rift vs. Go vs. Quest? No problem.",
+			"developer_privacy_policy_url": "http://www.experiment7.com/privacy",
+			"developer_terms_of_service_url": "http://www.experiment7.com/terms",
+			"supported_player_modes": [
+				"SITTING"
+			],
+			"publisher_name": "Experiment 7",
+			"supported_in_app_languages": [
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Experiment 7",
+			"genre_names": [
+				"休闲",
+				"社交",
+				"策略"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.1.832",
+				"change_log": "P4 Changelist:",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "476523989",
+				"id": "4869180939822964",
+				"required_space_adjusted": "441063520",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1612461614,
+			"supported_tracking_modes": [],
+			"website_url": "http://www.experiment7.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "166047528399884",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "3158959600836866"
+			},
+			"live_release_channel": {
+				"id": "3158959600836866",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4869180939822964"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "3158959600836866",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.1.832",
+							"id": "4869180939822964"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "579198066114289",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "experiment-7-catan-vr-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "1499"
+				},
+				"id": "166047528399884"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Catan VR",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "166047528399884"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.75,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 13,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 13,
+				"page_info": {
+					"end_cursor": "AQHRBErdFf8oKpdByJNKB9OsqqLHijrOqPoVwQ2DHoG5NK5yL8r05D9dmI2C2pwI-TozJ_hkkBF7ITHSLS_LHZ1pDA",
+					"start_cursor": "AQHRBErdFf8oKpdByJNKB9OsqqLHijrOqPoVwQ2DHoG5NK5yL8r05D9dmI2C2pwI-TozJ_hkkBF7ITHSLS_LHZ1pDA"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "741178109877474",
+							"author": {
+								"id": "127055561289735",
+								"display_name": "Alphaleus",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39035327_740555196606432_1788752398225284160_n.jpg?_nc_cat=111&ccb=2&_nc_sid=79b88e&_nc_ohc=ddS43F3gHO8AX9pc9sr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=00807a9d34d13c7cd5b7a9474d2c4012&oe=60417119"
+								}
+							},
+							"score": 5,
+							"reviewDescription": "Thank you for bringing this great game to the Quest! I had the game on the Oculus Go already and really liked it, it is even better now. The environment looks fantastic and the game mechanics are great too (would love to see them improved for 6 DOF though, like picking up cards, props etc). Recommend for fans of Catan and Tabletop in general. This is slow paced tabletop game, keep in mind when buying!",
+							"reviewTitle": "Really good!",
+							"review_helpful_count": 8,
+							"review_rank_by_viewer": null,
+							"date": 1612478867,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "NOW ON QUEST & QUEST 2! Catan VR is an immersive take on Klaus Teuber’s landmark title that revolutionized modern board gaming. Trade, Build and Settle on Oculus Rift, Oculus Go and Oculus Quest.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031647_622964348364109_5061078162883806867_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=CR5IXGm41VEAX8BoApM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f5e49f072e898aa04ba52b3cdf908a1f&oe=6043CD38",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3882524545155280/",
+				"site_name": "Oculus",
+				"title": "Catan VR · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
