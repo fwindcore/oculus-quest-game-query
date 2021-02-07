@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031630_209840987507207_7790316816466289154_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=WHF9avL-O98AX_nx8Lp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7acf91943b04ae4136a02493a4d98654&oe=6043211C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031630_209840987507207_7790316816466289154_n.jpg?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=37DbRYH4AdoAX_1wqp1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a4ad1364fba8b61ea5e558f85d310fb0&oe=6047159C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_751626645754648_9092022174548042905_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=iEA3QdVq1HMAX-snPgu&_nc_ht=scontent.oculuscdn.com&oh=e500e8eff10f2d337b21b3033395c917&oe=60429C0A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_751626645754648_9092022174548042905_n.mp4?_nc_cat=107&ccb=2&_nc_sid=0ed769&_nc_ohc=iEA3QdVq1HMAX9Dgn1I&_nc_ht=scontent.oculuscdn.com&oh=f0ed88431799437a4dbfa6ee4713a7b0&oe=6046908A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 336,
+					"count": 337,
 					"starRating": 5
 				}
 			],
@@ -99,17 +99,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "626987938113709",
+				"id": "429004461751510",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "999",
+					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-33%",
+				"end_time": 1612771140,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -150,7 +155,7 @@
 							"created_time": 1611807939,
 							"body_text": "The day of the big game is almost here!  To celebrate this week, we're adding a new feature that has been oft requested, as well as some fun improvements to the on-field presentation!  So without further delay, let's get started!\n\nThe biggest news is, as of this update, we're adding the ability to toggle between the trigger and grip buttons for all interactions.\n\n\n\nThis addition comes with a couple of caveats.\n\n-Firstly, because of how the HMD tracks the controllers, we don't recommend changing your hold orientation significantly.  We've found that maintaining the same hand positions when using the trigger yields the most accurate tracking and, in turn, the best results.\n\n-Second, because the travel for the grip button is significantly different from the trigger, you will need to re-calibrate your release timing and throw power when changing controls.\n\n-Lastly, and we really can't stress it enough, wear the wrist straps when using the controllers at all times, but especially with this control orientation.\n\nThrowing a football is a kinematically complex action, involving progressive movements of the feet, hips, shoulders, arm, and forearm down to the fingertips.  It's for this reason that we still consider the trigger the default and preferred way to play the game.  We are, however, always open to giving players more options, so it is our hope that providing this control gives some folks an added dimension to their VR football experience!\n\nNext!  We've added new lighting conditions to all the 'Bot fields.\n\n\n\nThese include sunrise, sunset, overcast and more.  The new lighting conditions help bring out some of additional character to each of the stadiums, and help bring out previously hidden detail in some of them.\n\nLastly, with regards to certain field details, we've gone another step further -- in the effort to squeeze as much out of the remaining performance as we can, we've added some alternative weather conditions to the Truants' and Unicorns' fields with rain and snow!\n\n\n\n\nThis is our first attempt at alternative weather conditions on the mobile platform, but hopefully not our last.  As is standard, ALL updates will be available to both Quest 1 and Quest 2 HMDs!\n\nIf you want to let us know how we're doing, as always, reach out to us on Twitter or via our email at the support links on the store page.  You can also join our discord server, if you want to interact with other members of the 2MD community across platforms.  And, as always, thanks for your time, and for your support.\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_123742576278379_389344356401501076_n.png?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=fdFwbRs8j_oAX9h0N-N&_nc_ht=scontent.oculuscdn.com&oh=1762d3366b2ba376247766a186ad5f99&oe=604536CF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_123742576278379_389344356401501076_n.png?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=fdFwbRs8j_oAX-5Vttp&_nc_ht=scontent.oculuscdn.com&oh=bbd88f054f1730910418b4a488dc236d&oe=604536CF"
 							}
 						},
 						{
@@ -159,7 +164,7 @@
 							"created_time": 1606489896,
 							"body_text": "The tackle dummies return to exact their softly-padded revenge upon the football field . . . if only it was that dramatic! But seriously, now players can swap between body types using the whiteboard prior to starting on the road to the championship.  And a few other small improvements here and there because, you know, who can resist endlessly tweaking something.\n\n2MD: VR Football Unleashed ver 1.05 Patch Notes:\n- Players can now select between DUMMY and ROBOT body types!\n- Unique sound effects for each body type\n- Unique player helmet design based on body types selected.\n- improved performance across Quest and Quest 2 platforms\n- improved audio spacialization and performance\n- improved pickupable object highlighting",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974558_815028402400469_8713932832116062252_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=EGTmwfEYjwYAX8gdsrs&_nc_ht=scontent.oculuscdn.com&oh=a0aa82962cc27d819c0eb01f0a597092&oe=604276EF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974558_815028402400469_8713932832116062252_n.png?_nc_cat=101&ccb=2&_nc_sid=79b88e&_nc_ohc=EGTmwfEYjwYAX_QwGfM&_nc_ht=scontent.oculuscdn.com&oh=75ecd9cb3dc58230f0514d820e05c5bd&oe=60466B6F"
 							}
 						}
 					]
@@ -211,16 +216,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "626987938113709"
+				"id": "429004461751510"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2379367720466,
+			"quality_rating_aggregate": 4.2392026578073,
 			"support_website_url": "http://truantpixel.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 430,
+				"count": 433,
 				"orderings": [
 					{
 						"key": "top",
@@ -233,10 +238,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 430,
+				"count": 433,
 				"page_info": {
-					"end_cursor": "AQHR62fhlSw-8S5VovZ1hKZ0H6RtbgHD5N5t2y5exkhpN5BooJt5o9vHGq7PMEjrk5gEUF1rIMqajTtU3HaY2o7-GQ",
-					"start_cursor": "AQHR62fhlSw-8S5VovZ1hKZ0H6RtbgHD5N5t2y5exkhpN5BooJt5o9vHGq7PMEjrk5gEUF1rIMqajTtU3HaY2o7-GQ"
+					"end_cursor": "AQHR8yJecUi394qrwYVTBAP8MHfPMW3zzFvIedcmBtAcaiBGtW3TlVWaeE-X0flYR2lQmGseWFH8fBvkWq3178mpaA",
+					"start_cursor": "AQHR8yJecUi394qrwYVTBAP8MHfPMW3zzFvIedcmBtAcaiBGtW3TlVWaeE-X0flYR2lQmGseWFH8fBvkWq3178mpaA"
 				},
 				"edges": [
 					{
@@ -246,13 +251,13 @@
 								"id": "102859645092529",
 								"display_name": "dead_inside666",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982489_102859811759179_5631090206343188002_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=Gd6Few4iKb0AX8eWIpy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b1ad23d4ba8d59dc5cb0929cbef1629&oe=60450B20"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982489_102859811759179_5631090206343188002_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=Gd6Few4iKb0AX8weSeo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=623cf684c3eeccbd95c6d9917d1f0b86&oe=60450B20"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "So tbh this is one of the best vr games that I have played so far since ordering my quest 2... I feel like a real quarter back but all I want to ask the devs is to just keep updating the game and adding to it because this has the opportunity to be one of the best sports games on the quest up to date!",
 							"reviewTitle": "One of the best vr games I’ve played",
-							"review_helpful_count": 19,
+							"review_helpful_count": 20,
 							"review_rank_by_viewer": null,
 							"date": 1610314360,
 							"developerResponse": null
@@ -267,7 +272,7 @@
 				"description": "2MD is a groundbreaking motion-controlled VR football game. Draw the plays, call the shots, and throw, hand-off, or run the ball before the clock runs out!\n\n‣ Throw like a pro with realistic motion controls in a room-scale quarterback experience.\n‣ Draw up to 8 offensive plays in VR before taking the field.\n‣ 8 customizable teams and 8 immersive stadiums.\n‣ Exciting arcade presentation, challenging AI, achievements, leaderboards, virtual trophy case, and more.\n‣ Oculus Rift Cross-Buy Enabled.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974646_414255659635118_6632602838455070670_n.jpg?_nc_cat=108&ccb=2&_nc_sid=79b88e&_nc_ohc=5IusyDcM7F0AX9SgFNk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=815afc3d40a0f3270d9e5fb2ccfa2439&oe=6042280E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_430711851409901_5920076930292286542_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=oFkvJADtW9kAX-5yB9C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4065313ad2a67869cd06cdf43bcfe6a7&oe=6045B6FA",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
