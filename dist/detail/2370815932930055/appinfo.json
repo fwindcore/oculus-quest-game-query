@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=W5YS43rvSUkAX8DGcov&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f7cbdddc9a798765521ca9418479d208&oe=604720BF"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=2&_nc_sid=79b88e&_nc_ohc=fua_z5TW-nQAX-zBfiv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=231db35535d4a4dc8ee1cc824523133a&oe=604720BF"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=M0HMiE8tlzEAX_hz6qZ&_nc_ht=scontent.oculuscdn.com&oh=0f784d9d88c0efe232d933768f62f3a7&oe=60448571"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=2&_nc_sid=0ed769&_nc_ohc=M0HMiE8tlzEAX_lIw6u&_nc_ht=scontent.oculuscdn.com&oh=45b07b3e1de22d13c35d754cd47af224&oe=604879F1"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 555,
+					"count": 561,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 225,
+					"count": 226,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 316,
+					"count": 319,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 648,
+					"count": 649,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1731,
+					"count": 1736,
 					"starRating": 5
 				}
 			],
@@ -142,7 +142,74 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1613005200,
+								"current_start_timestamp": 1612998000,
+								"temporal_info": {
+									"seconds_until_end_time": 232250,
+									"seconds_until_start_time": 225050
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "716807269017119",
+								"is_vr_viewer_interested": false,
+								"name": "PokerStars VR 2X Creds Power Hours",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001721_236178551322598_4296973411436935459_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=bceHIzTceugAX_p7XQH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e80d5a7f57dee401c125260b268e5c0&oe=6044E028"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1613610000,
+								"current_start_timestamp": 1613602800,
+								"temporal_info": {
+									"seconds_until_end_time": 837050,
+									"seconds_until_start_time": 829850
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "716807432350436",
+								"is_vr_viewer_interested": false,
+								"name": "PokerStars VR 2X Creds Power Hours",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001687_426508108775161_5384539011395528445_n.jpg?_nc_cat=103&ccb=2&_nc_sid=79b88e&_nc_ohc=71HLOVXbSI8AX8eo5-2&_nc_oc=AQl5D9ogxsS-to-uNYyXMg0kzKj5CqV1i7yGaHQWyw7hRVejxmOX3o71zxKpPnxZedA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a94a013495edceaf85c6e567c6d53f4f&oe=6045DEFD"
+								}
+							}
+						}
+					]
 				},
 				"id": "177864522911399",
 				"posts": {
@@ -153,7 +220,7 @@
 							"created_time": 1611851891,
 							"body_text": "Hey PokerStars VR players **A Bug Fix Patch ** has arrived and is now live for download! You should see huge improvements on loading into the game, using the watch menu, and being able to find the perfect game you're looking to play.\n\nBug Fixes\n-Fixed watch menu game break\n-Improved loading into the game\n-Fixed stuck in loading leaving the table\n-Fixed not being able to see some players' games\n-Fixed error spam in Space Station on Quest\n-Fixing Floating props by using the Plunger\n-Quest 2 marquee lobby video not working\n-Blackjack side bet losses not counting on the leaderboard\n-Spacebots Error Spam in Quest Space Station\n-Various errors and bugs fixed\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974684_232082771855033_8454912119122199543_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=h8zCe04p9KcAX8Qejqh&_nc_ht=scontent.oculuscdn.com&oh=d596b672d6ea958149c474d3af0f78ab&oe=6044CF82"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974684_232082771855033_8454912119122199543_n.png?_nc_cat=102&ccb=2&_nc_sid=79b88e&_nc_ohc=h8zCe04p9KcAX_-0gBN&_nc_ht=scontent.oculuscdn.com&oh=ffcdd07c3b38ff6d521dbaa303c43bbf&oe=6044CF82"
 							}
 						}
 					]
@@ -161,7 +228,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRK5XIBh3WK-BBF0SGlJNgs6bIePdLDkgSVDZGjjjzwVylwaQ8VflkWxwsaqq7DDCFxouaG3dfeyrkKERTGevBiA"
+							"cursor": "AQHRN1n-6K-vqHp6dctyPGtd_CLe-alTJ2jgtgfXu6YcUR8xDT5n1THdUOk2LGZ4TFLqtVpDNBOYHYU6RSmdeIKFmw"
 						}
 					]
 				}
@@ -208,11 +275,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7985611510791,
+			"quality_rating_aggregate": 3.7943282727012,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1238,
+				"count": 1244,
 				"orderings": [
 					{
 						"key": "top",
@@ -225,10 +292,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1238,
+				"count": 1244,
 				"page_info": {
-					"end_cursor": "AQHRAGy49Y8mtEp2wr7G9IIxvf1k98W0um0SGld9iah9WZma6iPBEwshziSY3IYP08O7h3ag9mPr0hytqHHiOXmsaA",
-					"start_cursor": "AQHRAGy49Y8mtEp2wr7G9IIxvf1k98W0um0SGld9iah9WZma6iPBEwshziSY3IYP08O7h3ag9mPr0hytqHHiOXmsaA"
+					"end_cursor": "AQHRL9UNaP5xzEIUTz0wKNIBJAyZldlwRpu7Ci9CSNrPJ3kLv9oA8LdQKJZSp1u51il2yGWM2mXMr6Q_Zul5iUvjXw",
+					"start_cursor": "AQHRL9UNaP5xzEIUTz0wKNIBJAyZldlwRpu7Ci9CSNrPJ3kLv9oA8LdQKJZSp1u51il2yGWM2mXMr6Q_Zul5iUvjXw"
 				},
 				"edges": [
 					{
@@ -238,13 +305,13 @@
 								"id": "103026144991632",
 								"display_name": "Ryank77",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974818_103026698324910_2497707150342293409_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=n2Mb1Vf-uUcAX_JtiLO&_nc_oc=AQl_dLcbqIqhYTCSXGVrPixcy57ZAk_ufEF27l-W4ZOuN07lt9v7zGO7yGDyMctzfP0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=04139ab983c578cf2341518e992dadc1&oe=60452951"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974818_103026698324910_2497707150342293409_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=n6rnPlRl8RUAX-FkItb&_nc_oc=AQmSdClteL_96ltNE5-okOT5JeOg88crGm1N3DouJK6D6BTOROK6vbnM_d2YRifz85k&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f3c3dc57c8b3cd14cbea270829d7275&oe=60452951"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game has been very fun for me, best way to play poker and blackjack from home. The game has lots of fun props and different stakes to play at, with a cool vr touch. The issue with this game is the bugs. Many times the game will freeze and you are forced to restart, the functions stop working and require a restart and tables stop working. If these bugs were fixed the game would be a 5 for sure",
 							"reviewTitle": "Great game with issues",
-							"review_helpful_count": 67,
+							"review_helpful_count": 69,
 							"review_rank_by_viewer": null,
 							"date": 1609819451,
 							"developerResponse": {
@@ -263,7 +330,7 @@
 				"description": "Step into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_498861201281923_6357791679001971845_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=E-kDB47o6m4AX_UEkq7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6fa8f560f59c7da7a272fcbf67ab2ccd&oe=6046265D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982648_498861201281923_6357791679001971845_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=E-kDB47o6m4AX_mSYNX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b2cfd3fe47abec5618b8f0c45abe527&oe=6046265D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
