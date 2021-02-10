@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974459_886213868409397_7277970959523381248_n.jpg?_nc_cat=105&ccb=2&_nc_sid=79b88e&_nc_ohc=Q-k7Po8CQ8kAX859S_8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=586552fe770de6e915b1e8054b30ff39&oe=60491ECE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974459_886213868409397_7277970959523381248_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=Q-k7Po8CQ8kAX9OFFDD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=10bdd419c4481224db02385516b0727c&oe=60491ECE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974748_886213581742759_540362471303544832_n.mp4?_nc_cat=106&ccb=2&_nc_sid=0ed769&_nc_ohc=dI4A55tt0NMAX-3um2_&_nc_ht=scontent.oculuscdn.com&oh=60c8131a6768fa1f9f15c434b971d3ff&oe=6046ADD0"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974748_886213581742759_540362471303544832_n.mp4?_nc_cat=106&ccb=3&_nc_sid=0ed769&_nc_ohc=dI4A55tt0NMAX_QoRpC&_nc_ht=scontent.oculuscdn.com&oh=6ea8b13f16dc6b97778618f5b762159c&oe=604AA250"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -79,14 +79,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.3.5",
+				"version": "0.3.8",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1026093087",
-				"id": "3785941564785357",
-				"required_space_adjusted": "1078771704",
+				"total_installed_space": "1062327135",
+				"id": "3814222138623966",
+				"required_space_adjusted": "1087738382",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3785941564785357"
+					"id": "3814222138623966"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "338051960150416",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.3.5",
-							"id": "3785941564785357"
+							"version": "0.3.8",
+							"id": "3814222138623966"
 						}
 					}
 				]
@@ -147,12 +147,22 @@
 				},
 				"id": "2000625576909437",
 				"posts": {
-					"nodes": []
+					"nodes": [
+						{
+							"id": "2912590158961288",
+							"title": "Poker VR is now buttery smooth at 90 hz!",
+							"created_time": 1612832078,
+							"body_text": "v0.3.6 is now supports 90hz and chip breaking!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75207236_896851311062312_8144419965169456447_n.png?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=efQgBaM8kaAAX93X5cK&_nc_ht=scontent.oculuscdn.com&oh=47eff57d1e93ecaad4c0595b07721f37&oe=60497861"
+							}
+						}
+					]
 				},
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR4KvdDEFQ8cVSHih3OrrtMz4E7jljASXopvZ2EJQ9nr8Oohrn9dUBo6KIslE5Zo2QL8sYO0t-yA20j9te_4dlzA"
+							"cursor": "AQHRqTNNuTa1Xl3Yr0uuZYoQB9wMEBaEEk2JO0bx3EBtgc5bLE_EPbJQMUHMTxuy-V2UAYXqtZWwb-98Og7xqYyStQ"
 						}
 					]
 				}
@@ -218,8 +228,8 @@
 			"firstQualityRatings": {
 				"count": 203,
 				"page_info": {
-					"end_cursor": "AQHR3RHWRopFxtsNpIt7EgA0-D8J2P57wJ2fCBuSRnCxc_zomE8zfNcCnKYubHcPkBi_xUuQP4ntUJCn0zNaboDS3A",
-					"start_cursor": "AQHR3RHWRopFxtsNpIt7EgA0-D8J2P57wJ2fCBuSRnCxc_zomE8zfNcCnKYubHcPkBi_xUuQP4ntUJCn0zNaboDS3A"
+					"end_cursor": "AQHRTKBY0DqViAvUSY9UdrwPNHorvE0zhnQUasCdh9BXPUKSJbuLC3qeHFiIkDSbQiPbZ5WJhkw7Z04rAzVrmwnFHA",
+					"start_cursor": "AQHRTKBY0DqViAvUSY9UdrwPNHorvE0zhnQUasCdh9BXPUKSJbuLC3qeHFiIkDSbQiPbZ5WJhkw7Z04rAzVrmwnFHA"
 				},
 				"edges": [
 					{
@@ -229,13 +239,13 @@
 								"id": "100280125205872",
 								"display_name": "briechan",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.768.768a/s160x160/75429295_100285105205374_51526378427186203_n.jpg?_nc_cat=109&ccb=2&_nc_sid=79b88e&_nc_ohc=vYfP_yMzu_4AX8nFEnO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4793646f2458353e01771d4513be0158&oe=6047915E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.768.768a/s160x160/75429295_100285105205374_51526378427186203_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=vYfP_yMzu_4AX9nBq0N&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c682be7a597bc2237707ffc0c7242765&oe=6047915E"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "Pros:\n-you get to meet new people, who are nice most of the time\n-you don't meet the same people twice\n-the game is very simple, and the controls are straight-forward\n\nCons:\n-the system is buggy at times\n-I just want to play the game. I don't care about signing up for some stupid Discord account.\n-And FOR CRYING OUT LOUD, do something about the trolls in this game.",
 							"reviewTitle": "Enjoyable, but could use a little work.",
-							"review_helpful_count": 60,
+							"review_helpful_count": 63,
 							"review_rank_by_viewer": null,
 							"date": 1608746954,
 							"developerResponse": {
@@ -254,7 +264,7 @@
 				"description": "The most popular social app on Oculus Go, now reimagined for Oculus Quest! Play poker like a pro, Poker VR is the only app to feature multi table tournaments and cash games. \n\nPlaying poker with friends was never more fun and social. Stimulated gaze tracking, facial expressions and full hand presence makes reading tells even more fun. Want to enjoy poker as a sport? Join 100s of other players in daily tournaments to hone your skill and prove to your friends that you are the best!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982665_1129859933878266_2522468223182438400_n.jpg?_nc_cat=1&ccb=2&_nc_sid=79b88e&_nc_ohc=ZBgDLP9At7cAX-G2OFD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b92fe84acd173bc5a7bdbbfb7148e34a&oe=60483986",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982665_1129859933878266_2522468223182438400_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=ZBgDLP9At7cAX-wnVgj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f1d9bf864d0e7fa56d718b9b0f89d2a7&oe=60483986",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
