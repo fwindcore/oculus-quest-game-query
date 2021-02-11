@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974820_439191340545945_7366567388137331232_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=6BHINdpb7HIAX9JDXuR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fa01a98b6512581e64d9118431201ef0&oe=6047902E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974820_439191340545945_7366567388137331232_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=6BHINdpb7HIAX8jERCr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=04135037385ae98b7a0b75fb78f575bf&oe=604B84AE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39003245_2880708828827530_7802091741874135588_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=BkObjqcxLC0AX8tpEnR&_nc_ht=scontent.oculuscdn.com&oh=8105e3302331aa4bd5ff9728067fe3ea&oe=6047C719"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39003245_2880708828827530_7802091741874135588_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=DQCcQoDv1BMAX-_8D7F&_nc_ht=scontent.oculuscdn.com&oh=e1964f9a713dba6411b4fe5f193ab0df&oe=604BBB99"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 3,
+					"count": 4,
 					"starRating": 1
 				},
 				{
@@ -80,13 +80,13 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "1.0",
-				"change_log": "Autobuild version: 4492    Networking Mode:  Production",
+				"change_log": "Bug fixes included in this release\n- Leaderboard load times optimized\n- Bonus round ball speed in competitions adjusted\n- Added support for custom profile images\n- Added a “New Best” notification message when you score a new high score in competition\n\nNeed help or have a suggestion? Reach out to us at support@reakttrainer.com",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1104065033",
-				"id": "4280676895281079",
-				"required_space_adjusted": "1527582602",
+				"total_installed_space": "1104390037",
+				"id": "4361033297245438",
+				"required_space_adjusted": "1527644876",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -131,7 +131,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4280676895281079"
+					"id": "4361033297245438"
 				}
 			},
 			"release_channels": {
@@ -143,7 +143,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "1.0",
-							"id": "4280676895281079"
+							"id": "4361033297245438"
 						}
 					}
 				]
@@ -208,11 +208,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2264150943396,
+			"quality_rating_aggregate": 4.1666666666667,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 40,
+				"count": 41,
 				"orderings": [
 					{
 						"key": "top",
@@ -225,10 +225,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 40,
+				"count": 41,
 				"page_info": {
-					"end_cursor": "AQHRWRCz64darR_93Kz9PW78g90RDMoSh_Z1gKdC-ga_ex2YI-mehKKFwum0BW2b4taNXiV_COhlcExmMjnUezmknw",
-					"start_cursor": "AQHRWRCz64darR_93Kz9PW78g90RDMoSh_Z1gKdC-ga_ex2YI-mehKKFwum0BW2b4taNXiV_COhlcExmMjnUezmknw"
+					"end_cursor": "AQHR2iUXrYuDw48KM5h1t8qZPgBXOviz2S5pY-Ueu1WUbV2ePUXWU109_V3RtS5NRsi5A8U8Au_5VbV8GU0D9D9hBA",
+					"start_cursor": "AQHR2iUXrYuDw48KM5h1t8qZPgBXOviz2S5pY-Ueu1WUbV2ePUXWU109_V3RtS5NRsi5A8U8Au_5VbV8GU0D9D9hBA"
 				},
 				"edges": [
 					{
@@ -238,13 +238,13 @@
 								"id": "112748966834148",
 								"display_name": "b_rowe",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38982643_378652943577081_5172423888667664834_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=lfybRYl1_g4AX_SUVir&_nc_ht=scontent.oculuscdn.com&tp=28&oh=177ae8ba1476e38106949833dd71f4c1&oe=604776CC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38982643_378652943577081_5172423888667664834_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=lfybRYl1_g4AX8KQMt6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=085ba9bded0a40d8b3d0369f40c0c50a&oe=604B6B4C"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "REAKT is must purchase for any serious athlete (past or present). As an ex-athlete this is 100% a tool I wish I had when I was still competing. Everything from vision and hand-eye coordination to reaction time is covered in here. It does a great job making training fun and I love the competition aspect of it. Poise under pressure, adapting on the fly, and competition make this my new go to app for training.",
 							"reviewTitle": "This definitely helps…",
-							"review_helpful_count": 67,
+							"review_helpful_count": 68,
 							"review_rank_by_viewer": null,
 							"date": 1611777406,
 							"developerResponse": null
@@ -259,7 +259,7 @@
 				"description": "TRAIN YOUR MIND - GET IN THE ZONE. \nBoost your mental skills like an elite athlete! \nREAKT Performance Trainer is the first virtual mental skills training system that will make you a better competitor. \n\nBased on technology developed for athletes, REAKT will make your brain perform faster with intense training and competition modes. \n\nIMPROVE SKILLS THAT MATTER\nImprove your reaction time, decision making and hand-eye coordination.\nStay sharp and focused for longer\nGet an edge on your competition",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57568668_440518497325688_6942232882317223271_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=hZDkSVK7CpAAX_iskNb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=abbd1ade3eba4281922fa3f4cae1f3d0&oe=604A4138",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57568668_440518497325688_6942232882317223271_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=NJZtx0eyo5YAX-K4f7j&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c037c125cbdc720efc8fcc23b4b3c38c&oe=604A4138",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
