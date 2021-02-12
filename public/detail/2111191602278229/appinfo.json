@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974644_320529855281149_2545904682895671296_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=HqP-GU6KtSAAX-r-Ls8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3369be466cb5b09c496ae77eb471b14f&oe=6049C1FB"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974644_320529855281149_2545904682895671296_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=Uk-VFyNrWt8AX-Hh-CL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e7c3bf3cf7c3903c35438979e9e3b21b&oe=604DB67B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974632_309704859696982_6881325966619049984_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=JEBZsMSbhkgAX-lh-R9&_nc_ht=scontent.oculuscdn.com&oh=94d14e8aaf212a85f17a5206a93e8d4a&oe=6049725A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974632_309704859696982_6881325966619049984_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=JEBZsMSbhkgAX87vGdJ&_nc_ht=scontent.oculuscdn.com&oh=55ca3fe99eba9d17c298af619a316939&oe=604D66DA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 51,
+					"count": 52,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 783,
+					"count": 784,
 					"starRating": 5
 				}
 			],
@@ -124,16 +124,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2342599542685496",
+				"id": "170478301143818",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "999",
+					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-33%",
+				"end_time": 1613375940,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -217,16 +222,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2342599542685496"
+				"id": "170478301143818"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6622313203685,
+			"quality_rating_aggregate": 4.6608784473953,
 			"support_website_url": "https://tenderclaws.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 479,
+				"count": 480,
 				"orderings": [
 					{
 						"key": "top",
@@ -239,10 +244,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 479,
+				"count": 480,
 				"page_info": {
-					"end_cursor": "AQHRwlndeU_bm5rkPqh-znPGd_Gaq1rqzNYjwcqh-4K7bAYlSadRKRKQmOa_leb-wuMjrmQVzDnPxq_rD2KqvmBkBw",
-					"start_cursor": "AQHRwlndeU_bm5rkPqh-znPGd_Gaq1rqzNYjwcqh-4K7bAYlSadRKRKQmOa_leb-wuMjrmQVzDnPxq_rD2KqvmBkBw"
+					"end_cursor": "AQHRHo-5h5qlFBWInfZkmXYd06KMHdCCUHNMIvAkkQX9tKq6_6HAXgbbncJ-RARN8wITpZ7GnPxFo8JnyNiS5wuGYw",
+					"start_cursor": "AQHRHo-5h5qlFBWInfZkmXYd06KMHdCCUHNMIvAkkQX9tKq6_6HAXgbbncJ-RARN8wITpZ7GnPxFo8JnyNiS5wuGYw"
 				},
 				"edges": [
 					{
@@ -256,7 +261,7 @@
 							"score": 5,
 							"reviewDescription": "I’ve seen a lot of reviews saying that their game glitched and is stuck in the butter loop.\n\nThis is how the game is supposed to be\n\nOnce you suck up butter try exploring the dark area.\n\nThis is where most of the game will take place so try exploring\n\nThe butter loop is intentional",
 							"reviewTitle": "This is a tip",
-							"review_helpful_count": 57,
+							"review_helpful_count": 72,
 							"review_rank_by_viewer": null,
 							"date": 1609095188,
 							"developerResponse": null
@@ -271,7 +276,7 @@
 				"description": "一款关于虚拟实境、A.I. 和我们狂热的科幻之梦的游戏。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031421_2196437803767878_5865001829527453696_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=uL9ZsNmn7aIAX9SJ4qR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=85677b5d70153c0179d9a5b2dc792afe&oe=604B76F5",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031421_2196437803767878_5865001829527453696_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=uL9ZsNmn7aIAX8qcbB0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6dd6bbe8b09827cc7643e622d007c15b&oe=604B76F5",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

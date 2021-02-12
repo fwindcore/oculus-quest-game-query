@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75395600_676657019578924_7001247118161678736_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=iPkAkDp_IoEAX_zAfUB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62f786b3b960ade993e36894ee5e5b58&oe=604BD8A3"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75395600_676657019578924_7001247118161678736_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=iPkAkDp_IoEAX9Jb_kM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcd90492cf5ff3ce4d240bf4efef553f&oe=604BD8A3"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001669_3218145181557998_4732691620608839856_n.mp4?_nc_cat=110&ccb=3&_nc_sid=0ed769&_nc_ohc=ySWaNXFqPOwAX9Yd0YT&_nc_ht=scontent.oculuscdn.com&oh=0220b64b0bdf1b981e6f28d29c706ee7&oe=6049EDF2"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001669_3218145181557998_4732691620608839856_n.mp4?_nc_cat=110&ccb=3&_nc_sid=0ed769&_nc_ohc=ySWaNXFqPOwAX8E8rc5&_nc_ht=scontent.oculuscdn.com&oh=cf7898469251a7272ed99e9054d49bdf&oe=6049EDF2"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 319,
+					"count": 320,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 4148,
+					"count": 4167,
 					"starRating": 5
 				}
 			],
@@ -148,16 +148,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1355621254631369",
+				"id": "435275740853098",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "2249",
+					"formatted": "$22.49"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99",
+					"offset": 100
+				},
+				"promo_benefit": "-25%",
+				"end_time": 1613375940,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -197,7 +202,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRh7-b-POVZ9z-fXNvcMQKyy53Z7plE0rVC8lEjI3BJJIXxw7pgO5vopU8SPiT2pokBS1h8sscjvSoxUJk797tEg"
+							"cursor": "AQHRVi3-l4ZcSiwAqU-1rUDsANxN33CrII-ApYqJ1Gv9oOZGBgr0rrCxDa9VXd6LK7txd-oLfRMYe0SzblPL4EaWig"
 						}
 					]
 				}
@@ -245,16 +250,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1355621254631369"
+				"id": "435275740853098"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7703735144312,
+			"quality_rating_aggregate": 4.7711327134404,
 			"support_website_url": "https://www.steelwoolstudios.com/contact",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2505,
+				"count": 2513,
 				"orderings": [
 					{
 						"key": "top",
@@ -267,10 +272,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2505,
+				"count": 2513,
 				"page_info": {
-					"end_cursor": "AQHRg02QqKS9ozQkhzY0exOTxd9B5h7u3mIsDe1hIwcmIAjUlM7TlY88pJV6v76lvaHoTHSxbQhAqeP7IyDdRIgrHg",
-					"start_cursor": "AQHRg02QqKS9ozQkhzY0exOTxd9B5h7u3mIsDe1hIwcmIAjUlM7TlY88pJV6v76lvaHoTHSxbQhAqeP7IyDdRIgrHg"
+					"end_cursor": "AQHRiCcb8cHuEz_3udZFl4ia7e8lhVfZjchtQxRFCc0PV-DMt-4w9whgjQuxekwAMfPFqSzT3HfTdZxvfO6lwPGeMg",
+					"start_cursor": "AQHRiCcb8cHuEz_3udZFl4ia7e8lhVfZjchtQxRFCc0PV-DMt-4w9whgjQuxekwAMfPFqSzT3HfTdZxvfO6lwPGeMg"
 				},
 				"edges": [
 					{
@@ -280,13 +285,13 @@
 								"id": "103188325041457",
 								"display_name": "TKDpurple25",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.292.750.750a/s160x160/38982601_116177280409228_5781536698184245088_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=Ki-t7aIl-kgAX-ce-kw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=54efd85c971f99cf394f889a45bffa46&oe=604A2780"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.292.750.750a/s160x160/38982601_116177280409228_5781536698184245088_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=h-5EbDHoHK0AX-dd6vA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=41f1ce9e47e0086173d0fac9c60090cf&oe=604A2780"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "A lot of people can struggle for some levels, so I’m going to include a few tips:\n\nFnaf 1: you don’t need the lights on to see Bonnie of Chica walk by. You can see Bonnie’s white feet and Chica’ arm. Remember, if they stop to look at you, shut the door right away. For foxy, you don’t need to keep the camera on him the whole game, remember that he doesn’t like being watched TOO much either. Just check him from time to time. For Freddy it’s the same thing, wait 5 laughs and shut the door. \n\nFnaf 2: easy enough, just play the same way you would on mobile, nothing really changes in the terms of gameplay. Throw the mask on when they are in the office, keep the music box winded up, and your good.\n\nFnaf 3: On night 2 they start moving. Try to keep Springtrap in cameras 9-10. If you can’t find him, he may be in the vents. One more thing, keep the reboot all on and keep pressing the button so if something breaks it gets fixed quickly.\n\nParts and service: they are big, yes. I know it can be nerve racking, but just follow the instructions and you will be fine. (Keep an eye on foxy at all times)\n\nDark rooms: Plushtrap: listen for his footsteps.\nNightmare BB: same thing\nFuntime foxy: don’t go too fast, she relies on hearing you. Remember you are not the only person who cannot see...\nPlush baby: always keep some power in you flashlight. Do little flashes at a time. If you ever hear her talk find her ASAP.\n\nVent repair: mangle is easy, just press buttons and flip switches.\nEnnard: this can be tricky. Stage 1: just push buttons, but don’t take too long. Stage 2: use the gears to get the others. Once all are working you will advance. Stage 3: push buttons, don’t take too long.\n\nNight terrors: Funtime Freddy: just use fnaf 4 strat.\nNightmarionne: Watch for white eyes, if you see them shut the door and wait around 5-7 seconds, then go to the next door. His tentacles will come from the closet, the hole in the ceiling and under the bed, bat these off with your flashlight! Baby: shut the door at the last second when she sees you. Don’t close them for too long or the plush baby’s will attack. Nightmare Fredbear: watch for red eyes, if you see them shut the door. If you hear him laugh check your bed, if he is not there go IMMEDIATELY to the closet, if he is not on the bed then don’t use the light at all and go directly to the closet. DO NOT FLASHTHE CLOSET FOR ANY REASON. At the beginning, stay in the middle to hear his footsteps. \n\nWow, I probably spent too much time on this, please mark this as helpful if you found it so. I want too see how many people I helped.",
 							"reviewTitle": "Tips to help you with you game!",
-							"review_helpful_count": 1904,
+							"review_helpful_count": 2015,
 							"review_rank_by_viewer": null,
 							"date": 1612885696,
 							"developerResponse": null
@@ -301,7 +306,7 @@
 				"description": "Five Nights at Freddy’s: Help Wanted is a virtual reality experience for the Oculus Quest. FNaF: HW is a collection of classic and original mini-games set in the Five Nights universe. Survive terrifying encounters with your favorite killer animatronics in a collection of new and classic FIVE NIGHTS AT FREDDY’S™ experiences. “Where fantasy and fun come to life!”",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_800627403858419_4240558274719020212_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=pQFbC3EVTdUAX8M20m0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=28e4e961d54ba6af95a475b05d9d83e4&oe=604A1726",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_800627403858419_4240558274719020212_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=67Jj_OEWsIAAX_g7n1P&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fbb1554177cd99632fadb81f80065c7a&oe=604A1726",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

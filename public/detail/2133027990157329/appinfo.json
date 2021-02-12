@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=U2uCqDuLGGoAX_zRqqX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ead0db9168cd8fe3edacf6862af71bc2&oe=6049E562"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=U2uCqDuLGGoAX-BijGk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8f3a90ae7a6f6bd1540ea497b8ab0627&oe=6049E562"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=3&_nc_sid=0ed769&_nc_ohc=wdoe75rJ5vUAX_5O4oM&_nc_ht=scontent.oculuscdn.com&oh=cc36055aa985b357bcd06c6005081cdf&oe=604BC74D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=3&_nc_sid=0ed769&_nc_ohc=lfG01PhxZNcAX_HAazm&_nc_ht=scontent.oculuscdn.com&oh=1fb7529d1a18244ae86ce88c955791f2&oe=604BC74D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 78,
+					"count": 79,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 291,
+					"count": 293,
 					"starRating": 5
 				}
 			],
@@ -81,14 +81,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "4.1.0",
-				"change_log": "Coming soon...",
+				"version": "4.1.4",
+				"change_log": "• Roll back previous release (4.1.0) due to crashes on Quest 2\n• Changes related to Front Row are retained from the previous release\n• Restore use of audience participation in single room events",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "504894610",
-				"id": "3555807604546020",
-				"required_space_adjusted": "277028270",
+				"total_installed_space": "507583589",
+				"id": "3560937027366411",
+				"required_space_adjusted": "251679390",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3555807604546020"
+					"id": "3560937027366411"
 				}
 			},
 			"release_channels": {
@@ -133,8 +133,8 @@
 						"id": "2271077649772225",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.1.0",
-							"id": "3555807604546020"
+							"version": "4.1.4",
+							"id": "3560937027366411"
 						}
 					},
 					{
@@ -157,8 +157,8 @@
 								"current_end_timestamp": 1613174400,
 								"current_start_timestamp": 1613170800,
 								"temporal_info": {
-									"seconds_until_end_time": 142283,
-									"seconds_until_start_time": 138683
+									"seconds_until_end_time": 55853,
+									"seconds_until_start_time": 52253
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -180,7 +180,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Family History Genealogy Meetup",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982456_476803937058912_2019368702695257375_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=u5oviZvesgkAX9eJysw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f858684d6d01e350f70700e3abd3fe96&oe=604BA6D7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982456_476803937058912_2019368702695257375_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=HTw1zxkigJMAX-8YQIQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fb378af4c3c7065718ecfe25c4bbfeb0&oe=604BA6D7"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1613257200,
+								"current_start_timestamp": 1613253600,
+								"temporal_info": {
+									"seconds_until_end_time": 138653,
+									"seconds_until_start_time": 135053
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1664681587565920774",
+								"id": "746736036265855",
+								"is_vr_viewer_interested": false,
+								"name": "Birthday Disco",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974493_246780940337445_533062714866193941_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=a5oCSfNJBgsAX8WBh63&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6a8f9e957df4f44b574661c2b50d400c&oe=604CC244"
 								}
 							}
 						},
@@ -190,8 +223,8 @@
 								"current_end_timestamp": 1614216600,
 								"current_start_timestamp": 1614214800,
 								"temporal_info": {
-									"seconds_until_end_time": 1184483,
-									"seconds_until_start_time": 1182683
+									"seconds_until_end_time": 1098053,
+									"seconds_until_start_time": 1096253
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -213,7 +246,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222936_2685814188395549_4680953944220896038_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=v8pK_sSsINsAX-p5N9y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f31dcd40d4817c6afc856b1e8b881dd9&oe=604A32D5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222936_2685814188395549_4680953944220896038_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=huqTV93RqyoAX8wjZxW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2504eb84322049f9904f0f409eb77c2f&oe=604A32D5"
 								}
 							}
 						},
@@ -223,8 +256,8 @@
 								"current_end_timestamp": 1617237000,
 								"current_start_timestamp": 1617235200,
 								"temporal_info": {
-									"seconds_until_end_time": 4204883,
-									"seconds_until_start_time": 4203083
+									"seconds_until_end_time": 4118453,
+									"seconds_until_start_time": 4116653
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -246,7 +279,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262743_2773358789542900_6046170959698936676_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=Bhcz8SibD18AX8JE70w&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7b2952fe600e1375ba359d354827358c&oe=604A4A53"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262743_2773358789542900_6046170959698936676_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=fYvnrGczoAIAX8ACQbV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9113364934f767b47ff4fd11dc0fdb28&oe=604A4A53"
 								}
 							}
 						},
@@ -256,8 +289,8 @@
 								"current_end_timestamp": 1619656200,
 								"current_start_timestamp": 1619654400,
 								"temporal_info": {
-									"seconds_until_end_time": 6624083,
-									"seconds_until_start_time": 6622283
+									"seconds_until_end_time": 6537653,
+									"seconds_until_start_time": 6535853
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -279,7 +312,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=a6KZej5PZ9QAX8MzkYk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=85d7d51f83c3b6658e85e9533d4d5e34&oe=6049AE4F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=a6KZej5PZ9QAX9u3zll&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4764f7032341d6b9084fbf2e10228760&oe=604DA2CF"
 								}
 							}
 						}
@@ -292,7 +325,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRi9kpbmEjoT4jG0nm9EzmbzIdOpGGlqlwBj7MdC3LD4awKTTMyrLVv7AeIjmJ62m7NRI1ostffZNXW_yYoyDFlg"
+							"cursor": "AQHRyDOL-V6fPPG1nzlSZg4VEiAOlIBHueaP3ggA5irPyaVJyFjIBHhVk2dvoosDUpv8_mfroI9XkJwaR_AgAuKo0w"
 						}
 					]
 				}
@@ -339,11 +372,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.2316890881913,
+			"quality_rating_aggregate": 3.2380952380952,
 			"support_website_url": "https://help.altvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 289,
+				"count": 290,
 				"orderings": [
 					{
 						"key": "top",
@@ -356,10 +389,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 289,
+				"count": 290,
 				"page_info": {
-					"end_cursor": "AQHRPD6xyDhJ8F3nOeBfGBMPr0jSDN10H6ve5N-xDj5VE-CXlRce1IK-stqV6YrdutX_7-1NneDOhQLCBNjUmD_zZA",
-					"start_cursor": "AQHRPD6xyDhJ8F3nOeBfGBMPr0jSDN10H6ve5N-xDj5VE-CXlRce1IK-stqV6YrdutX_7-1NneDOhQLCBNjUmD_zZA"
+					"end_cursor": "AQHRGhd0v7w5LbxOpQcL8NNKuNRI0LPQtRMIAuwNqe_PX97TVHAmsFkxIJZitR6nTqRVzZWweRIyQ91gfnFbSKp5og",
+					"start_cursor": "AQHRGhd0v7w5LbxOpQcL8NNKuNRI0LPQtRMIAuwNqe_PX97TVHAmsFkxIJZitR6nTqRVzZWweRIyQ91gfnFbSKp5og"
 				},
 				"edges": [
 					{
@@ -369,13 +402,13 @@
 								"id": "104896157693175",
 								"display_name": "GonTor90",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75395595_120398779476246_5357155726693236736_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=5JHsc-0QPMwAX9U61A-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59a2b5402004dbeccd96792e573db5df&oe=604927CE"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75395595_120398779476246_5357155726693236736_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=5JHsc-0QPMwAX-czq3L&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7baa6f8e64eae479cc7bfff8faef40c6&oe=604D1C4E"
 								}
 							},
 							"score": 1,
 							"reviewDescription": "The moderators in the game operate in bored, semi fascist undertones. Im pretty sure they either hate their job or fun in general. Jeremy in particular was very rude to my friend and I in campfire. We were using the glow sticks as make believe light sabers and dueling one another. We noticed Jeremy standing there and hadn't realize he was a moderator so we tried to include him in on the fun. He said, in a very rude tone by the way, \" i would stop that if i were you or else\". At first we thought he was joking so my friend asked \" what do you mean\". Jeremy then responded \"I think you heard me and i wont repeat myself\". That interaction left an extremely bad taste in our mouths. We came to altspace to have fun but the fact that Jeremy implied he would ban us for a simple misunderstanding shows that perhaps he shouldn't be working with altspace(get a different job if you hate this job so much). This isn't an isolated incident; just speak to the other players in this Game.",
 							"reviewTitle": "Moderators(Jeremy)ruin the game",
-							"review_helpful_count": 447,
+							"review_helpful_count": 454,
 							"review_rank_by_viewer": null,
 							"date": 1607031384,
 							"developerResponse": {
@@ -394,7 +427,7 @@
 				"description": "AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world. Experience a spotlight event at 7pm PT every night where you can learn, laugh, and gather with people on every major VR headset. Attend hundreds of spotlight events every month like: Open Mic Night, Improv Comedy, Meditation, LGBTQ+ Meetups, VR Church and more. Easily start your own meetup, show or class and discover the next frontier of entertainment and community.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=a3JKHKpExfYAX-VbkNO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ab3f96794f7415f2674b1a22854b2658&oe=604AB4AF",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=a3JKHKpExfYAX8ipfGR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=82aa2c8415e6a8cc20e25932dfba9fdb&oe=604AB4AF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

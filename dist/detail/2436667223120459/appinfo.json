@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=b1SlT4gid08AX8DJHeS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60fd147ee647161e8b9cf525efff088e&oe=604C07D5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=rBNsIbZyxOcAX_siysG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35a973e39c8620125003e011f03c61ef&oe=604C07D5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=3&_nc_sid=0ed769&_nc_ohc=gCKvs9g5sBoAX_Vnr1k&_nc_ht=scontent.oculuscdn.com&oh=fb89054f1773729e590997adcc698786&oe=604B3A67"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=3&_nc_sid=0ed769&_nc_ohc=gCKvs9g5sBoAX8HzIP2&_nc_ht=scontent.oculuscdn.com&oh=718fe94c3579119a858aba6243663d3d&oe=604B3A67"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 28,
+					"count": 29,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 74,
+					"count": 76,
 					"starRating": 5
 				}
 			],
@@ -119,16 +119,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "471466430221222",
+				"id": "3582259425143531",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "599",
-					"formatted": "$5.99"
+					"offset_amount": "499",
+					"formatted": "$4.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "599",
+					"formatted": "$5.99",
+					"offset": 100
+				},
+				"promo_benefit": "-16%",
+				"end_time": 1613375940,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -216,16 +221,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "471466430221222"
+				"id": "3582259425143531"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8843537414966,
+			"quality_rating_aggregate": 3.9,
 			"support_website_url": "https://hanginghatstudios.com/pigasus-faq",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 81,
+				"count": 83,
 				"orderings": [
 					{
 						"key": "top",
@@ -238,10 +243,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 81,
+				"count": 83,
 				"page_info": {
-					"end_cursor": "AQHR35cPjQ3mN98jmf49yoOStvZfJLM8_YBLGpn6xg4Hz-RxX-4IIm_s3CYETpKf-UzUD2S_4Uiz0LbsWPKo7g0WVw",
-					"start_cursor": "AQHR35cPjQ3mN98jmf49yoOStvZfJLM8_YBLGpn6xg4Hz-RxX-4IIm_s3CYETpKf-UzUD2S_4Uiz0LbsWPKo7g0WVw"
+					"end_cursor": "AQHRHn7-kpvTeZBwEciwXBLIs8CiCFuXwwdbvFgoTR7QJiTIiHcAvi26ROtTsUu__PmiQOjeIboBcM0v6vEaOVYLLg",
+					"start_cursor": "AQHRHn7-kpvTeZBwEciwXBLIs8CiCFuXwwdbvFgoTR7QJiTIiHcAvi26ROtTsUu__PmiQOjeIboBcM0v6vEaOVYLLg"
 				},
 				"edges": [
 					{
@@ -255,7 +260,7 @@
 							"score": 4,
 							"reviewDescription": "It's a great media player like everybody says, but has a flickering issue with 90Hz refresh rate. it wont be a problem if you change it to 72Hz through Sidequest or something, but its a bother to change refresh rate frequently. Skybox doesn't have the issue with the same video source, so i hope it will be fixed.",
 							"reviewTitle": "great app, but not compatible with 90Hz",
-							"review_helpful_count": 6,
+							"review_helpful_count": 7,
 							"review_rank_by_viewer": null,
 							"date": 1611402762,
 							"developerResponse": {
@@ -274,7 +279,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=dQtZGIHr6ckAX84uAq6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b16a0908e64480d3a546a909275b5795&oe=604C1881",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=2EU-wEIlI5kAX-eSn-I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2108cecb6e80fe14ceb43b7aee8915be&oe=604C1881",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=S0DMpXlfhC0AX926dpW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3fe57577a60b905ad9c6b0b56c31a408&oe=60498CE5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031520_652116905196901_8041269738459889664_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=h0SflvG94CEAX9Bf3_Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=89851cb7cf27c8fb934bac5be43d178a&oe=604D8165"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=3&_nc_sid=0ed769&_nc_ohc=_hTSFmPAc0EAX8sdq6f&_nc_ht=scontent.oculuscdn.com&oh=a63698da920e7a2862a2ee6774579049&oe=604B7F4D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_652115948530330_5796906136661655552_n.mp4?_nc_cat=110&ccb=3&_nc_sid=0ed769&_nc_ohc=3dQYhBgl8vYAX-UWD1d&_nc_ht=scontent.oculuscdn.com&oh=5c5431e9e78e97e2ee9a369f31ffd5ba&oe=604B7F4D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 220,
+					"count": 221,
 					"starRating": 5
 				}
 			],
@@ -201,7 +201,74 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1613158200,
+								"current_start_timestamp": 1613156400,
+								"temporal_info": {
+									"seconds_until_end_time": 39653,
+									"seconds_until_start_time": 37853
+								},
+								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR: DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "725686374799231",
+								"is_vr_viewer_interested": false,
+								"name": "Learn to DJ - a Tribe XR Class",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001699_416986906308700_833131780647787215_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=QUyAXvlPwAIAX-B7Jhc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed5586921b54f531903fca9c85f8f078&oe=604D44EF"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1613590200,
+								"current_start_timestamp": 1613588400,
+								"temporal_info": {
+									"seconds_until_end_time": 471653,
+									"seconds_until_start_time": 469853
+								},
+								"vr_app_and_destination_string": "Tribe XR: DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR: DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "725686554799213",
+								"is_vr_viewer_interested": false,
+								"name": "Learn to DJ - a Tribe XR Class",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974469_258751579197363_5118060914740960251_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=GgYVETfH7U4AX8OsBPa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=505c35d0c058379e9d27b81832d57c8d&oe=604A5661"
+								}
+							}
+						}
+					]
 				},
 				"id": "120972075270667",
 				"posts": {
@@ -210,7 +277,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRtslEkaAy1Af-iaQrsdIUJF1Zf0-8PqDsnX3Wg_eS2atxGs-5ytb7jX5reHfs5xmvIG2Uq0zUVjDEBaNQJwrSDA"
+							"cursor": "AQHRV-0XIaQChP3_XHXZRzoGbmdxjPz8z6tM_1-yyPZv0ZSzgZG4mz_q3TzkdIqGXtk2oNRCOncFrBRp1TEcrUGvDg"
 						}
 					]
 				}
@@ -263,7 +330,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4801324503311,
+			"quality_rating_aggregate": 4.4818481848185,
 			"support_website_url": "http://www.tribexr.chat/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -282,8 +349,8 @@
 			"firstQualityRatings": {
 				"count": 198,
 				"page_info": {
-					"end_cursor": "AQHRfPXaRdH_XL6klU2muJcdT1h6_O9AYzQrWYoq4PLIHUrI__4Ca3nNds1L6vpf5qeKPynZFGSFxnxTH_3qCBILug",
-					"start_cursor": "AQHRfPXaRdH_XL6klU2muJcdT1h6_O9AYzQrWYoq4PLIHUrI__4Ca3nNds1L6vpf5qeKPynZFGSFxnxTH_3qCBILug"
+					"end_cursor": "AQHRt4fVomiZNO9exnxaEvt8UQ-pV_8ytbsWBfSkojLfEADxV4p4RXhvDCbNVFRZOFe_IOySYYMng4SNhtrw6C7SNQ",
+					"start_cursor": "AQHRt4fVomiZNO9exnxaEvt8UQ-pV_8ytbsWBfSkojLfEADxV4p4RXhvDCbNVFRZOFe_IOySYYMng4SNhtrw6C7SNQ"
 				},
 				"edges": [
 					{
@@ -293,7 +360,7 @@
 								"id": "100722861663427",
 								"display_name": "BananasCoconut",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=OXdEae4nm5AAX9loR28&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cf09b4b45fbb5d68d9ff0e191178e3e4&oe=604A08EB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.628.628a/s160x160/39031374_164818505253862_2142384762755753497_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=OXdEae4nm5AAX_YOBC7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ba9b664a5b5aba0c5cf57322ebf1bf3a&oe=604A08EB"
 								}
 							},
 							"score": 5,
@@ -318,7 +385,7 @@
 				"description": "Become a VR DJ and mix your tracks in Tribe XR.\n\nTribe XR is a community for beginners looking to learn how to DJ and professionals looking for something fresh and fun. Feel the rush of performing and get lost in the joy of mixing. Immerse yourself the VR DJ community.\n\nImport your own music, invite your friends, and start rocking the room.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566687_428175518373042_8591877291159277685_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=KCDLL9NDb3oAX_ZlfkV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cb126c804361e717618ec1f23866f0dc&oe=604C38BC",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566687_428175518373042_8591877291159277685_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=KCDLL9NDb3oAX9kTxTh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7f5bcf52602b7a1589eeb90791afcba&oe=604C38BC",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
