@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974723_343512210345032_7507911220488800224_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=FWg7f3k8mqkAX-9J7fP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=08d65eb6d5f815859fca655695738e98&oe=604D6E5D"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974723_343512210345032_7507911220488800224_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=FWg7f3k8mqkAX9d-Te-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69868befcb93c23006ed096d1903ac2c&oe=604D6E5D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57569464_362207574820283_81691491480363987_n.mp4?_nc_cat=101&ccb=3&_nc_sid=0ed769&_nc_ohc=_i36xAsO6QMAX81tjHM&_nc_ht=scontent.oculuscdn.com&oh=7904aa32a8218dc52162f32a0b28eebf&oe=604D42E9"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57569464_362207574820283_81691491480363987_n.mp4?_nc_cat=101&ccb=3&_nc_sid=0ed769&_nc_ohc=_i36xAsO6QMAX-e_7Ne&_nc_ht=scontent.oculuscdn.com&oh=4686becb6cb727b1cf66530fb352053c&oe=604D42E9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 130,
+					"count": 131,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 740,
+					"count": 741,
 					"starRating": 5
 				}
 			],
@@ -145,41 +145,7 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1613244600,
-								"current_start_timestamp": 1613239200,
-								"temporal_info": {
-									"seconds_until_end_time": 39694,
-									"seconds_until_start_time": 34294
-								},
-								"vr_app_and_destination_string": "OrbusVR: Reborn",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2352932654734987",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "OrbusVR: Reborn"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1595956410793337",
-								"is_vr_viewer_interested": false,
-								"name": "World Boss Event",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031613_173251504274207_4663313612920656303_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=xiAOGXSqRtEAX83GjM-&_nc_oc=AQmmaagoXIrPK_1DbZf7is7WrYVz70k0-81GoGe-l50q7LAtZGDWR_M_0-eeOxJhJ_g&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ddfc8020b87c75c4ac57fb2f35ebcb98&oe=604DF5D2"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "484595031929486",
 				"posts": {
@@ -190,7 +156,7 @@
 							"created_time": 1612220688,
 							"body_text": "Today’s patch is officially live, which means the 3-year anniversary scavenger hunt is officially underway. Visit the anniversary NPC next to the bulletin board near the Player House in-game to pick up the first quest. Complete the scavenger hunt to earn a Penguin Transmog set, perfect for enjoying the last month of winter in-game.\n\n\n\nWe will also be giving away a 3-year anniversary cake (Player House furniture) and cape. Visit the Rewards NPC near the Critter Capture shop to pick up both items.\n\nIt’s been a big year of growth at OrbusVR. Our community progressively grew over the course of the year, and consequently racked up some impressive stats. In just the past year, the community killed almost 2x as many monsters as in the first two years combined; made almost 3x as many characters; collected more than 4x as much loot and ran 4x as many dungeons.\n\nAs the Quest 2 helps to make VR more mainstream, we look forward to seeing even more players join the community!\n\nAnd speaking of Quest 2, our updates for that are officially live, too. With this change, Quest 2 users will now be able to see toolbelt items and mounts on other players. You can also say goodbye to two left hands as other players should now display with both a left and a right hand. The following bug fixes/quality of live improvements are also now available:\n\n- A new, safer way to delete characters to help reduce chances of any accidental character deletions. Now when you select “Delete” on the character menu, you will have to press and hold the Confirm button. Your controller should vibrate as you wait for the red dial to fill up, at which point your character will officially be deleted.\n\n- A new lock button for your inventory. With this new feature you can prevent accidental deletions of special items when you’re cleaning out your inventory. Simply select the item in your inventory and select the “Lock” button below. You can still equip locked items, but in order to break them down and remove them from your inventory, you will need to first unlock them.\n\n- A check for new Fellowship members. Now when inviting members to join your fellowship, the game will perform a check to ensure they aren't already a member of another Fellowship.\n\n- A fix for the Scoundrel deck relocation anchor getting reset when zoning.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75302223_900699214115297_1425257720128383361_n.png?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=dFGibnyERTUAX8t5deQ&_nc_ht=scontent.oculuscdn.com&oh=b4c2b332c08a4437065e40befc6ce4a0&oe=604E586C"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75302223_900699214115297_1425257720128383361_n.png?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=nx5dEVtkuCYAX9RWXaD&_nc_ht=scontent.oculuscdn.com&oh=8e6dc12e1c982f7e047d10e60cfd8114&oe=604E586C"
 							}
 						},
 						{
@@ -199,7 +165,7 @@
 							"created_time": 1611347355,
 							"body_text": "January is already slipping on by, but the Dev team has been hard at work on the game. Here’s a quick look at what you have to look forward to in the next couple months in Orbus.\n\n3-Year Anniversary Event\nOrbusVR is officially 3! To celebrate, we are doing an in-game scavenger hunt. The hunt will launch Tuesday, Feb. 2 and will run through Tuesday, March 2.\n\nWe’ll have a couple of giveaways, as well as a fun prize for completing the scavenger hunt. We’ll also be doing an in-game meet-up with the Devs Wednesday, Feb. 3 from 6 - 7 PM CST. More details to come next week!\n\nQuest 2 Improvements\nBeta testing for Quest 2 updates is complete and will roll out to the entire community in the next patch. With this change, Quest 2 users will now be able to see toolbelt items and mounts on other players. You can also say goodbye to two left hands as other players should now display with both a left and a right hand. A big thank you to those members of the community who helped us with beta testing these changes!\n\nSpring Festival\nThe spring festival will be returning to game on Tuesday, March 2—so if you’re getting tired of winter terrain, know that greener pastures are on the horizon! As always, we’ll have a few new rewards to hand out.\n\nHard Mode Citadel Raid\nToward the end of February/beginning of March we plan on releasing the hard mode version of the Citadel Raid, which will feature more challenging versions of the current raid’s boss fights, as well as new rewards.\n\nBug Fixes and Quality of Life Improvements\nThis year we are doubling down on looking into some of the top-reported bugs. With the Anniversary patch in a week and a half, we'll be implementing a couple of new changes, including:\n\n- a new, safer way to delete characters to help reduce chances of any accidental character deletions\n- a new lock button for your inventory that allows you to lock items in your inventory. With this new feature you won't be able to break down that item unless you manually unlock it\n- a check for new Fellowship members that first ensures they aren't already a member of another Fellowship\n- a fix for the Scoundrel deck relocation anchor getting rest when zoning\n\nLook for another post in the coming weeks with more details on the next patch!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974750_446191763084217_2368053493745683801_n.png?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=T8VeV5U1j4oAX-5_5vl&_nc_ht=scontent.oculuscdn.com&oh=7fbf9f180d610050fb691546082b2d71&oe=604DF8CC"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974750_446191763084217_2368053493745683801_n.png?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=T8VeV5U1j4oAX-hJ3s4&_nc_ht=scontent.oculuscdn.com&oh=153215876320d59c996540a59c36f2e0&oe=604DF8CC"
 							}
 						}
 					]
@@ -207,7 +173,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR4nNzuIWnX-tqOeEoYloPFBxgf6F7HD0ULrql2tayF5fr_BDRhUKYUNvFj7jpNn4AWJnHu_sViVt7-s6uALpjdQ"
+							"cursor": "AQHRNx5RlPyWii9fpHqFlrZ0e_zQawMf1FAkRFHNSIaFl9S_37jh865swEMRt8WJnoCjklOQZkMYHP6GsfKnqwQFzw"
 						}
 					]
 				}
@@ -260,7 +226,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0951650038373,
+			"quality_rating_aggregate": 4.0934865900383,
 			"support_website_url": "https://community.orbusvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -279,8 +245,8 @@
 			"firstQualityRatings": {
 				"count": 612,
 				"page_info": {
-					"end_cursor": "AQHRpqQXPImqZ-JHuU44SHCobfPUjO6isJijDC_FRaNC2JSrf6cgCCLmXlpuhfN9l5tpkZXHak5mryf5DVJVQYlJjA",
-					"start_cursor": "AQHRpqQXPImqZ-JHuU44SHCobfPUjO6isJijDC_FRaNC2JSrf6cgCCLmXlpuhfN9l5tpkZXHak5mryf5DVJVQYlJjA"
+					"end_cursor": "AQHRQy6vKMeC02mVFQBoPj9ptkjn-I8JxT397g4GtLFc3m2jr9I3j4q3aihUUvw-zcwjjY4oKdnZj4OfjqttYTfPwQ",
+					"start_cursor": "AQHRQy6vKMeC02mVFQBoPj9ptkjn-I8JxT397g4GtLFc3m2jr9I3j4q3aihUUvw-zcwjjY4oKdnZj4OfjqttYTfPwQ"
 				},
 				"edges": [
 					{
@@ -290,13 +256,13 @@
 								"id": "101337355322709",
 								"display_name": "Elz0",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974503_105454234911021_6901500235803351009_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=loqlcT2yKIsAX8Vps3R&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cc565f6215a69e013c7e6eaef88ab018&oe=604CE572"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974503_105454234911021_6901500235803351009_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=NX7YylGebJYAX85--8z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=101b88e346b0f819c1577a5ecce24580&oe=604CE572"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is the first and only available vr mmorpg right now, which makes it a must buy product.\nUnfortunately this is all about pros.\n\nCons:\n- The graphics is not good but still suitable.\n- Not newbies friendly.\n- Strange mechanics. Like every class has his own mini game to perform during the battle. Some of it even looks interesting, but exists in a stupid way. Like a mage here has to memorize and draw runes in the air which is challenging since it needs to be done without any mistake. It would be fun if after all the hard drawing you cast something really powerful that insta kills a mob or does a lot of area damage. But instead you do just regular dps and have to spam a \"B\" sign like an idiot. Which in the end of the day just makes you pick a Scoundrel (a class with a handgun) and do no brain spamming of shots.\n- Lack of diversity. As I said there is no regular classes here since the mechanics are pretty strange and annoying. The problem could be solved by adding a system of talents or specs. So you would have this rune mage, but also some classic fire or ice mage and can choose your own play style. Still there is no such system in a game.\n\nThe conclusion:\nThis is the first game of it's kind and would be a must buy and must play as long as there are no competitors nearby. But I'm afraid the first alternative that comes to the market (for example Ilysia) will kill it. Cause people want classic wow like game style and user friendly experience.\n\nAs for me, I enjoy it since there are no alternatives.",
 							"reviewTitle": "Good if no alternatives",
-							"review_helpful_count": 45,
+							"review_helpful_count": 48,
 							"review_rank_by_viewer": null,
 							"date": 1612176474,
 							"developerResponse": null
@@ -311,7 +277,7 @@
 				"description": "OrbusVR: Reborn is the first MMORPG designed exclusively for room-scale virtual reality. It features everything you love about an MMO: a huge open world, hundreds of hours of quests, dragon pets, five-player group dungeons, ten-player Raids, voice chat, player trading, and more!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982530_4376734062352846_5655508979984367616_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=rcU7wJvktuYAX8nfRmU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2448336a98bf6bd1dceb73897c51e769&oe=604C4EA4",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982530_4376734062352846_5655508979984367616_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=rcU7wJvktuYAX_9PcJK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c0652bea50c9a6ab535cb2eb15ae7aa8&oe=60504324",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
