@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75393566_1347271095664803_5387546881034672347_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=V9z5jjfKPR0AX-prKcw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c01fea37bada20fb546f6405d1dd64cf&oe=604FD8AD"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75393566_1347271095664803_5387546881034672347_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=V9z5jjfKPR0AX8FfR-d&_nc_ht=scontent.oculuscdn.com&tp=28&oh=40c729b01e54fd084292efb421eb3f2b&oe=6053CD2D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2268363519937106_4900436244535705600_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=_saQHCADKjsAX-u1dDg&_nc_ht=scontent.oculuscdn.com&oh=44b2e3ca9e27ac4f76c0ba5ae0e60e1c&oe=6052D304"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2268363519937106_4900436244535705600_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=_saQHCADKjsAX8TaFbp&_nc_ht=scontent.oculuscdn.com&oh=d2bdebdd823979690861c9023fb04809&oe=6052D304"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 30,
+					"count": 32,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 281,
+					"count": 282,
 					"starRating": 5
 				}
 			],
@@ -108,22 +108,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "854367748443542",
+				"id": "397219287803187",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2799",
-					"formatted": "$27.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "3999",
-					"formatted": "$39.99",
-					"offset": 100
+					"formatted": "$39.99"
 				},
-				"promo_benefit": "-30%",
-				"end_time": 1613548740,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -206,16 +201,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "854367748443542"
+				"id": "397219287803187"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4074074074074,
+			"quality_rating_aggregate": 4.3910761154856,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 63,
+				"count": 64,
 				"orderings": [
 					{
 						"key": "top",
@@ -228,10 +223,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 63,
+				"count": 64,
 				"page_info": {
-					"end_cursor": "AQHRknn-T-cwvL9mYbhHQ8aKGgPZB5QOq49vUiyJz1lpy1zC52G68yyCMYDAkH4CeneDRTxvlyiy2gkJY-lHXq7YSg",
-					"start_cursor": "AQHRknn-T-cwvL9mYbhHQ8aKGgPZB5QOq49vUiyJz1lpy1zC52G68yyCMYDAkH4CeneDRTxvlyiy2gkJY-lHXq7YSg"
+					"end_cursor": "AQHR10M_hx4P1wYu8sW6AqmdS7x-yFpIKDKcEaUGSrxyoIEmbC5_EFfuJO2R4Bunjyl6eoNRKJ2ubUi1B6HilKJ-Kw",
+					"start_cursor": "AQHR10M_hx4P1wYu8sW6AqmdS7x-yFpIKDKcEaUGSrxyoIEmbC5_EFfuJO2R4Bunjyl6eoNRKJ2ubUi1B6HilKJ-Kw"
 				},
 				"edges": [
 					{
@@ -241,13 +236,13 @@
 								"id": "103897661537807",
 								"display_name": "Birdie.b",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1242.1242a/s160x160/38984460_103898281537745_1429312385044898044_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=7Ey7pgFx_ZMAX_OPQKP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=33ad91738f60e04259bee3612e907135&oe=6050D09E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1242.1242a/s160x160/38984460_103898281537745_1429312385044898044_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=7Ey7pgFx_ZMAX_3Ycw8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c43f52b42113e313dee5de9f370027b1&oe=6050D09E"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "PLEASE READ IF YOU PLAYED AND WERE DISAPPOINTED! When you initially “beat” the game and were disappointed in the 2 choices you have to make and how short it was, HIT CONTINUE IN THE TITLE SCREEN! The game seems like it restarts but it’s continuing from the last choice you made at the end! There is a true ending to the game. You need to skip the scenes you played through before and you get tons of side stories you need to complete before reaching the very ending of the game! It doesn’t take a day to play, it takes about a day to finish the first round through, but with all the other side stories it took me about 5-7 days of playing. Please continue playing! And if the developers are reading I would recommend putting that crucial info in the description. At first I was upset about how short and lackluster it was until after a google search I realized this game had much more to it. It’s a fantastic story and I’m so glad to have got it",
 							"reviewTitle": "Reviews are mistaken!",
-							"review_helpful_count": 410,
+							"review_helpful_count": 495,
 							"review_rank_by_viewer": null,
 							"date": 1607059464,
 							"developerResponse": null
@@ -262,7 +257,7 @@
 				"description": "TOKYO CHRONOS is the VR game that has multiple-choice decision points as well as more than one ending. It has a long story you've never experienced before with VR.\nThe game takes place in Shibuya, Tokyo, which has only eight people, including you, the protagonist, Kyosuke Sakurai. Can you solve the mystery and get out of the silent Shibuya?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75404384_242008704186015_2569998005746802705_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=PG2gZ03nm_4AX8C80ws&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9816b53900b8e6040bb8ef186c690a44&oe=604FBE08",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974808_641983176742253_645161157054776784_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=JL3uI61P3zoAX8zj5IW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b98d50cfd5f6f9da34243b0d6ecc27b3&oe=6053A3C1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
