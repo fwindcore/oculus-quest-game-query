@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031603_421773195299544_3195509935135784960_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=GJEEPJTXpIsAX8baRcF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2790ed82bae6b2aa3f4f63b9b84a1008&oe=60556367"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031603_421773195299544_3195509935135784960_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=GJEEPJTXpIsAX_zR_qR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=19bd07f170fc832f8428e2dcc92a263b&oe=60556367"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1183840121798637_7583597598196367360_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=esABW4WrBDIAX8ago7n&_nc_ht=scontent.oculuscdn.com&oh=235eb7e7739d9e8f221943433c2fe0fc&oe=60558DD3"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1183840121798637_7583597598196367360_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=BSN69kbugTgAX85TGH5&_nc_ht=scontent.oculuscdn.com&oh=7f332e96aced0bbf6e7bf303de1a76ac&oe=60558DD3"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 110,
+					"count": 111,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 89,
+					"count": 90,
 					"starRating": 2
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 579,
+					"count": 580,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1508,
+					"count": 1513,
 					"starRating": 5
 				}
 			],
@@ -117,22 +117,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "113759430596501",
+				"id": "2338457946409634",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99",
-					"offset": 100
+					"formatted": "$14.99"
 				},
-				"promo_benefit": "-13%",
-				"end_time": 1613721540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -215,16 +210,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "113759430596501"
+				"id": "2338457946409634"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3180906538307,
+			"quality_rating_aggregate": 4.3170731707317,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1365,
+				"count": 1371,
 				"orderings": [
 					{
 						"key": "top",
@@ -237,10 +232,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1365,
+				"count": 1371,
 				"page_info": {
-					"end_cursor": "AQHR9B-UUWYx53fZZIH_Kb_ADp2Qn_Xwt9aoOUYS1MKkbgapw-V8g8WPD6fZI5XAPhEdZddTn0dmLcyiWqbdVYwjLg",
-					"start_cursor": "AQHR9B-UUWYx53fZZIH_Kb_ADp2Qn_Xwt9aoOUYS1MKkbgapw-V8g8WPD6fZI5XAPhEdZddTn0dmLcyiWqbdVYwjLg"
+					"end_cursor": "AQHRVwQKjqPkZHcuLAxgD5IIIqsby_jWwQ6MmAM85ur-z8yBGDw8gr37jgJvOF_LaKSnPpZN61KKFIJREgEEd8nfQw",
+					"start_cursor": "AQHRVwQKjqPkZHcuLAxgD5IIIqsby_jWwQ6MmAM85ur-z8yBGDw8gr37jgJvOF_LaKSnPpZN61KKFIJREgEEd8nfQw"
 				},
 				"edges": [
 					{
@@ -250,13 +245,13 @@
 								"id": "102149271702596",
 								"display_name": "leaderofmagentalake",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.90.459.459a/s160x160/38982715_180652540518935_6185650053885365664_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=EWaTsHoI4JgAX_E-UAX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b1827fbf4da024b8cdbc6c37e47b5d76&oe=60554D12"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.90.459.459a/s160x160/38982715_180652540518935_6185650053885365664_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=n7LnsTixS_wAX8AzNEg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c5c1f7ef07bff2ad411c0b43d5ae79e&oe=60554D12"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "IM WRITING IN CAPS SO I CAN GET MY POINT ACROSS THIS GAME IS ONE OF THE BEST EVER.\n\nDO YOU LIKE ZOMBIES?\nDO YOU LIKE GUN GAMES?\nDO YOU LIKE CO-OP MODE?\nDO YOU LIKE NOT THINKING ABOUT ANYTHING IN THE DAMNNNN WORLD EXCEPT KILLING THOSE Z’SSSSS???\n\nget it babe. message me later to thank me xx\n\n\nSeriously, I am the most stingiest person when it comes to money so trust me when I say this game is worth every CENT/PENNY/RUPEE/LIRA.",
 							"reviewTitle": "READ THIS NOW!!!",
-							"review_helpful_count": 316,
+							"review_helpful_count": 395,
 							"review_rank_by_viewer": null,
 							"date": 1610067082,
 							"developerResponse": null
@@ -271,7 +266,7 @@
 				"description": "Welcome to the Zombie apocalypse.  Strap on an array of guns that would make Rambo, Wick and the Terminator jealous and go to war on the Z heads in this full on, non stop, action shooter.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982597_469067941166733_2969443112438364223_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=e5ra6ahNBPQAX9Z4zDr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=36e815c8f32df29dd4623fa90eec5d13&oe=60543A27",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974677_2782376455374703_6970711688293349421_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=SX8cOROKLF4AX-WZKaH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3c861b8078baec43215a691f4aa70acf&oe=60556BC0",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
