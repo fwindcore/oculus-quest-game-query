@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75210897_1082982645469262_5971498061839661617_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=5sr57AuJDj0AX-463nA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=36f1a1089bda5d753767bf81c3b34b9a&oe=60552155"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75210897_1082982645469262_5971498061839661617_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=E5uyVhm6dlMAX_NufxD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a0d6530e77ba4322589e6b602ba75527&oe=605915D5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2737441123249616_8658415338802156089_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=X6SiS-4URYsAX_hfMJX&_nc_ht=scontent.oculuscdn.com&oh=7ead7a54958fd4581d2ac871d5d9a7bb&oe=6054965D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2737441123249616_8658415338802156089_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=6PVCaBkZkCUAX_Fxe4U&_nc_ht=scontent.oculuscdn.com&oh=1d1286f21b7e01338e41f0fa99a29a73&oe=60588ADD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 27,
+					"count": 28,
 					"starRating": 1
 				},
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 44,
+					"count": 45,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 243,
+					"count": 244,
 					"starRating": 5
 				}
 			],
@@ -100,22 +100,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "4202159896464873",
+				"id": "712667686059210",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-10%",
-				"end_time": 1613894340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -198,16 +193,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "4202159896464873"
+				"id": "712667686059210"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1682692307692,
+			"quality_rating_aggregate": 4.1599045346062,
 			"support_website_url": "https://support.cyan.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 240,
+				"count": 243,
 				"orderings": [
 					{
 						"key": "top",
@@ -220,10 +215,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 240,
+				"count": 243,
 				"page_info": {
-					"end_cursor": "AQHRZgX7SpPHajQRBLcOYeg5hdnqJEgvLk0pEtLTAeNJDbKikCZV1Dsggj9f_oe7lwqshZ7QLLoqcNHFSbsVZfHGPw",
-					"start_cursor": "AQHRZgX7SpPHajQRBLcOYeg5hdnqJEgvLk0pEtLTAeNJDbKikCZV1Dsggj9f_oe7lwqshZ7QLLoqcNHFSbsVZfHGPw"
+					"end_cursor": "AQHRJMu3a6rmUC6hQGT3Iz6hh6CSFNvkyA49eTOGiNVPeje46tkmv7wXMwQWng9wAQDxtd7Bvg3LQ318nYeyEYhDJQ",
+					"start_cursor": "AQHRJMu3a6rmUC6hQGT3Iz6hh6CSFNvkyA49eTOGiNVPeje46tkmv7wXMwQWng9wAQDxtd7Bvg3LQ318nYeyEYhDJQ"
 				},
 				"edges": [
 					{
@@ -233,13 +228,13 @@
 								"id": "114538133423901",
 								"display_name": "Gamer4Life137",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.418.418a/s160x160/38974594_124810062396708_1825958625240154112_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=dhAHdVgQKHYAX_njjDF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c5b5e58ba5d9ec1daa087097718822ce&oe=6055E4BC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.418.418a/s160x160/38974594_124810062396708_1825958625240154112_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=0CYMS3wdH64AX9URE2f&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e2c7a9222b07c8631ed14687c5cc8eba&oe=6055E4BC"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I want to start by saying I highly recommend this to everyone. Myst is the best puzzle game out there, and this version absolutely does it justice. However, there are a couple of issues that could have easily been fixed. \n\nFirst, I wish they had kept the original FMV actors because the new CG characters don't look great. \n\nI also wish there were maybe a system to take notes within the game or more easily take pictures. You can take screenshots from the Oculus menu, but it's not extremely convenient to use. My reason for this is you will come across things you need to remember. In the past, I would just write the info down or draw a quick diagram for the constellations and things like that. It can be really difficult trying to remember everything you need to without some sort of note or picture system. \n\nLastly, it can be hard to tell what is able to be interacted with just due to the nature of VR. They've certainly tried to fix this in a few places, notably the library. You can't really interact with the burned booze anymore since it would be awkward in VR to clearly choose which book to pick up. I definitely think this will in general be an issue with games that weren't originally built for VR, but it's definitely worth noting given it might add a bit of frustration at times. \n\nThat being said, those are constructive criticisms not reasons to avoid this game. I've wanted Myst VR for so long and I'm happy they did it justice. This is absolutely my new favorite way to play AND I'm happy there's randomized puzzles too so you actually have to play the game even if you remember the original answers. \n\nExcellent game and definitely worth the purchase.",
 							"reviewTitle": "Excellent, but flawed",
-							"review_helpful_count": 481,
+							"review_helpful_count": 543,
 							"review_rank_by_viewer": null,
 							"date": 1607727055,
 							"developerResponse": {
@@ -258,7 +253,7 @@
 				"description": "Welcome to Myst: the starkly beautiful island, eerily tinged with mystery and shrouded in intrigue. Explore the deeper connections and uncover a story of ruthless family betrayal.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75392233_242387800898983_4258655186877445093_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=eTbTVREAc3oAX-edJBM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4c0ff730cbde1f5f218a99af223b10e3&oe=60584451",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982699_266588705178013_630082680149498666_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=cTMmMm4fmxUAX_P0l_i&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7677908ff6eaf9ba8d59d9b53488a34b&oe=605650DF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
