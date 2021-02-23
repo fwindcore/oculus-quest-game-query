@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982582_1009431972749181_9083486352183394304_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=JS5ZTs5UK-cAX-jih4S&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b3776aa5b163d4e95f1439d93498a2b1&oe=6057A808"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982582_1009431972749181_9083486352183394304_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=-VFl5PSuNfwAX9UhusH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e9b3b560fe34e5f51c99e1b8c5b66fd6&oe=605B9C88"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75272211_1009431752749203_2956542790919520256_n.mp4?_nc_cat=111&ccb=3&_nc_sid=0ed769&_nc_ohc=YG_bavxscNYAX-VwGeo&_nc_ht=scontent.oculuscdn.com&oh=598bf03c11246be9ad517304a784de22&oe=605A4D86"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75272211_1009431752749203_2956542790919520256_n.mp4?_nc_cat=111&ccb=3&_nc_sid=0ed769&_nc_ohc=hPE3FFxTYSwAX_tLj3N&_nc_ht=scontent.oculuscdn.com&oh=9ae8051226d4f623477bb59680e08137&oe=605A4D86"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -145,11 +145,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1614023940,
-								"current_start_timestamp": 1614020400,
+								"current_end_timestamp": 1614088800,
+								"current_start_timestamp": 1614085200,
 								"temporal_info": {
-									"seconds_until_end_time": 41650,
-									"seconds_until_start_time": 38110
+									"seconds_until_end_time": 19824,
+									"seconds_until_start_time": 16224
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -167,11 +167,110 @@
 									"nodes": []
 								},
 								"vr_deeplink_message": null,
-								"id": "1379015269117328",
+								"id": "1381736055511916",
 								"is_vr_viewer_interested": false,
-								"name": "Perseverance: Mission Status Update",
+								"name": "Venus: Earth's Evil Twin or Just Misunderstood!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/54809986_428358141568004_5548458661722288830_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=UuZOkKpWXdkAX9eUet6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=056b2fef249792b8c47bc4f86030b135&oe=60594FB8"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974914_417171099579198_5397985910191945967_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=y59eJjIzCFIAX-Lbhua&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2208929dfbe25602b8b5319a252183c5&oe=60598674"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614128400,
+								"current_start_timestamp": 1614124860,
+								"temporal_info": {
+									"seconds_until_end_time": 59424,
+									"seconds_until_start_time": 55884
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381736508845204",
+								"is_vr_viewer_interested": false,
+								"name": "Venus: Earth's Evil Twin or Just Misunderstood?",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035469_412498179850477_8613772586733439835_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=7mudkaWM8uoAX9Uy0st&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6dd515f70fbc95ce33857b9a8e2ab92a&oe=60590858"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614141000,
+								"current_start_timestamp": 1614135600,
+								"temporal_info": {
+									"seconds_until_end_time": 72024,
+									"seconds_until_start_time": 66624
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381738605511661",
+								"is_vr_viewer_interested": false,
+								"name": "Space Shuttle Documentary",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_176305280677496_6208665200344794400_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=KHBdJQXr27kAX-GfvKg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a6405292edc0e6bcb65d0e3562bb801c&oe=605910D9"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614175200,
+								"current_start_timestamp": 1614171600,
+								"temporal_info": {
+									"seconds_until_end_time": 106224,
+									"seconds_until_start_time": 102624
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381739612178227",
+								"is_vr_viewer_interested": false,
+								"name": "The Future is Cloudy: Clouds & Climate",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001663_773011916967399_1006448891031589969_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=U5jDD1cygtgAX-0hgSO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ec6fa577ae7dc735bfca21144dff9e56&oe=605AC007"
 								}
 							}
 						},
@@ -181,8 +280,8 @@
 								"current_end_timestamp": 1614232800,
 								"current_start_timestamp": 1614193200,
 								"temporal_info": {
-									"seconds_until_end_time": 250510,
-									"seconds_until_start_time": 210910
+									"seconds_until_end_time": 163824,
+									"seconds_until_start_time": 124224
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -204,7 +303,139 @@
 								"is_vr_viewer_interested": false,
 								"name": "Mercury viewing deck: Featured Event",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974499_1523661454689478_5190083143711238590_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=rexOGMmlafkAX-A2_aF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b458c96cce9d9b40bd2bb58dba9be4fa&oe=6057B24E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974499_1523661454689478_5190083143711238590_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=M_4FMZs-dFUAX9vQoDh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ff3a9b8951f5328ea451172c13af1fd&oe=605BA6CE"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614348000,
+								"current_start_timestamp": 1614344400,
+								"temporal_info": {
+									"seconds_until_end_time": 279024,
+									"seconds_until_start_time": 275424
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381741382178050",
+								"is_vr_viewer_interested": false,
+								"name": "Spacecraft Origami",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974689_254039746220069_1429403037395363165_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=_xKzH-Flci4AX_bPL6t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4fcea352962535ac6f8f4ec4f4295589&oe=605BAC07"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614357000,
+								"current_start_timestamp": 1614355200,
+								"temporal_info": {
+									"seconds_until_end_time": 288024,
+									"seconds_until_start_time": 286224
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381743562177832",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_413462209754704_8518032041746573932_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=a6cheOuFBZMAX_6mHi4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d6f009fb4abd2ac40de07bc8773310f&oe=605B68CC"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614387600,
+								"current_start_timestamp": 1614384060,
+								"temporal_info": {
+									"seconds_until_end_time": 318624,
+									"seconds_until_start_time": 315084
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381741945511327",
+								"is_vr_viewer_interested": false,
+								"name": "Spacecraft Origami",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974469_483371602670607_7229789585764993567_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=pgkrWP28ZHUAX8MlOTB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d7509956b809112e26808adc7340ba2&oe=605BBD6F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614450600,
+								"current_start_timestamp": 1614445200,
+								"temporal_info": {
+									"seconds_until_end_time": 381624,
+									"seconds_until_start_time": 376224
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381742582177930",
+								"is_vr_viewer_interested": false,
+								"name": "Space shuttle documentary",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001663_414384679656628_7967630318914368361_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=UtGk-vl84JcAX-YTSvM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7b91b063ca304c5ed93cdaf85c450fe6&oe=60587F56"
 								}
 							}
 						},
@@ -214,8 +445,8 @@
 								"current_end_timestamp": 1614492000,
 								"current_start_timestamp": 1614452400,
 								"temporal_info": {
-									"seconds_until_end_time": 509710,
-									"seconds_until_start_time": 470110
+									"seconds_until_end_time": 423024,
+									"seconds_until_start_time": 383424
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -237,7 +468,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Grand Opening: Revamped Earth room!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974874_2868272300116084_3590220781565747092_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=bXy3aaaHMtYAX8OD_Lj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ffda58e0f5217daac606a1f579fa5929&oe=605AED64"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974874_2868272300116084_3590220781565747092_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=bXy3aaaHMtYAX-3A4Uf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f3ffc75234eaa90e1268a9808f4cf422&oe=605AED64"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614529800,
+								"current_start_timestamp": 1614508200,
+								"temporal_info": {
+									"seconds_until_end_time": 460824,
+									"seconds_until_start_time": 439224
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381745965510925",
+								"is_vr_viewer_interested": false,
+								"name": "ISS Expedition 64 - Spacewalk #71 LIVE",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035370_3707661076015587_1951672091794789197_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=q1DpB--MSVkAX8l9SHu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0da6f5707be3a1f775be5bd5eeebcb33&oe=60586EB9"
 								}
 							}
 						},
@@ -247,8 +511,8 @@
 								"current_end_timestamp": 1614578400,
 								"current_start_timestamp": 1614538800,
 								"temporal_info": {
-									"seconds_until_end_time": 596110,
-									"seconds_until_start_time": 556510
+									"seconds_until_end_time": 509424,
+									"seconds_until_start_time": 469824
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -270,7 +534,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Venus Viewing Deck: Featured Event!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_420687985790917_4032034981176797308_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=IUZTGieBV4YAX_Ofnrv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e7b6276bd17015a5b216a9ea8199b255&oe=605895B1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_420687985790917_4032034981176797308_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=IUZTGieBV4YAX-tNKfU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c6f71561ae1468f176ee611be90760c7&oe=605895B1"
 								}
 							}
 						},
@@ -280,8 +544,8 @@
 								"current_end_timestamp": 1614837600,
 								"current_start_timestamp": 1614798000,
 								"temporal_info": {
-									"seconds_until_end_time": 855310,
-									"seconds_until_start_time": 815710
+									"seconds_until_end_time": 768624,
+									"seconds_until_start_time": 729024
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -303,7 +567,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Venus: Featured Event!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_2900317420187015_3828811861270041785_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=-TpJwD7ki-oAX84Ajby&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ccb8fa7f4debc4d0f92d46ab32bff4d0&oe=6059B55E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_2900317420187015_3828811861270041785_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=-TpJwD7ki-oAX_KOUc5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d3cd02e137deb95f261691d9a27028d&oe=6059B55E"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614969000,
+								"current_start_timestamp": 1614943800,
+								"temporal_info": {
+									"seconds_until_end_time": 900024,
+									"seconds_until_start_time": 874824
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381747245510797",
+								"is_vr_viewer_interested": false,
+								"name": "ISS Expedition 64 - Spacewalk #72",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031428_246370410310626_5743567787123769002_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=aZ13UOfGWDIAX9o1iUQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7b805b4313460a4a9b9fedb6f70c7799&oe=6058AF25"
 								}
 							}
 						},
@@ -313,8 +610,8 @@
 								"current_end_timestamp": 1615096800,
 								"current_start_timestamp": 1615057200,
 								"temporal_info": {
-									"seconds_until_end_time": 1114510,
-									"seconds_until_start_time": 1074910
+									"seconds_until_end_time": 1027824,
+									"seconds_until_start_time": 988224
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -336,7 +633,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Earth from Afar",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984447_316172973088450_4492228395484054094_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=FV2yZJE5v5IAX-XtAtv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d8b8f677f41f4ddaa3b80d9a3a8165c8&oe=6059598E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984447_316172973088450_4492228395484054094_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=FV2yZJE5v5IAX8Bmmyk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d3bac8534677fc335691b003d0386162&oe=6059598E"
 								}
 							}
 						},
@@ -346,8 +643,8 @@
 								"current_end_timestamp": 1615183200,
 								"current_start_timestamp": 1615143600,
 								"temporal_info": {
-									"seconds_until_end_time": 1200910,
-									"seconds_until_start_time": 1161310
+									"seconds_until_end_time": 1114224,
+									"seconds_until_start_time": 1074624
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -369,7 +666,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Spotlight on: Earth!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569461_200521361809398_6687004228011387829_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=I76wjqVRcHkAX-xaTaj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=16c073510a14d01f8f579f72f2721df4&oe=605A79B5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569461_200521361809398_6687004228011387829_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=I76wjqVRcHkAX-dKml-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4ddc9966ba491213ca21d4c82ec84c97&oe=605A79B5"
 								}
 							}
 						},
@@ -379,8 +676,8 @@
 								"current_end_timestamp": 1615442400,
 								"current_start_timestamp": 1615402800,
 								"temporal_info": {
-									"seconds_until_end_time": 1460110,
-									"seconds_until_start_time": 1420510
+									"seconds_until_end_time": 1373424,
+									"seconds_until_start_time": 1333824
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -402,7 +699,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Venus from Afar",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974483_702626217290642_5044861176499061795_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=ytEZxCslgQwAX_Kqijw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=561501cb3d2b51c98059bd77d0dfc323&oe=605A7609"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974483_702626217290642_5044861176499061795_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=ytEZxCslgQwAX8IEoCS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b1a8204c5d26550724efb9bfbdcdf363&oe=605A7609"
 								}
 							}
 						},
@@ -412,8 +709,8 @@
 								"current_end_timestamp": 1615701600,
 								"current_start_timestamp": 1615662000,
 								"temporal_info": {
-									"seconds_until_end_time": 1719310,
-									"seconds_until_start_time": 1679710
+									"seconds_until_end_time": 1632624,
+									"seconds_until_start_time": 1593024
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -435,7 +732,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Mythology of the Skies",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974497_395848935037613_5710375400318591019_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=hoksQDgCDI0AX_lIuoj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b7529b0da9986a93f052b5a9d56c12e1&oe=6057CBAB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974497_395848935037613_5710375400318591019_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=hoksQDgCDI0AX8H7Rud&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7a1ff9231d5b6ecd05628ceae6c9ccb9&oe=605BC02B"
 								}
 							}
 						},
@@ -445,8 +742,8 @@
 								"current_end_timestamp": 1615788000,
 								"current_start_timestamp": 1615748400,
 								"temporal_info": {
-									"seconds_until_end_time": 1805710,
-									"seconds_until_start_time": 1766110
+									"seconds_until_end_time": 1719024,
+									"seconds_until_start_time": 1679424
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -468,7 +765,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Earth-gazing",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_3824076224305433_2368513772627547147_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=kUu03l458zYAX-n_kmC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3a4de88a32a7ec687c319f6ff5ceb79&oe=605A88E6"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_3824076224305433_2368513772627547147_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=NW5yo_QMaEkAX_hEEUW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd92482442c06fa7cfee7692f7912a25&oe=605A88E6"
 								}
 							}
 						},
@@ -478,8 +775,8 @@
 								"current_end_timestamp": 1616047200,
 								"current_start_timestamp": 1616007600,
 								"temporal_info": {
-									"seconds_until_end_time": 2064910,
-									"seconds_until_start_time": 2025310
+									"seconds_until_end_time": 1978224,
+									"seconds_until_start_time": 1938624
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -501,7 +798,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Featured Event!: Our Earth",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974899_1187673618357110_1672958856617813059_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=oQrUrA7aFIQAX-CfB2J&_nc_oc=AQn-wvbDd1FMQFUfc0ZNW5SKKNbKb4--g3cAXM-5j5VRGIcGoKcIHq_Ru2wXTug3L9I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2b11d7ce1a7983c443350bbb5907479f&oe=605AF5CD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974899_1187673618357110_1672958856617813059_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=oQrUrA7aFIQAX_p53XR&_nc_oc=AQke2uuB-ru4eE7ZLqoK0cs0aRJ4_aVrsCqrKBsZTXKCEefrlUwF34Yut2YBG80bNxY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=90420073e22cdf0c4857db87f8efd992&oe=605AF5CD"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616178600,
+								"current_start_timestamp": 1616174100,
+								"temporal_info": {
+									"seconds_until_end_time": 2109624,
+									"seconds_until_start_time": 2105124
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1381749068843948",
+								"is_vr_viewer_interested": false,
+								"name": "Watch LIVE! Soyuz spacecraft relocation on the ISS",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982471_882268442565871_6681269285948536373_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=VU8w8ZEIL3AAX9_ZPW9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2c651417b0e06323dc7849710516df47&oe=60595935"
 								}
 							}
 						},
@@ -511,8 +841,8 @@
 								"current_end_timestamp": 1616306400,
 								"current_start_timestamp": 1616266800,
 								"temporal_info": {
-									"seconds_until_end_time": 2324110,
-									"seconds_until_start_time": 2284510
+									"seconds_until_end_time": 2237424,
+									"seconds_until_start_time": 2197824
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -534,7 +864,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Mars!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974469_176564567561898_5879614157024696469_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=lEAz8efEqmAAX-VOeUH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a306b0df60393aa913b43c1850e8cd9f&oe=6059FB6C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974469_176564567561898_5879614157024696469_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=z_7KZzc1InkAX9bJjdf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb39183c4070f685157e3b0eaeb8ada1&oe=6059FB6C"
 								}
 							}
 						},
@@ -544,8 +874,8 @@
 								"current_end_timestamp": 1616392800,
 								"current_start_timestamp": 1616353200,
 								"temporal_info": {
-									"seconds_until_end_time": 2410510,
-									"seconds_until_start_time": 2370910
+									"seconds_until_end_time": 2323824,
+									"seconds_until_start_time": 2284224
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -567,7 +897,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Mythology of the Skies!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035359_252886819842970_3004707375211712641_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=7RZeWAJmObIAX_Q988o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a6d684a4bee5739224a162dafbc9ff40&oe=60593BAD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035359_252886819842970_3004707375211712641_n.jpg?_nc_cat=111&ccb=3&_nc_sid=79b88e&_nc_ohc=7RZeWAJmObIAX-xaBze&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f2208bf30856da254cc873954ee9f349&oe=60593BAD"
 								}
 							}
 						},
@@ -577,8 +907,8 @@
 								"current_end_timestamp": 1616652000,
 								"current_start_timestamp": 1616612400,
 								"temporal_info": {
-									"seconds_until_end_time": 2669710,
-									"seconds_until_start_time": 2630110
+									"seconds_until_end_time": 2583024,
+									"seconds_until_start_time": 2543424
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -600,7 +930,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Earth-Gazing",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86661278_891927791581186_3488661066752555488_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=JtBz5lmcagoAX_P5267&_nc_ht=scontent.oculuscdn.com&tp=28&oh=70421066577796edd2379e137b5bd2ef&oe=605A152C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86661278_891927791581186_3488661066752555488_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=JtBz5lmcagoAX9To8e4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=66a47cfd24f91e1bddb87d187c51d19f&oe=605A152C"
 								}
 							}
 						},
@@ -610,8 +940,8 @@
 								"current_end_timestamp": 1616907600,
 								"current_start_timestamp": 1616871600,
 								"temporal_info": {
-									"seconds_until_end_time": 2925310,
-									"seconds_until_start_time": 2889310
+									"seconds_until_end_time": 2838624,
+									"seconds_until_start_time": 2802624
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -633,7 +963,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Mars from Afar",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_403295327410584_6328076447450743252_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=1KSe-RRMFEMAX-KwuHs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0974aba3c0f872c7ebe3801ca1876459&oe=6057D7DF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_403295327410584_6328076447450743252_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=1KSe-RRMFEMAX_zZmhY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe333ed7c9dbf10ac0ea96fb32732de3&oe=605BCC5F"
 								}
 							}
 						},
@@ -643,8 +973,8 @@
 								"current_end_timestamp": 1616994000,
 								"current_start_timestamp": 1616954400,
 								"temporal_info": {
-									"seconds_until_end_time": 3011710,
-									"seconds_until_start_time": 2972110
+									"seconds_until_end_time": 2925024,
+									"seconds_until_start_time": 2885424
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -666,7 +996,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Spotlight on: Mars!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_121307256543166_5181241037439785474_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=Idq6jyzVC1QAX95-9WD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d51897e4656a9aa7b70c212104886fab&oe=60571A60"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_121307256543166_5181241037439785474_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=Idq6jyzVC1QAX9lb2LP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2857c89e13937c6d6b24776221ddfea4&oe=605B0EE0"
 								}
 							}
 						},
@@ -676,8 +1006,8 @@
 								"current_end_timestamp": 1617253200,
 								"current_start_timestamp": 1617213600,
 								"temporal_info": {
-									"seconds_until_end_time": 3270910,
-									"seconds_until_start_time": 3231310
+									"seconds_until_end_time": 3184224,
+									"seconds_until_start_time": 3144624
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -699,7 +1029,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Mythology of the Skies",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_773894960211294_7396671869536658906_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=32KiqEnvopIAX-kbnvC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3c1bc161b2cdef447ff2020f7b0c8f3e&oe=60586A30"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_773894960211294_7396671869536658906_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=32KiqEnvopIAX8FLmEl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4cfabb478131e064449f99f8644ba404&oe=60586A30"
 								}
 							}
 						},
@@ -709,8 +1039,8 @@
 								"current_end_timestamp": 1617598800,
 								"current_start_timestamp": 1617559200,
 								"temporal_info": {
-									"seconds_until_end_time": 3616510,
-									"seconds_until_start_time": 3576910
+									"seconds_until_end_time": 3529824,
+									"seconds_until_start_time": 3490224
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -732,7 +1062,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Mars from Afar!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035466_137126521562777_7565151816457383980_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=6wsrLKw3pdYAX8Agqnq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=57327bdf18e8cb8c5329227237c2a916&oe=605993C7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035466_137126521562777_7565151816457383980_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=6wsrLKw3pdYAX-TLyJ1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d129edd29416047060f161bdbae7e6d0&oe=605993C7"
 								}
 							}
 						},
@@ -742,8 +1072,8 @@
 								"current_end_timestamp": 1617858000,
 								"current_start_timestamp": 1617818400,
 								"temporal_info": {
-									"seconds_until_end_time": 3875710,
-									"seconds_until_start_time": 3836110
+									"seconds_until_end_time": 3789024,
+									"seconds_until_start_time": 3749424
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -765,7 +1095,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Spotlight on: Mars!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031609_1155772808209769_3923390295046373487_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=zdVEkxDv_34AX_ADEUQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed4a3ab1fa4910b2de3f6d166e4d4f1b&oe=605796AB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031609_1155772808209769_3923390295046373487_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=zdVEkxDv_34AX_k5ATQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0bb9eaa6e4f68683db0e8d688910852d&oe=605B8B2B"
 								}
 							}
 						}
@@ -840,8 +1170,8 @@
 			"firstQualityRatings": {
 				"count": 95,
 				"page_info": {
-					"end_cursor": "AQHR3WJoffNR3ayHKnPfdt4QlgI4cnFsjRmzpbT0k20wD3DJEJek5vZ7wUY2PqkEK9LYMwVRIjiheCRLHu3AFqH1_w",
-					"start_cursor": "AQHR3WJoffNR3ayHKnPfdt4QlgI4cnFsjRmzpbT0k20wD3DJEJek5vZ7wUY2PqkEK9LYMwVRIjiheCRLHu3AFqH1_w"
+					"end_cursor": "AQHRhQZHfkWKZtLmw8euK5LZxldGCelsPoHGyeOqT-Yd83rmirRRAZYj12HrdwhhZ_b_Rhd6uL26Xljs1o2Jt4nXqg",
+					"start_cursor": "AQHRhQZHfkWKZtLmw8euK5LZxldGCelsPoHGyeOqT-Yd83rmirRRAZYj12HrdwhhZ_b_Rhd6uL26Xljs1o2Jt4nXqg"
 				},
 				"edges": [
 					{
@@ -851,13 +1181,13 @@
 								"id": "100659001432062",
 								"display_name": "maikmayers81",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75476754_270060621158565_852612400926302241_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=FZ5SIK2HpMcAX_hBJfQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dca7f838fafbbd595d2b1d5138dd6720&oe=605A04F5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75476754_270060621158565_852612400926302241_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=PIV2jrUWbQ4AX8dgHgw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2d62563dc3326ce45b4896080947e619&oe=605A04F5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I thank the developers.  For those who are interested in astronomy this is a must.  The sun space has turned out great.  Except for a few chewed children, it was a great experience today.  I am deducting one star because I would like the German chess translation. Thank you for thinking of the Aggregat 4 and greetings from Germany. 😁 👍",
 							"reviewTitle": "Super",
-							"review_helpful_count": 5,
+							"review_helpful_count": 7,
 							"review_rank_by_viewer": null,
 							"date": 1612047906,
 							"developerResponse": null
@@ -872,7 +1202,7 @@
 				"description": "Multiverse - Come in and experience our first domain: The Planetarium. Explore astronomy like never before - socially in VR with your friends.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982697_794327111051776_5856611872907722752_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=qlHEV_7m_dcAX9O8IiM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ff3e9758f0a3d98ac1af1641cac8e3c1&oe=60575A63",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982697_794327111051776_5856611872907722752_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=qlHEV_7m_dcAX-y43j3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=445e1ca9ecebccdea3b6c7cf29027d36&oe=605B4EE3",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
