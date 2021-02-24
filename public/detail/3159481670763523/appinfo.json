@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974458_267380711033147_2834248926794059894_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=QRqP2auxKmEAX_x3QcN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1f565238f2dbe413adf658fba5d485d9&oe=605C4936"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974458_267380711033147_2834248926794059894_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=QRqP2auxKmEAX-MEVYy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f3d5647d89301340cb293961afbb6179&oe=605C4936"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_926010087866582_7064375246120375063_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=-y1VLmYibeUAX8lQWYN&_nc_ht=scontent.oculuscdn.com&oh=66ed5940751e18bb0901f64cd2647c31&oe=60595B81"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_926010087866582_7064375246120375063_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=-y1VLmYibeUAX9QI7IM&_nc_ht=scontent.oculuscdn.com&oh=9e3ad885087313be50ca903e4aa40ffb&oe=605D5001"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 1,
+					"count": 2,
 					"starRating": 2
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 27,
+					"count": 28,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 86,
+					"count": 89,
 					"starRating": 5
 				}
 			],
@@ -114,22 +114,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1157517008014321",
+				"id": "585594045681037",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "749",
-					"formatted": "$7.49"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99",
-					"offset": 100
+					"formatted": "$9.99"
 				},
-				"promo_benefit": "-25%",
-				"end_time": 1614153540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -212,16 +207,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1157517008014321"
+				"id": "585594045681037"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4803149606299,
+			"quality_rating_aggregate": 4.469696969697,
 			"support_website_url": "https://forcefieldxr.com/support/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 76,
+				"count": 79,
 				"orderings": [
 					{
 						"key": "top",
@@ -234,10 +229,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 76,
+				"count": 79,
 				"page_info": {
-					"end_cursor": "AQHRt4oZikYJyMg8vgtqtVrB7IZ5PuvAQMp9GQxfTnBRmeU4xqmv4PfK_4GRMYS4bn3cINVQIU2eeLRKFzxBDx_gBA",
-					"start_cursor": "AQHRt4oZikYJyMg8vgtqtVrB7IZ5PuvAQMp9GQxfTnBRmeU4xqmv4PfK_4GRMYS4bn3cINVQIU2eeLRKFzxBDx_gBA"
+					"end_cursor": "AQHR7K_8_wMB_RqjLbr1Vh-eJ9YHWrpzkmcIOyFggUQCJZPu0EFMS7bRRfVEWHq8peoY_3vzLS3PJP2xEZF9PlLmJA",
+					"start_cursor": "AQHR7K_8_wMB_RqjLbr1Vh-eJ9YHWrpzkmcIOyFggUQCJZPu0EFMS7bRRfVEWHq8peoY_3vzLS3PJP2xEZF9PlLmJA"
 				},
 				"edges": [
 					{
@@ -247,13 +242,13 @@
 								"id": "599258093562451",
 								"display_name": "drkoracle",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/75240106_1801752233313025_547372649903772396_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=hTIO2dfImTIAX8M2ojH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ba10e4d4fc188b1a8fb65f3f939237f7&oe=60595CA4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/75240106_1801752233313025_547372649903772396_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=NChOAsR13REAX922FlR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f15b1004dd80fe33056e97ef5934a90c&oe=605D5124"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is the perfect sitdown game to play when taking a quick work from home break, simple to play so the whole family can enjoy it, it does feel like a bit of a wasted opportunity however and I have some feedback for Devs:\n\n1. Modifiers - This game would have far more replayability with a few mods, just off the Top of my Head\nBullet Train - Coaster Moves at 2x speed no cooldown on guns\nBulletstorm - Replace default gun with a fully automatic assault weapon\nGunslinger - Only a single gun allowed, less target to compensate\nTopsy Turvey - Track runs in reverse\nBullet Time - Press of a button slows down time\n\n2.  Quest 2 Optimization \nBlack levels are clearly for Q1, resolution could be better\n\n3.  DLC, we want moar, tracks, weapons, coasters, etc.\n\n4. Multiplayer, Double the targets, two people in a coaster co-op, yes, please.\n\nAnyway, great game and well priced. No buyer's remorse here.",
 							"reviewTitle": "Fun and cheap but limited",
-							"review_helpful_count": 22,
+							"review_helpful_count": 65,
 							"review_rank_by_viewer": null,
 							"date": 1611227489,
 							"developerResponse": null
@@ -268,7 +263,7 @@
 				"description": "Get ready for the most enjoyable roller coaster experience ever! Theme park ride meets action game in Coaster Combat, making it amazingly comfortable yet extremely exhilarating for all players! The countless number of track combinations, unlockable upgrades and competing against online and offline friends and family will keep you coming back. So start racking up those scores in the wide variety of beautiful worlds!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195904_3952756201518205_5290375688574864118_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=HCwQY8iX8YMAX-VGLW3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ad912f19ecd2a2819d9adc0456037eb&oe=605BB282",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974515_658550204933462_7090398295914184704_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=XLQwDWfTEjIAX9AgnsE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2dc7b3b8c2f24b54e4342c4522d1cab0&oe=605B76A6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

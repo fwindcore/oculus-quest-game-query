@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035369_799763904183022_5099026291675893489_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=3cjWLIJQEHEAX-xT3Fa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f563b8409500d856d073954e45b66fb&oe=605B6E30"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035369_799763904183022_5099026291675893489_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=3cjWLIJQEHEAX9YTKik&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd686b3345ca5785f098635d49ccaefa&oe=605B6E30"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1335905463407138_5048649205770099637_n.mp4?_nc_cat=109&ccb=3&_nc_sid=0ed769&_nc_ohc=tSVPiIAwkgsAX_TkeHl&_nc_ht=scontent.oculuscdn.com&oh=bdaad1bfb76aaca870a9ce7345e69eae&oe=605BF114"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1335905463407138_5048649205770099637_n.mp4?_nc_cat=109&ccb=3&_nc_sid=0ed769&_nc_ohc=yJV8WrjB6F0AX_WR_IN&_nc_ht=scontent.oculuscdn.com&oh=1771f0a435d5e41f1100501c17be3098&oe=605BF114"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -118,17 +118,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "791123715058444",
+				"id": "863214737793085",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1899",
+					"formatted": "$18.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-24%",
+				"end_time": 1614239940,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -169,7 +174,7 @@
 							"created_time": 1608179070,
 							"body_text": "What's up everyone,\n\nShabs here and I'm happy to announce our new Update, and it's live now!\n\nJump in now and check out the Free New Weapon and Free New Character! Dominate the Control Point with the newly added Shotgun (Monarch). While we planned to have it at launch, we're proud to finally welcome our female Athlon to the Holofield!\n\nCheck out those features and more below:\n\n1.05 Update:\n- New Map: Fury Major\n- New Weapon: Shotgun\n- New Female Character\n- Added Supported Languages (Spanish, French, German, Korean, Japanese, )\n- First Time User Exp UI\n\nWe really appreciate the ongoing feedback that you've been sending through our Zendesk, Discord, and Facebook group. Keep shooting for that MVP and stay tuned to our Twitter and YouTube channel for more fun and excitement.\n\nWe'll see you on the Holofield!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974469_138341961208556_4067119612822730986_n.png?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=cBeZ-HDbwA8AX8LG0y_&_nc_ht=scontent.oculuscdn.com&oh=ec474ebc82652b4044386432bd7569eb&oe=60587D7A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974469_138341961208556_4067119612822730986_n.png?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=cBeZ-HDbwA8AX9RalXJ&_nc_ht=scontent.oculuscdn.com&oh=bd500b955dce9c7dda3941eceab04a3e&oe=605C71FA"
 							}
 						}
 					]
@@ -177,7 +182,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHReTI07uaykRlXibGUVimgBwAiP_9OjPJhFMBzxoa3w7YJbJDk7raCQcCMUR0q-aKYqF2Kd8iM1iR7nWe372vfZw"
+							"cursor": "AQHReXZUV79GJy9Xs5oFni0qqRf3hZilrxj89uLbiCwgqaJpMDb7MwfSm5jlMoiQae7ribt7xIF8wGwcJbE0AYwXzg"
 						}
 					]
 				}
@@ -225,7 +230,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "791123715058444"
+				"id": "863214737793085"
 			},
 			"externalReviews": {
 				"count": 0
@@ -249,8 +254,8 @@
 			"firstQualityRatings": {
 				"count": 518,
 				"page_info": {
-					"end_cursor": "AQHRZ96Xj8Kco5wY5tVpuNeh3AoUjI26W0nxPPxGK6EqFRduvZoTkE-EowkzfMwt3kbPigqOqDpXobboFDN903mqLQ",
-					"start_cursor": "AQHRZ96Xj8Kco5wY5tVpuNeh3AoUjI26W0nxPPxGK6EqFRduvZoTkE-EowkzfMwt3kbPigqOqDpXobboFDN903mqLQ"
+					"end_cursor": "AQHRmJ-IYMn6uUAWXTRsRVgHe6icGgivW5z9OKvtgAAPo-RVBIyZoGXi0E4m01VQb-GIGGBi56aW6YsoLPrjktttcA",
+					"start_cursor": "AQHRmJ-IYMn6uUAWXTRsRVgHe6icGgivW5z9OKvtgAAPo-RVBIyZoGXi0E4m01VQb-GIGGBi56aW6YsoLPrjktttcA"
 				},
 				"edges": [
 					{
@@ -260,13 +265,13 @@
 								"id": "105539324023902",
 								"display_name": "Alex_Scoville",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c2.0.1436.1436a/s160x160/75476757_209192113658622_61705606163070976_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=wFYaMC0YDMkAX_9fH4N&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d986d6e7b4fe8a1249000a3c0b14dee4&oe=6058D5B4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c2.0.1436.1436a/s160x160/75476757_209192113658622_61705606163070976_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=zq8ofg_UpV0AX8L1kCP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d28c75891a57b637353f0877f477e7e7&oe=605CCA34"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Using one hand does not equal arcade. Using two hands does not mean simulation. Stop responding to reviews with that excuse. No one is buying that. It's vr, we want to duel wield pistols and hold your awesome guns with two hands. Please don't be the next victim of 2020. I'm not refunding. I'm putting my faith in the development team to make it right. Stop saying it's that way \"by design\" to complaints that everyone is making. It's not helping. Who ever is in charge of responding to reviews- have a long in depth talk about turning this game around with the devs. This isn't pre season. It's Beta maybe Alpha level. Fix it before you're forgotten by all the new games coming. I want a good reason to come back to a game I invested in. I'm playing and enjoying what's there but it's like dating a really hot girl with a really low IQ, it's not gonna last. \n\nUpdate- the added hand tracking is nice. Unfortunately I spend more time waiting for a game to start waiving with both hands at the few players on each server then actually playing. Looking forward to the Christmas gifts bolstering the community. I struggle with the decisions of the developers and I know they always have their reasons, so for people actually reading this whole review, you should know it's very fun and the core community is great.",
 							"reviewTitle": "Could be great - edited 12/21/20",
-							"review_helpful_count": 227,
+							"review_helpful_count": 232,
 							"review_rank_by_viewer": null,
 							"date": 1608561054,
 							"developerResponse": {
@@ -285,7 +290,7 @@
 				"description": "Welcome to Solaris Offworld Combat--a fast-paced, multiplayer shooter that drops you straight into intense action. Suit up, log in & game on--you’re about to jump into 4v4 match-ups, where you’ll run, sprint & slide your way across arenas, picking up weapons & items to eliminate your opponents. Coordinate with your team to defeat your rivals & take over the Control Point to win the match! ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974493_961291021344603_4028427496822005678_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=xQvb7RAHA3AAX-ydxF5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6f3af68bdd74a27577b4cbd54af2f516&oe=6058FA18",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974796_1529745703882672_7674702224504980924_n.jpg?_nc_cat=110&ccb=3&_nc_sid=79b88e&_nc_ohc=5GnEacBRgLwAX_IEHFo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e3922b30e1a9a89c669c2bd470cfd623&oe=605B7D09",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

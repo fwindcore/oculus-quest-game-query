@@ -16,17 +16,17 @@
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 142,
+					"count": 143,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 33,
+					"count": 34,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 61,
+					"count": 63,
 					"starRating": 3
 				},
 				{
@@ -113,14 +113,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.5.1.3925",
-				"change_log": "Bug fixes and optimizations. Fixed problem where application would sometimes get stuck loading.",
+				"version": "1.6.0.3981",
+				"change_log": "Introduce new Prime City environment with day / night cycle. Add new season selector for TV detail pages. Update startup mnemonic. Full Quest 2 support. Various bug fixes and optimizations.",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "224127515",
-				"id": "3627343910684951",
-				"required_space_adjusted": "216628210",
+				"total_installed_space": "236974352",
+				"id": "3787716577981016",
+				"required_space_adjusted": "241534060",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -154,7 +154,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3627343910684951"
+					"id": "3787716577981016"
 				}
 			},
 			"release_channels": {
@@ -165,8 +165,8 @@
 						"id": "325173384825358",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.5.1.3925",
-							"id": "3627343910684951"
+							"version": "1.6.0.3981",
+							"id": "3787716577981016"
 						}
 					}
 				]
@@ -225,11 +225,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.2736220472441,
+			"quality_rating_aggregate": 3.265625,
 			"support_website_url": "http://www.amazon.com/videohelp",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 231,
+				"count": 232,
 				"orderings": [
 					{
 						"key": "top",
@@ -242,10 +242,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 231,
+				"count": 232,
 				"page_info": {
-					"end_cursor": "AQHRumSfogyXUCZD363K_L8OAsbAlooCSDcqlm3u_Qd_J1kf3MxXuxSZUumT8LLwKJelfdAmnULvThpwILnk4__Jcw",
-					"start_cursor": "AQHRumSfogyXUCZD363K_L8OAsbAlooCSDcqlm3u_Qd_J1kf3MxXuxSZUumT8LLwKJelfdAmnULvThpwILnk4__Jcw"
+					"end_cursor": "AQHR-DFNDPvx2oy856VyxJgU4NB7AWMxJZ2bhaRDATwc-GI7WMNzqesqLAlYCXLwOl9t7FJSvi88UvjhmsS56viwIQ",
+					"start_cursor": "AQHR-DFNDPvx2oy856VyxJgU4NB7AWMxJZ2bhaRDATwc-GI7WMNzqesqLAlYCXLwOl9t7FJSvi88UvjhmsS56viwIQ"
 				},
 				"edges": [
 					{
@@ -255,13 +255,13 @@
 								"id": "106903441260392",
 								"display_name": "PLoNi_aLMoNi",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c105.0.270.270a/s160x160/39031468_110660500884686_2052947092783536797_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=HbrMIZBm5m4AX_09Z34&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8d64db7724f00df758b9ed93fb704c3f&oe=60590081"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c105.0.270.270a/s160x160/39031468_110660500884686_2052947092783536797_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=HbrMIZBm5m4AX-bXIyf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1fd373e81fdf6ed62848831387535b76&oe=605CF501"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "Amazon Prime Video has a lot of good movies and even 3D content that Netflix et al don’t have.\n\nHowever, the main issue is - as of Dec 2020 - Prime Video VR ***ONLY*** works if your Prime account is US or UK.\n\nIf you have a Amazon Prime Account in any other country, this app won’t work.\n\nEurope, Asia, Middle East etc. Prime Accounts won’t allow you to watch movies in Prime VR.",
 							"reviewTitle": "Only works for US and UK Prime Members",
-							"review_helpful_count": 247,
+							"review_helpful_count": 248,
 							"review_rank_by_viewer": null,
 							"date": 1607787072,
 							"developerResponse": null
@@ -276,7 +276,7 @@
 				"description": "Welcome to the world of Prime Video VR, where your Prime membership grants access to award-winning Amazon Originals, popular movies, hit TV shows, and an expanding library of immersive content. This VR world also includes titles you bought or rented, plus sports, live events, and channel subscriptions purchased through Amazon.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207237_2173001436328768_9058337738117349376_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=2TRIgggCYtUAX8cB0KD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=44d2f6637d6917f8b1e490f88421f099&oe=605A60AC",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207237_2173001436328768_9058337738117349376_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=6ZThUAEef2QAX8Zzl-y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=47064ec3ce8c5bb29aa5b56cdf510bfa&oe=605A60AC",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
