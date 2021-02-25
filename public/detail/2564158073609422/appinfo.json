@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/43931336_1038433353291513_4839799993921368269_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=J4UveUsIziIAX_TomSS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b74c8f54d12a37f500eab9f94e271e28&oe=6059E67A"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/43931336_1038433353291513_4839799993921368269_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=R4mRILmF4ykAX_8xzkC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f4622794fdfaa6dccedcb929a6030e7b&oe=605DDAFA"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_345270833261612_7381730552743195720_n.mp4?_nc_cat=109&ccb=3&_nc_sid=0ed769&_nc_ohc=mnbJqccizVAAX8eauVY&_nc_oc=AQn4Kjmx-DWUDFNYKNUJcxgjrfAez27pMscgnyiEnJAoxRMy8Q0iuTqPjkOrzbMr-W0&_nc_ht=scontent.oculuscdn.com&oh=f8c098f3a057deeeb77f60a1a4f13ea1&oe=605B25D3"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_345270833261612_7381730552743195720_n.mp4?_nc_cat=109&ccb=3&_nc_sid=0ed769&_nc_ohc=mnbJqccizVAAX9TlLk3&_nc_oc=AQmx-3rSkif_QmlqIiguxmAGNmh2T_693SIZ-YSnpABa_b5amTqtzdVE23vt89dvuCI&_nc_ht=scontent.oculuscdn.com&oh=6a3ee94e8c5c6234606f9575cd5ff4ef&oe=605B25D3"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 207,
+					"count": 208,
 					"starRating": 1
 				},
 				{
@@ -41,11 +41,11 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 4399,
+					"count": 4411,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "#1 VR Multiplayer Game for 2020 Holiday!\n\nCLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. Welcome to POPULATION: ONE, where you and your squad must fight together to survive until the end. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE. \n \nIn POPULATION: ONE, the action never stops with ongoing live in-game events and fresh content to explore.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
+			"display_long_description": "Tom's Guide: #1 Oculus Quest 2 game\nForbes: \"One of the best VR games for the Oculus Quest 2\"\n#1 VR Multiplayer Game for 2020 Holiday\n\n\nCLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. Welcome to POPULATION: ONE, where you and your squad must fight together to survive until the end. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE. \n \nIn POPULATION: ONE, the action never stops with ongoing live in-game events and fresh content to explore.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 			"developer_privacy_policy_url": "http://www.bigboxvr.com/privacy-policy/",
 			"developer_terms_of_service_url": "http://www.bigboxvr.com/terms-and-conditions/",
 			"supported_player_modes": [
@@ -167,7 +167,41 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1614672000,
+								"current_start_timestamp": 1614283200,
+								"temporal_info": {
+									"seconds_until_end_time": 429975,
+									"seconds_until_start_time": 41175
+								},
+								"vr_app_and_destination_string": "POPULATION: ONE",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2564158073609422",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "POPULATION: ONE"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "783049252323783",
+								"is_vr_viewer_interested": false,
+								"name": "SEASON 1: UPRISING",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_909881463109549_5498090410942870591_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=VZcwKtcOhzAAX925FRt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6b7bf87a7960aa2ecbb25006bb3b4d23&oe=605B201A"
+								}
+							}
+						}
+					]
 				},
 				"id": "298326064129440",
 				"posts": {
@@ -191,7 +225,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRDHJqzcy1NITTjfn-naQNCguZuo_hmlfqApsUq71SlYJueNQGLkPmG3Mpv5BvUi0fLPiJ7v2Bg1SH1A4ELOxzzQ"
+							"cursor": "AQHRhptnolKumEDzjNlvSr9_YB6JixsKkjY9M1BQUKCOufB-A1cSlOnicN7DiRykz1CoXgb5lGxXUvu54VBxksrPSw"
 						}
 					]
 				}
@@ -244,11 +278,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6344763670065,
+			"quality_rating_aggregate": 4.6346153846154,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2858,
+				"count": 2873,
 				"orderings": [
 					{
 						"key": "top",
@@ -261,10 +295,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2858,
+				"count": 2873,
 				"page_info": {
-					"end_cursor": "AQHRznOvPiv_7ZAD4xVRWweNkK9Yxot1bEjOtPgHcCvflEVT7epbS_kOSP2wrMJhsnkZQJKpP8XFH38MGlecK_Netw",
-					"start_cursor": "AQHRznOvPiv_7ZAD4xVRWweNkK9Yxot1bEjOtPgHcCvflEVT7epbS_kOSP2wrMJhsnkZQJKpP8XFH38MGlecK_Netw"
+					"end_cursor": "AQHRQZukpyDIxEyGsI42StdoBuCwZFj2kiztxMCkuxIawIQW4g50qBbYbvFX8hqt84h22joag3MXTTwq82-FG6Q8Xw",
+					"start_cursor": "AQHRQZukpyDIxEyGsI42StdoBuCwZFj2kiztxMCkuxIawIQW4g50qBbYbvFX8hqt84h22joag3MXTTwq82-FG6Q8Xw"
 				},
 				"edges": [
 					{
@@ -274,13 +308,13 @@
 								"id": "109877683854644",
 								"display_name": "Abyss2639",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974831_233614788147599_2139518088069782883_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=hX6N_rOFrEMAX-TknNM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3af8c481aabf177da660be8454cbfcbb&oe=605B8157"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974831_233614788147599_2139518088069782883_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=hX6N_rOFrEMAX8RBTBA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e11bede54a89d925378df1a453c07137&oe=605B8157"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This is absolutely amazing with almost no downsides. But there are some, as always for new games. \n1. Lobby. I want to be able to turn around and do target practice, or run through a course. I always get bored after having to wait for a game.\n2. Game modes. There should be different game modes/maps to play on, and you should be able to decide how many you want in your squad, so I could do solos, duos, trios, or squads(four people). \n3. Tutorial, this game definitely needs a tutorial, it has one, but it doesn’t cover everything, it took me a bit to figure everything out.\n4. Building. I find it hard to start building while playing the game, I’m fighting and I need to build to heal, but I have to put my gun away, then do it, can there be a button for building without putting your gun away?\n5. Communication, this game really needs a mic to win, I have won a few without it, but the only way to communicate without a mic is the pinging, I want a button to say “people here”, but I have to got to the menu, select it, then ping, just maybe make it so we can alter our settings so a certain button does a certain thing depending on what you want.\n6. Grenades, lots of reviews say this but grenade throwing isn’t realistic in any way, normally, I don’t care about immersion, but this is just weird, at least make it so I can get a grenade, pull the pin, drop it, then I damage the person following me, I have to pull the trigger just to throw it. Maybe they did this for a reason, but maybe let us choose how it works in the settings or something.\n7. Guns, the guns in this game are nice, but some mechanics are weird, why can’t I just see through the scope instead of needing 2 hands then putting my face on it, that actually took me a long time to figure it out, make the scope see through and I’ll be happy. But maybe add new guns, like rocket launchers, or an airplane where you use it and a drop spawns in front of you, or a mini gun, or maybe even add a knife to start with, you can always drop it for other stuff.\n9. Crosshairs, make an option to have crosshairs or not, personally, I like them, but some people don’t.\n10. Party options. Maybe to be able to choose to be on the same team or different teams, like in echo, you can get into a private match with only the people in your party.\nI have also been running into issues with the healing stuff, like bananas or sodas. It makes the sound when I do whatever to use it but doesn’t actually do it. Almost like it lags every time.\nUpdate: I love how the devs let you do solo against bots, but it is basically you against all the bots, they don’t attack each other and they come right at you, at least make it somewhat like a legit game. \nI get it, lots of wants, (big imagination), lots of bugs I hate, but this game could be a whole lot better with at least some of these improvements. But again, this game is new, but I love it all, play it every day. 100% recommended, loving it. Always be ready.\nUpdate, instead of having to buy coins can there be challenges to get them? I don’t want to spend money after the 30 dollar price tag.",
 							"reviewTitle": "Before reading this review, get the game",
-							"review_helpful_count": 626,
+							"review_helpful_count": 643,
 							"review_rank_by_viewer": null,
 							"date": 1609272210,
 							"developerResponse": null
@@ -295,7 +329,7 @@
 				"description": "CLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_198268188640326_9155583499312522904_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=j0WUO2nURA0AX-KC6jM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=12980b71f0a371b925288c5c29657d84&oe=605C5D81",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_198268188640326_9155583499312522904_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=j0WUO2nURA0AX_tRSK-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3e3409a18ccb0228e2d479908b7da2f9&oe=605C5D81",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

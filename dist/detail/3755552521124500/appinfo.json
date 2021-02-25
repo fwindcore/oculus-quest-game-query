@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982553_339446960458839_6883916336531948513_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=j5FdeVWLQeMAX_aiuzC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f20b9b06361d7e87eab780caedee8a9&oe=605D2221"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982553_339446960458839_6883916336531948513_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=j5FdeVWLQeMAX_-s7JT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=66d921c645a2670162110795e74a742b&oe=605D2221"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031387_1115195785622674_2564281077947303971_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=2Oja-P1kmDQAX_oe-vv&_nc_ht=scontent.oculuscdn.com&oh=10d1a55fe4c65a17595bd05eb37560ce&oe=605B3F7F"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031387_1115195785622674_2564281077947303971_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=2Oja-P1kmDQAX-64Tts&_nc_ht=scontent.oculuscdn.com&oh=8377bc6ff7f9ed8e40460bd342b51bb3&oe=605B3F7F"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -78,14 +78,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.0.4",
-				"change_log": "",
+				"version": "2.0.5",
+				"change_log": "What’s new\n\n* Integrity checks added to Team Space downloading\n* Visual improvements to the Team Space loading screens\n* Improvements to the photo quality of the Glue camera\n\nBug fixes\n\n* PDF presentation can now be started from any page, instead of the first page of the PDF.\n* Fix to whiteboard screenshot issue\n* Fix to whiteboard rendering error\n* Fix to the avatar audio indicator error\n* GlueOS tablet now always returns to the main view after errors. ",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "519928180",
-				"id": "4127570503922698",
-				"required_space_adjusted": "544889228",
+				"total_installed_space": "520003320",
+				"id": "4149863798360035",
+				"required_space_adjusted": "544915468",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -130,7 +130,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4127570503922698"
+					"id": "4149863798360035"
 				}
 			},
 			"release_channels": {
@@ -141,8 +141,8 @@
 						"id": "673588719932480",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.0.4",
-							"id": "4127570503922698"
+							"version": "2.0.5",
+							"id": "4149863798360035"
 						}
 					},
 					{
@@ -150,8 +150,8 @@
 						"id": "413265213172378",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.0.4",
-							"id": "4127570503922698"
+							"version": "2.0.5",
+							"id": "4149863798360035"
 						}
 					}
 				]
@@ -240,7 +240,7 @@
 								"id": "108422447017840",
 								"display_name": "Manochang",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.832.832a/s160x160/38974621_360469481813134_5791219520788876429_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=GxCuWdMijMMAX-s3KZP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=68286c6ac6e980d34f095e240c7f119a&oe=605B64B7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.832.832a/s160x160/38974621_360469481813134_5791219520788876429_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=GxCuWdMijMMAX-XgQn0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8675aeb79224a79287e4c2628a5fa4e8&oe=605B64B7"
 								}
 							},
 							"score": 3,
@@ -265,7 +265,7 @@
 				"description": "Glue is a collaboration platform for teams who need remote meetings to be as great as face-to-face meetings. Glue brings remote teams together to learn, share, plan and create.\n\nYou need to be a member of a Glue Team to use this app. You can create a free trial Glue Team within the app.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982548_121843469791612_6077694579845867102_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=-F6VLVm-TRcAX_P29U1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=58116347785ee6204eb8ec46a580c239&oe=605D1654",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982548_121843469791612_6077694579845867102_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=srGfog3h8b4AX-0__7L&_nc_ht=scontent.oculuscdn.com&tp=28&oh=acdfa878df515f893ef18cbea629c42f&oe=605D1654",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
