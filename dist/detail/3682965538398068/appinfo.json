@@ -1,0 +1,278 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3682965538398068",
+			"display_name": "Counter Fight ICHIRAN",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75458091_432285681220279_7535572255127238121_n.jpg?_nc_cat=106&ccb=3&_nc_sid=79b88e&_nc_ohc=b2I3NoBjOaoAX_4oTMj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=84bcfdeb87ccee52e928dd7309d1c0ec&oe=605FB716"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1247936172274984_4159778720206902772_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=1QmMWsQM_8cAX-pDhtF&_nc_ht=scontent.oculuscdn.com&oh=0eabe705110ad8fc4c65fe74380343b9&oe=605E25D9"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 1,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 1,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 1,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 12,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Let's make the best ramen for customers!\n\n\"Counter Fight ICHIRAN\" is a completely new cooking game that combines the experience of the VR work simulator game \"Counter Fight\" and the popular natural tonkotsu ramen specialty store \"ICHIRAN\".\n\nGame features\n\nBecome an employee of ICHIRAN and cook ramen!\n\nOptimized for VR games, the kitchen has intuitive gameplay that makes you feel like an ICHIRAN's employee.\n\nAim for a high score in response to customer orders!\n\nNot only cook ramen, also reproduce in-game the particulars of ICHIRAN, such as judging the beauty of presentation and the \"15 second standard\" to maintain the freshness of ramen.\n\nYou can enjoy the atmosphere of ICHIRAN anywhere!\n\nMany familiar items such as Kaedama plate and Order sheets that can only be seen at shops, Original spicy red sauce, and Arita porcelain original donburi bowls will appear.\n\nThe sound is faithfully reproduced!\n\nThe background music and sound effects of the Kaedama that flow in the store are faithfully ",
+			"developer_privacy_policy_url": "https://www.tricol.jp/privacy",
+			"developer_terms_of_service_url": null,
+			"supported_player_modes": [
+				"STANDING"
+			],
+			"publisher_name": "Tricol Co., Ltd",
+			"supported_in_app_languages": [
+				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Tricol Co., Ltd",
+			"genre_names": [
+				"动作",
+				"休闲",
+				"模拟"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.1.0_94",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "666845973",
+				"id": "4313025715392044",
+				"required_space_adjusted": "1223797264",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1614275922,
+			"supported_tracking_modes": [],
+			"website_url": "https://tricol.jp/product/ichiran/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "282280136603583",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "289265085819739"
+			},
+			"live_release_channel": {
+				"id": "289265085819739",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4313025715392044"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "289265085819739",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.1.0_94",
+							"id": "4313025715392044"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "329991431366563",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "tricol-counter-fight-ichiran-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "1499"
+				},
+				"id": "282280136603583"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Counter Fight ICHIRAN",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "282280136603583"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.4666666666667,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 2,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 2,
+				"page_info": {
+					"end_cursor": "AQHRYsrrPCFB9aCV4N2GtER6CIDoqC8M1-cWX1CEoUfCJmogypc5-qQsI7GcLWvwaTB2Zu2Mucy_o3tnsNczS6h9vQ",
+					"start_cursor": "AQHRYsrrPCFB9aCV4N2GtER6CIDoqC8M1-cWX1CEoUfCJmogypc5-qQsI7GcLWvwaTB2Zu2Mucy_o3tnsNczS6h9vQ"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "226869279162994",
+							"author": {
+								"id": "106146324568624",
+								"display_name": "NeoBunny",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.700.700a/s160x160/38974524_220701513113104_8879388523176554997_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=6GZyawg-KYMAX9pJTen&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4bdb89eeac13f89e83010e6a72fe2479&oe=605D5F78"
+								}
+							},
+							"score": 4,
+							"reviewDescription": "This game is actually pretty good, graphics are nice and it's really interactive. :)",
+							"reviewTitle": "Actually pretty fun",
+							"review_helpful_count": 2,
+							"review_rank_by_viewer": null,
+							"date": 1614299827,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Let's make the best ramen for customers!\n\n\"Counter Fight ICHIRAN\" is a completely new cooking game that combines the experience of the VR work simulator game \"Counter Fight\" and the popular natural tonkotsu ramen specialty store \"ICHIRAN\".\n\n*Game features*\nBecome an employee of ICHIRAN and cook ramen!\nAim for a high score in response to customer orders!\nYou can enjoy the atmosphere of ICHIRAN anywhere!\nThe sound is faithfully reproduced!",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75395594_3930207167029766_8382162467927723274_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=YCGp9laTHsUAX9bS3Xx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=afae1f471279c220487adc9a11022fb6&oe=605F4A56",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3682965538398068/",
+				"site_name": "Oculus",
+				"title": "Counter Fight ICHIRAN · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

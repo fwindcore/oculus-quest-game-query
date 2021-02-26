@@ -1,0 +1,274 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3070239359662935",
+			"display_name": "Hyper Dash",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974518_162026735723811_4416925458547619227_n.jpg?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=l-bz-IJlQQwAX9Zh5ee&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4422fcce8580405b244816ff9bfaf045&oe=605F2221"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_217085056748129_7891803098716843763_n.mp4?_nc_cat=100&ccb=3&_nc_sid=0ed769&_nc_ohc=P1j-YA9MA_YAX-7Lmg4&_nc_ht=scontent.oculuscdn.com&oh=ed901acc26651a6e8afeaac9f82968bf&oe=605D2635"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 1,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 4,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 9,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 190,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Hyper Dash is a VR multiplayer team based shooter. \n\nGAME MODES\nPayload, Domination, Control Point, Deathmatch and remix them with Mutators!\n\nMOVEMENT\nDash, sprint, and rail grind your way across the arenas to engage the enemy in fast-paced combat and secure the objective for your team.\n\nFEATURES\nOffline mode/Bots, Dedicated servers, Rebind-able controls, Left hand support, Voice chat\n\nCROSS-BUY\nBuy for Rift or Quest and get the other free",
+			"developer_privacy_policy_url": "https://privacy.hyperdashvr.com/",
+			"developer_terms_of_service_url": "https://www.hyperdashvr.com/terms-of-use/",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "Triangle Factory",
+			"supported_in_app_languages": [
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人",
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Triangle Factory",
+			"genre_names": [
+				"动作",
+				"射击"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.14.6",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "1234438678",
+				"id": "3873318866021643",
+				"required_space_adjusted": "1348855966",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1614275953,
+			"supported_tracking_modes": [],
+			"website_url": "https://hyperdashvr.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "1762152160633741",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "2691249577664881"
+			},
+			"live_release_channel": {
+				"id": "2691249577664881",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3873318866021643"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "2691249577664881",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.14.6",
+							"id": "3873318866021643"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "568415807249117",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_SOME",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "NOT_REQUIRED",
+			"internet_connection_name": "无需联网",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "triangle-factory-hyper-dash-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "1999"
+				},
+				"id": "1762152160633741"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Hyper Dash",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "1762152160633741"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.8970588235294,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 155,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 155,
+				"page_info": {
+					"end_cursor": "AQHR08tF1Uql48BoFGCyaYH8ezooDqINiJ7l40NNBkKTu-qgr7XsYGt5887RUMmhZoMueoz8CFPuooHLZr8BbCOWXw",
+					"start_cursor": "AQHR08tF1Uql48BoFGCyaYH8ezooDqINiJ7l40NNBkKTu-qgr7XsYGt5887RUMmhZoMueoz8CFPuooHLZr8BbCOWXw"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "4088070434536914",
+							"author": {
+								"id": "1253563481320971",
+								"display_name": "sstredd",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/75639797_3683173735026588_5128527804018351202_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=Hc8AyMkjlL0AX9HFbrj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=48e15438e14633c6e73b5e3de59a336f&oe=605C8441"
+								}
+							},
+							"score": 5,
+							"reviewDescription": "This is the game I have the most hours in with my Quest. I have played this since Alpha 1 and it has become polished to perfection. This will itch your fix for a fast paced arcade shooter with great visuals and performance. Buy it and try it, you will not regret it. Also the devs are a lot of fun and keep in touch with the already great community.",
+							"reviewTitle": "Amazing fast paced arcade shooter",
+							"review_helpful_count": 64,
+							"review_rank_by_viewer": null,
+							"date": 1614318505,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Hyper Dash is a VR multiplayer team based shooter. \n\nGAME MODES\nPayload, Domination, Control Point, Deathmatch and remix them with Mutators!\n\nMOVEMENT\nMake smart use of Dashing, Sprinting, Walking and Rail Grinding to get around the arena's fast and lethal.\n\nFEATURES\nOffline mode/Bots, Dedicated servers, Rebind-able controls, Left hand support, Voice chat\n\nCROSS-BUY\nBuy for Rift or Quest and get the other free",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75324645_204047301437233_9119427947317962628_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=EnJAlGULPcsAX86eUgj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69582fa97cbcab31cb647d752445c307&oe=605C51E8",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3070239359662935/",
+				"site_name": "Oculus",
+				"title": "Hyper Dash · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
