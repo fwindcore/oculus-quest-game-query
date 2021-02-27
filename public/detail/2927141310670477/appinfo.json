@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75295893_325089208702945_6802040209456009829_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=r0t6ohJ0rC4AX-4mCXb&_nc_oc=AQmS7ZDX2Bk7A5_NRSSSjjlX4M_VmM-PQNs_bm3Xaxy7qmRxk4zz1_vOAIPpoajn4yE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=da8adbac52ec8f852821a47603ea9541&oe=605F8F67"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75295893_325089208702945_6802040209456009829_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=e9N8KsiJq4kAX9STfqX&_nc_oc=AQmzK_OEEUa4CaQ3PGxTb3SMYiKqZsJzYCfzRoJHQiogsGJLp84pbQrkyM6eRvOoTVQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c3025116897ed6d593a3951479b4576&oe=605F8F67"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86621367_923907384766319_8710433829229082022_n.mp4?_nc_cat=101&ccb=3&_nc_sid=0ed769&_nc_ohc=Sp3rKgW0bx0AX9Rkxoz&_nc_ht=scontent.oculuscdn.com&oh=67f66e2fb0b91533725664227525f08d&oe=605E21A1"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86621367_923907384766319_8710433829229082022_n.mp4?_nc_cat=101&ccb=3&_nc_sid=0ed769&_nc_ohc=Sp3rKgW0bx0AX9wdDkx&_nc_ht=scontent.oculuscdn.com&oh=bd0158e921cd8718a2177e5f6d3ca33d&oe=605E21A1"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 104,
+					"count": 105,
 					"starRating": 5
 				}
 			],
@@ -143,41 +143,7 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1614376816,
-								"current_start_timestamp": 1614337200,
-								"temporal_info": {
-									"seconds_until_end_time": 48642,
-									"seconds_until_start_time": 9026
-								},
-								"vr_app_and_destination_string": "Spatial",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2927141310670477",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Spatial"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "3297284130372021",
-								"is_vr_viewer_interested": false,
-								"name": "Spatial Cocktail Party",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974444_175589200742026_6666148781583206027_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=bupmQsI5V9AAX-Y0k6h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f89ef2fb5f41f0adb10a6bacbe40f6c&oe=605FBB32"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "2256957144404730",
 				"posts": {
@@ -188,7 +154,7 @@
 							"created_time": 1613864891,
 							"body_text": "Learn about Spatial's new features in version 2.0!!!\n\n🔐 New Pro Features:\n\n🎤🖖 HOST TOOLS: Room creators will now have greater control over the room and its participants with the abilities to mute users, remove participants, enable feature specific permissions, & revert the room to its last save.\n\n\n\n🙌 New Free Features:\n \n📱 LiDAR Scanning: With Spatial's mobile app on an iPhone 12 or iPad Pro use your LiDAR and TrueDepth cameras to create point clouds & meshes you can add directly into Spatial.\n\n\n\n👂 Spatial Audio: Turn on Spatial Audio & the farther you are from someone the harder it becomes to hear them. Cocktail parties & breakout sessions here you come! 💃\n\n\n\n🎥  Moveable Spectator Camera: Control the view of those watching from the web app. Show them what you're talking about, give them a tour, & look right at them.\n\n\n\n🤳🏾 Selfie Stick: Take pictures in Spatial, of yourself, of a friend, of your co-workers, or any of the content in the room!\n\n\n\n📚 Content menu: Curate your content from the web app, click the x to hide any content you don't want to appear in headset. From the web app you can now also add this recent content to the room.\n\n\n\nAdditional Features:\n- Duplicate Content\n- Scribble color and brush size customization\n- Change your Team's name\n- We added a loop button to videos\n- Bulk invite emails to rooms from the web app\n- PointCloud .PCD File Support\n- upload GLTF models from Mobile\n- Webcams & Screenshares can be duplicated\n\nJoin our public event on Friday 2/26 , get a demo of these new features, and ask the Spatial team questions 🤝\n\nSign Up or Upgrade at spatial.io\n\nNeed Help? Visit support.spatial.io\n\nJoin our Slack Community https://guestinvite.spatial.io/",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974547_472015367518542_1749141334602363975_n.png?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=aGIVXwPbbPgAX_mzDEc&_nc_oc=AQk7qbALNhfFo7gPkxPZbFwEysGMC7llYo3qaNCWor91PC_lJTWP1k3X4InvFbNMFuI&_nc_ht=scontent.oculuscdn.com&oh=6f275073e3bef13ddfb785f24895a9a9&oe=605D8041"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974547_472015367518542_1749141334602363975_n.png?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=aGIVXwPbbPgAX99f1AJ&_nc_oc=AQkFkd2vALzbIAdvPR4kRxnnqTY43Z4q9v_GhLU9Y39iK2wkXS6MPYpl5PWdjKI_QHU&_nc_ht=scontent.oculuscdn.com&oh=b9b2b0de18a37b02f4e7e392c29aa8a1&oe=606174C1"
 							}
 						}
 					]
@@ -243,7 +209,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.030487804878,
+			"quality_rating_aggregate": 4.0363636363636,
 			"support_website_url": "https://support.spatial.io/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -262,8 +228,8 @@
 			"firstQualityRatings": {
 				"count": 79,
 				"page_info": {
-					"end_cursor": "AQHRrR3GreLBxzaCMPegFHfEigVRNA3s0AnS2DAk6KyXw4y8VUr356bZJONOxs_aqKIUG-f06CNpC2qOoNm_IyVVFA",
-					"start_cursor": "AQHRrR3GreLBxzaCMPegFHfEigVRNA3s0AnS2DAk6KyXw4y8VUr356bZJONOxs_aqKIUG-f06CNpC2qOoNm_IyVVFA"
+					"end_cursor": "AQHRGoYOEV_R2mLJUtqVIdKoWFlbgyZmBAk26xTXCXSWajBOi48_-3LNwv-wPrLjzYJJ5v4I7P0orTUFJiSfR9kBGg",
+					"start_cursor": "AQHRGoYOEV_R2mLJUtqVIdKoWFlbgyZmBAk26xTXCXSWajBOi48_-3LNwv-wPrLjzYJJ5v4I7P0orTUFJiSfR9kBGg"
 				},
 				"edges": [
 					{
@@ -273,13 +239,13 @@
 								"id": "100362658665893",
 								"display_name": "EmmaSanson",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.925.925a/s160x160/38974448_100362851999207_26005509021995504_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=kttDrn5p2ycAX_EYHxL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=26d6cbfe95eec79a278bbca4392551ab&oe=605D60B4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.925.925a/s160x160/38974448_100362851999207_26005509021995504_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=kttDrn5p2ycAX8kjstG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=73d22d1926b20fcd4d58db46f546ef20&oe=60615534"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This app was a joy at first. Since going into lockdown, our studio has not had the possibility to meet our professors for in-person teaching, until some of us started using spatial. Now we can show, move, and look at our designs again in 3D \"in person\" - which is amazing now that all physical models are out of the question. However I am having massive troubles with importing a large amount of files into the rooms. Once I reach a certain numbers of 3D objects, the whole room starts moving after my head movement and there's no stopping it. I have to quit the whole app in order no to get completely sea sick. I currently have a room I can't enter due to it being  completely glitched. If these issues could be fixed I would give 5 of 5 stars. Cus the collaboration aspect is brilliant.",
 							"reviewTitle": "Very buggy with 3D files ...",
-							"review_helpful_count": 24,
+							"review_helpful_count": 28,
 							"review_rank_by_viewer": null,
 							"date": 1609796999,
 							"developerResponse": null
@@ -294,7 +260,7 @@
 				"description": "Spatial brings people together for hangouts, immersive presentations, team planning, product reviews, & brainstorms.\n\nSpatial enables you to:\n\n- Sit next to each other from across the world by creating a lifelike avatar from a selfie in seconds\n- Fill your room with  2D/3D content, including screen share, browser, sticky notes and whiteboarding\n- Integrate with tools like Slack or Google\n- Join from VR, AR, Web, & Mobile",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75340705_3302209169822725_1187439306618731943_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=pR2Oa1DsiAAAX-MOxA9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3dfd817e56cac483d2c2b7950fe35a9e&oe=605CBAEB",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75340705_3302209169822725_1187439306618731943_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=pR2Oa1DsiAAAX8un0by&_nc_ht=scontent.oculuscdn.com&tp=28&oh=41c0fdbda2fc6f341afaf0bf6e62fb93&oe=6060AF6B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

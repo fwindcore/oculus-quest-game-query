@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001692_764613787695589_3646801655624049934_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=jrstjNOgKEUAX9Fai23&_nc_oc=AQkQN7TU0aw1EbETaIqYZY-2KdaPBYOZCC-sa7BK0TrMMYxd1gCYXP2Ur7N6YcWL7Go&_nc_ht=scontent.oculuscdn.com&tp=28&oh=efd222523c90d74842bd17dcd036c3e6&oe=605F7E2F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001692_764613787695589_3646801655624049934_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=jrstjNOgKEUAX_kGGx2&_nc_oc=AQm9mQWsF0SykWty0CU0VysDJ_HKGqJ68Z4DYbuCGJmSgqioTX0Y0150A9b8dDHyb64&_nc_ht=scontent.oculuscdn.com&tp=28&oh=76880d253df9cb70564f39b41c5ea466&oe=605F7E2F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_752694618665131_1915671642538119405_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=xW37_P21CNMAX8nkuv7&_nc_ht=scontent.oculuscdn.com&oh=410b55fd229978d3087d4717e79a63cc&oe=605E180B"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_752694618665131_1915671642538119405_n.mp4?_nc_cat=104&ccb=3&_nc_sid=0ed769&_nc_ohc=Rqf00ieDcasAX8bIEqx&_nc_ht=scontent.oculuscdn.com&oh=c1e01fbf08a0967afa6cc723b64ce4c8&oe=605E180B"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 181,
+					"count": 182,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 542,
+					"count": 543,
 					"starRating": 5
 				}
 			],
@@ -87,14 +87,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.4.8.34061",
+				"version": "1.4.9.34323",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "2134746095",
-				"id": "4813561152006874",
-				"required_space_adjusted": "3915410870",
+				"total_installed_space": "2139510460",
+				"id": "4865879356775053",
+				"required_space_adjusted": "3924889304",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -128,7 +128,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4813561152006874"
+					"id": "4865879356775053"
 				}
 			},
 			"release_channels": {
@@ -139,60 +139,35 @@
 						"id": "2462410397102731",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.4.8.34061",
-							"id": "4813561152006874"
+							"version": "1.4.9.34323",
+							"id": "4865879356775053"
 						}
 					}
 				]
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1614351600,
-								"current_start_timestamp": 1614308400,
-								"temporal_info": {
-									"seconds_until_end_time": 23418,
-									"seconds_until_start_time": 0
-								},
-								"vr_app_and_destination_string": "SWORDS of GARGANTUA",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "3064046640291676",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "SWORDS of GARGANTUA"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1155364001564716",
-								"is_vr_viewer_interested": false,
-								"name": "New Event! New \"Scimitar\" & VAL VR eSports Event",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57568668_1863771537136144_2785930387745753525_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=-Gy0KS9xhr0AX_c2MKB&_nc_oc=AQmjCNbZt4Gl8V2a580jSJGTavw-Sd7TRLr4r1Y-lYAgTI8wk_gA9VKKR598e_CqTms&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9a06c2a323d0efc290a2a553eb684c06&oe=605D858D"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "662759917491796",
 				"posts": {
 					"nodes": [
+						{
+							"id": "225270182634014",
+							"title": "VAL esports \"Winter Games\" ",
+							"created_time": 1613722357,
+							"body_text": "SWORDS of GARGANTUA has been selected to be a participating game of the VAL VR eSports \"Winter Games\"! \nThe event takes place from February 26th to March, 7th and it is open to everyone!\nFind all the rules and registration steps for SWORDS of GARGANTUA at this link: https://www.onearena.gg/events/swords-of-gargantua\nGreat prizes awaits for the TOP 3 players! What are you waiting for? Go and register immediately!\n\n\n\nVR eスポーツイベント「The Winter Games」への参加が決定。\nステージ100を舞台とした世界一を決めるランキング戦「我ノ前ニ道ナシ」を開催します！\n詳細はこちらをご確認ください：https://www.onearena.gg/events/swords-of-gargantua",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982614_169434098104838_1068769879593409652_n.png?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=0rn_eUu2KckAX-c1DPp&_nc_ht=scontent.oculuscdn.com&oh=96b11a4abeb4e52d9ccfbde8a5faabeb&oe=6060CFB7"
+							}
+						},
 						{
 							"id": "716529319224656",
 							"title": "New \"Azure Dragon\" & \"Yinglong\" Katanas are here!",
 							"created_time": 1612858849,
 							"body_text": "Version upgrade information: \n<Ver.1.4.8.34061>\n- Added weapons for new event.\n- Changed the items in the Adventure shop.\n- Added event weapons as result rewards in Adventure mode.\n----------------------------------------------------------------------------------------------\nThe Dragons have returned for the new Lunar Year.\nLet's celebrate and win a brand new weapon! Click on the Event button on the main menu and select \"[Join Fight] Awakening of the Dragons\" to start the event. \nFrom Friday, 5th of January (02:00PST) to Thursday, 25th of February (23:00PST)\n\nJoin our Discord to learn more!\n\n「【共闘】クエスト19殲滅作戦」を開催します。\nこのイベントは、武器の種類やレベルの使用制限がないイベントとなります。\nメニュー内にあるイベントボタンをクリックし「【共闘】クエスト19殲滅作戦」を選択。イベントをプレイしたユーザー全員のポイント数の合計が目標数に到達すると、イベント期間終了後に「青龍」「応龍」を報酬として受け取ることができます。\n2021年2月5日（金）19:00～2021年2月25日（木）24:00（2021年2月26日（金）0:00）\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57570291_888470895239372_7781753271793938281_n.png?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=S2srkMsOlQwAX_duawk&_nc_ht=scontent.oculuscdn.com&oh=bb389446bb2bda3fc24215aab206a6d3&oe=605E53E1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57570291_888470895239372_7781753271793938281_n.png?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=_JQyHJDksMMAX84GfXb&_nc_ht=scontent.oculuscdn.com&oh=096b3a58d6f581310b14ea3247dda8e3&oe=605E53E1"
 							}
 						}
 					]
@@ -249,11 +224,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1737242128122,
+			"quality_rating_aggregate": 4.1744312026002,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 378,
+				"count": 379,
 				"orderings": [
 					{
 						"key": "top",
@@ -266,10 +241,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 378,
+				"count": 379,
 				"page_info": {
-					"end_cursor": "AQHRg6o-4xWM64PqwRrmoKVe7DSoqw-wKuSFqIjSwJksMwCrwq9ltoERseK5mxuNBMbWhvCtO4FuScM4o6FCI1faCw",
-					"start_cursor": "AQHRg6o-4xWM64PqwRrmoKVe7DSoqw-wKuSFqIjSwJksMwCrwq9ltoERseK5mxuNBMbWhvCtO4FuScM4o6FCI1faCw"
+					"end_cursor": "AQHRiipK_Z6uJ6gb0HcEyjk9pbpVjpMIflM0DphaRou0mmyNNLUwKYQ-v9DaZyQluaiJZ02bJp_MkaR7rbI5Sq7zTg",
+					"start_cursor": "AQHRiipK_Z6uJ6gb0HcEyjk9pbpVjpMIflM0DphaRou0mmyNNLUwKYQ-v9DaZyQluaiJZ02bJp_MkaR7rbI5Sq7zTg"
 				},
 				"edges": [
 					{
@@ -279,13 +254,13 @@
 								"id": "104115450840836",
 								"display_name": "theNobody14161",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.782.782a/s160x160/38974539_104115597507488_6616779440296820736_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=HEu4AalKtgoAX9ubgHZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=57179d6f05f36fc540c8e9c3eebfe63b&oe=605D7F45"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.782.782a/s160x160/38974539_104115597507488_6616779440296820736_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=HEu4AalKtgoAX-hbtrX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2096be02020341f8b4d7d60abfb29dce&oe=606173C5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "First off, Swords of gargantua is a very enjoyable game, despite the critisms in this review.  Swinging weapons in VR is awesome, and most weapons in swords of gargantua are reasonably balanced.  I recommend it to anyone who wants a hack n slash VR game. \nI have 4 criticisms:\n1. Communication errors are horrible and frequent.\n2. Too many things lead to making it an attack-centric game\n3.  The tesseract abyss sword takes so long to get copies to strengthen that most players do not use it.\n4. Combo boost and enchanted attack up need to be much stronger for players to ever pick them over attack up in levelling up.\nRecommendations:\n1. An endless survivor mode that can be saved midway through where players can use their adventure mode weapons would be amazing in this game.  It could be identical to adventure mode, but not have the gargantua fight, and could be paused/saved to be returned to/ every so many floors, so that headset battery life does not limit advancement (though defeat would still reset back to a starting floor, maybe starting at later floors could be unlockable or something)  thus, floors could continually get harder with more enemies. (I dont think there is any floor other than 101 with more than 1 elite soldier at a time).\n2. Have players keep their blessings/curses and coins accrued in an adventure run if they leave a room and come back.  This will make communication errors less disastrous.\n3. Instead of needing to do 4 of 5 conditions on the gargantua fight to get tesseract abyss sword, players should just get more tesseract abyss swords for fufilling more of the conditions.  This will still reward players for fufilling the conditions, while not making it seem like a grind to get the 40+ tesseract swords needed to get a +10 tesseract abyss sword\n4. getting weapons should be a bit less random and bit more action-based.  \n\nI can elaborate on any of these points if it is desired for me to do so.",
 							"reviewTitle": "Very fun game with a few issues",
-							"review_helpful_count": 19,
+							"review_helpful_count": 24,
 							"review_rank_by_viewer": null,
 							"date": 1611710905,
 							"developerResponse": {
@@ -304,7 +279,7 @@
 				"description": "Swords of Gargantua is a VR sword-action game you can experience in single-player mode or online co-op with up to 3 other players.\n\nAdventure through the Tesseract Abyss floors to beat the giant Gargantua lying in its deepest layer, Floor 101. ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974477_335958880952830_2031605528781302617_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=Qs7-Sq4rfT0AX8ST9tH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=05d0cab68a5a4facd372353bda68bc20&oe=605EAC88",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974477_335958880952830_2031605528781302617_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=Qs7-Sq4rfT0AX-BeOmQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e7dd4bfa65b177399b03f7d4c83a002&oe=605EAC88",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
