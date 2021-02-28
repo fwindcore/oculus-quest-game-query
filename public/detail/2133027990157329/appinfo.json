@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=eFcsi9f6lB4AX_p52mO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=763dd62b0a987c911c050addd7ca2dc8&oe=605DABE2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=eFcsi9f6lB4AX_Ut2lF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4bacef21f90961abc4e6748989142659&oe=6061A062"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=3&_nc_sid=0ed769&_nc_ohc=tlkY8SiWv6kAX8SVC1T&_nc_ht=scontent.oculuscdn.com&oh=6b5b3e9344b0ee3169281f212a30a4fb&oe=605F8DCD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=3&_nc_sid=0ed769&_nc_ohc=tlkY8SiWv6kAX_SCB67&_nc_ht=scontent.oculuscdn.com&oh=ebb906704204438db595043462bded93&oe=605F8DCD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 40,
+					"count": 41,
 					"starRating": 2
 				},
 				{
@@ -81,14 +81,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "4.1.9",
-				"change_log": "Bug fixes & improvements",
+				"version": "4.1.11",
+				"change_log": "Fix for issue entering legacy spaces",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "621152732",
-				"id": "3603051009821679",
-				"required_space_adjusted": "308998626",
+				"total_installed_space": "621164120",
+				"id": "3609547955838651",
+				"required_space_adjusted": "308900322",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3603051009821679"
+					"id": "3609547955838651"
 				}
 			},
 			"release_channels": {
@@ -133,8 +133,8 @@
 						"id": "2271077649772225",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.1.9",
-							"id": "3603051009821679"
+							"version": "4.1.11",
+							"id": "3609547955838651"
 						}
 					},
 					{
@@ -157,8 +157,8 @@
 								"current_end_timestamp": 1614706200,
 								"current_start_timestamp": 1614700800,
 								"temporal_info": {
-									"seconds_until_end_time": 291665,
-									"seconds_until_start_time": 286265
+									"seconds_until_end_time": 205260,
+									"seconds_until_start_time": 199860
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -180,7 +180,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Microsoft Ignite Keynote",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_3930348040362743_8090494016659265408_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=13t36eEVJuEAX8QxZ1z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a45a24513e2cb056a9f986ea7ecec8f1&oe=605EB6E1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_3930348040362743_8090494016659265408_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=k5V0sAyij38AX8pHznf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e130419dc6d1374bb58cdfe8e64532ad&oe=6062AB61"
 								}
 							}
 						},
@@ -190,8 +190,8 @@
 								"current_end_timestamp": 1617237000,
 								"current_start_timestamp": 1617235200,
 								"temporal_info": {
-									"seconds_until_end_time": 2822465,
-									"seconds_until_start_time": 2820665
+									"seconds_until_end_time": 2736060,
+									"seconds_until_start_time": 2734260
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -213,7 +213,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262743_2773358789542900_6046170959698936676_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=5Sm-x5f8OLgAX8PxRhr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=547d24c8734da604614105a320df042e&oe=605E10D3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75262743_2773358789542900_6046170959698936676_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=5Sm-x5f8OLgAX-GvvPq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8455952bed936a9f957d3e41e3775852&oe=60620553"
 								}
 							}
 						},
@@ -223,8 +223,8 @@
 								"current_end_timestamp": 1619656200,
 								"current_start_timestamp": 1619654400,
 								"temporal_info": {
-									"seconds_until_end_time": 5241665,
-									"seconds_until_start_time": 5239865
+									"seconds_until_end_time": 5155260,
+									"seconds_until_start_time": 5153460
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -246,7 +246,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=EGxGvfO0ypIAX-0IZ4k&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e970656de895ba6793e8852ebba67ff&oe=6061694F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=QddtzKCpXdYAX9wtkXB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f0c0401d137485fa5d5ace9aa3ea9310&oe=6061694F"
 								}
 							}
 						}
@@ -259,7 +259,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRvmvtjOZi_FofGBeRA1ENpMAurbrXKmmH2QXZEGGfHfnzfkorS0B9Ij64nBQ2L-z7JBpLeJv7YBQ0gHIVSVTp5g"
+							"cursor": "AQHRbIES0aIGr7JE84VA_PXh0RGHpRoXi3CmXvSoPcEc0wL36dxJSB1Elt92v86Vd1Huc20TEyXXgt_1FP4phH3IuQ"
 						}
 					]
 				}
@@ -306,7 +306,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.2380261248186,
+			"quality_rating_aggregate": 3.236231884058,
 			"support_website_url": "https://help.altvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -325,8 +325,8 @@
 			"firstQualityRatings": {
 				"count": 297,
 				"page_info": {
-					"end_cursor": "AQHRXYpgPE3zDqK1k5gqGgcg0ERKwZXqDD3hOj9iAW0dfnRXpNrfuAQPpVdcBGiELzLE4pWd1VjkjNdlXk7c_rMF7w",
-					"start_cursor": "AQHRXYpgPE3zDqK1k5gqGgcg0ERKwZXqDD3hOj9iAW0dfnRXpNrfuAQPpVdcBGiELzLE4pWd1VjkjNdlXk7c_rMF7w"
+					"end_cursor": "AQHRge3kO1_FLwS9ljYqLtPJeZ7d9j7-4lwtr07UQZ_9yWHXO2Fs_VCewXW2SfUNUzBIsrwb_YyDd8uvRRR4K9EzAg",
+					"start_cursor": "AQHRge3kO1_FLwS9ljYqLtPJeZ7d9j7-4lwtr07UQZ_9yWHXO2Fs_VCewXW2SfUNUzBIsrwb_YyDd8uvRRR4K9EzAg"
 				},
 				"edges": [
 					{
@@ -336,13 +336,13 @@
 								"id": "104236438217442",
 								"display_name": "Lolow_7",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c315.0.810.810a/s160x160/38982703_104238091550610_424018707655801233_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=AfRiyTdATsIAX-ILyGe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4156febe3f74bcd7f6f4e9b3bf1d1be6&oe=6060BAD1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c315.0.810.810a/s160x160/38982703_104238091550610_424018707655801233_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=AfRiyTdATsIAX8KoD38&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c9f7fcc50d92a0794a022ba903cb88b8&oe=6060BAD1"
 								}
 							},
 							"score": 1,
 							"reviewDescription": "Played for a few days I’ve been in a lobby where I’ve heard white people saying the N word , and noticed they would not be banned or anything but if your avatar is black and you disagree with someone in the lobby no matter what the situation is about you will be banned ... not worth the time to download this app. There’s a reason why this weak app got shut down in 2017 , and when you write a ticket “Mike” from Microsoft does nothing cause he’s just a incompetent loser who sits behind a desk all day checking emails 🤦🏽‍♂️... happy to be done with app",
 							"reviewTitle": "Racist app ....",
-							"review_helpful_count": 28,
+							"review_helpful_count": 29,
 							"review_rank_by_viewer": null,
 							"date": 1612038502,
 							"developerResponse": {
@@ -361,7 +361,7 @@
 				"description": "AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world. Experience a spotlight event at 7pm PT every night where you can learn, laugh, and gather with people on every major VR headset. Attend hundreds of spotlight events every month like: Open Mic Night, Improv Comedy, Meditation, LGBTQ+ Meetups, VR Church and more. Easily start your own meetup, show or class and discover the next frontier of entertainment and community.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=-qBivQZ5OcsAX8-jDjt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=38435ba475603fa3544a0bfd6e7f87ef&oe=605E7B2F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=G5qBj4oBot4AX_t84cl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b249dc66a95ba541acb9aac6bcc7166f&oe=60626FAF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
