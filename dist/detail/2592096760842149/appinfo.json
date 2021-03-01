@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031630_209840987507207_7790316816466289154_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=bJ2GmQ01ujgAX_gk0T6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7c17b7de46843fabc162d4eaccc378a4&oe=6062C51C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031630_209840987507207_7790316816466289154_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=bJ2GmQ01ujgAX8m5tS8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=20d3368d86c91f9587a6832435c3af4b&oe=6062C51C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_751626645754648_9092022174548042905_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=N7OP0fnkoXEAX9gZtSY&_nc_ht=scontent.oculuscdn.com&oh=750f8ecc3f0c0be7f17aa0e199de2233&oe=6062400A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_751626645754648_9092022174548042905_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=N7OP0fnkoXEAX_sepKn&_nc_ht=scontent.oculuscdn.com&oh=c2ca9d8edfcab3cdd680b87fac913498&oe=6062400A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 13,
+					"count": 14,
 					"starRating": 2
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 374,
+					"count": 379,
 					"starRating": 5
 				}
 			],
@@ -80,13 +80,13 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "1.13",
-				"change_log": "Stat tracking update, playtest mode update",
+				"change_log": "fixed z-fighting glitch in bonus stadium 2",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1575736255",
-				"id": "3899383406780138",
-				"required_space_adjusted": "1401960842",
+				"total_installed_space": "1576581248",
+				"id": "3902477089804103",
+				"required_space_adjusted": "1402243298",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -120,7 +120,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3899383406780138"
+					"id": "3902477089804103"
 				}
 			},
 			"release_channels": {
@@ -132,7 +132,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "1.13",
-							"id": "3899383406780138"
+							"id": "3902477089804103"
 						}
 					}
 				]
@@ -150,7 +150,7 @@
 							"created_time": 1613714078,
 							"body_text": "Hello!\n\nFirstly, we'd like to welcome all new players who picked up 2MD in the last couple of weeks, along with long-time fans who've been with us since launch.  we have some exciting updates to announce, so without further ado, let's get started!\n\n\n\n1. Major Graphical Overhaul!\n\nFirst and foremost, we're excited to announce a thorough graphical overhaul of the entire game!  higher detailed player graphics (more on that below!), upgraded stadium details, textures, lighting, shadow, and more, designed to redefine the look of the game on both Quest and Quest 2.  Additionally, Quest 2 players will be treated to enhanced anisotropic filtering, AA, and higher resolution.\n\n\n\n2. All Player Models Updated!\n\nAs mentioned above, we've gone and done a new detail pass on all player graphics.  First, we'll start with the tackle-dummies.  Dummies now feature enhanced shadow and texture detail, to allow for better visibility downfield.\n\n\n\nEven more exciting:  robot player types have been given a substantial boost in geometric and texture detail across the board, and additionally now feature position-specific enhancements for receivers and linemen, including shoulder armor for linemen as well as a slightly more prominent size differential.  This will allow for easier differentiation between player types after the snap when precious seconds count most.  Robot players have also been given a more traditional gridiron football uniform color spread, with primary colors for their jerseys, and secondary colors for for their legs.\n\n\n\n3. Random Weather System version 1.0!\n\nPreviewed in our last update with the Unicorns and Truants field, we've further improved weather effects for better immersion and variety in field options.  Now, the round 3 field features a newly implemented randomized version of this weather system, which can vary between dawn, dusk, rain, and snow!\n\n\n\n4. Special Scrimmage / Play-test mode!\n\nPlayers who download the 1.1 update will immediately notice a new prop on the equipment cart in the locker room, based on a vintage portable football toy:\n\n\n\nThis isn't only a nod to one of the first examples of electronic football (of which we consider 2MD a distant spiritual successor), it's also a portal into the brand-new Play Test mode.  This is an infinite scrimmage mode that will allow players not only to test their plays against a simulated team without the burden of a time-limit, it additionally includes a newly implemented real-time broadcast display, which will give players a bird's eye view of their plays before and after the snap.  We hope this will give you even more opportunity to hone and refine your strategy before chasing the championship!  Lastly of note, this field features versions for both robot and dummy player body types!\n\n\n\n5. Practice Field Training Camp!\n\nIn addition to play-test mode, we've added additional features to the practice field to give it the feel of a pre-season training camp.  In addition to the floating target toss, the practice field now includes interactive downfield drill equipment!  New additions include tic-tac-toe boards, rebound targets, trainer nets, and a target board!  This field also includes the new broadcast display, so players can further hone throw distance and form.\n\n\n\n6. So...Many...STATS!\n\nWe've decided to save the best for last (for some folks ;p ).   Have you ever pulled off the perfect play, resulting in a sick 80-yard touchdown, you tell your friends, but they're like:\n\n\n\nWell, now you can, because 2MD VR: Football Unleashed version 1.1 features the addition of a new QB stat tracking feature!\n\nPreviously, we tracked simple stats such as total touchdowns, hotstreaks, and cumulative score for achievement progress.  With the 1.1 update, 2MD will begin tracking the following stats:\n\n- Total Touchdowns\n- Total Pass Touchdowns\n- Total Completions\n- Completion Percentage\n- Total Attempts\n- Total Conversions\n- Total Hotstreaks\n- Highest Completion Streak\n- Total Passing Yards\n- Total Yards\n- Total Interceptions\n- Total Wins\n- QB Total Rush Yards\n- QB Total Rush TDs\n\nThe appropriate stats will be incorporated into your Passer Rating, which will continually update as you play the game.   Additionally this will also be broken down per round!\n\nIn addition to game totals, 2MD will also collate series stats, so you can see how you did after each playthrough:\n\n- Series Pass TDs\n- Series Completions\n- Series Completion Percentage\n- Series Attempts\n- Series Interceptions\n- Series Pass Yards\n- Series Rush Yards\n- Series Rush TDs\n- Series Total Yards\n- Series Total TDs\n- Series Passer Rating\n\nAll stats will be visible in the locker room, with game totals displayed on a new dedicated whiteboard situated opposite the main whiteboard.  Series stats, meanwhile, will be located on a clipboard to the right of the play designer on the main whiteboard, for easy viewing every time you return to the locker room:\n\n\n\nFor now, we will consider statistics implementation in 'beta,' as we need real-world results to ascertain how well items are being tracked.  Additionally, these new stats will reflect performance beginning at the time that the update is installed and won't be retroactive (the only lifetime totals will be the previously mentioned achievement-associated metrics, such as total wins, hotstreaks, and your cumulative score). It is our hope, however, that stats can potentially play a role in possible community events in the future, so stay tuned.\n\nWhew!  We're hopeful that these fairly substantial updates help increase the value and replay-ability for players who are both new to the game, as well as those of you who've been with us since the beginning.  We're eternally grateful for your support, as well as your recommendations.  We only ask that, if you like 2MD, please spread the word, and of course post your review (we read all of them...Even the mean ones).  Your continued support will hopefully facilitate greater visibility for the game, which, in turn, can help support more substantial updates down the road.  Take care, and as always, thanks for taking the time to play our game!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974580_2867236383561536_767464176804595119_n.png?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=QFmx87VBT6MAX89sE5U&_nc_ht=scontent.oculuscdn.com&oh=98c4a12ad86207045c0858a85a01ee98&oe=6061DDF9"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974580_2867236383561536_767464176804595119_n.png?_nc_cat=103&ccb=3&_nc_sid=79b88e&_nc_ohc=EsD_e6_-AToAX8IaUi1&_nc_ht=scontent.oculuscdn.com&oh=4475e0aaeab78f1d96c891f7d37e5244&oe=6061DDF9"
 							}
 						},
 						{
@@ -159,7 +159,7 @@
 							"created_time": 1611807939,
 							"body_text": "The day of the big game is almost here!  To celebrate this week, we're adding a new feature that has been oft requested, as well as some fun improvements to the on-field presentation!  So without further delay, let's get started!\n\nThe biggest news is, as of this update, we're adding the ability to toggle between the trigger and grip buttons for all interactions.\n\n\n\nThis addition comes with a couple of caveats.\n\n-Firstly, because of how the HMD tracks the controllers, we don't recommend changing your hold orientation significantly.  We've found that maintaining the same hand positions when using the trigger yields the most accurate tracking and, in turn, the best results.\n\n-Second, because the travel for the grip button is significantly different from the trigger, you will need to re-calibrate your release timing and throw power when changing controls.\n\n-Lastly, and we really can't stress it enough, wear the wrist straps when using the controllers at all times, but especially with this control orientation.\n\nThrowing a football is a kinematically complex action, involving progressive movements of the feet, hips, shoulders, arm, and forearm down to the fingertips.  It's for this reason that we still consider the trigger the default and preferred way to play the game.  We are, however, always open to giving players more options, so it is our hope that providing this control gives some folks an added dimension to their VR football experience!\n\nNext!  We've added new lighting conditions to all the 'Bot fields.\n\n\n\nThese include sunrise, sunset, overcast and more.  The new lighting conditions help bring out some of additional character to each of the stadiums, and help bring out previously hidden detail in some of them.\n\nLastly, with regards to certain field details, we've gone another step further -- in the effort to squeeze as much out of the remaining performance as we can, we've added some alternative weather conditions to the Truants' and Unicorns' fields with rain and snow!\n\n\n\n\nThis is our first attempt at alternative weather conditions on the mobile platform, but hopefully not our last.  As is standard, ALL updates will be available to both Quest 1 and Quest 2 HMDs!\n\nIf you want to let us know how we're doing, as always, reach out to us on Twitter or via our email at the support links on the store page.  You can also join our discord server, if you want to interact with other members of the 2MD community across platforms.  And, as always, thanks for your time, and for your support.\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_123742576278379_389344356401501076_n.png?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=67dEA6QWilcAX-8S9by&_nc_ht=scontent.oculuscdn.com&oh=84a39397d9c94c30237a75cac53a0dee&oe=6060E64F"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_123742576278379_389344356401501076_n.png?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=NBCAYrwEeT0AX8bH6Km&_nc_ht=scontent.oculuscdn.com&oh=d6be6cd3a8e0961ed6faaeec011dedea&oe=6060E64F"
 							}
 						}
 					]
@@ -216,11 +216,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2620481927711,
+			"quality_rating_aggregate": 4.2641791044776,
 			"support_website_url": "http://truantpixel.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 478,
+				"count": 484,
 				"orderings": [
 					{
 						"key": "top",
@@ -233,10 +233,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 478,
+				"count": 484,
 				"page_info": {
-					"end_cursor": "AQHRKQL-JW3-aYs8nucyu5hIiVJffy3djmv5UYwAk03M3cVAJ5Mb6si5SsAzl4k5yMrRhXUr104jWa5NfASL5T8fvA",
-					"start_cursor": "AQHRKQL-JW3-aYs8nucyu5hIiVJffy3djmv5UYwAk03M3cVAJ5Mb6si5SsAzl4k5yMrRhXUr104jWa5NfASL5T8fvA"
+					"end_cursor": "AQHRR6aoHxJabfD1E3vOaxB1qJkipgEg42cW2dF5FCXPmISkA2vfz3Bhz87aHhsKdlJ-iS9YxRduTFIQAKno4gtqXg",
+					"start_cursor": "AQHRR6aoHxJabfD1E3vOaxB1qJkipgEg42cW2dF5FCXPmISkA2vfz3Bhz87aHhsKdlJ-iS9YxRduTFIQAKno4gtqXg"
 				},
 				"edges": [
 					{
@@ -246,13 +246,13 @@
 								"id": "106111141408423",
 								"display_name": "jackdlieb",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1080.1080a/s160x160/38974450_106120358074168_983931214044362303_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=sWdVCq356yAAX9Je-jD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35c513a2aa6f7c9cce523a7fef0b1ad1&oe=605FFC30"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1080.1080a/s160x160/38974450_106120358074168_983931214044362303_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=rSaulsC-5iMAX-xUs_c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e8f2f8697c98c898868696f9a35c225f&oe=6063F0B0"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Wow. I honestly don’t Know what I expected when buying this but holy cow it’s so good. The only reason I’m giving this 4 stars instead of five is because I think they can add so much more to this game. This game has so much potential. This game is so cool and I love being a quarterback. ￼ when I say it can have more stuff I’m gonna list a few. Maybe start with a Season game mode where you play a full season and get all the way to the championship. Then after that maybe a different position mode like a wide receiver or running back. Then after that a career mode where you pick what position you want and you play and become a hall of fame player. This game has so much potential. Please don’t stop. I would pay 15 more bucks for an add on of all the things I mentioned. So you can definitely make more money. Great game. Keep it up",
 							"reviewTitle": "Holy $h!T",
-							"review_helpful_count": 75,
+							"review_helpful_count": 76,
 							"review_rank_by_viewer": null,
 							"date": 1612081212,
 							"developerResponse": null
@@ -267,7 +267,7 @@
 				"description": "2MD is a groundbreaking motion-controlled VR football game. Draw the plays, call the shots, and throw, hand-off, or run the ball before the clock runs out!\n\n‣ Throw like a pro with realistic motion controls in a room-scale quarterback experience.\n‣ Draw up to 8 offensive plays in VR before taking the field.\n‣ 8 customizable teams and 8 immersive stadiums.\n‣ Exciting arcade presentation, challenging AI, achievements, leaderboards, virtual trophy case, and more.\n‣ Oculus Rift Cross-Buy Enabled.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974646_414255659635118_6632602838455070670_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=QR2XO6DBWuEAX_IkyLE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2774a7d2bfacbff8a207aed73e16fcec&oe=6061CC0E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974646_414255659635118_6632602838455070670_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=QR2XO6DBWuEAX_186D9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3de29a795240d177b3791169dbcbd713&oe=6061CC0E",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
