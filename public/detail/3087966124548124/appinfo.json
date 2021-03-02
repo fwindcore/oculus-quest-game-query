@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75593947_309357976871568_6317619465364719192_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=CchQpycwpwQAX_XU2Uu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=94ebd733e1bfe354ca50aedfb75dfea2&oe=606404FD"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75593947_309357976871568_6317619465364719192_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=CchQpycwpwQAX_8Soa_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3c9fcc701250e9555f92603a14b16ff&oe=606404FD"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031341_268290334596554_1061535743284667661_n.mp4?_nc_cat=109&ccb=3&_nc_sid=0ed769&_nc_ohc=mCp-Ito-ufIAX-1W3LS&_nc_ht=scontent.oculuscdn.com&oh=b706ada78aa54a0a102909064160e43f&oe=6062B87B"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031341_268290334596554_1061535743284667661_n.mp4?_nc_cat=109&ccb=3&_nc_sid=0ed769&_nc_ohc=mCp-Ito-ufIAX9sinyr&_nc_ht=scontent.oculuscdn.com&oh=9f1b905cc044430dc2f2f52d41a37ae6&oe=6062B87B"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -133,17 +133,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "775062389696605",
+				"id": "3983648071691376",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1399",
+					"formatted": "$13.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-30%",
+				"end_time": 1614758340,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -226,7 +231,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "775062389696605"
+				"id": "3983648071691376"
 			},
 			"externalReviews": {
 				"count": 0
@@ -250,8 +255,8 @@
 			"firstQualityRatings": {
 				"count": 91,
 				"page_info": {
-					"end_cursor": "AQHRg0lIwI40dEuhJyVSVbMYaCQCdeSk4eKYODlQEg6w4RVJhyzez0fxtPADGsLCiEfBMMnFYdaAgmqN0Fwna32NoQ",
-					"start_cursor": "AQHRg0lIwI40dEuhJyVSVbMYaCQCdeSk4eKYODlQEg6w4RVJhyzez0fxtPADGsLCiEfBMMnFYdaAgmqN0Fwna32NoQ"
+					"end_cursor": "AQHRbX4_IlnWYsT6s0dIbRViQzmM4tNSSEpHKf1DwvRNKFcO3DzCN5evWTn6eljjtM3_eo0OHTPnujBgFFkOY0qBfQ",
+					"start_cursor": "AQHRbX4_IlnWYsT6s0dIbRViQzmM4tNSSEpHKf1DwvRNKFcO3DzCN5evWTn6eljjtM3_eo0OHTPnujBgFFkOY0qBfQ"
 				},
 				"edges": [
 					{
@@ -261,13 +266,13 @@
 								"id": "105941683901885",
 								"display_name": "kem423",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/86613168_298055601357158_4622112662572154765_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=u9AgwXPgJL4AX-S35om&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3746514937f76e898f2e058114d66764&oe=60613A6C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/86613168_298055601357158_4622112662572154765_n.jpg?_nc_cat=100&ccb=3&_nc_sid=79b88e&_nc_ohc=u9AgwXPgJL4AX95S6jp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=75fb0831c07a36ee8d9f9df3760aa728&oe=60652EEC"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I am on chapter 4. I have played about 1.5 hours. The game starts out pretty calm with an eerie ambiance.  As you gather pieces to the picture you are completing the levels of insanity increase. You feel like you are in the twisted mind of a madman. The story is grim and the visuals are good for a Quest port. There is a constant building of tension. You will often look one direction and then turn and look back to find that everything has changed. \n\nIt is not the heart pounding hide or run away feeling of Dread Halls. It is a great psychological mind game. You almost start feeling like you are the one going insane. I recommend playing with headphones. \n\nThe glitches:  doors will often get stuck or not be able to grab handles and/or objects easily. Clipping is pretty bad in many areas and you end up not being able to move or the visuals jump around when trying to move. Object interaction isn’t the smoothest. \n\nI would also turn off subtitles as it helps with the immersion when you pick up items to be read. If you need to read them more easily you can press your trigger and the subtitles for the object appear in type. Press trigger again and they are gone. Otherwise you can hold notes closer to your face and try to read the cursive handwriting and notes (better immersive feeling)\n\nI also turned off the tunnel vision as it breaks immersion for me. I don’t usually get VR sickness so was fine. \n\n5 stars if they fix the screen stuttering, getting stuck and glitchy object interaction that break immersion.\n\n**Developers:  are there multiple endings in the Quest version of LoF?  I only get Endless. Before I keep going over and over and over again can you please verify if there are multiple endings?  Great game just don’t want to waste time again and again. Tried a walk through after beating it a few times and I still only get the one ending. Thank you.\n\nUPDATE If you have a Q2 this game’s visuals are not great. Feels like you are in a cloud or haze all the time. Almost gives me a headache cuz of the near blurry feeling from the lack of contrast in the dark areas which is most of the game. I’ve beat the game multiple times on my Quest 1 and thought it was great. I can’t stand to play it on my Q2.  I think I’ll have to give up on horror games on my Q2. They just aren’t that appealing visually. Horror needs good darks and contrast in the dark.",
 							"reviewTitle": "Eerie, mind twisting but glitchy",
-							"review_helpful_count": 76,
+							"review_helpful_count": 80,
 							"review_rank_by_viewer": null,
 							"date": 1608100580,
 							"developerResponse": null
@@ -282,7 +287,7 @@
 				"description": "《层层恐惧VR》带来的心理恐惧会让你质疑自己的双眼和心智。你有勇气帮助主人公画出充满恐惧的艺术巨作吗？快戴上Quest来试试胆量吧……",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974884_3063797673657812_1460053998709008108_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=3xWwOf39B2UAX9nUbCq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b684e282601d5517137fc61f1a402278&oe=60628F4B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982584_264034905126963_864781864817644681_n.jpg?_nc_cat=101&ccb=3&_nc_sid=79b88e&_nc_ohc=-O5cnwZQHUAAX_hiyJz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd705b2d766283cca0fbb099a13dd409&oe=6063AF8F",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
