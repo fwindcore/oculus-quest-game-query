@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=q8rMpxBGgYAAX_3YaFw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb7ffc2b53b92503f32ad8bbc243256c&oe=6062D03F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=3&_nc_sid=79b88e&_nc_ohc=q8rMpxBGgYAAX8Mfu0n&_nc_ht=scontent.oculuscdn.com&tp=28&oh=38f0860b68c1e3b67e461ecea5007614&oe=6066C4BF"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=3&_nc_sid=0ed769&_nc_ohc=7g6wQgwTQvQAX_kaut1&_nc_ht=scontent.oculuscdn.com&oh=ca9046283ba2dde3f3d0e6f6b90d55bd&oe=60642971"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=3&_nc_sid=0ed769&_nc_ohc=7g6wQgwTQvQAX9NiBQO&_nc_ht=scontent.oculuscdn.com&oh=c1955440cadf03a0e637ce9d15857e82&oe=60642971"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 626,
+					"count": 627,
 					"starRating": 1
 				},
 				{
@@ -31,21 +31,21 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 346,
+					"count": 347,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 706,
+					"count": 708,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1885,
+					"count": 1890,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "NEW LUNAR NEW YEAR UPDATE NOW LIVE\n\nPokerStars, the world’s leading poker brand, has combined live and online poker in a truly immersive VR experience.\n\n-Study your opponents, pick up on their tells, and chat in real time\n-Handle your chips and cards, just as you would at a real-world poker table\n-Keep the table fun with interactive props and toys, summoned in an instant\n\nThis is the most exciting poker game on the planet, and there’s a seat open for you right now.\n\n- Key Features -\n\n-Authentic poker, blackjack & slots action\n-A fully immersive, social experience\n-Simple, intuitive, easy to play\n-Play real opponents\n-Realistic physics, from cards and chips to balloons, pistols and more\n-Unlock free chips every day\n-Certified RNG\n\n- Exotic locales -\n\n-Medieval Castle\n-Cyber Apartment\n-Evil Volcano Lair\n-Macau 2050\n-The Galaxy Space Station\n-Macau Suite\n-The Showdown Saloon\n-The Monte-Carlo Yacht\n-The Void",
+			"display_long_description": "PokerStars, the world’s leading poker brand, has combined live and online poker in a truly immersive VR experience.\n\n-Study your opponents, pick up on their tells, and chat in real time\n-Handle your chips and cards, just as you would at a real-world poker table\n-Keep the table fun with interactive props and toys, summoned in an instant\n\nThis is the most exciting poker game on the planet, and there’s a seat open for you right now.\n\n- Key Features -\n\n-Authentic poker, blackjack & slots action\n-A fully immersive, social experience\n-Simple, intuitive, easy to play\n-Play real opponents\n-Realistic physics, from cards and chips to balloons, pistols and more\n-Unlock free chips every day\n-Certified RNG\n\n- Exotic locales -\n\n-Medieval Castle\n-Cyber Apartment\n-Evil Volcano Lair\n-Macau 2050\n-The Galaxy Space Station\n-Macau Suite\n-The Showdown Saloon\n-The Monte-Carlo Yacht\n-The Void",
 			"developer_privacy_policy_url": "http://www.getluckyvr.com/privacy-policy/",
 			"developer_terms_of_service_url": "https://www.pokerstars.com/poker/ps-vr/tos/",
 			"supported_player_modes": [
@@ -86,8 +86,58 @@
 				"total_installed_space": "2576047910",
 				"id": "4134004153277882",
 				"required_space_adjusted": "4548087963",
-				"storeAddOns": null,
-				"firstIapItems": null
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 17
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": "AQHRWDkJxhQrnlRbApK4eLO7SfY3V1pUYIF0h1NmSLOgfjFnE4-aDb9HOhXuBYQ6oyrUAXP7UMH3qab-q0H5-vceNw",
+						"start_cursor": "AQHRWDkJxhQrnlRbApK4eLO7SfY3V1pUYIF0h1NmSLOgfjFnE4-aDb9HOhXuBYQ6oyrUAXP7UMH3qab-q0H5-vceNw"
+					},
+					"count": 17,
+					"edges": [
+						{
+							"__typename": "AndroidBinaryStoreAddonsIncludingBundlesEdge",
+							"node": {
+								"__typename": "IAPItem",
+								"id": "4121552404523057",
+								"current_offer": {
+									"__typename": "AppStoreOffer",
+									"id": "257327662436612",
+									"offer_type": "APPSTORE_OFFER",
+									"__isPurchasableOfferWithApp": "AppStoreOffer",
+									"price": {
+										"currency": "USD",
+										"offset_amount": "99999",
+										"formatted": "$999.99"
+									},
+									"strikethrough_price": null
+								},
+								"__isAppStoreItem": "IAPItem",
+								"display_name": "150,000,000 Chips",
+								"display_short_description": "150,000,000 Chips",
+								"is_viewer_entitled": false,
+								"latest_supported_asset_file": null,
+								"parentApplication": {
+									"canonicalName": "luckyvr-inc-pokerstars-vr-quest-android6d0f",
+									"id": "2370815932930055"
+								},
+								"purchase_alerts": [
+									{
+										"type": "PARENT_APP_REQUIRED",
+										"message": "这是附加内容，需要有主游戏 (PokerStars VR) 才能玩"
+									}
+								],
+								"parent_application": {
+									"id": "2370815932930055"
+								},
+								"__isNode": "IAPItem"
+							}
+						}
+					]
+				}
 			},
 			"recommended_graphics": null,
 			"recommended_memory_gb": null,
@@ -149,8 +199,8 @@
 								"current_end_timestamp": 1614819600,
 								"current_start_timestamp": 1614812400,
 								"temporal_info": {
-									"seconds_until_end_time": 145807,
-									"seconds_until_start_time": 138607
+									"seconds_until_end_time": 59412,
+									"seconds_until_start_time": 52212
 								},
 								"vr_app_and_destination_string": "PokerStars VR",
 								"vr_applications": {
@@ -172,7 +222,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "PokerStars VR 2X Creds Power Hours",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974883_841343863380413_9190822585146099577_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=eto8xBbITZAAX9uS91C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cc14e17aca149426cf07b9839b72a89&oe=60630B2C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974883_841343863380413_9190822585146099577_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=eto8xBbITZAAX_cFzzR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=16182ec265c1211e2016d22584a861c8&oe=60630B2C"
 								}
 							}
 						}
@@ -187,7 +237,7 @@
 							"created_time": 1614292573,
 							"body_text": "Hey PokerStars VR players we have a great update for you with [Patch 62] now live for download!\n\nThis update includes the brand new slot STORM GODDESS and the introduction of Slots Missions!\n\nNew Features\n- Storm Goddess Companion and Standalone\n- Slot Missions\n\nBug Fixes / Improvements\n- Classic Lobby Re-enabled\n- Redesigned wrist ui top button row page cycler\n\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974908_249775493295185_5622434662485465957_n.png?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=jM32EfrBJkwAX8X-Tqm&_nc_ht=scontent.oculuscdn.com&oh=c09254f6cfa691637ac9eab788a3fc5e&oe=606235CC"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974908_249775493295185_5622434662485465957_n.png?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=ghTXEaNSf-8AX89RZys&_nc_ht=scontent.oculuscdn.com&oh=122d21d5b1d50a9bd19f2d5b1fd5acb1&oe=60662A4C"
 							}
 						},
 						{
@@ -196,7 +246,7 @@
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=0G3VUFIT1PkAX8OG9TF&_nc_ht=scontent.oculuscdn.com&oh=0075e1f0c02bdc4477d9430a5bc62064&oe=6061E931"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=NHp5NiiIg2YAX8X0RDc&_nc_ht=scontent.oculuscdn.com&oh=0e5958302226d0933715e08de5ceebfa&oe=6065DDB1"
 							}
 						}
 					]
@@ -204,7 +254,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRdPwPYYh6ggQnNwc6Q4ng9676jm9Mn_3Hh-ITv-GVlKr_msu2knKqwtf4DZvjD8nbyp-vQkIOl_qjjyZoxzzLvw"
+							"cursor": "AQHRJb_q7GGbTNGod5jAEaeNNn_-SXIn_OwgiC5RAYgB8TSmZ8MI9Dfv_wWDYOQcHw4Jv48MxyKaI52sd2uVco6rEA"
 						}
 					]
 				}
@@ -251,11 +301,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7808974022566,
+			"quality_rating_aggregate": 3.7816753926702,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1356,
+				"count": 1363,
 				"orderings": [
 					{
 						"key": "top",
@@ -268,10 +318,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1356,
+				"count": 1363,
 				"page_info": {
-					"end_cursor": "AQHR2EZ0E_MZJSe6XErXZ8Z6E-APG0govzCmWtHGPZY1oVDKXsDi5zmJd-C70hWgl2-lifVhX0JrHYm3LKGTrG4thw",
-					"start_cursor": "AQHR2EZ0E_MZJSe6XErXZ8Z6E-APG0govzCmWtHGPZY1oVDKXsDi5zmJd-C70hWgl2-lifVhX0JrHYm3LKGTrG4thw"
+					"end_cursor": "AQHRN_fnGlVH2FBnVToozcnMax3WMTGi_bmqgTpGDM3MAeU9-JbzwDcT5bAS1-0x2aMDhMRbJrm3yPzCXtkt8yfoAw",
+					"start_cursor": "AQHRN_fnGlVH2FBnVToozcnMax3WMTGi_bmqgTpGDM3MAeU9-JbzwDcT5bAS1-0x2aMDhMRbJrm3yPzCXtkt8yfoAw"
 				},
 				"edges": [
 					{
@@ -281,13 +331,13 @@
 								"id": "106038888155480",
 								"display_name": "foxxieDotts",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001679_108599864566049_5814383828591060832_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=3M5d2Bhb_20AX8-1gA_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d4158fa50c1fbba37c682bbdf80be61&oe=6063D923"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001679_108599864566049_5814383828591060832_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=3M5d2Bhb_20AX9r-X9g&_nc_ht=scontent.oculuscdn.com&tp=28&oh=918d3c350141dd9eb0866e0ac371e766&oe=6063D923"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "The game is great! Really immersive and you feel like you are at a real table! However, there too many kids in there ruining the fun of it and harassing people. Maybe more moderators should be monitoring their behaviour. Had to put up with a few the other day that obstructed my game just because I am a female player. Otherwise, you can have a decent game with fellow players and enjoy it a lot!",
 							"reviewTitle": "Great game but",
-							"review_helpful_count": 143,
+							"review_helpful_count": 147,
 							"review_rank_by_viewer": null,
 							"date": 1611752963,
 							"developerResponse": {
@@ -303,10 +353,10 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "NEW LUNAR NEW YEAR UPDATE NOW LIVE\n\nStep into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
+				"description": "Step into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75223475_439151180612819_6595667778254080574_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=ePIhLTdTHbQAX-A8dah&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96ba1608638164d320809802c43dc694&oe=6063F615",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031493_442623763605727_6040787769737756471_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=gE0k5ToKhCgAX9bjgk5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f0bcef79ca522f1fe15b19fc586a8d8&oe=60640516",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
