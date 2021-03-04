@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39003226_712376596352428_8703783657411970236_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=lvYvdX5OgQYAX99lYgc&_nc_oc=AQl_X3sxH-C-xI5QQxbioKOzJg041pZrBZXw4xi5Rb2GtFP5R5HorJFoNnRnEMtHkaY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1a6d3155582a25ff12128feee04e2f14&oe=60639495"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39003226_712376596352428_8703783657411970236_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=rfSkKYWQxD8AX8EG7Bs&_nc_oc=AQlCnOnTn9cnnNXuQLUNOpuFy7HWMDRANE8M3RpLRtxWLTj6-rGgQRWUMILtValY1ZU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2bfc310c8319e119f53920573911df84&oe=60678915"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_327729661631968_3334931880357616327_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=OU7aU6x10AcAX_nD8Ci&_nc_ht=scontent.oculuscdn.com&oh=5e15f615abcf7284ae4f641f0da242a1&oe=6065DC3E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_327729661631968_3334931880357616327_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=OU7aU6x10AcAX8-JSYq&_nc_ht=scontent.oculuscdn.com&oh=5b9037ff3897dc7fc48b4a42be4779a3&oe=6065DC3E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -91,14 +91,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.3",
+				"version": "1.4",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "2171336747",
-				"id": "4867623943309998",
-				"required_space_adjusted": "3784875216",
+				"total_installed_space": "2297376605",
+				"id": "5059950874077303",
+				"required_space_adjusted": "3911034960",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 1
@@ -106,8 +106,8 @@
 				"firstIapItems": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"page_info": {
-						"end_cursor": "AQHRy_tOJLyTB0-I7k-gWXf21984vwcrnuJG8QCT1C2mOuwoClIiZiSubiIlUmxHWE3ZdlVwWQ1ZKnOMEPyUW1DJqg",
-						"start_cursor": "AQHRy_tOJLyTB0-I7k-gWXf21984vwcrnuJG8QCT1C2mOuwoClIiZiSubiIlUmxHWE3ZdlVwWQ1ZKnOMEPyUW1DJqg"
+						"end_cursor": "AQHRYv9WGtT9TKyZvdjuXjxQ_AFeqz1VtxzjaYH1B3Wki9DWHjuLl-U2j7Tg9yx92hGqjcuNG7wrBAizV1OeFXwTcg",
+						"start_cursor": "AQHRYv9WGtT9TKyZvdjuXjxQ_AFeqz1VtxzjaYH1B3Wki9DWHjuLl-U2j7Tg9yx92hGqjcuNG7wrBAizV1OeFXwTcg"
 					},
 					"count": 1,
 					"edges": [
@@ -115,26 +115,26 @@
 							"__typename": "AndroidBinaryStoreAddonsIncludingBundlesEdge",
 							"node": {
 								"__typename": "AppItemBundle",
-								"id": "649846732381774",
+								"id": "302482354542863",
 								"current_offer": {
 									"__typename": "AppStoreOffer",
-									"id": "226250055775952",
+									"id": "421643928903319",
 									"offer_type": "APPSTORE_OFFER",
 									"__isPurchasableOfferWithApp": "AppStoreOffer",
 									"price": {
 										"currency": "USD",
-										"offset_amount": "1999",
-										"formatted": "$19.99"
+										"offset_amount": "2399",
+										"formatted": "$23.99"
 									},
 									"strikethrough_price": {
 										"currency": "USD",
-										"offset_amount": "2598",
-										"formatted": "$25.98"
+										"offset_amount": "3266",
+										"formatted": "$32.66"
 									}
 								},
 								"__isAppStoreItem": "AppItemBundle",
-								"display_name": "Kizuna AI - Touch the Beat！ 完整劲曲包",
-								"display_short_description": "想要全面体验《Kizuna AI - Touch the Beat！》，就下载这个劲曲包吧，内含 Kizuna AI 的 7 首原创劲曲。",
+								"display_name": "Kizuna Ai - Touch the Beat! All Music Pack 2",
+								"display_short_description": "This Music Pack is for those who want to further enjoy “Kizuna AI - Touch the Beat!“.\r\nKizuna AI’s 9 original tracks are included in the Music Pack.",
 								"is_viewer_entitled": false,
 								"parentApplication": {
 									"canonicalName": "activ8-inc-kizuna-ai-android6d0f",
@@ -184,6 +184,18 @@
 												"__typename": "IAPItem",
 												"id": "4615206188551776"
 											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4893023067436752"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4893242127414846"
+											}
 										}
 									]
 								},
@@ -232,7 +244,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4867623943309998"
+					"id": "5059950874077303"
 				}
 			},
 			"release_channels": {
@@ -243,8 +255,8 @@
 						"id": "275217153598562",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.3",
-							"id": "4867623943309998"
+							"version": "1.4",
+							"id": "5059950874077303"
 						}
 					}
 				]
@@ -260,7 +272,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRtku6vSMF7OBhvJbBGh4oqZI4lZDsCdK109cutVGJuPSvBQ5Gy4bqjJc5Lvpp4celo1tY-GoaDoOaz6TlszWFIw"
+							"cursor": "AQHRK5A3VC7MLUyx9Rgd3VySM50iYOclwmq81U12YjTpw01kK7pwP_m6K-hMmUGbj3W9ChCyvJD_Sjti-W_pvSISTg"
 						}
 					]
 				}
@@ -326,8 +338,8 @@
 			"firstQualityRatings": {
 				"count": 42,
 				"page_info": {
-					"end_cursor": "AQHRLdoilzmEYoPiyYaWx0Ck3AEEhGLl84LopGOOekObjTJ0ENQNhfyw-AJtAHgDzmFx1qiWTRINFlWIVeyjHW5-og",
-					"start_cursor": "AQHRLdoilzmEYoPiyYaWx0Ck3AEEhGLl84LopGOOekObjTJ0ENQNhfyw-AJtAHgDzmFx1qiWTRINFlWIVeyjHW5-og"
+					"end_cursor": "AQHRVdSaGAnxDG3u8rWNQOAsrxfuRwP0E7aSeUv9acjwXBc0ZLmBOqKBxtwVblqu2Dug6a_5zZ2LXnxLfFW7a86hOQ",
+					"start_cursor": "AQHRVdSaGAnxDG3u8rWNQOAsrxfuRwP0E7aSeUv9acjwXBc0ZLmBOqKBxtwVblqu2Dug6a_5zZ2LXnxLfFW7a86hOQ"
 				},
 				"edges": [
 					{
@@ -337,13 +349,13 @@
 								"id": "112553913989556",
 								"display_name": "motaku96",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.172.172a/s160x160/39031425_112584330653181_4522128436433760796_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=6PB-Fb2oINEAX9Dg4uK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=777e07ec80c08226aec5be473348e88a&oe=6063025A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.172.172a/s160x160/39031425_112584330653181_4522128436433760796_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=6PB-Fb2oINEAX9eOqTo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fbd17ba7fac9f2eb78bc0c7b149b9541&oe=6066F6DA"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This is the best chance of getting idol/vtuber stuff in the west. If that's your jam, then this is the best way to support it. It's actually a pretty decent wotagei simulator and can build up your stamina for when we can go to concerts again.\n\nIf you don't know what any of that means, this is basically a beat saber lite, but it's actually harder on your arms since you have to move it much more to reach the blocks coming towards you. Try the 2 free songs and if you like what it is, you can pay for a few more songs. The \"movies\" that are paid are not really worth it since there's no depth to them. But it's not really the focus anyway, so just pay for the dlc if you want to support Kizuna Ai or you just want more songs.",
 							"reviewTitle": "Ai-chan reaches the world!",
-							"review_helpful_count": 36,
+							"review_helpful_count": 38,
 							"review_rank_by_viewer": null,
 							"date": 1611435654,
 							"developerResponse": null
@@ -358,7 +370,7 @@
 				"description": "Watch Kizuna AI's stage performance and cheer her on from the front row seat and use the penlight to hit back the beat flying towards you. The better you play, the closer you can watch Kizuna AI's stage performance. Aim to get consecutive combos!\n*Now offering the 1-month free promotion (scheduled to end in mid-February)!!\n*The 180° and 360° MOVIE which you can see for free now are the low-res versions of the official movies you can watch on her YouTube channel for free.\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035332_754051128766229_3553814611836991391_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=zuhnQUcwKS0AX8F2u1e&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1266847be37f4d5d0f5e6ab854806001&oe=6063B700",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035332_754051128766229_3553814611836991391_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=A-b0l-UoXMwAX9-Sgcr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=247e74b17db66372646a55acfc259299&oe=6067AB80",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
