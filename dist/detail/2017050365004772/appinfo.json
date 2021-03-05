@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=aNNGq-m648EAX9IHfbz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a38dea317ddc3050d680be4876a1643d&oe=6065CE12"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=Q4otMy5sRRwAX-b5zpz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f0d82b735d0d07806944ffa4a5d56478&oe=6065CE12"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=jTNPHyEJjEEAX-blcMJ&_nc_ht=scontent.oculuscdn.com&oh=5655a5549273a21a0dbf83cfb294c84a&oe=6064A6C6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=3&_nc_sid=0ed769&_nc_ohc=jTNPHyEJjEEAX_ky23O&_nc_ht=scontent.oculuscdn.com&oh=4940876d7b5553c9cdaf83a941588488&oe=60689B46"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 54,
+					"count": 55,
 					"starRating": 2
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2400,
+					"count": 2416,
 					"starRating": 5
 				}
 			],
@@ -79,14 +79,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.20.0.0",
-				"change_log": "Welcome to Virtual Desktop! If you experience any issues, please visit the website at www.vrdesktop.net to check out the FAQ or reach out to us on Discord.\n\nChanges in this version:\n• Removed need for patch to stream PCVR games\n• Added multi-account support in the Streamer app\n• Screenshots taken on your Quest are now automatically transferred to your desktop\n• Added Voice Over for notifications\n• Added Wi-Fi speed information, runtime used by game and GPU name to the Performance Overlay\n• Sliced encoding and Microphone passthrough are now enabled by default",
+				"version": "1.20.1.0",
+				"change_log": "Welcome to Virtual Desktop! If you experience any issues, please visit the website at www.vrdesktop.net to check out the FAQ or reach out to us on Discord.\n\nChanges in this version:\n• Fixed issue with Microphone and Screenshot permissions not always working\n• Added ZoneAlarm detection on Windows\n• Made it easier to click on macOS\n• Implemented 'Lock on Disconnect' on macOS\n• Stability improvements",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "447553683",
-				"id": "3851961938180263",
-				"required_space_adjusted": "779654622",
+				"total_installed_space": "447765081",
+				"id": "3876874605688996",
+				"required_space_adjusted": "780005238",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -120,7 +120,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3851961938180263"
+					"id": "3876874605688996"
 				}
 			},
 			"release_channels": {
@@ -131,8 +131,8 @@
 						"id": "269719120347043",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.20.0.0",
-							"id": "3851961938180263"
+							"version": "1.20.1.0",
+							"id": "3876874605688996"
 						}
 					}
 				]
@@ -148,7 +148,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRGWS4_4I0At-iO8kN7WB9IJR47OcHDpsr_t3bHl7iqzoFbtvpMBH0Hygp3eejHPjeeO9Dt2jWD2NynFSGFI5pGg"
+							"cursor": "AQHR6U_sqaGfbWVLceYw_T-cx3c-nH9Ej5IzDpl3wM5ckOOYmnTjHmmiA4oIr7COMrqxaPzJWSP2MkQ1KRpHHOpzqw"
 						}
 					]
 				}
@@ -201,11 +201,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4711729622266,
+			"quality_rating_aggregate": 4.4731466227348,
 			"support_website_url": "http://discord.vrdesktop.net/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1533,
+				"count": 1539,
 				"orderings": [
 					{
 						"key": "top",
@@ -218,10 +218,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1533,
+				"count": 1539,
 				"page_info": {
-					"end_cursor": "AQHRD_F2Wb4TsanyJFkMLDApDTB9wXh2Lx3x8ZAf1LWkzbnW8f5l37M7r3Q_DTqjR_xSXWbkfvzjlDHXtnJKAp1mcQ",
-					"start_cursor": "AQHRD_F2Wb4TsanyJFkMLDApDTB9wXh2Lx3x8ZAf1LWkzbnW8f5l37M7r3Q_DTqjR_xSXWbkfvzjlDHXtnJKAp1mcQ"
+					"end_cursor": "AQHRmIeoku7GPZUEDT0BTWSmMvZ3ldIVPRSo6CodY0oXM6pcmUhmG7EWXNEqEqwbTJnGyW4Uhyx5QcXQg9wmwPMNOQ",
+					"start_cursor": "AQHRmIeoku7GPZUEDT0BTWSmMvZ3ldIVPRSo6CodY0oXM6pcmUhmG7EWXNEqEqwbTJnGyW4Uhyx5QcXQg9wmwPMNOQ"
 				},
 				"edges": [
 					{
@@ -231,13 +231,13 @@
 								"id": "101441637642217",
 								"display_name": "SolidRustle",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982596_103027837483597_6208687672353882112_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=tJfOvZMURKgAX9b4KPS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2613e1fa116820d3a9cf523b8445c2ab&oe=6064595E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982596_103027837483597_6208687672353882112_n.jpg?_nc_cat=102&ccb=3&_nc_sid=79b88e&_nc_ohc=tJfOvZMURKgAX8FpVr3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cef41c486f46d56884dd8f805b718fee&oe=60684DDE"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This is a complete must have, i was blown away how well I can stream to my quest 2 headset even just the desktop streaming, but streaming pcvr games wirelessly, that's another whole new level of mind blowing.\n\nI'm literally experiencing the future of VR made possible with this app.\n\nNot even games works but most of them do, stop leaving bad reviews for your inability to research online, there's a whole google doc of the list of games that runs.",
 							"reviewTitle": "All quest users MUST OWN this app.",
-							"review_helpful_count": 147,
+							"review_helpful_count": 163,
 							"review_rank_by_viewer": null,
 							"date": 1613632313,
 							"developerResponse": null
@@ -252,7 +252,7 @@
 				"description": "Connect wirelessly to your computer(s) to watch movies, browse the web, play 2D games or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.\n\n• Connect up to 4 computers (Windows 10 or macOS Mojave)\n• PCVR game streaming requires a VR Ready PC running Windows 10\n• Supports Bluetooth mice, keyboards and gamepads\n• A wired computer to a 5 GHz AC Wi-Fi is required\n• Also works over the Internet (enable UPnP on your router)",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=WTFxozWRONQAX9VRgbE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7fec677c95bc6e2c0b8cfefdcb427c71&oe=60649B58",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=5MIpNTUcR14AX_Zp9M7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9b7c070a07bb560140050ca1e0ba960c&oe=60688FD8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

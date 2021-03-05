@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75435290_2742148462730398_96781513042639743_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=S-bmohgEjuoAX-uk8_R&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1e1b9460f40320813b3d87940cb6927e&oe=6066FB00"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75435290_2742148462730398_96781513042639743_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=S-bmohgEjuoAX-iVNRC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=706366d6d76dbb97adb138beff21cbc1&oe=6066FB00"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3415353201821122_4613170621877790682_n.mp4?_nc_cat=108&ccb=3&_nc_sid=0ed769&_nc_ohc=dd83FHgqw50AX8Jpdvs&_nc_ht=scontent.oculuscdn.com&oh=18d629f2ab2c28916331c8c6f5acaf17&oe=60655854"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3415353201821122_4613170621877790682_n.mp4?_nc_cat=108&ccb=3&_nc_sid=0ed769&_nc_ohc=dd83FHgqw50AX9gORns&_nc_ht=scontent.oculuscdn.com&oh=8b3cbbe2e6aaafb2369d9f13dedac3c8&oe=60694CD4"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 57,
+					"count": 59,
 					"starRating": 5
 				}
 			],
@@ -118,22 +118,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2781702235492729",
+				"id": "803082027103067",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%",
-				"end_time": 1614931140,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -172,7 +167,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRacnIHOfodskENNbmWOuXO65Y0JDaqwQGiruFVwoAGGdfN918vbba1iJsoeRHwpv4AbDpVp--KqF1ZHxrL22R9w"
+							"cursor": "AQHRvNTSfVS9-GyviL9WEAtiCYmt74cJcluJM9w-IZVwzSQpEEEv00raRqKQxThpM5I83oGfnsl0tipMQh_XdL3tfg"
 						}
 					]
 				}
@@ -220,16 +215,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2781702235492729"
+				"id": "803082027103067"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4303797468354,
+			"quality_rating_aggregate": 4.4444444444444,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 44,
+				"count": 45,
 				"orderings": [
 					{
 						"key": "top",
@@ -242,10 +237,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 44,
+				"count": 45,
 				"page_info": {
-					"end_cursor": "AQHR_kEnmrMjTS7JAJlx1STrXpPI-KZdxh3CWgl6Vg7hekGqrIkG5UZWWW5BALPu4e5AmrjAzY_z2MJjSmqXGnHRfw",
-					"start_cursor": "AQHR_kEnmrMjTS7JAJlx1STrXpPI-KZdxh3CWgl6Vg7hekGqrIkG5UZWWW5BALPu4e5AmrjAzY_z2MJjSmqXGnHRfw"
+					"end_cursor": "AQHRqcARVYZ4xVvU3t_A7zoSPnTOUoOAVhXiBQMRl4B2f7TRrfOPvQfxWEfGAmNyw3d_zecp3KhebfK5MK7mbxFDtQ",
+					"start_cursor": "AQHRqcARVYZ4xVvU3t_A7zoSPnTOUoOAVhXiBQMRl4B2f7TRrfOPvQfxWEfGAmNyw3d_zecp3KhebfK5MK7mbxFDtQ"
 				},
 				"edges": [
 					{
@@ -255,13 +250,13 @@
 								"id": "100252987874497",
 								"display_name": "Saxomophonist",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974781_209787800254348_6335593630849302528_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=dCwtfi4nnnEAX9NBwcO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c6a3a58d4898ce5f0154b542420edee3&oe=60682414"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974781_209787800254348_6335593630849302528_n.jpg?_nc_cat=105&ccb=3&_nc_sid=79b88e&_nc_ohc=dCwtfi4nnnEAX8Y4aqo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=405eb7ecc8a4826bdb0d9090d9df32fa&oe=60682414"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "When making Shooty Fruity, the developers seem to have found a rare balance between a quirky style and intense gameplay. This surprisingly challenging game capitalises on an almost compulsive need to tick all the boxes and earn all the stars. \n\nAs the levels become increasingly difficult, the game demands that you adjust accordingly, and makes you want to beat your previous scores. \n\nIf you consider yourself a completionist, enjoy a good challenge, or like watching your name climb up the leaderboard, this is probably a game for you.",
 							"reviewTitle": "Full review up on 6DOF Reviews",
-							"review_helpful_count": 48,
+							"review_helpful_count": 59,
 							"review_rank_by_viewer": null,
 							"date": 1609564894,
 							"developerResponse": null
@@ -276,7 +271,7 @@
 				"description": "THE AWARD WINNING MULTI-TASKING SHOOTER\n\nDo your job whilst shooting guns! Shooty Fruity combines high agency job simulation with exhilarating combat that makes you feel like a true action hero - whether McClane, Wick or Rambo. \n\nScan, serve & pack across countless missions. Take on new roles and unlock weapons to fight your way through your career. Scan shoot repeat!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75388622_1165270607226535_1611008275494045500_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=6nFheGF0RakAX_6KBks&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b6e20e40911dfe5af1e10befac1affcd&oe=60652865",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031433_2769855023339321_3743352667922796993_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=MeI7x7pdQwwAX_9uon1&_nc_oc=AQk5QLpMqfigLAkLlE_VN8VtD5tNLHqMxoMXvzItxKtTgb0xveWBxecETyPqSIu64YY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=489013094679e28d838b66458f8d7d6f&oe=60697676",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -1,0 +1,239 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "2108767382537806",
+			"display_name": "Arthur",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982658_768135190574095_1214029505073396689_n.jpg?_nc_cat=107&ccb=3&_nc_sid=79b88e&_nc_ohc=0EOe8-fLZpMAX83_iwA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=edabfce362275570ed6693a5836bc746&oe=6068A867"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974792_293284708860967_2235852779057042150_n.mp4?_nc_cat=111&ccb=3&_nc_sid=0ed769&_nc_ohc=Jpe4gjqrrJAAX_blpMf&_nc_ht=scontent.oculuscdn.com&oh=8bcb0cc540ed2f933ca21f970de2fb24&oe=6067786B"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 0,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 1,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 0,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 1,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Arthur is your virtual office space. It allows you and your team to meet, collaborate and manage your work. In Arthur, you feel like you’re in the same location as your teammates, but you can still enjoy all the advantages of digital collaboration. By using Arthur, you empower yourself and your team to maximize levels of remote productivity and free yourself from geographic and physical constraints.\n\nThe version of Arthur available in this store offers a free and light Consumer space with unlimited session time and exciting productivity features for smaller teams that do not need as much room. In case your virtual office gets too crowded, you can simply upgrade to additional spaces.\n\nFor teams with needs of high scalability for team size and space, check out our fully-fledged virtual office in the Professional lobby or www.arthur.digital/product-portfolio to find out more.",
+			"developer_privacy_policy_url": "https://arthur.digital/privacy-policy.html",
+			"developer_terms_of_service_url": "https://arthur.digital/license-agreement.html",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "Arthur Technologies Inc.",
+			"supported_in_app_languages": [
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人合作",
+				"单人",
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "Arthur Technologies",
+			"genre_names": [
+				"效率",
+				"社交",
+				"工具"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "0.16.0",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "710013166",
+				"id": "3675222372558958",
+				"required_space_adjusted": "972053686",
+				"storeAddOns": null,
+				"firstIapItems": null
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1614880838,
+			"supported_tracking_modes": [],
+			"website_url": "https://arthur.digital/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "759105921703744",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "554217131752762"
+			},
+			"live_release_channel": {
+				"id": "554217131752762",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3675222372558958"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "554217131752762",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "0.16.0",
+							"id": "3675222372558958"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "2308445679399182",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "arthur-technologies-arthur-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "759105921703744"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Arthur",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 3.5,
+			"support_website_url": "https://arthurtechnologies.zendesk.com/",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 0,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 0,
+				"page_info": {
+					"end_cursor": null,
+					"start_cursor": null
+				},
+				"edges": []
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Arthur is your virtual office space. It allows you and your team to meet, collaborate and manage your work. In Arthur, you feel like you’re in the same location as your teammates, but you can still enjoy all the advantages of digital collaboration. By using Arthur, you empower yourself and your team to maximize levels of remote productivity and free yourself from geographic and physical constraints.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003242_501132817947194_3723340871452757409_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=WYfhmhvibpQAX_pLbar&_nc_oc=AQn2pxcsv8QIHk-Ahb_M-JsMarlkRzXAm609cD05n1a2cpnCXbG3uVh1uQDeCdI7mds&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1373057861c1980f55f39c5d12adf85a&oe=6067D7FF",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/2108767382537806/",
+				"site_name": "Oculus",
+				"title": "Arthur · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
