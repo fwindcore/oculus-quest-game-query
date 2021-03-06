@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75269160_431345637543688_191274663425343488_n.jpg?_nc_cat=108&ccb=3&_nc_sid=79b88e&_nc_ohc=jgbjOWA3h9YAX81har0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7dd6c64ccb0df74ee7ed85cd3a74b587&oe=6066ACEC"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75269160_431345637543688_191274663425343488_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jgbjOWA3h9YAX8lSMWf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9eb6d7d0a6215d77236fc911579f74b2&oe=606AA16C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974560_431335457544706_7031145326530527232_n.mp4?_nc_cat=107&ccb=3&_nc_sid=0ed769&_nc_ohc=kurMIkeFzxgAX_fu1uj&_nc_ht=scontent.oculuscdn.com&oh=12ca8d36af473f73fc569ad21a61a22b&oe=6067F918"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974560_431335457544706_7031145326530527232_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=kurMIkeFzxgAX-Ldfqy&_nc_ht=scontent.oculuscdn.com&oh=87424a68f7ed0f5506a5b58d49595b73&oe=6067F918"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -80,14 +80,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.5.2 11-20-2020 (D25129479) : vr_only",
-				"change_log": "Updated audio engine to 1.10.4\nFixed rendering difference in pretesselated vs static\nFixed individual creators metadata",
+				"version": "1.6.0 03-03-2021 (D26767664) : vr_only",
+				"change_log": "- New localization text rendering\n- Add loop key support\n- Add spawn area default key support\n- Fix audio within span playback issue",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "22515089",
-				"id": "3553356264710844",
-				"required_space_adjusted": "33172478",
+				"total_installed_space": "22876264",
+				"id": "3833077990072002",
+				"required_space_adjusted": "33500640",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -121,7 +121,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3553356264710844"
+					"id": "3833077990072002"
 				}
 			},
 			"release_channels": {
@@ -132,8 +132,8 @@
 						"id": "431812764355983",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.5.2 11-20-2020 (D25129479) : vr_only",
-							"id": "3553356264710844"
+							"version": "1.6.0 03-03-2021 (D26767664) : vr_only",
+							"id": "3833077990072002"
 						}
 					}
 				]
@@ -211,8 +211,8 @@
 			"firstQualityRatings": {
 				"count": 77,
 				"page_info": {
-					"end_cursor": "AQHR7yV8lqZg2WfzzlCidFA7np4-aZ2iZ7APJBgrhADzjeIZof3fyNrcza-GZGlmFgoUMyrxT6iS9UH8wjHi5d5E9w",
-					"start_cursor": "AQHR7yV8lqZg2WfzzlCidFA7np4-aZ2iZ7APJBgrhADzjeIZof3fyNrcza-GZGlmFgoUMyrxT6iS9UH8wjHi5d5E9w"
+					"end_cursor": "AQHRRipBr--u26407tP3pWj49wkMqLP1u9ctw_0JDmNWEk91WbizWcO47J68nUc_BZtFO6PC0sFTEZOegM2cea4JFQ",
+					"start_cursor": "AQHRRipBr--u26407tP3pWj49wkMqLP1u9ctw_0JDmNWEk91WbizWcO47J68nUc_BZtFO6PC0sFTEZOegM2cea4JFQ"
 				},
 				"edges": [
 					{
@@ -222,13 +222,13 @@
 								"id": "101210431941190",
 								"display_name": "daryllafferty",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.224.576.576a/s160x160/38974908_105903054805261_4075522795075995019_n.jpg?_nc_cat=109&ccb=3&_nc_sid=79b88e&_nc_ohc=1oYWg5KazKcAX-D9JtP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=979b3d1442c83bad130b7cd2003fa235&oe=6068C8C6"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.224.576.576a/s160x160/38974908_105903054805261_4075522795075995019_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1oYWg5KazKcAX_9BxdW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2606d6b52603045e7a0005f87bc2bd92&oe=6068C8C6"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is really cool, and I've enjoyed some of the 3D  renderings you can walk around and through that are available in the app. But there must be thousands of these available on the internet that people have created. A search for Quill content, or Quill renderings, only finds applications to help you create your own Quill drawings.\n\nIsn't there a library somewhere? Or a store where I could purchase them?",
 							"reviewTitle": "Where can I download renderings?",
-							"review_helpful_count": 6,
+							"review_helpful_count": 8,
 							"review_rank_by_viewer": null,
 							"date": 1610412949,
 							"developerResponse": null
@@ -243,7 +243,7 @@
 				"description": "Step into wonderful VR stories, hand painted and animated in VR with Quill. These VR stories not only let you view a painting on a wall, but transport you into the painting itself. Experience expressive characters, fantastic creatures, and complete narratives in these VR animations. \n\nRegularly updated, the Quill Theater lets you visit high quality immersive  animations from the comfort of Oculus TV, bringing you the best in immersive entertainment. \n\nRequires the latest version of Oculus TV.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974569_2584450654963951_9134557670861176832_n.jpg?_nc_cat=1&ccb=3&_nc_sid=79b88e&_nc_ohc=9SPy0bY1MxYAX9mvawa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5933e814e4834a4f5b9dc73cd22cfb00&oe=60665DAB",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974569_2584450654963951_9134557670861176832_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9SPy0bY1MxYAX8wR14f&_nc_ht=scontent.oculuscdn.com&tp=28&oh=67a8e39817e213fbbe4995658ca12efe&oe=606A522B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
