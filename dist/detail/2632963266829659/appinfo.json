@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75340715_3030125190437579_307894437712013410_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Quvp322LCMcAX-xJbBE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=181ba288d4f87f318b9146669b1c0cfc&oe=606E771D"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75340715_3030125190437579_307894437712013410_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Quvp322LCMcAX-0aDcB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7a1fc8039091dee85bc2f22382dda1bb&oe=606E771D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_593242188028612_7027680201771152210_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vDeNCLOzQHgAX_L5ivp&_nc_ht=scontent.oculuscdn.com&oh=f32d7f01b7ebc97c65e704b102b0266b&oe=606C19E8"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_593242188028612_7027680201771152210_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vDeNCLOzQHgAX9-pB9E&_nc_ht=scontent.oculuscdn.com&oh=3ef19757c52ab54f61a90bd82b025224&oe=60700E68"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -133,17 +133,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "564488597772218",
+				"id": "449116603073346",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "799",
+					"formatted": "$7.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1615449540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -226,7 +231,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "564488597772218"
+				"id": "449116603073346"
 			},
 			"externalReviews": {
 				"count": 0
@@ -250,8 +255,8 @@
 			"firstQualityRatings": {
 				"count": 114,
 				"page_info": {
-					"end_cursor": "AQHRozhSLLHuNAGZjuth4W5zzwmKlxvYAee2fiHULcUfAIaFtVB7Vn2j0DNZTk6oi4Pb7VI8r-0YY_7rIY-zeEYjHw",
-					"start_cursor": "AQHRozhSLLHuNAGZjuth4W5zzwmKlxvYAee2fiHULcUfAIaFtVB7Vn2j0DNZTk6oi4Pb7VI8r-0YY_7rIY-zeEYjHw"
+					"end_cursor": "AQHRjAza-LVcGke7vNnL67vLkx2OFT3S6ka8Gs2qlSdKzHIH4NZYe73jCfsd0qMDICKRZ9QM082o2SWV4y_4DWNIXw",
+					"start_cursor": "AQHRjAza-LVcGke7vNnL67vLkx2OFT3S6ka8Gs2qlSdKzHIH4NZYe73jCfsd0qMDICKRZ9QM082o2SWV4y_4DWNIXw"
 				},
 				"edges": [
 					{
@@ -261,13 +266,13 @@
 								"id": "107234380339306",
 								"display_name": "xSICAPx",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974474_220837402312336_9173867367627751424_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jtZbqCIHSbsAX82PwfW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=acd01d56ddaac0c8499a1b7716b4c08c&oe=606DEA11"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974474_220837402312336_9173867367627751424_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5ywT1zUHwOkAX-x_sg2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cea0d05312fd5e35ca58f5866ed4b2e4&oe=606DEA11"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Its a great game, good graphics, fun characters, but the automatic shooting thing annoys me, it makes me lose immersion and makes the game too easy and less interactive, If you add a toggle button or remove this feature, I would gladly add 5 stars, other than that, this is great\nThey added a toggle, 5 stars as promised",
 							"reviewTitle": "Good game",
-							"review_helpful_count": 32,
+							"review_helpful_count": 38,
 							"review_rank_by_viewer": null,
 							"date": 1608660443,
 							"developerResponse": null
@@ -282,7 +287,7 @@
 				"description": "Escape the arcade in Shooty Skies Overdrive, an action-paced VR shoot ‘em up designed for Oculus Quest. Dodge, weave and blast your way through colorful retro worlds and ridiculous alien invaders.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974861_2069244889866969_2556771167741794694_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ur8fS5K9cKsAX8b5T0z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ea25e979d960b3b2cae2bf2ea7f2a787&oe=606D54ED",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974797_1876937565818267_218764433873986532_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_aFRRPJQYtEAX8ccu-y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c2fa586ed04acec926e6c72d8a529ed8&oe=606F98AB",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

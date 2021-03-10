@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974602_405151770453908_2455241907685944059_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=M2H0JgAqW5EAX-b1l4B&_nc_oc=AQnRmd2HLnNZT-X3xe0JMq3jb8madQoo0jYvxubZUNIYB3BxptaDx-syzXrgdgLJ5O4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=49e69d5c23e41c0ddaed82536bc51ac0&oe=606D178F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974602_405151770453908_2455241907685944059_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qwK314WG1jcAX_OUO27&_nc_oc=AQndqDWDfZIMYJYkUoIGHgU33IWhOtFJ8oBSsWJBhSrNiJ1Li0vlki2SentPe0BmH5I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=52a796b860529e2ab61613927c925d1a&oe=606D178F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_643181429969822_1839042541285707099_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=k8D_4XJtMcIAX-4b-fa&_nc_ht=scontent.oculuscdn.com&oh=6452a21f4795ef6e20a585be1153819e&oe=606C0D87"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_643181429969822_1839042541285707099_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=k8D_4XJtMcIAX9LwsdZ&_nc_ht=scontent.oculuscdn.com&oh=c2bb769a5c3fa9b55b12837e9169533c&oe=60700207"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 17,
+					"count": 18,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 68,
+					"count": 71,
 					"starRating": 5
 				}
 			],
@@ -100,22 +100,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "749398922679343",
+				"id": "253793639145332",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99",
-					"offset": 100
+					"formatted": "$9.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1615363140,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -198,16 +193,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "749398922679343"
+				"id": "253793639145332"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9294871794872,
+			"quality_rating_aggregate": 3.94375,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 99,
+				"count": 102,
 				"orderings": [
 					{
 						"key": "top",
@@ -220,10 +215,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 99,
+				"count": 102,
 				"page_info": {
-					"end_cursor": "AQHRXFmvsJXJljodDa1AeVTnx1A_RcuIcYWmukQR8KQx0X2wr9XP-n8W5EtOxWl-E-hQdkoqz1PCKkkVKrYPt5x6rQ",
-					"start_cursor": "AQHRXFmvsJXJljodDa1AeVTnx1A_RcuIcYWmukQR8KQx0X2wr9XP-n8W5EtOxWl-E-hQdkoqz1PCKkkVKrYPt5x6rQ"
+					"end_cursor": "AQHRedgIznhfFuitPltRy7M-tYIBIWllVweB1cFtLzKuvPvLHVj9XTAsyNK89DGrJ6lfeKtsFFjkCc7S-cSRRr2jkg",
+					"start_cursor": "AQHRedgIznhfFuitPltRy7M-tYIBIWllVweB1cFtLzKuvPvLHVj9XTAsyNK89DGrJ6lfeKtsFFjkCc7S-cSRRr2jkg"
 				},
 				"edges": [
 					{
@@ -233,13 +228,13 @@
 								"id": "101911597541705",
 								"display_name": "RettD",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982691_174403453625852_7814694794663297024_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QW_l--HmzlAAX9hl_ma&_nc_ht=scontent.oculuscdn.com&tp=28&oh=577c0262da77f18a9fc754ae5a0f6c75&oe=606DE5A6"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982691_174403453625852_7814694794663297024_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KAufovjKXOcAX8lSire&_nc_ht=scontent.oculuscdn.com&tp=28&oh=954e4c5e9596cd79c7f0faaf0ce8cbf0&oe=606DE5A6"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "All in all, not a bad little racer. Controls are relatively intuitive, and I'd imagine varied enough for most players. Like the fact that there's more than just straight racing options as well, always nice to break it up with a time trial. There are a few little details missing I would have liked to see but they don't spoil the gameplay. The menu itself isn't very intuitive unfortunately, I could see a novice having difficulty navigating between bike, race and the... um, I guess we'll call it the \"stage\" menus",
 							"reviewTitle": "Fulfills that need for speed",
-							"review_helpful_count": 33,
+							"review_helpful_count": 52,
 							"review_rank_by_viewer": null,
 							"date": 1610797243,
 							"developerResponse": null
@@ -254,7 +249,7 @@
 				"description": "Rev up your hover bike for the most intense speed that VR has to offer!\n- Career\n- Online Multiplayer\n- Time trial leaderboards\n\nHone your skills in career.  Take on racers from around the world!\n- 100 levels\n- 12 tracks (with comfort ratings)\n- Multiple bikes to master\n- 8 items to give you an edge\n- Weapons to wield\n- Realistic lean. Corner hard & the track comes up to meet you! (Can be disabled for comfort)\n- Unique void mechanic: Collect energy from rings to take shortcuts through the void!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974753_1806333229534065_6131154913047555244_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0yST7QysKLAAX-Z0wGW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=89d277e43e8209393051f390a901838a&oe=606D7533",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982553_361877154811553_6895282883263540148_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yeJnYzx5rj8AX9Q6Ec9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e053be195f5e2b3842c17ffd929e0878&oe=606EC4D1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

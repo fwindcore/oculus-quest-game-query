@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IEbrZtM63rQAX_jL2Pb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69599849c4a74fc40de1512a41a90f66&oe=606DB206"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IEbrZtM63rQAX-uhCxr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cfc17c2f70e735a9025452c2e0461f81&oe=606DB206"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=xsl6y1U0wKwAX8UYp_9&_nc_ht=scontent.oculuscdn.com&oh=a80d6ddf697fca965f31a565cc637c8c&oe=606D23AF"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=xsl6y1U0wKwAX8o9Xx7&_nc_ht=scontent.oculuscdn.com&oh=2c39e3f62db60226b4eec6e7ca8adcf4&oe=606D23AF"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 188,
+					"count": 189,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 195,
+					"count": 194,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 360,
+					"count": 361,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1024,
+					"count": 1023,
 					"starRating": 5
 				}
 			],
@@ -82,14 +82,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.107.0.d3deee-beta-ui-2020-beta",
-				"change_log": "Version 107 (03/04/2021):\n- Selfie stick is now available!\n- On-screen controls will only appear after clicking on the screen now\n- Various bug fixes and improvements\n\nVersion 107 (02/10/2021):\n- Added “Desktop” or “Remote Desktop” options to the “My Room” left pane navigation\n- Added geo-filtering for movie rentals to only show movies available in a specific region\n- Disabled “Movies” button for users in regions that we aren’t able to support yet\n- Updated the layout of the Room preview pop-up\n- Corrected button indications for Index controllers in onboarding\n- Various bug fixes and improvements\n\nVersion 107 (01/28/2021):\n- Added 14 ad-supported free-to-watch movies from PlutoTV in honor of Black History Month\n- Fixed a crash from headsets running out of memory\n- Various bug fixes and improvements\n\nVersion 106 (01/15/2021):\n- Added ad-supported free-to-watch movies from PlutoTV\n- Added a manual reload button for the Public Rooms UI\n- Increased automatic reload of the Public Rooms UI to 30 seconds\n- Added description field to Public Rooms UI popup\n- Flipped the horizontal scroll direction for thumbsticks\n- Removed the \"Holiday Lobby\" and added the normal Lobby\n- Updated TV Rooms \"No stream available\" message to explain more information\n- Various bug fixes and improvements\n\nVersion 106 (01/07/21):\n- TV: added subtitles support and fixed a bug with age-gated TV channels\n- Videoplayer: added support for inverted 3D modes (SBSRL and UO)\n- Fixed bug with Videoplayer and Movie Rentals where playback controls were always appearing on-screen\n- Improved lighting in the new Drive-In Theater\n- Various bug fixes and improvements\n\nVersion 106 (12/23/20):\n- NEW DRIVE-IN THEATER! Enjoy this nostalgic new environment from the comfort of your home!\n- New UI gives an overview of Bigscreen’s features, and makes it easier to discover interesting videos to watch and rooms to join\n- For paid movies, available subtitles are listed on the movie info page\n- Lobbies now support up to 12 people per instance\n- Fixed embedded subtitle support for the videoplayer on Quest\n- Various bug fixes and improvements\n\nVersion 105 (12/19/20):\n- Upgraded servers to prepare for the holiday influx.\n\nVersion 105 (12/3/20):\n- Updated the lobby with some holiday cheer!\n\nVersion 105 (11/25/20):\n- Fixed room description and categories not saving across app restarts\n\nVersion 105 (11/19/20):\n- Various bug fixes\n\nVersion 105 (11/17/20):\n- Green Screen Studio environment is now available on page 6 of the Environments section\n- Added more seats in the 360 Skybox environments, including the new Green Screen Studio environment\n\nVersion 104 (11/12/20):\n- NEW: Green screen environment added! Now you can record and stream your Bigscreen avatars to Twitch, Youtube, Zoom, and more! Share your creativity with us in our Discord or Twitter!\n- Beefed up our servers to handle a large influx of users.\n\nFollow us on Discord to see a list of all our latest and past updates! https://discord.gg/bigscreen",
+				"version": "0.107.0.8cf512-beta-ui-2020-beta",
+				"change_log": "Version 107 (03/09/2021):\n- Fixes Quest 2 screen flicker while viewing a host's desktop\n- Prevent personal space bubble from hiding avatars when the selfie stick is active\n- Various bug fixes and improvements\n\nVersion 107 (03/04/2021):\n- Selfie stick is now available!\n- On-screen controls will only appear after clicking on the screen now\n- Various bug fixes and improvements\n\nVersion 107 (02/10/2021):\n- Added “Desktop” or “Remote Desktop” options to the “My Room” left pane navigation\n- Added geo-filtering for movie rentals to only show movies available in a specific region\n- Disabled “Movies” button for users in regions that we aren’t able to support yet\n- Updated the layout of the Room preview pop-up\n- Corrected button indications for Index controllers in onboarding\n- Various bug fixes and improvements\n\nVersion 107 (01/28/2021):\n- Added 14 ad-supported free-to-watch movies from PlutoTV in honor of Black History Month\n- Fixed a crash from headsets running out of memory\n- Various bug fixes and improvements\n\nVersion 106 (01/15/2021):\n- Added ad-supported free-to-watch movies from PlutoTV\n- Added a manual reload button for the Public Rooms UI\n- Increased automatic reload of the Public Rooms UI to 30 seconds\n- Added description field to Public Rooms UI popup\n- Flipped the horizontal scroll direction for thumbsticks\n- Removed the \"Holiday Lobby\" and added the normal Lobby\n- Updated TV Rooms \"No stream available\" message to explain more information\n- Various bug fixes and improvements\n\nVersion 106 (01/07/21):\n- TV: added subtitles support and fixed a bug with age-gated TV channels\n- Videoplayer: added support for inverted 3D modes (SBSRL and UO)\n- Fixed bug with Videoplayer and Movie Rentals where playback controls were always appearing on-screen\n- Improved lighting in the new Drive-In Theater\n- Various bug fixes and improvements\n\nVersion 106 (12/23/20):\n- NEW DRIVE-IN THEATER! Enjoy this nostalgic new environment from the comfort of your home!\n- New UI gives an overview of Bigscreen’s features, and makes it easier to discover interesting videos to watch and rooms to join\n- For paid movies, available subtitles are listed on the movie info page\n- Lobbies now support up to 12 people per instance\n- Fixed embedded subtitle support for the videoplayer on Quest\n- Various bug fixes and improvements\n\nVersion 105 (12/19/20):\n- Upgraded servers to prepare for the holiday influx.\n\nVersion 105 (12/3/20):\n- Updated the lobby with some holiday cheer!\n\nVersion 105 (11/25/20):\n- Fixed room description and categories not saving across app restarts\n\nVersion 105 (11/19/20):\n- Various bug fixes\n\nVersion 105 (11/17/20):\n- Green Screen Studio environment is now available on page 6 of the Environments section\n- Added more seats in the 360 Skybox environments, including the new Green Screen Studio environment\n\nVersion 104 (11/12/20):\n- NEW: Green screen environment added! Now you can record and stream your Bigscreen avatars to Twitch, Youtube, Zoom, and more! Share your creativity with us in our Discord or Twitter!\n- Beefed up our servers to handle a large influx of users.\n\nFollow us on Discord to see a list of all our latest and past updates! https://discord.gg/bigscreen",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "928216513",
-				"id": "5097003040374081",
-				"required_space_adjusted": "1725463546",
+				"total_installed_space": "928215484",
+				"id": "5117795031628215",
+				"required_space_adjusted": "1725474410",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -127,7 +127,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5097003040374081"
+					"id": "5117795031628215"
 				}
 			},
 			"release_channels": {
@@ -138,8 +138,8 @@
 						"id": "405783720195874",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.107.0.d3deee-beta-ui-2020-beta",
-							"id": "5097003040374081"
+							"version": "0.107.0.8cf512-beta-ui-2020-beta",
+							"id": "5117795031628215"
 						}
 					}
 				]
@@ -150,44 +150,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1615352400,
-								"current_start_timestamp": 1615345200,
-								"temporal_info": {
-									"seconds_until_end_time": 73766,
-									"seconds_until_start_time": 66566
-								},
-								"vr_app_and_destination_string": "Bigscreen Beta",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2497738113633933",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Bigscreen Beta"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1681858528663616",
-								"is_vr_viewer_interested": false,
-								"name": "Watch GHOST IN THE SHELL in 3D",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974684_421857845547718_6080482563526338569_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5lS61_Ul4FEAX955EAo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd257de5bbb17ad3dac9fc9e1445054e&oe=606D24FD"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1615438800,
 								"current_start_timestamp": 1615431600,
 								"temporal_info": {
-									"seconds_until_end_time": 160166,
-									"seconds_until_start_time": 152966
+									"seconds_until_end_time": 73809,
+									"seconds_until_start_time": 66609
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -209,7 +176,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch PARANORMAL ACTIVITY: THE GHOST DIMENSION in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_485767152588580_45271642605201525_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cSj5V1Ic8TgAX_ErIjH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c3bba6001410d05e618f7b91d0c09479&oe=606D9AA2"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_485767152588580_45271642605201525_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CqjYEm8QSg8AX_ufABB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35756874fe211c0c1b824ab8af932256&oe=606D9AA2"
 								}
 							}
 						},
@@ -219,8 +186,8 @@
 								"current_end_timestamp": 1615467600,
 								"current_start_timestamp": 1615460400,
 								"temporal_info": {
-									"seconds_until_end_time": 188966,
-									"seconds_until_start_time": 181766
+									"seconds_until_end_time": 102609,
+									"seconds_until_start_time": 95409
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -242,7 +209,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch THE SPONGEBOB MOVIE: SPONGE OUT OF WATER in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031478_444834440293654_1821952622878950262_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eOeJ08fgB3IAX9TSd63&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9d567ed6748d5c886fb942043cda86e8&oe=606CD96C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031478_444834440293654_1821952622878950262_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eOeJ08fgB3IAX9Co9_t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e459a0f785f52efe04068b4368486a60&oe=606CD96C"
 								}
 							}
 						},
@@ -252,8 +219,8 @@
 								"current_end_timestamp": 1615525200,
 								"current_start_timestamp": 1615518000,
 								"temporal_info": {
-									"seconds_until_end_time": 246566,
-									"seconds_until_start_time": 239366
+									"seconds_until_end_time": 160209,
+									"seconds_until_start_time": 153009
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -275,7 +242,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch STAR TREK BEYOND in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974809_3793619424007700_750134984368824634_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3S8kdW65WqQAX88QFDE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fc0c9e88477194d1604f1b0c18773ffe&oe=606DDBEA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974809_3793619424007700_750134984368824634_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3S8kdW65WqQAX88H_55&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8e9637081c915d309b1dec21cc193968&oe=606DDBEA"
 								}
 							}
 						},
@@ -285,8 +252,8 @@
 								"current_end_timestamp": 1615554000,
 								"current_start_timestamp": 1615546800,
 								"temporal_info": {
-									"seconds_until_end_time": 275366,
-									"seconds_until_start_time": 268166
+									"seconds_until_end_time": 189009,
+									"seconds_until_start_time": 181809
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -308,7 +275,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch MISSION: IMPOSSIBLE - FALLOUT in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036631_440189697323161_9216925603741152984_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NCrd_Sh1bFQAX9HFNeY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e8a742284b8005b2a319449b5325f602&oe=606E9B55"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036631_440189697323161_9216925603741152984_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NCrd_Sh1bFQAX8Hv28Y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e09a431bcec655ae20c349ce6e9f85e&oe=606E9B55"
 								}
 							}
 						},
@@ -318,8 +285,8 @@
 								"current_end_timestamp": 1615579200,
 								"current_start_timestamp": 1615572000,
 								"temporal_info": {
-									"seconds_until_end_time": 300566,
-									"seconds_until_start_time": 293366
+									"seconds_until_end_time": 214209,
+									"seconds_until_start_time": 207009
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -341,7 +308,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TITANIC in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974450_246937573643989_307308029443136922_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=r8o-H9r9v0EAX_68tZf&_nc_oc=AQldFkBF3rWfse67X8ilTx85ZVQNsxAfztW5-S3jw21Z_7JcFTZs2bkf0sKy62s9ydw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ac123c78f94ba5853f693e557557a27f&oe=606E9B97"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974450_246937573643989_307308029443136922_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=r8o-H9r9v0EAX9kOINa&_nc_oc=AQlId9pBz8BLvgY1Gth7Pp2X6widtL19E8gsCWjzfro27tccsnAgnH2MLN6qPjuNF6E&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fc9154833497de20be873fe71d6d4143&oe=606E9B97"
 								}
 							}
 						},
@@ -351,8 +318,8 @@
 								"current_end_timestamp": 1615611600,
 								"current_start_timestamp": 1615604400,
 								"temporal_info": {
-									"seconds_until_end_time": 332966,
-									"seconds_until_start_time": 325766
+									"seconds_until_end_time": 246609,
+									"seconds_until_start_time": 239409
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -374,7 +341,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch GHOST IN THE SHELL in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974820_942858739584537_580114561630103723_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zvVk2stO-lEAX8_7K5Y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=91185c71fba31faafdcf6f8bbd353cbf&oe=606C8EAA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974820_942858739584537_580114561630103723_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rcjr7stRESgAX-stIwq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f9400ac90dda8e2cf6087e5c60c229e5&oe=606C8EAA"
 								}
 							}
 						},
@@ -384,8 +351,8 @@
 								"current_end_timestamp": 1615640400,
 								"current_start_timestamp": 1615633200,
 								"temporal_info": {
-									"seconds_until_end_time": 361766,
-									"seconds_until_start_time": 354566
+									"seconds_until_end_time": 275409,
+									"seconds_until_start_time": 268209
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -407,7 +374,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TEENAGE MUTANT NINJA TURTLES in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982715_798937704035298_8913480562574001581_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rn81w3l08NgAX9B5YqZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=acccd0da5fc544160bf28077d1537595&oe=606E826C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982715_798937704035298_8913480562574001581_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rn81w3l08NgAX8tUwPV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=00c8bbaa972e4d0c5b306f365a7addb7&oe=606E826C"
 								}
 							}
 						},
@@ -417,8 +384,8 @@
 								"current_end_timestamp": 1615665600,
 								"current_start_timestamp": 1615658400,
 								"temporal_info": {
-									"seconds_until_end_time": 386966,
-									"seconds_until_start_time": 379766
+									"seconds_until_end_time": 300609,
+									"seconds_until_start_time": 293409
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -440,7 +407,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch THE SPONGEBOB MOVIE: SPONGE OUT OF WATER in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_810111819715002_3389466821393993130_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AVkcEXHgO40AX8DRwPQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=685fb39128669699e303080254634590&oe=606CF8CA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974864_810111819715002_3389466821393993130_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ouE1IS_3XjYAX9f5mZ6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e79eb78d2dd75dd8a63bf681b6f3dac0&oe=606CF8CA"
 								}
 							}
 						},
@@ -450,8 +417,8 @@
 								"current_end_timestamp": 1615698000,
 								"current_start_timestamp": 1615690800,
 								"temporal_info": {
-									"seconds_until_end_time": 419366,
-									"seconds_until_start_time": 412166
+									"seconds_until_end_time": 333009,
+									"seconds_until_start_time": 325809
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -473,7 +440,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch STAR TREK INTO DARKNESS in 3D",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974820_182730903286246_2475089348187873783_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=F6BW7yjpUOwAX-IeLxG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=db293118ef52703873ba032739bbbbba&oe=606DF0F5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974820_182730903286246_2475089348187873783_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=F6BW7yjpUOwAX_PRzjW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c332dd48b889fca9048d9332c6bd1c98&oe=606DF0F5"
 								}
 							}
 						},
@@ -483,8 +450,8 @@
 								"current_end_timestamp": 1615748400,
 								"current_start_timestamp": 1615741200,
 								"temporal_info": {
-									"seconds_until_end_time": 469766,
-									"seconds_until_start_time": 462566
+									"seconds_until_end_time": 383409,
+									"seconds_until_start_time": 376209
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -506,7 +473,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch MY HERO ACADEMIA: TWO HEROES",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_760321474914522_1102022056674393644_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kho4W1x82ZAAX-vQZ0W&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f5f878debd2da84972f2c83abe985639&oe=606CA6CC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_760321474914522_1102022056674393644_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kho4W1x82ZAAX9S10_B&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0bb0be0870bffc8083877a1f8b0626e9&oe=606CA6CC"
 								}
 							}
 						},
@@ -516,8 +483,8 @@
 								"current_end_timestamp": 1615780800,
 								"current_start_timestamp": 1615773600,
 								"temporal_info": {
-									"seconds_until_end_time": 502166,
-									"seconds_until_start_time": 494966
+									"seconds_until_end_time": 415809,
+									"seconds_until_start_time": 408609
 								},
 								"vr_app_and_destination_string": "Bigscreen Beta",
 								"vr_applications": {
@@ -539,7 +506,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Watch TRANSFORMERS: DARK OF THE MOON in 3D!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003281_789532721685906_6576137144159994255_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oJ9HGoBT-ncAX_DNR1Y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=321575a63935c7423e3cad8472d53014&oe=606BF5E0"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003281_789532721685906_6576137144159994255_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oJ9HGoBT-ncAX_f4YAI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5ecedbb19ed27736b78fb22c1c37ff51&oe=606FEA60"
 								}
 							}
 						}
@@ -560,7 +527,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRTVNJFCTXhjyN9ot0E3dsm__gn7rjhcFOgRplLcifBi83Q9rTphhnzudH5R2yQ5CVyxtqRtS-MhzGqTBtq-ETsQ"
+							"cursor": "AQHRuT7yOWaaJ-I1J_9sf8vwAGJrh1SmLMfM26KKJHqK58vEBymL8VmTLzsm1BA0lVa7He09GELAvJgYiTmfDoSEwg"
 						}
 					]
 				}
@@ -607,7 +574,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.031550802139,
+			"quality_rating_aggregate": 4.0299465240642,
 			"support_website_url": "https://bigscreenvr.com/discord",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -626,8 +593,8 @@
 			"firstQualityRatings": {
 				"count": 566,
 				"page_info": {
-					"end_cursor": "AQHR5SPBNlTM5l6N8LVf0GU0OHmALgLZJk6S0qCOiZvIWYPXNTxopEKe-xyXZdwbbDcccR1EVpSHYF2ayw6cwxtRoA",
-					"start_cursor": "AQHR5SPBNlTM5l6N8LVf0GU0OHmALgLZJk6S0qCOiZvIWYPXNTxopEKe-xyXZdwbbDcccR1EVpSHYF2ayw6cwxtRoA"
+					"end_cursor": "AQHR2tAeTwbrF_TFezF3kHg_MeZslCc1x678QeAyAMUrjgQKOiWulT4kQuGIO6ohKKbwFZRg4u_msyyI0X-Q5qsx6Q",
+					"start_cursor": "AQHR2tAeTwbrF_TFezF3kHg_MeZslCc1x678QeAyAMUrjgQKOiWulT4kQuGIO6ohKKbwFZRg4u_msyyI0X-Q5qsx6Q"
 				},
 				"edges": [
 					{
@@ -637,13 +604,13 @@
 								"id": "105415631477383",
 								"display_name": "Vuyovich",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974558_108094151209531_4923217574895404919_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_HnX4WAnoLcAX8o4QG7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ea8f416b14c184b61686d11f8e271e0a&oe=606E7EA3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974558_108094151209531_4923217574895404919_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_HnX4WAnoLcAX_pp2Q5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9a68463e30491fbc4e9b3355aa44de85&oe=606E7EA3"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I love Bigscreen, it’s definitely one of my favorite apps on VR. But I’m a little disappointed with inability to share movies. I can pay money to see one of the featured movies with a friend, but if I want to invite a friend over to my virtual living room to watch one of my movies on my server, it won’t work. My friend has to have that same movie on their server. Why? What would be the point in that? Maybe I’m doing something wrong, I’ve tried to see if there’s a workaround for this. So far, nothing. But if you can collaborate and share your files on your pc in a work related setting on Bigscreen, why couldn’t I watch a movie with a friend who doesn’t have the same movie? They can’t record it, download it...it’s not breaking any laws. It’s no different than buying the movie at a store, taking it home and watching it with my friends there. During this quarantine, my friends and I have been finding out what movies we haven’t seen and watching them. It would have been nice to share a movie with friend that I have, that they don’t have. Just hoping this is something that gets fixed. It doesn’t make sense and makes the whole idea of watching movies with friends limited to purchasing tickets for one of the handful of movies I really have no interest in seeing. Maybe if they played newly released movies that would be in the theaters, that would be better. I’d probably do that more often.",
 							"reviewTitle": "Movie sharing needs improvement",
-							"review_helpful_count": 314,
+							"review_helpful_count": 319,
 							"review_rank_by_viewer": null,
 							"date": 1611588524,
 							"developerResponse": null
@@ -658,7 +625,7 @@
 				"description": "WATCH movies with friends in a virtual movie theater. \nPLAY your favorite PC video games on a huge screen. \nHANG OUT in social VR chat rooms.\nEVENTS like weekly 3D Movie Nights and VR LAN parties!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GesFCeiHYy0AX_GTtIe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d3d463e50f868e64dfbe10e30d1c2fac&oe=606B09D8",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GesFCeiHYy0AX-964Sx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=018fe15010ffc32ab926815d23a8a858&oe=606EFE58",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

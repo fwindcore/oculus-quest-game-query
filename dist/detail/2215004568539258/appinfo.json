@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75622010_2705623063098516_3103354920895283484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5PoQldv2IR4AX8D1GG8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fa5c5b7c451165d9be0e17daa24697b8&oe=606C9939"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75622010_2705623063098516_3103354920895283484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5PoQldv2IR4AX8fAM4_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bcaa02f62e1a04bf62aea5fef7a6f3c2&oe=606C9939"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_226324448817949_2915138601811443712_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=7TUxyjx4pdAAX_Nc4yf&_nc_oc=AQlhYKATo3sqQmpkVO1YBLYAQagNZY8qZH9s3YjKYu5vpCBuXnOHfGmkYWgYed-913U&_nc_ht=scontent.oculuscdn.com&oh=1692df5011f4117053a68c3203bee4c0&oe=606C4316"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982464_3943107335710626_8637852130181055848_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=KYxnG8CBwnIAX81YZLY&_nc_ht=scontent.oculuscdn.com&oh=99d17d5896ec5dd42cea361c1ad8d455&oe=606CB185"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 223,
+					"count": 227,
 					"starRating": 1
 				},
 				{
@@ -31,21 +31,21 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 172,
+					"count": 173,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 478,
+					"count": 483,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 5004,
+					"count": 5034,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "Experience the freedom of zero-g movement and high energy competition in Echo VR! Team up with friends and clash against AI or opposing Echo Units in the Echo Arena. \n\nTo find links to feedback and bug report forms as well as a great place to discuss your experience with the developers and other players go to the Echo Games Discord, https://discord.com/invite/vXbazs5\n\nPlease note that Echo VR requires Oculus runtime version 16 or greater. To check your runtime version, please go to \"Settings\", select \"About\" from menu, and check the version under \"Runtime Version.” Your headset should automatically update if left on and connected to WiFi for an extended period of time.",
+			"display_long_description": "Season 1 of Echo Pass is now open! Free to all players, jump and compete in order to earn new Echo Points to unlock exciting rewards. Or upgrade to a premium Echo Pass to triple the amount of rewards earned throughout the Season. \n\nA premium Echo Pass can be unlocked by purchasing “Echo Points” in-game or through Oculus DLC. Players can currently redeem Echo Points in a couple different ways, and players can expect more ways to redeem their Echo Points coming later this year! \n\nSeason 1 ends May 23 so jump in today! For more info, check out the Oculus Blog.\n---\nExperience the freedom of zero-g movement and high energy competition in Echo VR! Team up with friends and clash against AI or opposing Echo Units in the Echo Arena. \n\nTo find links to feedback and bug report forms as well as a great place to discuss your experience with the developers and other players go to the Echo Games Discord, https://discord.com/invite/vXbazs5\n\nNote: Echo VR requires Oculus runtime version 25 or greater.",
 			"developer_privacy_policy_url": "http://www.readyatdawn.com/privacy-policy",
 			"developer_terms_of_service_url": "http://www.readyatdawn.com/terms-conditions",
 			"supported_player_modes": [
@@ -80,21 +80,71 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "482318",
-				"change_log": "v23 brings a tighter dead zone. \nv23 brings official 90 hertz. \nEcho VR has a software release distance that is now tunable. \nEcho VR has a grip deadzone that is tunable. \nLess stale frames (e.g. less frame hiccups) which will help with more consistent shots and less overthrows. \nOverlapped rendering allows input to photon latency to go down from 44ms -> 30 ms. \nInput is sampled right before throwing to get the most up to date sensor reading - this can shave up to 6 ms off your throw for a tighter release window. \nInput from the last sensor reading is predicted out to the current time for a more consistent and stable throw. Before depending on when you got the sensor reading it could be 4 ms in the past or 1 ms in the past now it's always predicted to current time. \nDisc Curve has been added as an option on the Private Match Podium. \nThe moderated lobby pop-up dialogue only needs to be accepted once per play session and not every time you enter a community moderated Social Lobby. \nThe Follow Cam now follows the player more smoothly instead of following the disc. \nVOIP quality has been improved when a player is experiencing degraded network conditions. ",
+				"version": "498641",
+				"change_log": "Season 1 of the Echo Pass in Echo VR is now live! Log in today to start unlocking your rewards and outfitting your Echo Unit with our new customization options. \n\nWhat is Echo Pass? Echo Pass features a brand new reward track available to all players to unlock rewards throughout the season, with the option to convert to Premium and unlock additional rewards. \n\n \n\nThe Echo Pass patch also includes the following updates:\n\n-Staging Area \n\n-New Community Values Intro \n\n-Depreciation of Win7 Support \n\n-And more! ",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "682858375",
-				"id": "3826759390697093",
-				"required_space_adjusted": "914897639",
-				"storeAddOns": null,
-				"firstIapItems": null
+				"total_installed_space": "827690367",
+				"id": "4079279855445044",
+				"required_space_adjusted": "1056872692",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 4
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": "AQHRJW-vPF-gl0mIssacUMxqLR66bOL2NYHyLuPoUnN7C9xJqD1T18NCkLZX9c8wS21YfbfFCcS1pBl6T_TEFTtq7g",
+						"start_cursor": "AQHRJW-vPF-gl0mIssacUMxqLR66bOL2NYHyLuPoUnN7C9xJqD1T18NCkLZX9c8wS21YfbfFCcS1pBl6T_TEFTtq7g"
+					},
+					"count": 4,
+					"edges": [
+						{
+							"__typename": "AndroidBinaryStoreAddonsIncludingBundlesEdge",
+							"node": {
+								"__typename": "IAPItem",
+								"id": "3654896521216715",
+								"current_offer": {
+									"__typename": "AppStoreOffer",
+									"id": "373261213716156",
+									"offer_type": "APPSTORE_OFFER",
+									"__isPurchasableOfferWithApp": "AppStoreOffer",
+									"price": {
+										"currency": "USD",
+										"offset_amount": "1999",
+										"formatted": "$19.99"
+									},
+									"strikethrough_price": null
+								},
+								"__isAppStoreItem": "IAPItem",
+								"display_name": "2000 Echo Points",
+								"display_short_description": "Jumping into Echo Pass Season 1? Earn Tier Experience Points (TXP) by playing matches, or purchase echo points to quickly unlock Echo Pass Tiers for exciting rewards. Players can redeem Echo Points in a couple different ways:  ● Unlocking access to the Premium Echo Pass via the Customization Terminal—the Premium Echo Pass costs 1,000 Echo Points  ● Premium Echo Pass users can then purchase tiers of the Echo Pass—each tier costs 200 Echo Points.  More ways to redeem points coming later this year!",
+								"is_viewer_entitled": false,
+								"latest_supported_asset_file": null,
+								"parentApplication": {
+									"canonicalName": "ready-at-dawn-echo-vr-quest-port-android6d0f",
+									"id": "2215004568539258"
+								},
+								"purchase_alerts": [
+									{
+										"type": "PARENT_APP_REQUIRED",
+										"message": "这是附加内容，需要有主游戏 (Echo VR) 才能玩"
+									}
+								],
+								"parent_application": {
+									"id": "2215004568539258"
+								},
+								"__isNode": "IAPItem"
+							}
+						}
+					]
+				}
 			},
 			"recommended_graphics": null,
 			"recommended_memory_gb": null,
 			"recommended_processor": null,
-			"release_date": 1598547540,
+			"release_date": null,
 			"supported_tracking_modes": [],
 			"website_url": "https://www.oculus.com/echo-vr/",
 			"current_offer": {
@@ -111,7 +161,11 @@
 				"promo_benefit": null,
 				"end_time": 0,
 				"show_timer": false,
-				"buy_button_captions": []
+				"buy_button_captions": [
+					{
+						"text": "提供应用内购买"
+					}
+				]
 			},
 			"viewer_release_channel": {
 				"id": "292183291648408"
@@ -121,7 +175,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3826759390697093"
+					"id": "4079279855445044"
 				}
 			},
 			"release_channels": {
@@ -132,8 +186,8 @@
 						"id": "292183291648408",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "482318",
-							"id": "3826759390697093"
+							"version": "498641",
+							"id": "4079279855445044"
 						}
 					}
 				]
@@ -146,21 +200,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "2760046657592915",
+							"title": "Echo Pass Season 1 in Echo VR is now live!!",
+							"created_time": 1614883792,
+							"body_text": "Season 1 of the Echo Pass in Echo VR is now live! Log in today to start unlocking your rewards and outfitting your Echo Unit with our new customization options.\n\nWhat is Echo Pass? Echo Pass features a brand new reward track available to all players to unlock rewards throughout the season, with the option to convert to Premium and unlock additional rewards.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031409_573512770273086_1653333091421798291_n.png?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g__nOhXnLGYAX-mzDTP&_nc_ht=scontent.oculuscdn.com&oh=59ba4bc367bb7a57994a40badc69318a&oe=606D63A4"
+							}
+						},
+						{
 							"id": "814218029106893",
 							"title": "Crossplay is now available in our Open Beta for Echo VR on Quest.",
 							"created_time": 1589247110,
 							"body_text": "Echo Units who own an Oculus Quest or Oculus Rift can team up and compete for glory in zero-g together!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75286676_2688030654851451_3504616876003033088_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TeteDxPYSHcAX_4uWlW&_nc_ht=scontent.oculuscdn.com&oh=683c3842c68d868ddfba9acd0bc6ba38&oe=606C3C87"
-							}
-						},
-						{
-							"id": "709470153214247",
-							"title": "Open Beta for Echo VR on Quest is live!",
-							"created_time": 1588699862,
-							"body_text": "The Echo VR Open Beta is now available for all Oculus Quest Owners to download and play. Oculus Rift crossplay will be available soon.",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75318185_168820404457256_2715516123985477632_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ObH1d8CnGSYAX8CSoQj&_nc_ht=scontent.oculuscdn.com&oh=bd2f67fee75d190bf3ab1e658937cd73&oe=606EBEC1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75286676_2688030654851451_3504616876003033088_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TeteDxPYSHcAX9ApEj6&_nc_ht=scontent.oculuscdn.com&oh=fd7b3061f2a9c574b8d5277c54ede6d2&oe=606C3C87"
 							}
 						}
 					]
@@ -168,7 +222,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR9mBQef334MH9d9-1Ptm2jXpHf6loQJnTPPkJRbhhnHVIltOcdXiYSvmE3_jIv6JVGkJxjeaXIBuPkpGnFjcf5w"
+							"cursor": "AQHRqJDrwWwHkc4tUbrEfMt3phuLwoyHWw0I6Jr1kxq4kMNffGASPmOFzyzuADxguUmftsH3hq3AvFRHDtQBl5_yJg"
 						}
 					]
 				}
@@ -215,11 +269,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6800808216872,
+			"quality_rating_aggregate": 4.6783743100853,
 			"support_website_url": "http://www.readyatdawn.com/support/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2669,
+				"count": 2689,
 				"orderings": [
 					{
 						"key": "top",
@@ -232,10 +286,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2669,
+				"count": 2689,
 				"page_info": {
-					"end_cursor": "AQHR6wj_AzeZht089o-GJO-45KjqgOgWe9IjmJ1GbiS9zgq1DqTLq20rOWlt3a4Uf0mTa2gDfvT2uLqpb1Zix2gWPQ",
-					"start_cursor": "AQHR6wj_AzeZht089o-GJO-45KjqgOgWe9IjmJ1GbiS9zgq1DqTLq20rOWlt3a4Uf0mTa2gDfvT2uLqpb1Zix2gWPQ"
+					"end_cursor": "AQHRYpW1ds11sGvk450tiNlk2YdoebT-w_ELEPZ9t3etw5D9BoQns0SycHdpqKqOnOIGsrZG_SAGLOWvnHpYlxzkBA",
+					"start_cursor": "AQHRYpW1ds11sGvk450tiNlk2YdoebT-w_ELEPZ9t3etw5D9BoQns0SycHdpqKqOnOIGsrZG_SAGLOWvnHpYlxzkBA"
 				},
 				"edges": [
 					{
@@ -245,13 +299,13 @@
 								"id": "105705488158534",
 								"display_name": "SlickWallet69",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38982479_107345224661227_5283501804728851522_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=41IiBAnc0U0AX_9fCb_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f44b22e4bde0bb568d3738a750520216&oe=606BAFB1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38982479_107345224661227_5283501804728851522_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EmDmOvIft6cAX_XvPO-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e41825d3b3baa8ef41510f87583f051&oe=606FA431"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I didn’t even really read the description for Echo when I downloaded it. I skimmed several games and tried to put an assortment of entertainment for my bf, as well as our 8yo and 5yo. The game sat untouched for way too long... I opened it bored one evening and have barely been able to make myself share the VR 😂😂\n\nI’m obsessed. I’ve put my ~75yo parents on this game. I’m shoving it onto my friends. If you like competition, even if you hate frisbee as much as I do, GET THIS. GET IT RFN.\n\nultimate frisbee + zero gravity + full contact sport \n\nDescription should read “Talk smack & punch mfkrs in the head to stun them and steal the stupid robo-disc.”\n\nSay no more, I’m in!\n\nMAKE SURE YOU GIVE YOURSELF PLENTY OF ROOM FOR THIS ONE. The more the better. The matches can get fast-paced with committed teammates, and it’s easy to lose track of where you’re standing. \n\nMaybe even put some tape down if you’ve got ADHD af kids so they can see the boundary and know it’s an off limits area when someone is playing... bc my 5yo son totally walked WAY too close and I just BAP BAP BAP right into his head 😂😂 poor dude.\n\nI’m not even mad. 10/10 for Echo VR. A must have. So immersive, I sometimes forget when I take the headset off that I am not as weightless as I thought.\n\n—— SUGGESTIONS FOR DEVS ——\n\n• I’d like to see a way to add people from the random matches instead of the squeaker kids in the lobby.. the matches I’ve played have been great, and I hate to see the match end and not be able to link back up and play with the ppl I have good chemistry with during a match. The match ends, I wind up back in the lobby with no way to go back and find the ppl I just brought the W home with.\n\n• Before the actual match starts, maybe a little huddle time for the respective teams to strategize and come up with a play for the match. Something longer than just 15 seconds. It’s a team competitive match, I’d like to be able to exercise some teamwork before the match, bc during the match it moves fast and everyone is talking over each other.\n\n• A filter to select an age range to play with. I love kids, I’ve got four of them myself.. but I’d like to play with some ppl my age who would like to strategize and really go for gold on games.",
 							"reviewTitle": "I accidentally assaulted my 5yo 🤧😂",
-							"review_helpful_count": 228,
+							"review_helpful_count": 281,
 							"review_rank_by_viewer": null,
 							"date": 1612743412,
 							"developerResponse": null
@@ -263,10 +317,10 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Experience the freedom of zero-g movement and high energy competition in Echo VR! Load into the Echo VR social lobby to meet up with friends and customize your chassis before clashing against AI or opposing Echo Units in the Echo Arena.\n\nTo find links to feedback and bug report forms go to the Echo Games Discord, https://discord.com/invite/vXbazs5 \n\nPlease note that Echo VR requires Oculus runtime version 16 or greater.",
+				"description": "Season 1 of Echo Pass is now open! Earn new Echo Points to unlock exciting rewards. \nExperience the freedom of zero-g movement and high energy competition in Echo VR! Load into the Echo VR social lobby to meet up with friends and customize your chassis before clashing against AI or opposing Echo Units in the Echo Arena.\n\nTo find links to feedback and bug report forms go to the Echo Games Discord, https://discord.com/invite/vXbazs5 \n\nNote: Echo VR requires Oculus runtime version 25 or greater.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330713_694119691178213_8429293865204299578_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7UZURb3hag4AX_j9gM3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4d2ae9864f9ffda4477e60a73c4135fa&oe=606E7E2B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003273_146681197286461_7758122122462017760_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MLTEVTNuooQAX97r5Bc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=536bbee92b47468dd654f2d0f487e94f&oe=606CE56A",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
