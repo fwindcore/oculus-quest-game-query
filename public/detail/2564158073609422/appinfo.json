@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031334_2918947361670682_5741952600310652712_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8OCC2FsjMS8AX_fmlQb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c904a533905df7bd44dd7d85e50e7656&oe=606CA40D"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031334_2918947361670682_5741952600310652712_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Y-JlrOf0cBIAX-TxCmL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=103c029ef6129c365fd4c0577b8a9192&oe=6070988D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_168396244922293_359415083971539575_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=9QRuqWVNubcAX-zZnNQ&_nc_ht=scontent.oculuscdn.com&oh=941fc4c22daedded1c1caf131c6c7991&oe=606C957C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_168396244922293_359415083971539575_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=9QRuqWVNubcAX9mY3eN&_nc_ht=scontent.oculuscdn.com&oh=c0d89079d461a86a3cd032dcfabac96e&oe=607089FC"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 235,
+					"count": 236,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 588,
+					"count": 591,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 4887,
+					"count": 4897,
 					"starRating": 5
 				}
 			],
@@ -167,7 +167,41 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616439600,
+								"current_start_timestamp": 1615579200,
+								"temporal_info": {
+									"seconds_until_end_time": 988204,
+									"seconds_until_start_time": 127804
+								},
+								"vr_app_and_destination_string": "POPULATION: ONE",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2564158073609422",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "POPULATION: ONE"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "791105394851502",
+								"is_vr_viewer_interested": false,
+								"name": "SUPER ADVANCED WAR MODE",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974530_434290197860083_238569318589868153_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IBac1XyYa68AX8HI5XP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eed00d3a59cc7119f8efd14d61df4186&oe=606EE022"
+								}
+							}
+						}
+					]
 				},
 				"id": "298326064129440",
 				"posts": {
@@ -178,7 +212,7 @@
 							"created_time": 1614808322,
 							"body_text": "March 4, 2021 Change List\n\nGraphics & Environment\n- Time of Day: Daylight has returned!\n- Midday skybox, shadows, and lighting\n- Minor collision fixes\n\nGameplay\n- Melee: Fixed sword/knife hitting through walls\n- Melee: Fixed damage effects showing when hitting a downed player\n- Loot: Fixed swap arrows showing up on consumable items (ammo, backpacks, etc...)\n- Loot: Fixed player being able to farm big shields by falling to death or self grenading\n- Pre-Match: Swords and knives spawn at select weapon tables\n\nGeneral\n- Social UI: Social challenge panel now adjusts size if only 1 challenge is present\n- Social UI: Seeker Silver no longer visually increments when it's actually maxed for the day\n- Bots: Fixed floating build tool when bots die\n- Localization: Localized remaining Season 1 text\n- Audio: Fixed incorrect audio for challenges tab, scrolling, fade out, and drop pod falling\n\nSupport\nFor support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- Desktop VR: Climbing jitter can happen in some cases. Actively working on a fix for this.\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\n&#x200B;\nMore announcements coming soon ~ see you in game!\n\nFollow on Twitter\nFollow on Facebook\nFollow on Reddit",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57568674_759663414672885_4762612779921704126_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ONYp--9wWOwAX8rgQ_J&_nc_ht=scontent.oculuscdn.com&oh=e5e59a193de9cc47225ed423564b4cb5&oe=606D32BE"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57568674_759663414672885_4762612779921704126_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5Hr8mbyUZ3wAX87nZiA&_nc_ht=scontent.oculuscdn.com&oh=ef4d540d71d472a216f870056d0bc733&oe=6071273E"
 							}
 						},
 						{
@@ -187,7 +221,7 @@
 							"created_time": 1614201069,
 							"body_text": "February 25, 2021 Season 1 Update\n\nNew Items\n\nM60\n- LMG designed around suppressing a position with constant, powerful fire\n- Fire rate starts at 50% max and ramps up the longer it’s fired, with rarity level affecting how many shots it takes to reach max fire speed\n- Players holding an M60 will be slowed down to 80% their max run speed (when in-hand)\n- Base magazine capacity is 75, increases by 15 per rarity level\n- 22 damage per bullet\n- Destroys build walls with two bullets\n- Requires 4 steps to reload instead of the usual 2\n\nKnife\n- Can deal up to 35 damage based on swing strength and distance\n- Damage skips shield and hurts health directly\n- Speeds up player movement by 10% when in-hand\n- Automatically given to the player after leaving the launch platform (or when exiting the launch pod) and after being revived\n\nKatana\n- Can deal up to 75 damage based on swing strength and distance\n- Damage skips shield and hurts health directly\n- Speeds up player movement by 10% when holding in 1-hand, slows down player by 10% when 2-handing\n- 2-handing the katana produces a small personal shield\n- Shield mode blocks all bullets but does not block other damage types (grenades, melee items, etc)\n- Using the shield is loud, it is more stealthy without the shield active\n\nZone Grenade\n- Designed to force players out of cover (anti-peek tech)\n- Sticks into the wall/floor/ceiling on impact\n- Deals 10 damage per second (5 damage per tick) while inside its influence\n- Starts with a 15 meter radius and shrinks down to nothing over 10 seconds\n- Does not hurt squadmates, but does self damage\n\nShield Drink\n- Blue soda can\n- Restores 25 shield over 15 seconds\n- See “Inventory Management” changes below for stacking info\n\nGameplay Changes\n\nGun Balance Changes\nPistols:\n- 1911 base damage increased 20 -> 24\n- 1911 fire rate decreased\n- 1911 recoil increased on rapid successive shots\n- Magnum .357 base damage increased 40 -> 44\n\nSMGs:\n- P90 recoil becomes more unstable the longer it’s fired\n\nARs:\n- AKM recoil increased in later part of its pattern\n- AKM damage decreased 17 -> 16\n- AKM fire rate slightly increased\n- CX4 base mag size decreased 30 -> 25\n- CX4 fire rate rate increased\n- CX4 damage increased 15 -> 16\n- MK18 damage increased 15 -> 17\n- MK18 rounds per second increased 6 -> 7\n\nSnipers:\n- AWP walk speed while scoped decreased to 25% max speed\n- Sako85 recoil increased to include a bounce and overshoot on fire\n\nItem Balance Changes\n- Health Soda heal lowered from 50 -> 25\n- Health Soda now heals 1 per second (instead of 2 per second)\n- Large shield battery healing increased from 20 -> 50\n- Large shield batteries are no longer found in-world\n- Large shield batteries only spawn from players eliminated by your squad or in the loot drop\n\nInventory Management\n- Shield Drinks and Health Sodas fit 5 per slot\n- Frag grenade and Bananas fit 2 per slot\n- Accessory Items (grenades & healing buffs) picked up with an offhand go directly into the inventory (if there space is available) and not auto-equip in the dominant hand\n- Lower rarity weapons of the same type will be automatically dropped/swapped when a higher rarity one gets picked up\n\nEnvironment Changes\n\nNew Region\n- \"Summit\" now located at the edge of Foothills\n- Summit marks a new base erected by The Bureau\n\nRegion update\n- The Tower's vicinity has been fortified by The Bureau\n- South of The Tower now has a new blockade bordering Plains\n\nNew Features\n\nSprays\n- Equip in the main menu under “Loadout”\n- 3 sprays can be equipped at the same time\n- Use them in-game by opening the ping wheel, selecting them, and place in the world with trigger\n\nCalling Cards\n- Equip in the main menu under “Loadout”\n- After being eliminated, a player will see the selected calling card of their killer\n- The calling card shows a pre-selected image and some player stats\n\nTitles\n- Equip in the main menu under “Loadout”\n- These show below the player name tag and add some personal flavor\n- The player’s title is also shown on their calling card\n\nSeason 1 Limited Content\n\nBattle Pass\n- 50 tiers total of unlockable rewards (13 free rewards)\n- Get access to all Battle Pass tiers for 330 Bureau Gold\n- Daily and Weekly challenges for all users\n\nSocial Content\n\nSeeker Credits\n- New social currency, no real money involved\n- Send Seeker Credits to friends (1 per friend per day)\n- Collect up to 25 Seeker Credits per day\n- Spend them in the Seeker Credit specific shop\n\nGraphics\n\nLighting\n- Improved environmental global illumination\n- Increase in overall crispness, sharpness, and truer colors\n- Better Skin lighting using global probes\n\nCharacters\n- Increased Fidelity on all Character Textures utilizing new compression tech\n- Improved Hand highlighting\n\nBug Fixes\n\n- Fixed issue causing either challenge progress or match XP gain progress (not statistic progress) to fail to be reported\n- Fixed missing “exit door” icon on Post Match screen to show when squadmates have exited\n\n&#x200B;\nMore announcements coming soon ~ see you in game!\n\nFollow on Twitter\nFollow on Facebook\nFollow on Reddit\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75462960_520924219280697_803492155899792099_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-lZdDVXqIuUAX8Zc0oi&_nc_ht=scontent.oculuscdn.com&oh=8123d60cae857dc35796e30fd41c98de&oe=606E3B12"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75462960_520924219280697_803492155899792099_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-lZdDVXqIuUAX-lvQGv&_nc_ht=scontent.oculuscdn.com&oh=3da801063ce60220a2615d037e544572&oe=606E3B12"
 							}
 						}
 					]
@@ -195,7 +229,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRSX9oIh4l96dRNIyB1FseY7pGuYUfVPQBarzWI5pAW3VijVN--68ASRDpjPLEiO9sGBwLwksBnTfJTkxubDkYxQ"
+							"cursor": "AQHRjTiS8zEP3amqcxOSnt1Tv8yrPBG3qLFPHQY3YWqX28io0p_11CarWzvym9WIOgr1R-pS1z6qpL6eJvR8imE7Eg"
 						}
 					]
 				}
@@ -248,11 +282,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6346635498414,
+			"quality_rating_aggregate": 4.6343494919207,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 3103,
+				"count": 3115,
 				"orderings": [
 					{
 						"key": "top",
@@ -265,10 +299,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 3103,
+				"count": 3115,
 				"page_info": {
-					"end_cursor": "AQHRoewkgoQfTyiy6p2I5tTkvpsJoVIjPKduZJ2XUQOY5Ij8_WmWRjs4pu4ri2WyPzOFN72c_2F4ToTvMJvPlRRtVg",
-					"start_cursor": "AQHRoewkgoQfTyiy6p2I5tTkvpsJoVIjPKduZJ2XUQOY5Ij8_WmWRjs4pu4ri2WyPzOFN72c_2F4ToTvMJvPlRRtVg"
+					"end_cursor": "AQHRcsUZtRu11Quouje3PmAjqWAMux2OErVBv9V6y5IVtsthDPwEqrTOE18PCduSvBb85eU68PlHTQ3s5ZpthEsvoQ",
+					"start_cursor": "AQHRcsUZtRu11Quouje3PmAjqWAMux2OErVBv9V6y5IVtsthDPwEqrTOE18PCduSvBb85eU68PlHTQ3s5ZpthEsvoQ"
 				},
 				"edges": [
 					{
@@ -278,13 +312,13 @@
 								"id": "100910754824982",
 								"display_name": "StmpnkWzrd",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974909_242431624006227_4883378009892518744_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Nw1JpangInwAX-KFMJg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dc59a77fef369afa72e5d7c2a0eb906f&oe=606EBE12"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974909_242431624006227_4883378009892518744_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s2t3UwRDZycAX_pxpK9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cccdaf08ea7bb692ac2f8aa3d7e405c3&oe=606EBE12"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I haven't played video games regularly in years. The newest system I own (before this) is an N64. (And btw, all FPS are still measured against Goldeneye).\n\nAnd this game beat Goldeneye. It definitely has a learning curve. You will not be good at this game right away. The tutorial is a bit lacking, but now with the addition of the bot battles you can get some practice in for the real games.\n\nI read through a bunch of the 1 Star reviews for this game and found a few themes.\n\n1. Parents complaining they bought this game for their kids and were appalled at the killing aspect of the game or the profane speech of some teammates. Parents, DO NOT BUY THIS FOR YOUR KIDS!!!!!!!!!! This is a teen and above game. And I'd even say late teens.\n\n2. People complaining about super rude teammates. I've played almost 400 games by now, and maybe my experience has been different from most, but the VAST majority of my teammates, even if they suck, have been reasonably respectful. By far the most disrespectful are the kids. The kids cuss and swear and scream far more than any adults I've played with. I had one kid who insisted on dropping straight to the cemetery against our advice, die within 30 seconds, call us trash and a bunch of other profane names and left.\n\n3. Then there are the guys that complain about the mechanics; \"reloading is too many steps and complicated\" (obviously written by a person who has never handled a real gun), \"you have to peel a banana four times before you can eat it\" (yeah, like a real banana except you don't have to worry about squishing it while you peel it), \"the guns are inaccurate,\" (try shooting a real gun. I assure you hitting someone in this game is far easier than the real thing).\n\nI have my nitpicks with the game as well, particularly coming from a firearms background, but overall I am highly impressed by the game. The better your teamwork the more likely you are to play a good game and win. Legitimate squad tactics (to an extent) are applicable here.",
 							"reviewTitle": "Got me playing VG again after 10+ years",
-							"review_helpful_count": 328,
+							"review_helpful_count": 340,
 							"review_rank_by_viewer": null,
 							"date": 1611584513,
 							"developerResponse": null
@@ -299,7 +333,7 @@
 				"description": "CLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_259766475525536_7748797124750464409_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8Akyp-VXakYAX87bztj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e79498f0554807440290f35b7d65288e&oe=606D9966",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_259766475525536_7748797124750464409_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8Akyp-VXakYAX_L5H-G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2d9593eb4c5a5eca3f4ae96eea78dd73&oe=606D9966",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
