@@ -1,0 +1,294 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3433698816645881",
+			"display_name": "Flow Weaver",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001654_499706961024276_8577671594931469618_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-AAuQFssOWEAX8K2tW3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dba44e5e788cffc54e2d2aab698e29ed&oe=607029F0"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974841_256078615988715_2081387771810249242_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=XpNUU-eYbekAX8uXwm2&_nc_ht=scontent.oculuscdn.com&oh=af5d6d57129310785c484cfd86e4d054&oe=607043DD"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 2,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 1,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 1,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 5,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "You are trapped. Bound by magic by unknown captors. But you are a Flow Weaver and can move between dimensions. Travel amongst them, learn new spells, and uncover the secrets of this strange world to orchestrate your escape.\n\nFlow Weaver is a narrative escape room game. The player explores and experiments with their environment, moving between different magical dimensions to solve intuitive puzzles towards the goal of escape.\n\nGameplay allows you to move between your cell and multiple different dimensions (or \"Flows\") as you discover them, learning how each Flow affects the world in different ways. The player uses those differences to solve puzzles and challenges, learn new skills or spells, and uncover new objects and new puzzles. \n\nFlow Weaver is an immersive seated experience with fully voiced dialogue, a moving soundtrack, and rich narrative lore for fantasy fans to dig into.\n",
+			"developer_privacy_policy_url": "https://flow-weaver.com/privacy",
+			"developer_terms_of_service_url": null,
+			"supported_player_modes": [
+				"SITTING"
+			],
+			"publisher_name": "Self-published",
+			"supported_in_app_languages": [
+				{
+					"name": "德语"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "法语（加拿大）"
+				},
+				{
+					"name": "英语"
+				},
+				{
+					"name": "西班牙语（哥伦比亚）"
+				},
+				{
+					"name": "西班牙语（墨西哥）"
+				},
+				{
+					"name": "西班牙语（委内瑞拉）"
+				},
+				{
+					"name": "西班牙语（智利）"
+				},
+				{
+					"name": "西班牙语（波多黎各）"
+				},
+				{
+					"name": "西班牙语（秘鲁）"
+				},
+				{
+					"name": "西班牙语（阿根廷）"
+				},
+				{
+					"name": "韩语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Stitch Media and Silverstring Media",
+			"genre_names": [
+				"探索",
+				"故事",
+				"益智"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "0.7.2",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY"
+				],
+				"total_installed_space": "819568260",
+				"id": "4389131101102643",
+				"required_space_adjusted": "1480457166",
+				"storeAddOns": null,
+				"firstIapItems": null
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1615485600,
+			"supported_tracking_modes": [],
+			"website_url": "https://flow-weaver.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "264121632017607",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "225172548802157"
+			},
+			"live_release_channel": {
+				"id": "225172548802157",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4389131101102643"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "225172548802157",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "0.7.2",
+							"id": "4389131101102643"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "2931415517092889",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "NOT_REQUIRED",
+			"internet_connection_name": "无需联网",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "stitch-media-flow-weaver-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "1999"
+				},
+				"id": "264121632017607"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Flow Weaver",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "264121632017607"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 3.6666666666667,
+			"support_website_url": "https://flow-weaver.com/",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 3,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 3,
+				"page_info": {
+					"end_cursor": "AQHRW-d5pxDWV-sjYaP5F-xwE4b7vvRTbRminzjoQ9rQbyP-yFSTSf90CfG3WbLxslu5qT77Qif-BVz3suAwQ7n6RQ",
+					"start_cursor": "AQHRW-d5pxDWV-sjYaP5F-xwE4b7vvRTbRminzjoQ9rQbyP-yFSTSf90CfG3WbLxslu5qT77Qif-BVz3suAwQ7n6RQ"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "190272832895860",
+							"author": {
+								"id": "108225641100580",
+								"display_name": "Nikeetz",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.240.960.960a/s160x160/38974738_189098039680006_3165327476115866318_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xGlQY6ezWMsAX_1KlOe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96888d691e1c0e063199193de82938bc&oe=60706B9F"
+								}
+							},
+							"score": 4,
+							"reviewDescription": "Update: there is a bug and I’m stuck in the fairy realm. I cannot leave after putting the wine in the bowl. I’ll update back to 5 stars once the patch comes out. \n\nStunning graphics, great narration and not super easy! I’m not done yet but I’m moving along slowly! \n\nI think from the other review I read which is saying that it’s too difficult and they didn’t know what to do it’s likely because they are looking for teleportation of some sort. I think the game would benefit from a hint system like the one in The Room VR. \n\nI’m putting difficulty of this puzzler between Myst and The Room VR. The room VR without hints would be of similar difficulty I think. Maybe a bit less. It’s been a while since I’ve played it. \n\nOh and I had an issue when I first launched. I use no guardian in developer mode and the floor not being set was an issue, then I put guardian on for stationary and the grid kept popping up when I reached out - so that was distracting. I had to set a guardian in a larger spot around me to be able to play. \n\nBut overall, I’m impressed and looking to see how much gameplay I get out of this! \n\nCongrats on such a beautiful title - I definitely see this becoming a classic and must download!",
+							"reviewTitle": "Beautifully done and not easy but ...",
+							"review_helpful_count": 14,
+							"review_rank_by_viewer": null,
+							"date": 1615515102,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "You are trapped. Bound by magic by unknown captors. But you are a Flow Weaver and can move between dimensions. Travel amongst them, learn new spells, and uncover the secrets of this strange world to orchestrate your escape.\n\nFlow Weaver is a narrative escape room game. The player explores and experiments with their environment, moving between different magical dimensions to solve intuitive puzzles towards the goal of escape.\n",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001728_269710267923355_1379448384128825476_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Fa4e7LXGP0MAX-ozWJd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=645229061d0794afc756732ab6c6c44f&oe=60725CC2",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3433698816645881/",
+				"site_name": "Oculus",
+				"title": "Flow Weaver · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031321_773224933256793_8187583946855146956_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P1inV5cnMw0AX8tYhV2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=aff1177331d2de670553169c2187ed40&oe=606F4C3F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031321_773224933256793_8187583946855146956_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P1inV5cnMw0AX8UneVa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4df914da630347bc724f700fba57e13d&oe=606F4C3F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_429103508486337_613749588636782140_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3mucbIGGLdsAX-bg2lw&_nc_ht=scontent.oculuscdn.com&oh=123bfcba3c869b90c1e45fd21a49b5c8&oe=6070787D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_429103508486337_613749588636782140_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3mucbIGGLdsAX8_zRpj&_nc_ht=scontent.oculuscdn.com&oh=b6725f87997538d762a25bc9e237feda&oe=6070787D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -132,17 +132,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "141652127381691",
+				"id": "249884529948017",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1799",
+					"formatted": "US$ 17.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-10%",
+				"end_time": 1615622340,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -225,7 +230,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "141652127381691"
+				"id": "249884529948017"
 			},
 			"externalReviews": {
 				"count": 0
@@ -249,8 +254,8 @@
 			"firstQualityRatings": {
 				"count": 74,
 				"page_info": {
-					"end_cursor": "AQHR04WHeTzM-0qHak3ynvizdUjIljMnmg8S3YyPTjrObzkKo4sTVY_r7_9vHhPrz54ei52TMoUvCWqMDBfiyhOEUQ",
-					"start_cursor": "AQHR04WHeTzM-0qHak3ynvizdUjIljMnmg8S3YyPTjrObzkKo4sTVY_r7_9vHhPrz54ei52TMoUvCWqMDBfiyhOEUQ"
+					"end_cursor": "AQHRguOmgxPnItdENccZOfj1BLwOKtN3Ow8umcJpu_5ryae-_uBdzwUWFghljvFoxfrAzs_5ewcYtry2367Cg0wW5A",
+					"start_cursor": "AQHRguOmgxPnItdENccZOfj1BLwOKtN3Ow8umcJpu_5ryae-_uBdzwUWFghljvFoxfrAzs_5ewcYtry2367Cg0wW5A"
 				},
 				"edges": [
 					{
@@ -260,7 +265,7 @@
 								"id": "101642861589308",
 								"display_name": "SinisterZion",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.682.682a/s160x160/75300188_120942349659359_5484291784519831031_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Xj8QS_M_Fu0AX8pPmGa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=559e50a9b902b64accae443bce08f2dc&oe=606DB897"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.682.682a/s160x160/75300188_120942349659359_5484291784519831031_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Xj8QS_M_Fu0AX-3RuFC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=42ac642e9a328e2ffbc142e409d3de24&oe=6071AD17"
 								}
 							},
 							"score": 5,
@@ -281,7 +286,7 @@
 				"description": "《监狱大佬VR》是一款在监狱牢房的VR空间中进行的制作和交易游戏！为其他狱友制作香烟、酒饮和曲奇！随着声誉等级的提高，自定义你的牢房！赚取金钱，直到你再也存不下更多的钱时，晋升为监狱大佬！\n\n•\t11种不同的可制作物品 \n•\t4个监狱的80项工作等你来通关\n•\t3种不同的游戏方式：故事、街机和大佬模式    \n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001683_339068707230010_6248006450203478933_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ivHi8nhISu8AX_0z8uR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3858c559257bb5fb2c85f693dbc61015&oe=60709EF4",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031622_783801018893885_5697590114990183909_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-cJEB8QI6doAX8je6Yu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd119d17ed3ff878d998cbc91ff34469&oe=60724EE7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
