@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75462960_539422093437114_5612009456721199104_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zMlWP3QUajQAX82Hvy_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=385287cc4486f3382bc9900a52c2e265&oe=6073844A"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75462960_539422093437114_5612009456721199104_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zMlWP3QUajQAX-uyK-R&_nc_ht=scontent.oculuscdn.com&tp=28&oh=34713df8831387125a89518d45468233&oe=6073844A"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2668795720028133_8699369272075354112_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=_DjIkRbpXjcAX85K-ug&_nc_ht=scontent.oculuscdn.com&oh=aba4dfc88c7728147c651bb66d36180d&oe=6070A0B5"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2668795720028133_8699369272075354112_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=_DjIkRbpXjcAX-tpieD&_nc_ht=scontent.oculuscdn.com&oh=c7768692d656e9c1250ac277c82cb4aa&oe=60749535"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 45,
+					"count": 46,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 126,
+					"count": 127,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 956,
+					"count": 958,
 					"starRating": 5
 				}
 			],
@@ -115,17 +115,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "228717741607687",
+				"id": "418259325915531",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "2399",
+					"formatted": "$23.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1615791540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -217,16 +222,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "228717741607687"
+				"id": "418259325915531"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6837606837607,
+			"quality_rating_aggregate": 4.6822827938671,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 689,
+				"count": 692,
 				"orderings": [
 					{
 						"key": "top",
@@ -239,10 +244,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 689,
+				"count": 692,
 				"page_info": {
-					"end_cursor": "AQHRSSE_wqRgwSmMp57vaYYw4orFeGAY-tzV9VAf6L87Nmu1YOUGN2yb9_R_zRX8Nv6D0-d7I-UuA2ISgA9uBUgrcQ",
-					"start_cursor": "AQHRSSE_wqRgwSmMp57vaYYw4orFeGAY-tzV9VAf6L87Nmu1YOUGN2yb9_R_zRX8Nv6D0-d7I-UuA2ISgA9uBUgrcQ"
+					"end_cursor": "AQHR2FZJ1XhKUsWhw20IO64LGscIw2pq3C8TmB9MH378QGmT7ELJc02RPYsblnAwxwKTDhOCKWup3Tcywxp39IwLsA",
+					"start_cursor": "AQHR2FZJ1XhKUsWhw20IO64LGscIw2pq3C8TmB9MH378QGmT7ELJc02RPYsblnAwxwKTDhOCKWup3Tcywxp39IwLsA"
 				},
 				"edges": [
 					{
@@ -252,13 +257,13 @@
 								"id": "103309157435520",
 								"display_name": "hassan.aldali.31",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974746_103310404102062_175654996946190336_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OvXyQxYR1XMAX-m4nRD&_nc_oc=AQkRkVGpRIkxsG9w-hd-CRjn5Dj60oeGShbqHRG1r2H3UUsgi6LcZpfHP-uCnECAM20&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0b611890652288ed8fddb955e9eff456&oe=6071D242"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974746_103310404102062_175654996946190336_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4HfJ6pqNndoAX8z_vfY&_nc_oc=AQmMVbfHivMNVp0q6QzrFHqdL83gRW7s-NRfo8Boay1u0ERs3f7H-PyibD96pQLug5E&_nc_ht=scontent.oculuscdn.com&tp=28&oh=94b6ce5727698f9446309f8cc8ccf15e&oe=6071D242"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I literally never wrote a review on anything before but holy s**t I just kinda s**t myself playing this game. It's scary af . Great graphics.  Amazing soundtrack what can I say it makes buying oculus worth it . Seriously if you're still in doubt whether to buy it or not this review is for you . \nI'm a wuss I can only play it for like 10 mins at a time lol .",
 							"reviewTitle": "Omg Just freaking amazing",
-							"review_helpful_count": 76,
+							"review_helpful_count": 77,
 							"review_rank_by_viewer": null,
 							"date": 1612065963,
 							"developerResponse": null
@@ -273,7 +278,7 @@
 				"description": "LIES BENEATH is a single-player survival horror game with a heavy dose of action! Something's gone horribly wrong in the sleepy town of Slumber, Alaska. Now, returning college student Mae must fight to save her father (and her sanity) from the terrifying townsfolk and creepy creatures infecting her hometown. Experience a living comic book full of frightful scenarios as you uncover the secrets of Slumber… and Mae's past.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974510_1266300753553699_2453788870030917632_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vmDHjJhBstUAX-C2aQL&_nc_oc=AQk_v5XRQ0DndX_yShvopC_Vt0_-NNRqiJCMg1uPxfZRZN5I39ClCCsMEaq22CpcqAk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a9a35ec014b0d953edbb3154c24489e1&oe=6070A0C4",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974595_1160534107718524_6797115474393499898_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pmsp2rRiF4QAX-DVxZu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a478138ef6369d18994271205ef34eee&oe=60739DD1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KXbkUiuuUOwAX_cWyp8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cf3acd8826575afcf9855e913fe8d3d1&oe=607394D5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zyXFy3rmM0gAX90iV4I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f60654b1c47f9ecfd0166c20fa833945&oe=607394D5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=492PgwguR5oAX_-MIy1&_nc_ht=scontent.oculuscdn.com&oh=12da49540ad6dd7bdd9c96b7b0b83481&oe=6072C767"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=492PgwguR5oAX_oe2CK&_nc_ht=scontent.oculuscdn.com&oh=02e93c9ef5d61260d07aa1b6267602d7&oe=6072C767"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 20,
+					"count": 21,
 					"starRating": 1
 				},
 				{
@@ -99,14 +99,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "3.4",
-				"change_log": "New Features and Improvements\n=============================\n- added new Advanced settings screen with following settings:\n  + option to allow turning off of device refresh rate to frame rate syncing.\n  + option to set default viewing mode of image and video media when file tagging for auto recognition is not used.\n  + moved ipd and \"use eyebuffer rendering...\" options into this advanced settings.\n- removed \"tap to recenter\" auto pop and functionality when we look outside the bounds of the Void screen. This is replaced with:\n  + manual recenter screen to gaze option, found under the player options screen.\n  + support for controller based re-orientation of Void screen by holding trigger down for 2 seconds or more\n- reduce white levels slightly of menus and subtitle text so they are easier on the eyes on Oculus Quest 2 screens. Not so much glare.\n- updated internal video decoder library to most up to date build.\n\nBug Fixes and Optimizations\n===========================\n- optimize image memory management and loading for better and more reliable loading of very very large images.\n- optimize thumbnail loading to reduce oom issues on large image files.\n- fix chronological sorting of folders for smb and local folders.\n- fix incorrect previous image bug when manually going to previous image during a slideshow or immediately after we stop a slideshow.\n- fix thumbnails not auto generating for videos over 4k.\n- fix cached thumbnails not accounting for duplicate names in different file locations.\n- fix issue with some MPO images showing as skewed due to width info in MPO header being off by a pixel.\n- fix auto play via config file option sometimes not kicking in for image slideshows.\n- fix auto detect view mode by file tag not kicking in for images when config file settings tells it to auto play.",
+				"version": "3.4.1",
+				"change_log": "====================================\nv3.4.1 - Release Notes: Minor update \n====================================\n- revert internal libVLC video decoder library to previous build as some people are reporting SMB playback issues on this newer decoder library still.\n- added a potential safeguard to MPO file processing to catch and avoid crash due to currupted byte data on bad mpo files.\n\n\n======================\nv3.4 - Release Notes \n======================\n\nNew Features and Improvements\n=============================\n- added new Advanced settings screen with following settings:\n  + option to allow turning off of device refresh rate to framerate syncing.\n  + option to set default viewing mode of image and video media when file tagging for auto recognition is not used.\n  + moved ipd and \"use eyebuffer rendering...\" options into this advanced settings.\n- removed \"tap to recenter\" auto pop and functionality when we look outside the bounds of the Void screen. This is replaced with:\n  + manual recenter screen to gaze option, found under the player options screen.\n  + support for controller based re-orientation of Void screen by holding trigger down for 2 seconds or more\n- reduce white levels slightly of menus and subtitle text so they are easier on the eyes on Oculus Quest 2 screens. Not so much glare.\n- updated internal video decoder library to most up to date build.\n\nBug Fixes and Optimizations\n===========================\n- optimize image memory management and loading for better and more reliable loading of very very large images.\n- optimize thumbnail loading to reduce oom issues on large image files.\n- fix chronological sorting of folders for smb and local folders.\n- fix incorrect previous image bug when manually going to previous image during a slideshow or immediately after we stop a slideshow.\n- fix thumbnails not auto generating for videos over 4k.\n- fix cached thumbnails not accounting for duplicate names in different file locations.\n- fix issue with some MPO images showing as skewed due to width info in MPO header being off by a pixel.\n- fix auto play via config file option sometimes not kicking in for image slideshows.\n- fix auto detect view mode by file tag not kicking in for images when config file settings tells it to auto play.",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "241758069",
-				"id": "3729032300550605",
-				"required_space_adjusted": "149632380",
+				"total_installed_space": "240034165",
+				"id": "3779161358871032",
+				"required_space_adjusted": "147761362",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -140,7 +140,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3729032300550605"
+					"id": "3779161358871032"
 				}
 			},
 			"release_channels": {
@@ -151,8 +151,8 @@
 						"id": "1650270871774947",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "3.4",
-							"id": "3729032300550605"
+							"version": "3.4.1",
+							"id": "3779161358871032"
 						}
 					}
 				]
@@ -221,11 +221,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8765432098765,
+			"quality_rating_aggregate": 3.8588957055215,
 			"support_website_url": "https://hanginghatstudios.com/pigasus-faq",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 92,
+				"count": 93,
 				"orderings": [
 					{
 						"key": "top",
@@ -238,10 +238,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 92,
+				"count": 93,
 				"page_info": {
-					"end_cursor": "AQHRlaRgoazFXfbMZQBXwUOBhprYRs7zjDauhvY-Wn5R6k022zzyr8-21aVWj4vDEysTMk5zfJqHZVymQQ0ntl59NA",
-					"start_cursor": "AQHRlaRgoazFXfbMZQBXwUOBhprYRs7zjDauhvY-Wn5R6k022zzyr8-21aVWj4vDEysTMk5zfJqHZVymQQ0ntl59NA"
+					"end_cursor": "AQHRhNQblVbM_Aw3n27RREsuGJHggVMjHW7KYznnyHTLt4QRtO3YLa-MU5Ve47cnoYzDzpjgtmyZRi5Cf7dOrC-XsQ",
+					"start_cursor": "AQHRhNQblVbM_Aw3n27RREsuGJHggVMjHW7KYznnyHTLt4QRtO3YLa-MU5Ve47cnoYzDzpjgtmyZRi5Cf7dOrC-XsQ"
 				},
 				"edges": [
 					{
@@ -274,7 +274,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tc50XY7Lzn4AX9G5SQy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=348981074a3c3ba163a49d9fb1ec0526&oe=6073A581",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=amJhpMTb2OIAX8R91BA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=be0669d8fdf77d166d2131b7ccd9e48a&oe=6073A581",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
