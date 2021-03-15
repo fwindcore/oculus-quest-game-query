@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vjpLu5R_7tAAX9l8eQj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ac8dbf2921f9252a624eb3b813eae517&oe=6071A686"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vjpLu5R_7tAAX9mA4sO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9b4f7bcf7627feac6874342095954f51&oe=60759B06"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=liVR9_88qRsAX-9gMe-&_nc_ht=scontent.oculuscdn.com&oh=ad950e59687f9c45e4f9fae53dd606f8&oe=60750CAF"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=liVR9_88qRsAX94iOW_&_nc_ht=scontent.oculuscdn.com&oh=edd595d80607ff7002e96da2fdd91bfb&oe=60750CAF"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 190,
+					"count": 191,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 103,
+					"count": 104,
 					"starRating": 2
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1029,
+					"count": 1033,
 					"starRating": 5
 				}
 			],
@@ -146,74 +146,7 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1615748400,
-								"current_start_timestamp": 1615741200,
-								"temporal_info": {
-									"seconds_until_end_time": 37825,
-									"seconds_until_start_time": 30625
-								},
-								"vr_app_and_destination_string": "Bigscreen Beta",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2497738113633933",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Bigscreen Beta"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1681862035329932",
-								"is_vr_viewer_interested": false,
-								"name": "Watch MY HERO ACADEMIA: TWO HEROES",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974908_760321474914522_1102022056674393644_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LpElIminamcAX_8GcKr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=093af7cf13cadf8a97b95f02bf06cc75&oe=60748FCC"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1615780800,
-								"current_start_timestamp": 1615773600,
-								"temporal_info": {
-									"seconds_until_end_time": 70225,
-									"seconds_until_start_time": 63025
-								},
-								"vr_app_and_destination_string": "Bigscreen Beta",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2497738113633933",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Bigscreen Beta"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1681863478663121",
-								"is_vr_viewer_interested": false,
-								"name": "Watch TRANSFORMERS: DARK OF THE MOON in 3D!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003281_789532721685906_6576137144159994255_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1aVgoxw8mdcAX_QybA-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=723a7355b60c76307fe6fba5ce875d72&oe=6073DEE0"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "1090185211164287",
 				"posts": {
@@ -224,22 +157,15 @@
 							"created_time": 1615338677,
 							"body_text": "Small update to squash some bugs:\n\n- Our latest selfie stick addition accidentally hid avatars with their personal space bubble on, but now you all should be able to take selfies with your friends and show up in your photos.\n- There have been a lot of screen flickering reports on Quest headsets while viewing a host’s desktop, so we fixed that right up along with some similar issues in certain environments as well.\n- Oculus PCVR desktop screens should no longer be cropped in certain environments.\n- Several other fixes and improvements have been made.\n\nWe still have more work to do, so stay tuned! Please continue to share your feedback and email us at support@bigscreenvr.com\n\n#️⃣ Version: 0.107.0.8cf512-beta-ui-2020",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75339311_3845888448800780_2948183383456024939_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cPNOuhhAiGkAX-W2SZW&_nc_ht=scontent.oculuscdn.com&oh=5393a6414d63b30f12fe575d6cb9d80e&oe=6071A326"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75339311_3845888448800780_2948183383456024939_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cPNOuhhAiGkAX-urxMC&_nc_ht=scontent.oculuscdn.com&oh=43a14fad9e0b3167fc8955ee8e3436c5&oe=607597A6"
 							}
-						},
-						{
-							"id": "353012762543874",
-							"title": "Capture your best Bigscreen moments with the selfie stick on Quest!",
-							"created_time": 1614912183,
-							"body_text": "Hey everyone,\n\nSelfie sticks are now available on Quest headsets! Now you can capture your favorite moments in Bigscreen easily and share them with everyone. You can take out the selfie stick under Tools & Toys from your Room menu and pull the trigger on your controller to snap a quick photo. Your photos will be saved into your Quest’s internal storage, so you can share them through the Oculus sharing menu. Be sure to tag us @BigscreenVR on Twitter so we can also show them off!\n\nIf you’re not a fan of seeing any tools or toys appear in your view, remember to turn on Distraction Free Mode to hide them away from sight (selfie sticks included).\n\nWe’ve heard your feedback about the playback controls on screen! Playback controls for the videoplayer and rentals will only appear after you have clicked the screen now.\n\nWe still have more work to do, so stay tuned! Please continue to share your feedback, #feature-requests, and email us at support@bigscreenvr.com\n\n#️⃣ Version: 0.107.0.d3deee-beta-ui-2020",
-							"tile_landscape_image": null
 						}
 					]
 				},
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRoBMGGfcYFjeq3DE3hu0J08YYnOPG-SY_7bZSBjxlFOl_-YIQfV0BGXHyJ_BtDasTc3B2MeMm5QqxBnTt0VfbVQ"
+							"cursor": "AQHROfXOAizJyTYIGVfZty6Bt5_oeUfVN-sSj1RDzSaJu3ual_3WPLEVtS6IWP6Zg25_Qg7-dMW2f-4_tfOm6s3VrQ"
 						}
 					]
 				}
@@ -286,11 +212,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0297239915074,
+			"quality_rating_aggregate": 4.0291005291005,
 			"support_website_url": "https://bigscreenvr.com/discord",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 575,
+				"count": 577,
 				"orderings": [
 					{
 						"key": "top",
@@ -303,10 +229,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 575,
+				"count": 577,
 				"page_info": {
-					"end_cursor": "AQHR4iCTUceXOCVwatkErdEP06o40HE69WCvQtRzL1y4zpOaYOJcfVDlIQre_Bp-AgnXMtJFWPOj1VemAeFdMQFtlA",
-					"start_cursor": "AQHR4iCTUceXOCVwatkErdEP06o40HE69WCvQtRzL1y4zpOaYOJcfVDlIQre_Bp-AgnXMtJFWPOj1VemAeFdMQFtlA"
+					"end_cursor": "AQHRqViVhoGsSPz_ehoXKaNAYNZgo8SKQxRBsdh8bMklqi8nY8gFOO33x-fZB_VrjoD8CRGqsDRak0R0xnKgiQr2rg",
+					"start_cursor": "AQHRqViVhoGsSPz_ehoXKaNAYNZgo8SKQxRBsdh8bMklqi8nY8gFOO33x-fZB_VrjoD8CRGqsDRak0R0xnKgiQr2rg"
 				},
 				"edges": [
 					{
@@ -316,13 +242,13 @@
 								"id": "105415631477383",
 								"display_name": "Vuyovich",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974558_108094151209531_4923217574895404919_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZJNob1TX08QAX_LRXk3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e5ba31667a1ab0c5f1a3f8e2f438062b&oe=60727323"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974558_108094151209531_4923217574895404919_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tYWNanlD4VIAX_NlBA1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=80119ee305f694bed2eb554ac3451191&oe=607667A3"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I love Bigscreen, it’s definitely one of my favorite apps on VR. But I’m a little disappointed with inability to share movies. I can pay money to see one of the featured movies with a friend, but if I want to invite a friend over to my virtual living room to watch one of my movies on my server, it won’t work. My friend has to have that same movie on their server. Why? What would be the point in that? Maybe I’m doing something wrong, I’ve tried to see if there’s a workaround for this. So far, nothing. But if you can collaborate and share your files on your pc in a work related setting on Bigscreen, why couldn’t I watch a movie with a friend who doesn’t have the same movie? They can’t record it, download it...it’s not breaking any laws. It’s no different than buying the movie at a store, taking it home and watching it with my friends there. During this quarantine, my friends and I have been finding out what movies we haven’t seen and watching them. It would have been nice to share a movie with friend that I have, that they don’t have. Just hoping this is something that gets fixed. It doesn’t make sense and makes the whole idea of watching movies with friends limited to purchasing tickets for one of the handful of movies I really have no interest in seeing. Maybe if they played newly released movies that would be in the theaters, that would be better. I’d probably do that more often.",
 							"reviewTitle": "Movie sharing needs improvement",
-							"review_helpful_count": 356,
+							"review_helpful_count": 366,
 							"review_rank_by_viewer": null,
 							"date": 1611588524,
 							"developerResponse": null
@@ -337,7 +263,7 @@
 				"description": "WATCH movies with friends in a virtual movie theater. \nPLAY your favorite PC video games on a huge screen. \nHANG OUT in social VR chat rooms.\nEVENTS like weekly 3D Movie Nights and VR LAN parties!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iu16Dm7fd2MAX9AWNve&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0aed261e227615f7259a9101de7a43f2&oe=6072F2D8",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iu16Dm7fd2MAX--phQY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f54f28851694647c8802f8ffbf820833&oe=6072F2D8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
