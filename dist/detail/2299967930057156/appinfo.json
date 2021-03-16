@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031337_1513321868860618_8429960615135814768_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BtMhnAlYzNEAX_tqcVz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9ec542755d3b866fd19a1db4f8f14381&oe=60759421"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031337_1513321868860618_8429960615135814768_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5nBjabbiI2oAX9qA2qD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a8a77d40869e7fae6a6a22f7b19bca51&oe=60759421"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3299694510072221_4649734854529777664_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=oe8a7TtfhdIAX_9kXVJ&_nc_ht=scontent.oculuscdn.com&oh=40d0b9ba8ecfadfdee70e4af155f0874&oe=60731F07"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3299694510072221_4649734854529777664_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=SZsDcidh7EUAX-CBZTb&_nc_ht=scontent.oculuscdn.com&oh=19ea9e78de01b2a3865a4f4fa2a99499&oe=60771387"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,7 +26,7 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 30,
+					"count": 31,
 					"starRating": 2
 				},
 				{
@@ -130,16 +130,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2459649440942540",
+				"id": "946235686118616",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1199",
+					"formatted": "$11.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1616432400,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -223,12 +228,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2459649440942540"
+				"id": "946235686118616"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6060606060606,
+			"quality_rating_aggregate": 4.6042670337233,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -247,8 +252,8 @@
 			"firstQualityRatings": {
 				"count": 680,
 				"page_info": {
-					"end_cursor": "AQHR0pQSC997SjoNg4QTGezAyVm2qz5ON5_XT6ndxkh-t6wnFbEr0hWnfvOPIsgnRwoXK-mqbnPdnPdKGXT_mYjHXA",
-					"start_cursor": "AQHR0pQSC997SjoNg4QTGezAyVm2qz5ON5_XT6ndxkh-t6wnFbEr0hWnfvOPIsgnRwoXK-mqbnPdnPdKGXT_mYjHXA"
+					"end_cursor": "AQHRYhZ9kKeBIp7s6mFR0AzhPqMfFZ1JY_NzRJ3wGEwyMZ076z2ZCplN3N_xPYkmb3YK2zizSn6NFERTtrZG5ogfUg",
+					"start_cursor": "AQHRYhZ9kKeBIp7s6mFR0AzhPqMfFZ1JY_NzRJ3wGEwyMZ076z2ZCplN3N_xPYkmb3YK2zizSn6NFERTtrZG5ogfUg"
 				},
 				"edges": [
 					{
@@ -258,13 +263,13 @@
 								"id": "123685569542669",
 								"display_name": "Mallymoot",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.5.1430.1430a/s160x160/75593940_181906700387222_2182641194842268598_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MjjAWPdaAkEAX_yIddi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c8d95c9601028ea00d5b12d802036a77&oe=6073544F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.5.1430.1430a/s160x160/75593940_181906700387222_2182641194842268598_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MjjAWPdaAkEAX_oCEcY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=76e1139de76f3121802f10912b3603af&oe=607748CF"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "So first off, I'm 64 yrs old with mobility problems. I thoroughly enjoyed this game which I could play seated. It was the right level of challenging for me without being too frustrating or difficult. Some lateral thinking needed but once you realise the cause and effect of your actions it starts to make sense. I loved it and was sad to finish it.",
 							"reviewTitle": "Enjoyable & imaginative",
-							"review_helpful_count": 295,
+							"review_helpful_count": 300,
 							"review_rank_by_viewer": null,
 							"date": 1606959610,
 							"developerResponse": null
@@ -279,7 +284,7 @@
 				"description": "在《渔夫的故事》中扭曲现实。这是一款离奇古怪的VR益智冒险游戏，其中颠倒和翻转的不仅仅是文字游戏而已。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_3624120291006788_8336620418388844144_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jukkmhPrAtMAX__0rsE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c5f450e121544ad8476d58247c3eb434&oe=607617F1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_3624120291006788_8336620418388844144_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jukkmhPrAtMAX_6jGDe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=84c84574111b5208d214e79596e63d5e&oe=607617F1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
