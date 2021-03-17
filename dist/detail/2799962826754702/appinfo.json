@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031363_643956676275804_3865355251458585792_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IR9jQLM-Mc0AX_0mLHA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4ad1c988de97dee16d5e7c6996eed3b4&oe=607541CE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031363_643956676275804_3865355251458585792_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3WzwmAtdtsQAX89-0Q0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=53f05222c7c25f1c050bf5fc7ff2eb4a&oe=6079364E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_657789428463151_6100436766218231848_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=4my07cFEGMoAX_zSg0F&_nc_ht=scontent.oculuscdn.com&oh=1b26e73cc281ce14a89255c28ac20c15&oe=6074B7C7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_657789428463151_6100436766218231848_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=K7z2dNNkQKwAX_AJmHj&_nc_ht=scontent.oculuscdn.com&oh=8276888f70d7957bb8fe4e07e392a025&oe=6078AC47"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 81,
+					"count": 82,
 					"starRating": 5
 				}
 			],
@@ -127,16 +127,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2739439339603150",
+				"id": "2793074737623770",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "2249",
+					"formatted": "$22.49"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99",
+					"offset": 100
+				},
+				"promo_benefit": "-25%",
+				"end_time": 1616432400,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -220,12 +225,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2739439339603150"
+				"id": "2793074737623770"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9612903225806,
+			"quality_rating_aggregate": 3.9679487179487,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -244,8 +249,8 @@
 			"firstQualityRatings": {
 				"count": 87,
 				"page_info": {
-					"end_cursor": "AQHRQzvFCLynRNBDLTmGPEV_oYGAlaEreiis3RmVmSSGqp2redwL0JTIdjYUOjJQVi0Zvf-Z9Q2MXFR8NtiAxUgXFA",
-					"start_cursor": "AQHRQzvFCLynRNBDLTmGPEV_oYGAlaEreiis3RmVmSSGqp2redwL0JTIdjYUOjJQVi0Zvf-Z9Q2MXFR8NtiAxUgXFA"
+					"end_cursor": "AQHRWMZ2v91FHG5uZ4VvV_P24gNiOcbVJ8B788ChGMilnZhEetVz5BrVVDZwahpD0FPekvz0IcuCismM5wgIzOp8zg",
+					"start_cursor": "AQHRWMZ2v91FHG5uZ4VvV_P24gNiOcbVJ8B788ChGMilnZhEetVz5BrVVDZwahpD0FPekvz0IcuCismM5wgIzOp8zg"
 				},
 				"edges": [
 					{
@@ -255,13 +260,13 @@
 								"id": "109521197337899",
 								"display_name": "CarlosR87",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974663_109523494004336_4243179168755351552_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NDPCbHWOS7YAX_DBXcK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4f10471f19da35c1813015fa41d364cf&oe=6074BC11"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974663_109523494004336_4243179168755351552_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FtXCLfJZbcIAX84juML&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b9e8c8948b4c2076a922ab7dac8ded4d&oe=6078B091"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I'm a fan of the Blair Witch franchise. I've been awaiting for a BW game for a very long time, and i own this one on Switch, PS4, PC, and now Quest 2. Although the game could indeed have done better, the setting is really good.\nNow, talking about the negatives first: there was a missed opportunity here of making the Maryland forest a wider explorable area. In this version, and i understand devs were limited by the chipset on the Oculus, the linearity of the path made it loose the idea of getting lost in an hostile environment, with something you cannot see, chasing you. \nI would have loved to see a bit more around the woods and i think most BW fans would as well.\nAnother thing are the enemies... Now i understand that in an interactive media, you need some kind of nemesis so the game doesn't feel boring, but... that is not what the Blair Witch was about, in 1999. The BW was about being stalked by an unseen and unstoppable force. Was about the fear, and all too real, of not being able to leave those woods when the night comes, not about some enemies you can or cannot control,  but the fear of the unknown that Lovecraft so well described. It is the most powerful fear in the world, and this was taken from this game.\nNow on to the positives: everything else. And that is true. Despite what i said, the BW still invokes the first time i saw the movie and couldn't sleep for nearly 3 days. \nHope you guys don't give up on a sequel, please, because I'll buy it anyway. Just make it more like Visage, P.T., Insomnia, Layers of Fear, maybe, and you'll see you'll have a franchise  to last for ages.",
 							"reviewTitle": "Pretty cool but",
-							"review_helpful_count": 121,
+							"review_helpful_count": 137,
 							"review_rank_by_viewer": null,
 							"date": 1609805813,
 							"developerResponse": null
@@ -276,7 +281,7 @@
 				"description": "《Blair Witch: Oculus Quest Edition》是一款由情节推动的心理恐怖游戏，与享有盛誉的《层层恐惧》出自同一创作团队。原创故事灵感源自恐怖大片《布莱尔女巫》 ，并专为虚拟现实设计，让你体验到直达内心深处的恐惧。  ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974526_631853044141059_3672336855197012858_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fqEIv1mvfPIAX8v-mvx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=87d215e9f0622036382be7724a9cb038&oe=6075EB2B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974526_631853044141059_3672336855197012858_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7RE4_hA2LJwAX9MRTEY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b7037d23195cb24c6205a5309bb0e317&oe=6075EB2B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

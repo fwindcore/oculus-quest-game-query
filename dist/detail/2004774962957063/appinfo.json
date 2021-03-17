@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974558_237922904423305_5691013572792923311_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9DBp4mvtPE8AX-kP4na&_nc_ht=scontent.oculuscdn.com&tp=28&oh=55db5d411603db60cd9297eabc0f69cd&oe=6075A16E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974558_237922904423305_5691013572792923311_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9DBp4mvtPE8AX-BHFIx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=784c358ed46ac46143935d6a08c54d26&oe=6075A16E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_939909906839352_4755911687075406541_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FEoRA7nIMDkAX9PfDYh&_nc_ht=scontent.oculuscdn.com&oh=c84a328151bde98543a886b2af8ae157&oe=6074B1D9"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_939909906839352_4755911687075406541_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FEoRA7nIMDkAX_6NNu7&_nc_ht=scontent.oculuscdn.com&oh=bbce72b407bbc80f55c1200ba96cfd7f&oe=6078A659"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,7 +36,7 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 54,
+					"count": 55,
 					"starRating": 4
 				},
 				{
@@ -115,14 +115,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.5.99727",
-				"change_log": "Game changes\n---\nThe holidays are now over and the Cozy Village is now back to normal. Creative Mode has now a new unique environment\nFixes\n---\nVarious changes to network code to reduce network traffic\nFixed bug that sometimes could cause all plates to fail to spawn in Endless Mode in multiplayer\nFixed bug that sometimes could cause the pause in Endless Mode to last longer than intended in multiplayer\nFixed bug that could cause the wrong info to be displayed on the open/close room to public button in the wrist menu.\nFixed bugs related to fridge content sometimes not syncing properly in Creative Mode\n",
+				"version": "1.6.106840",
+				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "777060080",
-				"id": "3074018946032654",
-				"required_space_adjusted": "785207188",
+				"total_installed_space": "794655278",
+				"id": "3289473941153819",
+				"required_space_adjusted": "809918110",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -156,7 +156,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3074018946032654"
+					"id": "3289473941153819"
 				}
 			},
 			"release_channels": {
@@ -167,68 +167,34 @@
 						"id": "771566313267270",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.5.99727",
-							"id": "3074018946032654"
+							"version": "1.6.106840",
+							"id": "3289473941153819"
 						}
 					}
 				]
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1615953600,
-								"current_start_timestamp": 1615910400,
-								"temporal_info": {
-									"seconds_until_end_time": 70244,
-									"seconds_until_start_time": 27044
-								},
-								"vr_app_and_destination_string": "Cook-Out",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2004774962957063",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Cook-Out"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "2742464609338826",
-								"is_vr_viewer_interested": false,
-								"name": "Join the Recipe Hunt!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031432_426311578459939_945535094300552951_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=I2HPNIzvJCQAX9amcch&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9a8634cc1e415f9bcef70a0f3170e140&oe=60779373"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "2171468469771779",
 				"posts": {
 					"nodes": [
+						{
+							"id": "1797033037145565",
+							"title": "Game Update: The Recipe Hunt is On!",
+							"created_time": 1615560211,
+							"body_text": "Get ready to hunt down more recipes in Creative Mode and unlock new cleavers, cutting boards and fridges to show off to all of your friends! We just released an update including more than 50 new recipes and a bunch of rewards to unlock. Strap on your apron and start cooking!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031634_901220923990433_1716919039806697662_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nAeSENdMqMsAX9Id4mX&_nc_ht=scontent.oculuscdn.com&oh=66f287c02cbdc01e58809fdfb9a2971d&oe=6076646D"
+							}
+						},
 						{
 							"id": "596881334410829",
 							"title": "Holiday update – new game mode and other festivities!",
 							"created_time": 1606227884,
 							"body_text": "\n\nHo-ho-hold the lettuce and pass the turkey and mashed potatoes! The jolliest update of the season is now available. Check out the new creative mode where you can make any sandwiches you want and serve them to Santa and the reindeer, earn the festive rewards and find the hidden recipes!\n\n- New Ingredients: What would the holidays be without turkey, candy canes, mashed potatoes, and a gingerbread house?\n- New Characters: Santa knows how to keep warm (he’s a Polar Bear, after all), and so do his reindeer in their tacky Christmas sweaters\n- New Environment: Your favorite village will feature snow, decorations, and more to bring the holidays to life -- including a few indoor decorations in your own kitchen\n- Surprises: If you’ve been really good this year, Santa just might leave a new cleaver, cutting board, or fridge under your tree. And if you look carefully, there might even be some sandwich recipes for you to discover\nOculus Quest 2 improvements: We’ve added better graphics, refresh rate and assets for the new headset.\n\nAdditional bug fixes and updates have also been made to  the game.\n\nWe hope you enjoy the new updates. Happy holidays from all of us at Resolution Games!",
 							"tile_landscape_image": null
-						},
-						{
-							"id": "718907858975114",
-							"title": "Cook-Out: A Sandwich Tale v1.2 released",
-							"created_time": 1601889567,
-							"body_text": "We've updated the game with several updates and bug fixes.\n\nGame changes:\n- Added a button on the wrist menu to toggle a multiplayer room between being private and public.\n- Player name is now displayed above each avatar, including who is the current host of the game.\n- Added button in the wrist menu to allow to end a round. This is possible in regular levels, endless mode and the tutorial. This can be either done in single player or when you are a host in multiplayer.\n- Added leaderboard support for the Endless Mode.\n- Added new game hints.\n- Added new spawn points for the Radish Dude.\n\nFixes:\n- Fixed bug that caused rewards in endless mode to not unlock properly. Save files affected by this should be automatically restored after installing the update.\n- Fixed bug that allowed the story voice over to play over itself.\n- Updated the world map to make it clearer how to use it. Also added tooltip on how to replay levels on the map.\n- Rebalanced a couple of early levels that were harder than intended.\n- Fixed bug that made it far too easy to knock off newly sliced ingredients off the table\n- Minor stability fixes.",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39036639_3575889122468386_7256534974600967165_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KphB4-HqBLsAX_PmD_5&_nc_ht=scontent.oculuscdn.com&oh=e226bccb44b4c038caabc6474739187f&oe=6077ECA2"
-							}
 						}
 					]
 				},
@@ -284,11 +250,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6296296296296,
+			"quality_rating_aggregate": 4.6282608695652,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 282,
+				"count": 283,
 				"orderings": [
 					{
 						"key": "top",
@@ -301,10 +267,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 282,
+				"count": 283,
 				"page_info": {
-					"end_cursor": "AQHRguIAJUXsjm9YKz5NStJBdZli1PJFVNbYQjZDNOPpPEG9QAtXW4rLqkxD6v9bZih-6HRCa5aKW77C5yCJBHq7eA",
-					"start_cursor": "AQHRguIAJUXsjm9YKz5NStJBdZli1PJFVNbYQjZDNOPpPEG9QAtXW4rLqkxD6v9bZih-6HRCa5aKW77C5yCJBHq7eA"
+					"end_cursor": "AQHRheU2K8J2Tu2wT8QYrFd3rJyp-t7iHDdpIvemm0VUM7OVlM21rFGG4a_ixHXxwKHpwSfxCnw40yS3cr74fcnVXQ",
+					"start_cursor": "AQHRheU2K8J2Tu2wT8QYrFd3rJyp-t7iHDdpIvemm0VUM7OVlM21rFGG4a_ixHXxwKHpwSfxCnw40yS3cr74fcnVXQ"
 				},
 				"edges": [
 					{
@@ -314,13 +280,13 @@
 								"id": "106962787941420",
 								"display_name": "HoneyB_1111",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38974450_131059598865072_2097537554218360840_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=en-btovwREMAX_Oj9Xy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2a43ede2666c7a54b60b2861a5908fa7&oe=60750312"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38974450_131059598865072_2097537554218360840_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=V2VgB_sIsPEAX_SAeU5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7eb4184fabbf8b14c92e17605f64b138&oe=6078F792"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Pros:\n* Good amount of content.\n* Requires good communication and team work skills to complete the levels successfully in a playful manner.\n* Fast paced, challenging game\n* Always available rooms to join\n* Fantastic features: Creative mode (relaxed) and endless mode (hectic), create  own room (where you host), boot and/or block players out of rooms. \n* Lovely ambience \n\nCons:\n* Multiplayer glitches a couple of times. Especially buggy in endless mode.\n* In creative mode, the recipe book doesn’t explain what unique ingredients are.\n* The robot can be annoying in single player mode, it will add ingredients to sandwiches in the wrong order which requires you to rectify it which is time consuming and you can end up losing the round.\n\nSuggestions:\n* To fix the bug in endless mode (once fixed will give game 5 stars)\n* A feature to allow players to friend each other in the game. * Once a player leaves in the middle of the game, make the order that has their ingredients disappear. \n* To include what unique ingredients are in the recipe book. \n* I would love to see in the future a Cook-Out 2. Instead of sandwiches it would be serving pizzas. A range of bases: thin crust, deep pan, wholegrain, stuffed crust etc…different sauces: marinara sauce, creamy béchamel sauce, pesto, bbq etc cheeses and toppings. The different combos would be very challenging and fun.",
 							"reviewTitle": "Lively, best multiplayer game!!",
-							"review_helpful_count": 14,
+							"review_helpful_count": 17,
 							"review_rank_by_viewer": null,
 							"date": 1614005730,
 							"developerResponse": {
@@ -339,7 +305,7 @@
 				"description": "Get Your Aprons Ready… Things Are About To Get Messy!\n\nIn Cook-Out: A Sandwich Tale, players of Resolution Games’ multiplayer VR game work together to cook their way through a wacky and whimsical adventure to keep the customers happy and progress through increasingly hectic levels. But don’t dish it if you can’t take it, because these customers mean business.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982535_134276838467714_2105144276656658936_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hh87XjjSTOIAX_TKwCj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=15072051d0256ec8745b796ba9ab9cd5&oe=60771ACE",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982535_134276838467714_2105144276656658936_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hh87XjjSTOIAX-mpDIK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9320064771bf7b9758010baf52be3497&oe=60771ACE",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
