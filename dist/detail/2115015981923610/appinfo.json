@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031326_412826913342081_5811089178923875941_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kpmPPfT8rusAX8KG8aV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=45456b93517df940f84581fb53bce147&oe=6077FD46"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031326_412826913342081_5811089178923875941_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kpmPPfT8rusAX-mGHWP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=949761fab2ca024bdc6298df0a2da6a7&oe=6077FD46"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_144732987476561_8049117537680536195_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=1UHxPaxMX6YAX9jVif-&_nc_ht=scontent.oculuscdn.com&oh=247effea3947670020c4e00587568fa9&oe=60755A96"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_144732987476561_8049117537680536195_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=1UHxPaxMX6YAX8cxJk1&_nc_ht=scontent.oculuscdn.com&oh=d27ca3e864cbdbea327c4d29d706d9c1&oe=60794F16"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 75,
+					"count": 77,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 128,
+					"count": 127,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 367,
+					"count": 369,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1221,
+					"count": 1225,
 					"starRating": 5
 				}
 			],
@@ -99,14 +99,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.9.25.6",
-				"change_log": "Thank you so much for your reviews and support!\n\nThe Improvements & Bug Fixes Update (Version 0.9.25.6):\n\n- added one-handed bat, available even in the early stages of the game\n- increased possible damage caused by the melee weapon\n- added a possibility of smashing the heads of zombie corpses\n- added death zones for zombies thrown out of the game geometry (e.g., into a pit)\n- revised the amount of ammo at each the game levels\n\nBug Fixes\n\n- dogs attack players in co-op mode again\n- decreased the frequency of zombie teleportation at the moment of animation change (e.g., when getting up from the floor)\n- decreased the number cases when the beating of a zombie using the melee weapon is unscored (e.g., a blow to the head) by improving the physics calculation\n- removed the weapon name text that was shown at the moment the weapon was taken from the holster\n- removed the incorrect behavior of a weapon that sometimes occurred when frequently moving it from one hand to another\n- removed the eventual falling of the vest caused by the geometry in the tutorial\n- brought back the sounds of Ogryn laughing (when he is being hit)\n- improved the game performance\n\nIf you have any ideas regarding game improvement or if you are facing any bugs, please write us at info@dream-dev.com. \n\n----\nVersion 0.9.25.5\n\nCLOSE COMBAT: THE MOST REVOLUTIONARY VERSION SINCE THE GAME’S RELEASE.\n\nThe brand-new Close Combat version features new and improved weapons, greater combat versatility, and improved visuals. \n\nUpgrades include:\n\n- We’ve added 15+ melee weapons – pipes, bats, hammers, rebar, and more.\n- Melee weapons are divided into categories and differentiated not only visually, but also by weight, ease of use, damage, and other factors.\n- Hold the weapon where you like and how you like. Prefer a one-handed grip? Two-handed? It’s up to you! And remember – this affects your strike power and accuracy, too.\n- Player interactions with enemies have been completely redesigned. The enemy now reacts not only to being shot, but also to melee weapon interactions, weapon stock interactions, and even bare-handed interactions.\n- You can knock down enemies and then beat them to death.\n- Enemy reaction physics have changed: all interactions with enemies now look more realistic.\n- Gameplay has been completely rebalanced. You wanted more headshots; we delivered.\n- We introduce a modified and improved enemy type – the Mask.\n- A new attack type has been added: bite.\n- Game sounds have been modified and improved.\n- Visual elements associated with enemies have been improved.",
+				"version": "0.9.25.8",
+				"change_log": "Version: 0.9.25.8\n\n- Decreased frequency of zombies falling through the floor or sticking in the game geometry\n- Also decreased the frequency of zombies becoming invisible\n- Fixed a number of other bugs\n\nIf you find a bug, or if you have any suggestions for game improvement, please write us at info@dream-dev.com.\n\nThank you very much.\n\nWe are hard at work on the next major updates, including horde mode, the next chapter, and several more unannounced updates.",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1782524075",
-				"id": "3789894897769035",
-				"required_space_adjusted": "1563464058",
+				"total_installed_space": "1782595319",
+				"id": "3839864416105416",
+				"required_space_adjusted": "1563643164",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -145,7 +145,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3789894897769035"
+					"id": "3839864416105416"
 				}
 			},
 			"release_channels": {
@@ -156,8 +156,8 @@
 						"id": "380591062491065",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.9.25.6",
-							"id": "3789894897769035"
+							"version": "0.9.25.8",
+							"id": "3839864416105416"
 						}
 					}
 				]
@@ -175,7 +175,7 @@
 							"created_time": 1613670427,
 							"body_text": "The brand-new Close Combat version features new and improved weapons, greater combat versatility, and improved visuals.\n\nUpgrades include:\n\n- We’ve added 15+ melee weapons – pipes, bats, hammers, rebar, and more.\n- Melee weapons are divided into categories and differentiated not only visually, but also by weight, ease of use, damage, and other factors.\n- Hold the weapon where you like and how you like. Prefer a one-handed grip? Two-handed? It’s up to you! And remember – this affects your strike power and accuracy, too.\n- Player interactions with enemies have been completely redesigned. The enemy now reacts not only to being shot, but also to melee weapon interactions, weapon stock interactions, and even bare-handed interactions.\n- You can knock down enemies and then beat them to death.\n- Enemy reaction physics have changed: all interactions with enemies now look more realistic.\n- Gameplay has been completely rebalanced. You wanted more headshots; we delivered.\n- We introduce a modified and improved enemy type – the Mask.\n- A new attack type has been added: bite.\n- Game sounds have been modified and improved.\n- Visual elements associated with enemies have been improved.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75210398_887500128490392_2896521087710194110_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RRAcaYiUyOwAX-khtkG&_nc_ht=scontent.oculuscdn.com&oh=dca3865047bacda760815daf3c88f073&oe=607640C3"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75210398_887500128490392_2896521087710194110_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RRAcaYiUyOwAX-xu1j_&_nc_ht=scontent.oculuscdn.com&oh=1cc6ad1b5044b90aa080f9d7496b06dc&oe=607A3543"
 							}
 						},
 						{
@@ -184,7 +184,7 @@
 							"created_time": 1603467128,
 							"body_text": "The rooms and corridors of the Horizon Laboratory have changed –pumpkins and other suspicious objects have been discovered.\n\nYour mission is to investigate it all, so that it can return to normal!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001691_3089490957821796_1316627064500086187_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=usO5vToitWAAX9mtGbZ&_nc_ht=scontent.oculuscdn.com&oh=846ceaf15c80c20b77e5dfadd686b745&oe=607636B5"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001691_3089490957821796_1316627064500086187_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=usO5vToitWAAX8M2OUP&_nc_ht=scontent.oculuscdn.com&oh=bcfaf82886844f6bbc6ea4a08bddc199&oe=607A2B35"
 							}
 						}
 					]
@@ -241,11 +241,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4041058887088,
+			"quality_rating_aggregate": 4.4020452099031,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1103,
+				"count": 1106,
 				"orderings": [
 					{
 						"key": "top",
@@ -258,10 +258,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1103,
+				"count": 1106,
 				"page_info": {
-					"end_cursor": "AQHR43Q56x5NsBbmW__mMNz8BpVDo4z7HvcSSiGdMJZv0JKDyxyt7ckf3GQI0SVyERo_taXZsswDR7mN4qHMkRjYng",
-					"start_cursor": "AQHR43Q56x5NsBbmW__mMNz8BpVDo4z7HvcSSiGdMJZv0JKDyxyt7ckf3GQI0SVyERo_taXZsswDR7mN4qHMkRjYng"
+					"end_cursor": "AQHRKkJTfTqAIr5LsbY9GUOJfOWLfD3C2j8-Xt94vi8WdeebKb8KqcKHULvX3lSF2SugwYzCKhhCZj7JHHwMzJ8BgA",
+					"start_cursor": "AQHRKkJTfTqAIr5LsbY9GUOJfOWLfD3C2j8-Xt94vi8WdeebKb8KqcKHULvX3lSF2SugwYzCKhhCZj7JHHwMzJ8BgA"
 				},
 				"edges": [
 					{
@@ -271,13 +271,13 @@
 								"id": "100737488717921",
 								"display_name": "AlexanderMcG",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_100759208715749_200088735289548995_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tD4DNBZyrUAAX8ren_y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=592ef2ef5e3e6bb663d8ec13d675e924&oe=60783349"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_100759208715749_200088735289548995_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tD4DNBZyrUAAX86t64T&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2dff16c3cd36d3be21217c2616402f92&oe=60783349"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I have been playing this for a week and really enjoying it. It's extremely simple in execution, and yet keeps me on my toes, spinning around in my living room watching behind me (when I can!).\n\nYesterday I died on the last level, so I shut down and came back today to finish it. As soon as it loaded I noticed a baseball bat in a locker. Hmmm... Never seen one before. The there was a wrench, and a pipe, and rebar I think... Anyways. I do love how you can put a melee weapon on your back. Really like that. I'll echo another comment I saw here - the baseball bat feels like a pool noodle. Whereas the wrench felt solid for me.\n\nI ended up just not using any melee weapons at all since they aren't as fast as killing zombies most of the time. Except for once I knocked a zombies head straight off with one hit and that was great!\n\nI do want to mention crawling through the vents. I love that - but the issue I have is it's near impossible to draw a gun out of a holster when doing that - if you spot a zombie down in a room - it's too hard to draw a gun to take him out stealth like. My guns are rattling around below the surface of the vent. I had to stand on my tippy toes to finally get it to work. Not sure if that can be tweaked somehow.\n\nMy only other issue is if I have 2 handguns, a keycard, and a rifle - then I pick up a shotgun and use that in my hands - when I reload it - it drops my rifle and I lose that. I usually like to pick up the shotgun, use it for what ammo I have then I just want to throw it away and pull off my rifle. \n\nHowever - all that nitpicking aside - this - is 'the' game I had imagined when I bought my Quest. It's simple, the graphics work well. I don't quite get the story - if there is one lol - but it's given me some good jump scares. For the $ - it's easily a MUST BUY.\n\nThanks to the devs for continuing to support it. Will be recommending to others and trying Co-op soon!",
 							"reviewTitle": "Melee Optional - Must Buy",
-							"review_helpful_count": 67,
+							"review_helpful_count": 74,
 							"review_rank_by_viewer": null,
 							"date": 1613708261,
 							"developerResponse": {
@@ -296,7 +296,7 @@
 				"description": "The Horizon scientific research laboratory is a deceptively quiet place. When you came round, there were hundreds of the living dead all around you. All because of that damn T12 virus.\n\nTo survive and save the world from the virus, use both hands and your head: never stop shooting, climb up pipes and ladders, jump onto bars and grab hold of ropes, search cupboards and throw everything you find at the zombies. \n\nThe denizens of the Horizon station will punish you for one thing: hesitation...",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001662_670691227672759_8839156826944219292_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6IB-JS2ly5QAX967ve4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=398ef97cd551e7bcb834c148e20e305c&oe=6077960B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001662_670691227672759_8839156826944219292_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PiNtAq16ZQwAX9Lii-6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5694e49a587e03eeff66fe758395b9eb&oe=6077960B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
