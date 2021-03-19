@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cq2uTIKjW0cAX9SjAkL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=93def90f6a83220f9a0bafc8a4db5d9d&oe=6078CBC2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cq2uTIKjW0cAX8bxu5c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ac32236c6406c4f2459ad89a29358cc&oe=6078CBC2"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=gr4Ro1Vq4G4AX8idfuF&_nc_ht=scontent.oculuscdn.com&oh=ece90906febb525dd96cbfc0acdf0a00&oe=60782493"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=gr4Ro1Vq4G4AX_NDB8O&_nc_ht=scontent.oculuscdn.com&oh=08a45417ff55dee4bef26c6c3736a0a8&oe=60782493"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 24,
+					"count": 25,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1106,
+					"count": 1108,
 					"starRating": 5
 				}
 			],
@@ -89,14 +89,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.2.6",
-				"change_log": "2.2.6\nbug fixes",
+				"version": "2.2.7",
+				"change_log": "- added 'Auto Accept' checkbox to searching UI\n- Bug fixes",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "392613338",
-				"id": "4179380625439271",
-				"required_space_adjusted": "602373730",
+				"total_installed_space": "684708641",
+				"id": "4194333310610669",
+				"required_space_adjusted": "587432634",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -135,7 +135,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4179380625439271"
+					"id": "4194333310610669"
 				}
 			},
 			"release_channels": {
@@ -146,8 +146,8 @@
 						"id": "613025645811908",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.2.6",
-							"id": "4179380625439271"
+							"version": "2.2.7",
+							"id": "4194333310610669"
 						}
 					}
 				]
@@ -165,7 +165,7 @@
 							"created_time": 1614626788,
 							"body_text": "Season 4 is here!\n\nAnd if this wasn't enough, we have also launched an update that will make the new season more interesting and competitive:\n- Glicko rating system - your score reflects your performance more accurately\n- Matchmaking - you are matched against players of your skill level (when possible)\n- High five - enabled\n- Bug fixes and improvements\n\nSo jump right into action, and come share your experience with our community on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qhDSHuUdVoQAX8QEqw-&_nc_ht=scontent.oculuscdn.com&oh=095fe5cd72bb358a7711bc4e77554af4&oe=6077B2DB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qhDSHuUdVoQAX-E_Bzt&_nc_ht=scontent.oculuscdn.com&oh=4b0ab3e61ce43b069a18d23e18800f8a&oe=607BA75B"
 							}
 						},
 						{
@@ -174,7 +174,7 @@
 							"created_time": 1605563676,
 							"body_text": "Today we're rolled out a brand new game mode for Racket: Nx - Co-op!\nCo-op lets you team up with a friend or stranger and play shoulder to shoulder for the high score in a game against time!\nWe expect a lot of new players to join and veteran players to pop back in, so please be nice and welcoming.\n\nThis is the biggest update to RNX since launch, and after playtesting it for several weeks now, we've found it to be a super fun and bonding experience.\nAs always, this mode can be played cross platform and between devices sharing the same account, so hopefully some of you will be able to play with your kids, spouses and arch-enemies.\n\nIn addition to Co-op mode, we've added a few game mechanics to Arcade, making it more dynamic and interesting. These additions change Arcade enough for us to have had to reset the leaderboards. Apologies. We do hope you find these new changes worth it, though!\n\nThank you all for sticking with us as we continue to develop and expand RNX!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6oTdkTJjwV4AX8JkoQv&_nc_ht=scontent.oculuscdn.com&oh=af47d8f3cea82a1faf3fc12bae1b71db&oe=6079674C"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6oTdkTJjwV4AX_5Oq8k&_nc_ht=scontent.oculuscdn.com&oh=9c16b16df7aabb529673bced8bc64828&oe=6079674C"
 							}
 						}
 					]
@@ -231,11 +231,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7252830188679,
+			"quality_rating_aggregate": 4.7228915662651,
 			"support_website_url": "https://racketnx.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 649,
+				"count": 650,
 				"orderings": [
 					{
 						"key": "top",
@@ -248,10 +248,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 649,
+				"count": 650,
 				"page_info": {
-					"end_cursor": "AQHRcL4ACIy_87IlW9rSVTx5Oj440F0-d63DriYt4ZLZl_Vjqme5yEjkaHEcmEMJB91z1RMyFd9eOC7pIatCoLJMlg",
-					"start_cursor": "AQHRcL4ACIy_87IlW9rSVTx5Oj440F0-d63DriYt4ZLZl_Vjqme5yEjkaHEcmEMJB91z1RMyFd9eOC7pIatCoLJMlg"
+					"end_cursor": "AQHR4XEVMsL2ucF2AeowS02V72qrFUOVjPYyzCPVr-lLsqIpmhmT2UpqV4tw6ao0IfbW0qxnK5zR0AMoXqPyEQJqSw",
+					"start_cursor": "AQHR4XEVMsL2ucF2AeowS02V72qrFUOVjPYyzCPVr-lLsqIpmhmT2UpqV4tw6ao0IfbW0qxnK5zR0AMoXqPyEQJqSw"
 				},
 				"edges": [
 					{
@@ -261,13 +261,13 @@
 								"id": "106134397994194",
 								"display_name": "Locochap",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.152.1135.1135a/s160x160/39001667_120998536507780_446662799208738672_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cOzPnO5PJk4AX8H7e20&_nc_ht=scontent.oculuscdn.com&tp=28&oh=63a207e3d082330e8ed33edab94e77f3&oe=6077DFC1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.152.1135.1135a/s160x160/39001667_120998536507780_446662799208738672_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cOzPnO5PJk4AX9vCgMS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5d2403f7e35c033d5f95e12b4ecc038a&oe=607BD441"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I have a son with autism who struggles with games in which you can fail. This game allows him to play and not fail and makes him so happy and increases his confidence. Thanks devs for helping my son experience vr in such a positive way. Great immersion and response from the controllers. If I could add anything it would be more  verbal encouragement when you do well. 5 star game awesome",
 							"reviewTitle": "Solid game suitable for children as well",
-							"review_helpful_count": 182,
+							"review_helpful_count": 184,
 							"review_rank_by_viewer": null,
 							"date": 1609807458,
 							"developerResponse": null
@@ -282,7 +282,7 @@
 				"description": "Racket: Nx是一款前所未见的游戏，旨在挑战玩家在VR中使用球拍的极限。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001679_937498047058727_197760325154451816_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=64sx9sSdTAYAX8XcGpL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3eedb65b3b35178fde77c0b5960e212b&oe=6076C396",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001679_937498047058727_197760325154451816_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=64sx9sSdTAYAX8-Cu0T&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4b0e10ef1f0a523d40358e905b2f52cf&oe=607AB816",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
