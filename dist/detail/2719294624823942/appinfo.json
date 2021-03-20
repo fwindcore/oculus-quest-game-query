@@ -7,16 +7,16 @@
 			"__typename": "Application",
 			"__isAppStoreItem": "Application",
 			"id": "2719294624823942",
-			"display_name": "Myst",
+			"display_name": "神秘岛 (Myst)",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
 			"item_bundles": [],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75210897_1082982645469262_5971498061839661617_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1wRDSU5DSd0AX_ksnTX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=143bebda06f759345a48332cc4f60f64&oe=6078B9D5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75210897_1082982645469262_5971498061839661617_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=H5L1Eqww4ZcAX9Dz7ta&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35b5a4551dd22bef3b94c37aa6cd693f&oe=607CAE55"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2737441123249616_8658415338802156089_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=zr7eS16Yr-cAX-ln8wz&_nc_ht=scontent.oculuscdn.com&oh=1526f32168d3b2febd2bc5876948b4e7&oe=60782EDD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2737441123249616_8658415338802156089_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=M4hEWmb2rCUAX9j9ON1&_nc_ht=scontent.oculuscdn.com&oh=2cc3290cc1d9f281dc9dc22b0136659f&oe=607C235D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,11 +41,11 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 273,
+					"count": 274,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "Explore the surrealistic Ages of Myst in a new dimension!\n\nWelcome to Myst: the starkly beautiful island, eerily tinged with mystery and shrouded in intrigue. Explore the deeper connections and uncover a story of ruthless family betrayal.\n\nCyan, the indie studio that created the beloved classic, has reimagined Myst -- built from the ground up for VR and available soon to play on Oculus Quest. With new art, sound, interactions, and even optional puzzle randomization - the highly anticipated Myst VR experience has finally arrived.\n\nJourney to the Ages, unravel the puzzles, and become part of the epic story.",
+			"display_long_description": "跨越新的维度，探索神秘岛的各个超现实纪元！\n\n欢迎来到神秘岛：阴谋与背叛，为这座美丽的小岛染上了一片奇幻而神秘的色彩。不妨登岛冒险，探索更深层次的联系，揭开家族背叛背后的残酷真相吧。\n\n继大受欢迎的经典游戏系列《神秘岛》之后，独立工作室Cyan又对其进行了重新构思与全面重制，推出了备受期待的VR版。该版本采用全新的美术设计、音乐、互动方式以及可选随机谜题，并可通过Oculus Quest畅玩，定能为玩家带来不一样的神秘岛VR体验。\n\n\n开启纪元之旅，破解各种谜题，成为传奇故事中的一部分。",
 			"developer_privacy_policy_url": "https://cyan.com/company/support/privacy-policy/",
 			"developer_terms_of_service_url": "https://cyan.com/company/support/terms-of-use/",
 			"supported_player_modes": [
@@ -56,7 +56,31 @@
 			"publisher_name": "Cyan Worlds, Inc.",
 			"supported_in_app_languages": [
 				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "德语"
+				},
+				{
+					"name": "意大利语"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
 					"name": "英语"
+				},
+				{
+					"name": "葡萄牙语（巴西）"
+				},
+				{
+					"name": "西班牙语（墨西哥）"
+				},
+				{
+					"name": "韩语"
 				}
 			],
 			"supported_hmd_platforms": [
@@ -80,14 +104,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.2",
-				"change_log": "Well hello, everyone! Patch 2 for Myst on Quest is now out!\n\nEverywhere\n- Sculpted out a ton more polygon issues\n- Triturated up a ton of textures (game size reduced by about 25%!)\n- Amalgamated a ton more mesh issues\n- Repaired a ton more collision issues\n- Tamped down a ton more LOD issues\n- Embellished a ton more aesthetic issues\n- Decomposed a ton more music issues\n- Rived out a ton more paging issues\n- Illuminated a ton more lighting issues\n- Muted a ton more sound issues\n- Extirpated a ton more gnarly bugs\n\nInterface\n- Quick travel icon goes away after use\n- Snap turn degrees now accurately reflects the number of degrees you end up actually turning\n\nMain Menu\n- Added snap turn options for 60 degrees\n- Fixed held objects from appearing in menu\n- Fixed the disappearing laser pointers after credits \n- Updated randomization text (based on user feedback)\n- Moved controller diagram so it is larger\n\nMyst Island\n- Added music to the tower (under certain conditions)\n- Changed \"page to shelf\" animation to prevent clipping\n- Fixed an Achenar video that would play inside the fireplace\n- Fixed \"cancel\" sound when attempting to delete an Imager message\n- Adjusted Stoneship ceiling fan to continue turning while linking\n- Fixed planetarium day of the month digit issue\n- Fixed sticky imager door when player walks away\n- Adjusted quick travel region on generator stairs\n- Added collision to counterweight in the clocktower\n- Added safety net collision areas around library hallway\n- Fixed random golden-colored object issue\n\nMechanical\n- Fixed certain doors issues with save and load\n- Fixed misaligned fortress rotation issue\n- Adjusted collision near the bridge\n- Fixed an issue with the electric cage switch \n\nStoneship\n- Added fish to the water outside of the book room\n- Added new grates to the left and right halls\n- Removed the amazing feature of the hanging key infinitely swinging into the lock :(\n- Fixed finicky door handles in the compass room\n- Fixed the \"below the water\" chest key issue\n\nSelenitic\n- Fixed a sticky bunker door button after save and load\n- Fixed misbehaving waveforms issue\n- Fixed Mazerunner interior issue after save and load from certain location\n\nChannelwood\n- Fixed items in drawers being outside of drawers \n- Changed the rotation max of the elevator levers\n- Fixed temple imager freeze frame issue\n- Adjusted the washed out torn note in Sirrus' room\n- Removed the ability to teleport onto the roof of Achenar's room\n- Fixed location of gameplay context subtitles for the water pipe\n\n(and much, much more that we can’t mention because... spoiler!)\n\ne2659-p15479 -- Jenkins build 1157",
+				"version": "1.3.0",
+				"change_log": "Hello, everyone! Our \"Translations Achieved\" Patch (Patch 3) for Myst on Quest is now out!\n\nWe are happy to announce that for the first time ever, all text/subtitles in Myst have been fully localized for various languages (more information on that below).\n\nAchievements are now a part of the game as well, in case you are seeking an extra challenge to collect them all!\n\nWe are planning a future patch for our journaling/screenshot system, but in the meantime, you can continue to use the Oculus system-level screenshot tool to take note of what you see in the game.\n\nEverywhere\n- Fixed a few more polygons\n- Fixed a few more textures\n- Fixed a few more meshes\n- Fixed a few more collisions\n- Fixed a few more LODs\n- Fixed a few more paging issues\n- Added Achievements\n\nInterface\n- Added localization (French, Italian, German, Spanish (Latin America), Portuguese (Brazil), Korean, Japanese, & Chinese (Simplified))\n- Fixed drawers being over-pulled\n\nMain Menu\n- Added an option to teleport to a safe spot to avoid stuckage\n- Fixed menus - no opening while teleporting\n\nMyst Island\n- Fixed grabbing a book after... it might not be there\n- Fixed a disappearing Selenitic book \n- Fixed a sound issue with Achenar's chest\n- Added wind sound in the tower when appropriate\n- Fixed the interior of planetarium from magically vanishing\n\nMechanical\n- Fixed the elevator door closing on player... to avoid injury\n- Fixed the exhaust sound not being played sometimes\n\nStoneship\n- Fixed lighting in the generator and Achenar's room\n- Fixed - no more standing on Sirrus' desk\n\nSelenitic\n- Fixed a lighting issue with the mazerunner\n\nChannelwood\n- Fixed the disappearing book room elevator handle\n\ne2990-p16712 -- Jenkins build 26",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "7513119353",
-				"id": "3832768983476495",
-				"required_space_adjusted": "10037058200",
+				"total_installed_space": "10334615768",
+				"id": "3984836791603046",
+				"required_space_adjusted": "13535830326",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -121,7 +145,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3832768983476495"
+					"id": "3984836791603046"
 				}
 			},
 			"release_channels": {
@@ -132,8 +156,8 @@
 						"id": "437383407157524",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.2",
-							"id": "3832768983476495"
+							"version": "1.3.0",
+							"id": "3984836791603046"
 						}
 					}
 				]
@@ -188,7 +212,7 @@
 			"__isWishlistableItem": "Application",
 			"entry": null,
 			"is_demo_of": null,
-			"appName": "Myst",
+			"appName": "神秘岛 (Myst)",
 			"platformOffer": null,
 			"is_giftable": true,
 			"current_gift_offer": {
@@ -198,11 +222,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1588983050847,
+			"quality_rating_aggregate": 4.1606765327696,
 			"support_website_url": "https://support.cyan.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 270,
+				"count": 272,
 				"orderings": [
 					{
 						"key": "top",
@@ -215,10 +239,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 270,
+				"count": 272,
 				"page_info": {
-					"end_cursor": "AQHRuZOAHhNwXzBmy9h52E2wab6EaagYL6PdFOdXvZDo6wr2VdvfrRaIcUGaRsAZcZSAI7exziOwCr4Jq7unHvbuaw",
-					"start_cursor": "AQHRuZOAHhNwXzBmy9h52E2wab6EaagYL6PdFOdXvZDo6wr2VdvfrRaIcUGaRsAZcZSAI7exziOwCr4Jq7unHvbuaw"
+					"end_cursor": "AQHRCde0W444K-rLH6P3RwwJHl4QivqBLMIS3GTUPMNRbCAk0q2QYssKcJLnUh1MeDqwuf7qg6xyZlcXpRqUeIiWpA",
+					"start_cursor": "AQHRCde0W444K-rLH6P3RwwJHl4QivqBLMIS3GTUPMNRbCAk0q2QYssKcJLnUh1MeDqwuf7qg6xyZlcXpRqUeIiWpA"
 				},
 				"edges": [
 					{
@@ -228,13 +252,13 @@
 								"id": "114538133423901",
 								"display_name": "Gamer4Life137",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.418.418a/s160x160/38974594_124810062396708_1825958625240154112_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=h-b-5xg6sywAX8beBjj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a8b519c0ee409f0881d215ca407caf8d&oe=60797D3C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.418.418a/s160x160/38974594_124810062396708_1825958625240154112_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BQYKdgX5y9gAX_RseDr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eefc715310b8c9859e1d620c3816a7ed&oe=60797D3C"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I want to start by saying I highly recommend this to everyone. Myst is the best puzzle game out there, and this version absolutely does it justice. However, there are a couple of issues that could have easily been fixed. \n\nFirst, I wish they had kept the original FMV actors because the new CG characters don't look great. \n\nI also wish there were maybe a system to take notes within the game or more easily take pictures. You can take screenshots from the Oculus menu, but it's not extremely convenient to use. My reason for this is you will come across things you need to remember. In the past, I would just write the info down or draw a quick diagram for the constellations and things like that. It can be really difficult trying to remember everything you need to without some sort of note or picture system. \n\nLastly, it can be hard to tell what is able to be interacted with just due to the nature of VR. They've certainly tried to fix this in a few places, notably the library. You can't really interact with the burned booze anymore since it would be awkward in VR to clearly choose which book to pick up. I definitely think this will in general be an issue with games that weren't originally built for VR, but it's definitely worth noting given it might add a bit of frustration at times. \n\nThat being said, those are constructive criticisms not reasons to avoid this game. I've wanted Myst VR for so long and I'm happy they did it justice. This is absolutely my new favorite way to play AND I'm happy there's randomized puzzles too so you actually have to play the game even if you remember the original answers. \n\nExcellent game and definitely worth the purchase.",
 							"reviewTitle": "Excellent, but flawed",
-							"review_helpful_count": 696,
+							"review_helpful_count": 701,
 							"review_rank_by_viewer": null,
 							"date": 1607727055,
 							"developerResponse": {
@@ -250,16 +274,16 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Welcome to Myst: the starkly beautiful island, eerily tinged with mystery and shrouded in intrigue. Explore the deeper connections and uncover a story of ruthless family betrayal.",
+				"description": "欢迎来到神秘岛：阴谋与背叛，为这座美丽的小岛染上了一片奇幻而神秘的色彩。不妨登岛冒险，探索更深层次的联系，揭开家族背叛背后的残酷真相吧。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035424_253665409585255_5626939075787364727_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=B_mNUZcjsnUAX-Z5-mB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8f0fb6eff41292e4f8555fe4c06bba8b&oe=607BBC9C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035424_253665409585255_5626939075787364727_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oGfCTjvmep0AX_y5w7Y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2fbeaaa371cff3d6e4611f73c56d38d0&oe=607BBC9C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
 				"page_url": "https://www.oculus.com/experiences/quest/2719294624823942/",
 				"site_name": "Oculus",
-				"title": "Myst · Oculus Quest"
+				"title": "神秘岛 (Myst) · Oculus Quest"
 			},
 			"fallback_ranking_trace": ""
 		}
