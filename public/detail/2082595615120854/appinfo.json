@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031460_201330007374484_7730455393473658880_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iwX40-rM1WcAX8Eh-EB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=40a29b38ffe259cdc59dd62c98e90276&oe=6079D2A9"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031460_201330007374484_7730455393473658880_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iwX40-rM1WcAX9-j9EV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=63bb913aacec1b447fc6a9ac0c6e56e0&oe=607DC729"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974736_2278439319041320_4453991032819810304_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=MIGlHiX3GqAAX-s8KAH&_nc_ht=scontent.oculuscdn.com&oh=8e0265c7ee6d9c7fef13f81efb4cb113&oe=607B0E4F"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974736_2278439319041320_4453991032819810304_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=MIGlHiX3GqAAX87GTFW&_nc_ht=scontent.oculuscdn.com&oh=9a0e5e5336257dcc379a177b012a08db&oe=607B0E4F"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 95,
+					"count": 96,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 541,
+					"count": 542,
 					"starRating": 5
 				}
 			],
@@ -194,7 +194,41 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616900400,
+								"current_start_timestamp": 1616860800,
+								"temporal_info": {
+									"seconds_until_end_time": 585000,
+									"seconds_until_start_time": 545400
+								},
+								"vr_app_and_destination_string": "Bait!",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2082595615120854",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Bait!"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "790230948252125",
+								"is_vr_viewer_interested": false,
+								"name": "Bait! Birthday Bonanza",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_153979079829510_4130999884435924681_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gPAvdQF_KnEAX_2s0cW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fb8ba40beec1f78b3b285eb9b5a558e5&oe=607CA344"
+								}
+							}
+						}
+					]
 				},
 				"id": "312830199325538",
 				"posts": {
@@ -203,7 +237,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRW4VevZo4F1mXU0IMSGBACElmRpoOa2mRdqgHQoa8DXRKjVE7ZM33fdBVPVvwyB4EbuAQZdHb-SKH314hjHckYg"
+							"cursor": "AQHRqoQFYkORZFU5v7htn_VYdlAVLERGABczhq3hYJ77mQsQnYSSq9KV8Rd3qMB2lRLKlC6kA5WGU1ZX1DlCiiaPxA"
 						}
 					]
 				}
@@ -250,11 +284,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0971659919028,
+			"quality_rating_aggregate": 4.0949494949495,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 381,
+				"count": 382,
 				"orderings": [
 					{
 						"key": "top",
@@ -267,10 +301,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 381,
+				"count": 382,
 				"page_info": {
-					"end_cursor": "AQHRNdLR7cEbPV9c-VFw6uQLgZh0_B9u7p2E-7o6_h1MB_qcLQ24T4LYKxFA5neSf1GUreqGUOZe5UGi91GB0l14MA",
-					"start_cursor": "AQHRNdLR7cEbPV9c-VFw6uQLgZh0_B9u7p2E-7o6_h1MB_qcLQ24T4LYKxFA5neSf1GUreqGUOZe5UGi91GB0l14MA"
+					"end_cursor": "AQHRnfD6HaG1KmZR4TkwEVoNi6uhbyxkNEojMyeOOEAlS0GUl-OFW14BfSo80bfesxToePfBmM3jOqbjjduvd_Ctgg",
+					"start_cursor": "AQHRnfD6HaG1KmZR4TkwEVoNi6uhbyxkNEojMyeOOEAlS0GUl-OFW14BfSo80bfesxToePfBmM3jOqbjjduvd_Ctgg"
 				},
 				"edges": [
 					{
@@ -280,13 +314,13 @@
 								"id": "101948821757271",
 								"display_name": "MidshipSquirrel",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.718.718a/s160x160/39031347_104799148138905_5480094460721026301_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gen7DyyrfrEAX9mRKaJ&_nc_oc=AQmwzfUJ0BOqAHWIpc-nt6rHhXu3ZhOKN8pSIAEciTbEcIA79cY-6BDC6HQQ-otLlRQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f3c3269578e24d408ccfcb4cff942479&oe=607BF24E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.718.718a/s160x160/39031347_104799148138905_5480094460721026301_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kUY-aGpNtEgAX8a_ZLp&_nc_oc=AQlib3RT5aX9Q4mxEcOEqXDm-Qv0orXjBD3utSLdBTEBuBqcAUN-bB5lQiRayOPEr2A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d25a441833c2c67e0c3d07c5a0fb773&oe=607BF24E"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This was a fun little game! I enjoy fishing IRL, and this cartoony fishing game with fun, creative fish to catch was an excellent intro to VR gaming for us. I genuinely enjoyed just hopping in for a little fishing, and was kind of sad when I found the last fish. There was plenty of play in the free version, and the add on was very reasonably priced for another location. I hope there are expansions someday, as I would be happy to play more.",
 							"reviewTitle": "Delightful little fishing game",
-							"review_helpful_count": 134,
+							"review_helpful_count": 135,
 							"review_rank_by_viewer": null,
 							"date": 1608167762,
 							"developerResponse": null
@@ -301,7 +335,7 @@
 				"description": "Join the more than 3 million players who already enjoy Bait! \n\n“Bait! is one of those pleasant games for everyone.” - VRScout\n\nYou’re invited to Bait! Island to help your boss catch a rare fish, and thereby save the struggling aquarium where you work.\n\nDuring the game, you will catch a lot of different fish and make friends with the locals. But, will you be able to keep your loyalties both to your new friends and to your boss?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_584659778707210_5242566029300727808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DxfuL5QkAo4AX9UNTMo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e732ea130c18d38b373aa822656df669&oe=607CC207",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_584659778707210_5242566029300727808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DxfuL5QkAo4AX9qfHJX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=283ff2b633b6e61f47ddeb80b579f57c&oe=607CC207",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
