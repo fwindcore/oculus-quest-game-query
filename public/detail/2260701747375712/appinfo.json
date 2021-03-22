@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031584_193783105145379_1418946298542817280_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eBI1SEj6qlUAX8S4tCE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=005b44611136698ec24b97fa37e26bce&oe=607BEDC2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031584_193783105145379_1418946298542817280_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eBI1SEj6qlUAX_DqpIr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f5010da244610a48ebdb3f433258003&oe=607FE242"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75250455_193779101812446_1240036841667690496_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=oQ9PnOmcF2sAX_VLMc8&_nc_ht=scontent.oculuscdn.com&oh=9b64c9165a46041dd57883affdbca7a1&oe=607D6C44"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75250455_193779101812446_1240036841667690496_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=oQ9PnOmcF2sAX_P7XR8&_nc_ht=scontent.oculuscdn.com&oh=0ac254d915340b9561161c1c42e54d9d&oe=607D6C44"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -100,17 +100,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1259166957626254",
+				"id": "1115110092295846",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1099",
+					"formatted": "$10.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-26%",
+				"end_time": 1616482740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -193,7 +198,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1259166957626254"
+				"id": "1115110092295846"
 			},
 			"externalReviews": {
 				"count": 0
@@ -217,8 +222,8 @@
 			"firstQualityRatings": {
 				"count": 114,
 				"page_info": {
-					"end_cursor": "AQHRvUURyM3OqYLvSgowXae03bdZJ-sw7uAYhXYbFIC_h_PMpanBfGhvdEaN1m4zlLvjLXazhbXrGSka61yy1Ck2HA",
-					"start_cursor": "AQHRvUURyM3OqYLvSgowXae03bdZJ-sw7uAYhXYbFIC_h_PMpanBfGhvdEaN1m4zlLvjLXazhbXrGSka61yy1Ck2HA"
+					"end_cursor": "AQHRQCMDEVnDTWp3lMXgQKncKlG8dCDsVVRyR2DIrGPdxW-BeVboUnXtz2pbbnJDIx7A5b1M7xHTWXNYPzYpkKajpw",
+					"start_cursor": "AQHRQCMDEVnDTWp3lMXgQKncKlG8dCDsVVRyR2DIrGPdxW-BeVboUnXtz2pbbnJDIx7A5b1M7xHTWXNYPzYpkKajpw"
 				},
 				"edges": [
 					{
@@ -228,13 +233,13 @@
 								"id": "364333737874694",
 								"display_name": "VR_Queen109",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/75469630_377265853248149_3112656032155004470_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KhMlLTrh98UAX_NcnOs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=152357214e88f03f7682fb05f2043868&oe=607E2E67"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/75469630_377265853248149_3112656032155004470_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KhMlLTrh98UAX_fQQ1v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a72347402584698ba2952659cd0eb7f9&oe=607E2E67"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This game was hands down one of the best I’ve played on the quest 2 yes it’s short which is why it’s only $15. To the devs: I would happily pay $30 for this game if it was long! Please make a part 2 longer!! I love that’s it’s not super hard which makes it enjoyable and I love the option of letting the hints glow! For someone like me who’s not good at puzzle games the glowing hints were a lifesaver and made my gameplay fun! I get bored very easily with games and I played this to the end and was sad it was done but best believe I will go back and play again! I’ll even try without the glowing hints haha. \nReally great game!!!",
 							"reviewTitle": "Amazing game!!!",
-							"review_helpful_count": 6,
+							"review_helpful_count": 9,
 							"review_rank_by_viewer": null,
 							"date": 1615427929,
 							"developerResponse": null
@@ -249,7 +254,7 @@
 				"description": "Plunge into a capsizing research ship, the Triton, where survival means outmaneuvering the water's lethal surge. As world-class diver Ren Tanaka, you must freedive through a sinking ship, overcome underwater chaos, and unlock your path to the surface, all while protecting your most precious resource: the breath in your lungs. Reworked for Oculus® Quest, the FREEDIVER: Triton Down Extended Cut now boasts a deeper story, expanded gameplay areas, and all-new ways to explore them.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75203615_302249397398784_8566500735036948480_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JrwzxrSn2RcAX-qqIEz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bc3de452866da68404e7198735f96a49&oe=607B5603",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75458101_1156642484767459_4097602522246961491_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uwpTzQQVZ38AX_kKSIM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bf06364570c8b5564058d720842e6d34&oe=607D3503",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
