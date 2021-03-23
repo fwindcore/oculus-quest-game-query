@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031621_1179423302421815_448700920851009518_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mT85o1lZWMkAX9aY77c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97d5c6cf642ea3a012240a2e585d5aaf&oe=607B2E85"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031621_1179423302421815_448700920851009518_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5nSGVNdjtF0AX-6VgWH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=76e4575e9d612fffcbda1be54d3fcd82&oe=607F2305"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982461_2769383316637915_1355674284751830124_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=19lW_bK3I1sAX8lGFsm&_nc_ht=scontent.oculuscdn.com&oh=4dce7708655a8112401265505895d097&oe=60792A53"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982461_2769383316637915_1355674284751830124_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=9kH_bjXgY7cAX-6qZny&_nc_ht=scontent.oculuscdn.com&oh=23e455c23e527abe0db68312bdbeb410&oe=60811353"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 8,
+					"count": 9,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 91,
+					"count": 92,
 					"starRating": 5
 				}
 			],
@@ -104,7 +104,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -139,7 +139,140 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616549400,
+								"current_start_timestamp": 1616545800,
+								"temporal_info": {
+									"seconds_until_end_time": 61117,
+									"seconds_until_start_time": 57517
+								},
+								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2532035600194083",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Facebook Horizon (Invite-only Beta)"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1428062657561631",
+								"is_vr_viewer_interested": false,
+								"name": "Scripting Office Hours with the Horizon Team #minigame edition",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984458_467613841060128_5395481091927983276_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5_3TYJfEXscAX9AvTM_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9399490b6f6b5d618645b29b0b9b50bc&oe=607F5C93"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616724000,
+								"current_start_timestamp": 1616720400,
+								"temporal_info": {
+									"seconds_until_end_time": 235717,
+									"seconds_until_start_time": 232117
+								},
+								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2532035600194083",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Facebook Horizon (Invite-only Beta)"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1428273064207257",
+								"is_vr_viewer_interested": false,
+								"name": "Women in Horizon “Break the Ice” with Dot Meet-Up ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974853_433032651323376_2213418845124838999_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mgls-GM2JU4AX_JImhR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eb635c38ae9ae893c98244d33f33a0ac&oe=6080391D"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617154200,
+								"current_start_timestamp": 1617150600,
+								"temporal_info": {
+									"seconds_until_end_time": 665917,
+									"seconds_until_start_time": 662317
+								},
+								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2532035600194083",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Facebook Horizon (Invite-only Beta)"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1428274154207148",
+								"is_vr_viewer_interested": false,
+								"name": "Scripting Office Hours with the Horizon Team #minigame edition",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974805_257236972742055_3719386176805463954_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=l0mMixp5fP8AX_GMyU7&_nc_oc=AQnOP1ZRuASeGHAhf5itz99kRJJfMPwPvBjzDpZOklqNvzKSTZwmNTKlBMfjs2CUBtI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3658f085ebfd83dd6ba7bb04fb211423&oe=60805573"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619141400,
+								"current_start_timestamp": 1619137800,
+								"temporal_info": {
+									"seconds_until_end_time": 2653117,
+									"seconds_until_start_time": 2649517
+								},
+								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2532035600194083",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Facebook Horizon (Invite-only Beta)"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1428273887540508",
+								"is_vr_viewer_interested": false,
+								"name": "LGBTQ& Friends Meet up ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982635_1928577667298894_4495384355139568518_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4gyhZCB5kFUAX_oW9YT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cf81fb591dd45644612f3837234c651&oe=607EB979"
+								}
+							}
+						}
+					]
 				},
 				"id": "991282394572995",
 				"posts": {
@@ -199,11 +332,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2077922077922,
+			"quality_rating_aggregate": 4.1923076923077,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 90,
+				"count": 91,
 				"orderings": [
 					{
 						"key": "top",
@@ -216,28 +349,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 90,
+				"count": 91,
 				"page_info": {
-					"end_cursor": "AQHR0FfHyd86rmwiVWzEoBIElzkU03w2PNMsUba2Jya0IszjlT8yBXtE2ThLMNLc6scx7PU0XBreEB2V_7gcUXcTZQ",
-					"start_cursor": "AQHR0FfHyd86rmwiVWzEoBIElzkU03w2PNMsUba2Jya0IszjlT8yBXtE2ThLMNLc6scx7PU0XBreEB2V_7gcUXcTZQ"
+					"end_cursor": "AQHRJMKbwu-whC2VWJWUtf5KjjnDU-sDNJDk1K_CQEGud6cBfa4HqbvuqUydjy6BiBM6qfaZJ1SmZXX1QSjSR2XGJQ",
+					"start_cursor": "AQHRJMKbwu-whC2VWJWUtf5KjjnDU-sDNJDk1K_CQEGud6cBfa4HqbvuqUydjy6BiBM6qfaZJ1SmZXX1QSjSR2XGJQ"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "1060393354434761",
+							"id": "126944276034472",
 							"author": {
-								"id": "209284192879019",
-								"display_name": "Draek2017",
+								"id": "103852735010293",
+								"display_name": "Strate707",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.727.727a/s160x160/75297579_966624740478290_8786590065899724433_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gYsoTCy2dhoAX9111RK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=02689291c11ac0145d1d2c4df37c9f51&oe=607B5446"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c4.0.631.631a/s160x160/38974485_103853428343557_5452589862326311106_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GCr0LPfO0MQAX9RLhHE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2890d552617e56fd1fb9f326478e4cf3&oe=607FDE6E"
 								}
 							},
-							"score": 5,
-							"reviewDescription": "This is a must have for Quest. Its a wonderful social experience and Building is quite creative and fun!\n\ni love Horizon for Quest. I recommend it to anyone who can join the Beta. Please do not listen to the naysayers who say its empty. its OUR space to build! Also its still beta and not open to everyone. Im sure Horizon will be a success once public!",
-							"reviewTitle": "Great Creative and Social Experience",
-							"review_helpful_count": 11,
+							"score": 4,
+							"reviewDescription": "Let me first say, it's a great concept with much potential. However, there are some setbacks IMHO.\nEntry: it'd be a more pleasant experience for everyone to be on a more \" familiar grounded\" setting instead of on this cloud-like plaza. To get us even close to the trailer is ideal or maybe like entering the mall type feel. The plaza feels like lobbyish and a bit isolated. It's more likely used as a pit stop. Definitely not a social environment. \nEven add maybe a café like \"Big Screen\" has (I think.. 🤔.) I would think like the malls. They have open areas to hangout, yet open to everything else. \n\nAs far as the worlds, I'll have to get back and update for a more indepth review. \n\nAgain, I think it's great and Facebook should move forward. I see great and HUGE opportunities, but it appears they may need a bit more social imagination 😂! Ironic, huh?",
+							"reviewTitle": "It has much potential",
+							"review_helpful_count": 2,
 							"review_rank_by_viewer": null,
-							"date": 1613176361,
+							"date": 1615778617,
 							"developerResponse": null
 						}
 					}
@@ -250,7 +383,7 @@
 				"description": "Facebook Horizon is a social experience where you can explore, play and create. In Horizon, you’re not just a visitor. You're part of what makes it great.\n\nFacebook Horizon is in invite-only beta. To join the beta waitlist, please visit http://www.oculus.com/facebook-horizon",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003245_233387344635237_5651891797598879923_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JUhyvLxqjP8AX8EBxGp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d2f709f6d45be1247050f0def5c90998&oe=607BC415",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003245_233387344635237_5651891797598879923_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1yD8lCWNtzkAX8HbNsn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6788416ae5d2fc3830b989a383857311&oe=607FB895",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

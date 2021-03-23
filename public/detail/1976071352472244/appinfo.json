@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982582_1009431972749181_9083486352183394304_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=m5HY960UySUAX-CjTUq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e145f79a7db4aa9b2887392676c1b559&oe=607F3508"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982582_1009431972749181_9083486352183394304_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=m5HY960UySUAX8E-ijh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d2251202df7f0d0349564b8b4e20569e&oe=607F3508"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75272211_1009431752749203_2956542790919520256_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=557daaRl8K0AX9KdEWL&_nc_ht=scontent.oculuscdn.com&oh=8dcbb8d68058388f463c810abb4df055&oe=607DE606"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75272211_1009431752749203_2956542790919520256_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=557daaRl8K0AX-ytOFY&_nc_ht=scontent.oculuscdn.com&oh=834f17d6e38d16855453dd9f2e1be429&oe=607DE606"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 54,
+					"count": 55,
 					"starRating": 1
 				},
 				{
@@ -106,7 +106,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -145,11 +145,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1616522400,
+								"current_end_timestamp": 1616524200,
 								"current_start_timestamp": 1616520600,
 								"temporal_info": {
-									"seconds_until_end_time": 120240,
-									"seconds_until_start_time": 118440
+									"seconds_until_end_time": 35920,
+									"seconds_until_start_time": 32320
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -171,7 +171,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Mars Ingenuity Helicopter Media Briefing",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036637_446756986575209_804627568930487509_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=20FfpVjs12wAX-jwFdM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=322b0724e84decfe819d32a35bc1eb11&oe=607CB332"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036637_446756986575209_804627568930487509_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=77KgDEb_LEsAX-Laf7Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f5e969ca328c3bac27de7a1a0d62f0a&oe=6080A7B2"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616529600,
+								"current_start_timestamp": 1616526000,
+								"temporal_info": {
+									"seconds_until_end_time": 41320,
+									"seconds_until_start_time": 37720
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1383506725334849",
+								"is_vr_viewer_interested": false,
+								"name": "What's Next for Mars Exploration? Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974483_790796961871927_2115934140824146533_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X4jNuxHeejYAX8i8j1U&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c3b9197a88a46f794bd8913aba97d14c&oe=607E88E0"
 								}
 							}
 						},
@@ -181,8 +214,8 @@
 								"current_end_timestamp": 1616652000,
 								"current_start_timestamp": 1616612400,
 								"temporal_info": {
-									"seconds_until_end_time": 249840,
-									"seconds_until_start_time": 210240
+									"seconds_until_end_time": 163720,
+									"seconds_until_start_time": 124120
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -204,546 +237,18 @@
 								"is_vr_viewer_interested": false,
 								"name": "Focus on: Earth-Gazing",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86661278_891927791581186_3488661066752555488_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=t9pKMzX8WbgAX_uCNNZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=958e3cec754690c91be3ad71b279ab78&oe=607DADAC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86661278_891927791581186_3488661066752555488_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=t9pKMzX8WbgAX82oA3D&_nc_ht=scontent.oculuscdn.com&tp=28&oh=656626b4ae01e8824b4471bb0b5622bb&oe=607DADAC"
 								}
 							}
 						},
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1616828400,
-								"current_start_timestamp": 1616785200,
+								"current_end_timestamp": 1616772600,
+								"current_start_timestamp": 1616770800,
 								"temporal_info": {
-									"seconds_until_end_time": 426240,
-									"seconds_until_start_time": 383040
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386371078381747",
-								"is_vr_viewer_interested": false,
-								"name": "Celebrate the Supermoon!!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031638_425435998524223_6642200710138212583_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=b2nyGg8BvBEAX-xownx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6d3d9b550856db98d3315f1b81b45b07&oe=607EBB3C"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1616907600,
-								"current_start_timestamp": 1616871600,
-								"temporal_info": {
-									"seconds_until_end_time": 505440,
-									"seconds_until_start_time": 469440
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1355249538160568",
-								"is_vr_viewer_interested": false,
-								"name": "Revamped room launch! Mars from Afar",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_403295327410584_6328076447450743252_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VXr7H1Mw2-8AX87Ya9E&_nc_ht=scontent.oculuscdn.com&tp=28&oh=63afb98c23c1329c565914cfb092d72b&oe=607F64DF"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1616994000,
-								"current_start_timestamp": 1616954400,
-								"temporal_info": {
-									"seconds_until_end_time": 591840,
-									"seconds_until_start_time": 552240
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1368460743506114",
-								"is_vr_viewer_interested": false,
-								"name": "Spotlight on: Mars!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_121307256543166_5181241037439785474_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MVE0s_qPF2YAX91vgDS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=608a68b6e2cbb8e6087a6cdcbe43b1a3&oe=607EA760"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1617253200,
-								"current_start_timestamp": 1617213600,
-								"temporal_info": {
-									"seconds_until_end_time": 851040,
-									"seconds_until_start_time": 811440
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1368465316838990",
-								"is_vr_viewer_interested": false,
-								"name": "Mythology of the Skies",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_773894960211294_7396671869536658906_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s0k6iP77jVUAX-6qKBT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c5cea271a904615c5ffe7fff71c36198&oe=607C02B0"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1617379200,
-								"current_start_timestamp": 1617375600,
-								"temporal_info": {
-									"seconds_until_end_time": 977040,
-									"seconds_until_start_time": 973440
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1383506005334921",
-								"is_vr_viewer_interested": false,
-								"name": "NASA Spacecast Weekly",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982619_2944861102417654_9094185009109121620_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-pYhSDOM2C4AX91VngQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=70eb0981a1b065ea374e45ea97009a8f&oe=607F49C4"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1617516000,
-								"current_start_timestamp": 1617476400,
-								"temporal_info": {
-									"seconds_until_end_time": 1113840,
-									"seconds_until_start_time": 1074240
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386336658385189",
-								"is_vr_viewer_interested": false,
-								"name": "Moons of Mars",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003274_256014682632420_6843228200217001672_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uDWDwPklkHcAX_3338v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a71df2578730f0b1f7dbf86b014d12ae&oe=607F9E28"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1617602400,
-								"current_start_timestamp": 1617562800,
-								"temporal_info": {
-									"seconds_until_end_time": 1200240,
-									"seconds_until_start_time": 1160640
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386367721715416",
-								"is_vr_viewer_interested": false,
-								"name": "Revamped room launch! All Hail those who gaze upon the Red Planet!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982671_270827077953152_253812532174969054_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VrTe4MxGfn8AX_3bB3g&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d70e41c531d0899ad2abcab14f5315bd&oe=607C3F34"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1617861600,
-								"current_start_timestamp": 1617822000,
-								"temporal_info": {
-									"seconds_until_end_time": 1459440,
-									"seconds_until_start_time": 1419840
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386338831718305",
-								"is_vr_viewer_interested": false,
-								"name": "Focus on: Mars!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_1093629487806747_8653676644291521210_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5PHmjAOKLUwAX_tcFod&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3dcd9ec493934129a89f5fe1e480a6c4&oe=607E2007"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1617984000,
-								"current_start_timestamp": 1617980400,
-								"temporal_info": {
-									"seconds_until_end_time": 1581840,
-									"seconds_until_start_time": 1578240
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1383506368668218",
-								"is_vr_viewer_interested": false,
-								"name": "NASA Spacecast Weekly",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86610712_274868590659694_1868391413387328279_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=h4TlT2xiCM8AX-dXhUi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ef81ecba805a909b17155d936a427164&oe=607D951D"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1618120800,
-								"current_start_timestamp": 1618081200,
-								"temporal_info": {
-									"seconds_until_end_time": 1718640,
-									"seconds_until_start_time": 1679040
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386339661718222",
-								"is_vr_viewer_interested": false,
-								"name": "LAUNCH - Revamped Jupiter Room!!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982600_911354686367182_1028645915633153_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oMhiLTwkC2kAX8OijEz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a50f6f0f0ce1e3f4d74662e8c22916fc&oe=607D2884"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1618207200,
-								"current_start_timestamp": 1618167600,
-								"temporal_info": {
-									"seconds_until_end_time": 1805040,
-									"seconds_until_start_time": 1765440
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386338078385047",
-								"is_vr_viewer_interested": false,
-								"name": "Moons of Mars",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_887382648717169_7226867574244158193_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mQOgYL9tNpcAX9vhxjg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f55027c6e657721ec839bc34ae9d0073&oe=607F36E4"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1618466400,
-								"current_start_timestamp": 1618426800,
-								"temporal_info": {
-									"seconds_until_end_time": 2064240,
-									"seconds_until_start_time": 2024640
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386340865051435",
-								"is_vr_viewer_interested": false,
-								"name": "Gaze at the Red Planet from BRAND NEW Mars Viewing Deck!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982471_240594091063477_3472047714606495659_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2lPoctAjKzYAX94TRC7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b54ff9ceb1ee9838497560bca0cd54a4&oe=607EE68E"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1618588800,
-								"current_start_timestamp": 1618585200,
-								"temporal_info": {
-									"seconds_until_end_time": 2186640,
-									"seconds_until_start_time": 2183040
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1383506725334849",
-								"is_vr_viewer_interested": false,
-								"name": "NASA Spacecast Weekly",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_1102817063552300_8995551338564675976_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kBSGnzlDPp4AX83ucon&_nc_ht=scontent.oculuscdn.com&tp=28&oh=999ea104df1c9fe2bd0e07577087c826&oe=607D4ADF"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1618725600,
-								"current_start_timestamp": 1618686000,
-								"temporal_info": {
-									"seconds_until_end_time": 2323440,
-									"seconds_until_start_time": 2283840
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386341545051367",
-								"is_vr_viewer_interested": false,
-								"name": "ROOM LAUNCH: Gaze at Jupiter the King!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_746814186021721_2747261895147973678_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nu3QrcZP6IgAX9zqEey&_nc_ht=scontent.oculuscdn.com&tp=28&oh=87d03ed7a197581a89c974d26782658f&oe=607DD40F"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1618812000,
-								"current_start_timestamp": 1618772400,
-								"temporal_info": {
-									"seconds_until_end_time": 2409840,
-									"seconds_until_start_time": 2370240
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386339925051529",
-								"is_vr_viewer_interested": false,
-								"name": "LAUNCH - Revamped Jupiter room!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_849276722285695_4019024507860144294_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iTgVkb3iCH4AX8AwFIR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e1120c5513fcb8dcee0a40bd5ed7a3a&oe=607D055F"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1619071200,
-								"current_start_timestamp": 1619031600,
-								"temporal_info": {
-									"seconds_until_end_time": 2669040,
-									"seconds_until_start_time": 2629440
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1386338411718347",
-								"is_vr_viewer_interested": false,
-								"name": "Moons of Mars: Phobos & Deimos",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_250497420017889_8213280921109197765_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pNUqPFe-cOoAX-_dHWx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4c3452f008f85823c10714f78dc501f0&oe=607D7600"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1619193600,
-								"current_start_timestamp": 1619190000,
-								"temporal_info": {
-									"seconds_until_end_time": 2791440,
-									"seconds_until_start_time": 2787840
+									"seconds_until_end_time": 284320,
+									"seconds_until_start_time": 282520
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -765,7 +270,601 @@
 								"is_vr_viewer_interested": false,
 								"name": "NASA Spacecast Weekly",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984460_293426492132245_460248605206331303_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GYhz5xzpibUAX8jyRtQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3af33ed38fe8eeffad13c2a43fbfadb0&oe=607C09BA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984460_293426492132245_460248605206331303_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GYhz5xzpibUAX8Bh_7n&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cbaf22f1fa58f5a0edb3b65e2ea95fe4&oe=607FFE3A"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616828400,
+								"current_start_timestamp": 1616785200,
+								"temporal_info": {
+									"seconds_until_end_time": 340120,
+									"seconds_until_start_time": 296920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386371078381747",
+								"is_vr_viewer_interested": false,
+								"name": "Celebrate the Supermoon!!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031638_425435998524223_6642200710138212583_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=b2nyGg8BvBEAX-JeDeo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8028ed0cf8698276e9970d6f3fdd3c26&oe=607EBB3C"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616907600,
+								"current_start_timestamp": 1616871600,
+								"temporal_info": {
+									"seconds_until_end_time": 419320,
+									"seconds_until_start_time": 383320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1355249538160568",
+								"is_vr_viewer_interested": false,
+								"name": "Revamped room launch! Mars from Afar",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982441_403295327410584_6328076447450743252_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VXr7H1Mw2-8AX-KKUHW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b4b82b94bb53dc70778a955d4b0bb61f&oe=607F64DF"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1616994000,
+								"current_start_timestamp": 1616954400,
+								"temporal_info": {
+									"seconds_until_end_time": 505720,
+									"seconds_until_start_time": 466120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1368460743506114",
+								"is_vr_viewer_interested": false,
+								"name": "Spotlight on: Mars!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974503_121307256543166_5181241037439785474_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FaBjG9YEtDoAX92I0ya&_nc_ht=scontent.oculuscdn.com&tp=28&oh=02f8d642fd36657e8006b9d008eff438&oe=607EA760"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617134400,
+								"current_start_timestamp": 1617130800,
+								"temporal_info": {
+									"seconds_until_end_time": 646120,
+									"seconds_until_start_time": 642520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400800213605500",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031352_492378771781703_5486925373709507551_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WqlCp9wKioEAX_VDHjr&_nc_oc=AQnHFTAu0eY7qGqOtc-lYgjS95rKG_1xwwmv0BMFv1KXLeDJjhRGY1IV6dvxklj2KsA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c6dd660f296b5ffdbd724325f2d2e7f6&oe=607F1BDC"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617253200,
+								"current_start_timestamp": 1617213600,
+								"temporal_info": {
+									"seconds_until_end_time": 764920,
+									"seconds_until_start_time": 725320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1368465316838990",
+								"is_vr_viewer_interested": false,
+								"name": "Mythology of the Skies",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_773894960211294_7396671869536658906_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pl9Bj0W3vvIAX-kiRDd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=95d4eeab46dbb9e3eae430aed5d479df&oe=607FF730"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617379200,
+								"current_start_timestamp": 1617375600,
+								"temporal_info": {
+									"seconds_until_end_time": 890920,
+									"seconds_until_start_time": 887320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1383506005334921",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982619_2944861102417654_9094185009109121620_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-pYhSDOM2C4AX9POWNg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe781443101c37d3f5185aae9e3d2226&oe=607F49C4"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617516000,
+								"current_start_timestamp": 1617476400,
+								"temporal_info": {
+									"seconds_until_end_time": 1027720,
+									"seconds_until_start_time": 988120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386336658385189",
+								"is_vr_viewer_interested": false,
+								"name": "Moons of Mars",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003274_256014682632420_6843228200217001672_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lSrg6XjG89oAX89Creq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6de9a08b2d0be10096709e6be3fdb2db&oe=607F9E28"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617602400,
+								"current_start_timestamp": 1617562800,
+								"temporal_info": {
+									"seconds_until_end_time": 1114120,
+									"seconds_until_start_time": 1074520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386367721715416",
+								"is_vr_viewer_interested": false,
+								"name": "Revamped room launch! All Hail those who gaze upon the Red Planet!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982671_270827077953152_253812532174969054_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VrTe4MxGfn8AX_ksKDI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=448b640dcfc227ca19b83fb7c7a60c12&oe=608033B4"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617739200,
+								"current_start_timestamp": 1617735600,
+								"temporal_info": {
+									"seconds_until_end_time": 1250920,
+									"seconds_until_start_time": 1247320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400800490272139",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035356_453322822574936_992749885523158509_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-x7kuBCjAa4AX8qMSdH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f04ee22c67ff1aba9492b5026e6e59e4&oe=60802175"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617861600,
+								"current_start_timestamp": 1617822000,
+								"temporal_info": {
+									"seconds_until_end_time": 1373320,
+									"seconds_until_start_time": 1333720
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386338831718305",
+								"is_vr_viewer_interested": false,
+								"name": "Focus on: Mars!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_1093629487806747_8653676644291521210_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5PHmjAOKLUwAX9mgIw2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1c734b1632f9ee28bb28fa1472ad24d3&oe=607E2007"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617984000,
+								"current_start_timestamp": 1617980400,
+								"temporal_info": {
+									"seconds_until_end_time": 1495720,
+									"seconds_until_start_time": 1492120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1383506368668218",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86610712_274868590659694_1868391413387328279_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=h4TlT2xiCM8AX_gWxxd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=735fdf636f3b31ed5bd9179e41f81f8d&oe=607D951D"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1618120800,
+								"current_start_timestamp": 1618081200,
+								"temporal_info": {
+									"seconds_until_end_time": 1632520,
+									"seconds_until_start_time": 1592920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386339661718222",
+								"is_vr_viewer_interested": false,
+								"name": "LAUNCH - Revamped Jupiter Room!!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982600_911354686367182_1028645915633153_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oMhiLTwkC2kAX8aMbsP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f334d22ccc52a8ab66e811fdc8a0d1ec&oe=60811D04"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1618207200,
+								"current_start_timestamp": 1618167600,
+								"temporal_info": {
+									"seconds_until_end_time": 1718920,
+									"seconds_until_start_time": 1679320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386338078385047",
+								"is_vr_viewer_interested": false,
+								"name": "Moons of Mars",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_887382648717169_7226867574244158193_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hnJXyAxdM-wAX-PZUMx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46d9274bb9ec9f32671a086fff4c7921&oe=607F36E4"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1618466400,
+								"current_start_timestamp": 1618426800,
+								"temporal_info": {
+									"seconds_until_end_time": 1978120,
+									"seconds_until_start_time": 1938520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386340865051435",
+								"is_vr_viewer_interested": false,
+								"name": "Gaze at the Red Planet from BRAND NEW Mars Viewing Deck!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982471_240594091063477_3472047714606495659_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=egC1_NjS5jwAX_H_eGx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d5467344b9b11d723240a4abc4cb5c57&oe=607EE68E"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1618725600,
+								"current_start_timestamp": 1618686000,
+								"temporal_info": {
+									"seconds_until_end_time": 2237320,
+									"seconds_until_start_time": 2197720
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386341545051367",
+								"is_vr_viewer_interested": false,
+								"name": "ROOM LAUNCH: Gaze at Jupiter the King!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_746814186021721_2747261895147973678_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nu3QrcZP6IgAX_Ub_HY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60d1c805f29ab7a1be01ac1b23302ffc&oe=607DD40F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1618812000,
+								"current_start_timestamp": 1618772400,
+								"temporal_info": {
+									"seconds_until_end_time": 2323720,
+									"seconds_until_start_time": 2284120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386339925051529",
+								"is_vr_viewer_interested": false,
+								"name": "LAUNCH - Revamped Jupiter room!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_849276722285695_4019024507860144294_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iTgVkb3iCH4AX-6ozGe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe4518dc746d25ed07d9f1e234cdb6d0&oe=6080F9DF"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1618948800,
+								"current_start_timestamp": 1618945200,
+								"temporal_info": {
+									"seconds_until_end_time": 2460520,
+									"seconds_until_start_time": 2456920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400801096938745",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031384_278473600534095_871219273308405471_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OQRTqnn8sPQAX8Fd_Z2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=925ec129af0c7e8c2797b58bd1eb472c&oe=608119FF"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619071200,
+								"current_start_timestamp": 1619031600,
+								"temporal_info": {
+									"seconds_until_end_time": 2582920,
+									"seconds_until_start_time": 2543320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1386338411718347",
+								"is_vr_viewer_interested": false,
+								"name": "Moons of Mars: Phobos & Deimos",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_250497420017889_8213280921109197765_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pNUqPFe-cOoAX_AS6cL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cf054b0f09801350e634580c6a478501&oe=607D7600"
 								}
 							}
 						},
@@ -775,8 +874,8 @@
 								"current_end_timestamp": 1619330400,
 								"current_start_timestamp": 1619290800,
 								"temporal_info": {
-									"seconds_until_end_time": 2928240,
-									"seconds_until_start_time": 2888640
+									"seconds_until_end_time": 2842120,
+									"seconds_until_start_time": 2802520
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -798,7 +897,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "GRAND OPENING! Saturn Room!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974483_3517358035054049_4289211502548394631_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zJaZSbArDfUAX-afq84&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f68edde528558c1103844cf66805b36&oe=607C3A16"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974483_3517358035054049_4289211502548394631_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4qp3gfwVPAUAX8thjrK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=37f8b31e67cce03337a77bc8bb5dc3fe&oe=60802E96"
 								}
 							}
 						},
@@ -808,8 +907,8 @@
 								"current_end_timestamp": 1619416800,
 								"current_start_timestamp": 1619377200,
 								"temporal_info": {
-									"seconds_until_end_time": 3014640,
-									"seconds_until_start_time": 2975040
+									"seconds_until_end_time": 2928520,
+									"seconds_until_start_time": 2888920
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -831,7 +930,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "ROOM LAUNCH: Come Gaze Upon King Jupiter!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982701_518113119590042_8129031311742349249_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PZkVPyZIbC8AX-pq55b&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ba9bf88d73a4f076a8a46aa24bb260cc&oe=607D0213"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982701_518113119590042_8129031311742349249_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9D3ZLRJ5GG4AX89dIsl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e543cc5e7878e484fd3f0ea15027cbd8&oe=6080F693"
 								}
 							}
 						},
@@ -841,8 +940,8 @@
 								"current_end_timestamp": 1619589600,
 								"current_start_timestamp": 1619550000,
 								"temporal_info": {
-									"seconds_until_end_time": 3187440,
-									"seconds_until_start_time": 3147840
+									"seconds_until_end_time": 3101320,
+									"seconds_until_start_time": 3061720
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -864,7 +963,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Celebrate the 3rd largest Supermoon of the year!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974909_341457633842134_5814135872568678029_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=68ilUGjj_v8AX_I18Jy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a1e365028ad53c7841e1ce216cb5f967&oe=607EAEBB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974909_341457633842134_5814135872568678029_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=68ilUGjj_v8AX9VdBfW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dc89328952afe5ab4d17c87af2bcd388&oe=607EAEBB"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619553600,
+								"current_start_timestamp": 1619550000,
+								"temporal_info": {
+									"seconds_until_end_time": 3065320,
+									"seconds_until_start_time": 3061720
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400801386938716",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001717_268849268031951_6238019079920754802_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=N7wgh5qIpUoAX8UwW7y&_nc_ht=scontent.oculuscdn.com&tp=28&oh=941149b7394af6f5ba6afe6aeb5102ca&oe=607E9C33"
 								}
 							}
 						},
@@ -874,8 +1006,8 @@
 								"current_end_timestamp": 1619676003,
 								"current_start_timestamp": 1619636400,
 								"temporal_info": {
-									"seconds_until_end_time": 3273843,
-									"seconds_until_start_time": 3234240
+									"seconds_until_end_time": 3187723,
+									"seconds_until_start_time": 3148120
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -897,7 +1029,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "LAUNCH - Revamped Jupiter room",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984460_223930536129311_2808973413191426396_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cJO9ZCP-ctEAX-LmhJ-&_nc_oc=AQkfb8x_ff3Hc2Q7aAH509ZeVm1C_L06EFvRpsOWHu-Wct0h-wOAisxA5L7TgnzkEK0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2fd1b332ac646d032c0e5fe5c7aa15fc&oe=607DBCC1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984460_223930536129311_2808973413191426396_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cJO9ZCP-ctEAX-F6pjP&_nc_oc=AQkrWzd52X2UezxPfMHzO3GbU1gSD0d1fMD1MXkag7Dy5hwlW35jVi4ENL7yITDQ2n4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8a537e533ba80283f733b9465761c0a6&oe=607DBCC1"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619796600,
+								"current_start_timestamp": 1619794800,
+								"temporal_info": {
+									"seconds_until_end_time": 3308320,
+									"seconds_until_start_time": 3306520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400795333605988",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982602_1324440001282702_3848521746582839936_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-XtL9M_3jwkAX_R75mS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=58fcd37bb111be203fbc4d8f88b468cf&oe=607D8160"
 								}
 							}
 						},
@@ -907,8 +1072,8 @@
 								"current_end_timestamp": 1619935200,
 								"current_start_timestamp": 1619895600,
 								"temporal_info": {
-									"seconds_until_end_time": 3533040,
-									"seconds_until_start_time": 3493440
+									"seconds_until_end_time": 3446920,
+									"seconds_until_start_time": 3407320
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -930,7 +1095,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Saturn viewing event - Gaze in wonder at the Ringed Planet",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974448_433166347953557_4791787763825956726_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8maiRbVizKEAX88z_wQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f48817969651973afa89723fecf00a0a&oe=607C3D3A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974448_433166347953557_4791787763825956726_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DgQbRd_KylwAX_vy0sb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6a1eb50ef27e63c867171e2996755c08&oe=608031BA"
 								}
 							}
 						},
@@ -940,8 +1105,8 @@
 								"current_end_timestamp": 1620021600,
 								"current_start_timestamp": 1619982000,
 								"temporal_info": {
-									"seconds_until_end_time": 3619440,
-									"seconds_until_start_time": 3579840
+									"seconds_until_end_time": 3533320,
+									"seconds_until_start_time": 3493720
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -963,7 +1128,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "GRAND OPENING! Saturn room",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984460_352405195927072_3609882522835333131_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6yMrRV73PUAAX9eKOir&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e7cd28a82ff339fe6a4816ba54d8f6cf&oe=607D0F77"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984460_352405195927072_3609882522835333131_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6yMrRV73PUAAX-b2TAu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=28194f19af849af40217ff32487b18b5&oe=608103F7"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620158400,
+								"current_start_timestamp": 1620154800,
+								"temporal_info": {
+									"seconds_until_end_time": 3670120,
+									"seconds_until_start_time": 3666520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400801910271997",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57568680_3581661675276848_6371971952738492341_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HBS9YTQ1OK8AX_tqVTJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4905c0cdf99d5b0e87e73f99d603c3b1&oe=607EED3D"
 								}
 							}
 						},
@@ -973,8 +1171,8 @@
 								"current_end_timestamp": 1620280800,
 								"current_start_timestamp": 1620241200,
 								"temporal_info": {
-									"seconds_until_end_time": 3878640,
-									"seconds_until_start_time": 3839040
+									"seconds_until_end_time": 3792520,
+									"seconds_until_start_time": 3752920
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -996,7 +1194,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "ROOM LAUNCH: Gaze Upon King Jupiter!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569471_123313643042738_6495243507276395173_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=acMuj_eQHqwAX-U4qQ5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cf7158833c23713f074e28bd61625333&oe=607E97B2"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569471_123313643042738_6495243507276395173_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=acMuj_eQHqwAX-p9GQs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2c44d4fa5a8f3ddbf0d28f4066acebac&oe=607E97B2"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620401400,
+								"current_start_timestamp": 1620399600,
+								"temporal_info": {
+									"seconds_until_end_time": 3913120,
+									"seconds_until_start_time": 3911320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400795090272679",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974684_1075754772920060_5473154281687710003_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bukjrgWxQZIAX-63fC_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a0f56a2c4bc4b49bc38ef7fb1fd9e550&oe=607F840B"
 								}
 							}
 						},
@@ -1006,8 +1237,8 @@
 								"current_end_timestamp": 1620540000,
 								"current_start_timestamp": 1620500400,
 								"temporal_info": {
-									"seconds_until_end_time": 4137840,
-									"seconds_until_start_time": 4098240
+									"seconds_until_end_time": 4051720,
+									"seconds_until_start_time": 4012120
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1029,7 +1260,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "GRAND OPENING! Uranus room",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974907_433231167941744_1552586136536217308_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_FpLZ9AOqhkAX-fGQ0l&_nc_ht=scontent.oculuscdn.com&tp=28&oh=54cd4bc2410e2c94df794b40b285885e&oe=607C9E4A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974907_433231167941744_1552586136536217308_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_FpLZ9AOqhkAX-EuKY5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1526e94b1816f98721cc60bb1b992277&oe=608092CA"
 								}
 							}
 						},
@@ -1039,8 +1270,8 @@
 								"current_end_timestamp": 1620626400,
 								"current_start_timestamp": 1620586800,
 								"temporal_info": {
-									"seconds_until_end_time": 4224240,
-									"seconds_until_start_time": 4184640
+									"seconds_until_end_time": 4138120,
+									"seconds_until_start_time": 4098520
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1062,7 +1293,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Saturn Viewing Deck: Gaze at the Ringed Planet",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031567_730441207659350_4784505477412153173_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TWC7YCl7xMAAX_GqY2p&_nc_oc=AQkl1zScG6r9ng-u7a5NbbcJK3IRuDDJwwOIUBjLPCN-dy8XSlZF9QZM6H5qH1h5_zM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ae0431595a1e8309acafa0d76944aa7&oe=607C858F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031567_730441207659350_4784505477412153173_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TWC7YCl7xMAAX-sxvoR&_nc_oc=AQk-GDlwI0rzgDRzxmp-GmAWf5NqGD87o6zklL_weUPnIptLSHvwcEJT7vcZr4_7yNc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1cc172ed0727a2265d114d421d4fe644&oe=60807A0F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620763200,
+								"current_start_timestamp": 1620759600,
+								"temporal_info": {
+									"seconds_until_end_time": 4274920,
+									"seconds_until_start_time": 4271320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400802443605277",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569471_908011380032821_3522838263204635943_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=blnKugXXDI8AX86oRMx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a25d474a63fd137f1d449b6e2c350a70&oe=607DA095"
 								}
 							}
 						},
@@ -1072,8 +1336,8 @@
 								"current_end_timestamp": 1620885600,
 								"current_start_timestamp": 1620846000,
 								"temporal_info": {
-									"seconds_until_end_time": 4483440,
-									"seconds_until_start_time": 4443840
+									"seconds_until_end_time": 4397320,
+									"seconds_until_start_time": 4357720
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1095,7 +1359,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "GRAND OPENING! Saturn room",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031371_1394754080895876_2563373017679440633_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=08ewLNpHSZUAX-2et-v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b1b5c4793615b5b847e2bf60cf9409e0&oe=607DF00F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031371_1394754080895876_2563373017679440633_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=08ewLNpHSZUAX9Qd11o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3af08e85afb7a852478eb86fd3d2a277&oe=607DF00F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1621006200,
+								"current_start_timestamp": 1621004400,
+								"temporal_info": {
+									"seconds_until_end_time": 4517920,
+									"seconds_until_start_time": 4516120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400795536939301",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974909_519676609434494_3915287444394103411_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=q1I9njPCd4gAX-zWoyR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f5b8ea35bd3d71022b4eae878ba131de&oe=6080AD36"
 								}
 							}
 						},
@@ -1105,8 +1402,8 @@
 								"current_end_timestamp": 1621231200,
 								"current_start_timestamp": 1621191600,
 								"temporal_info": {
-									"seconds_until_end_time": 4829040,
-									"seconds_until_start_time": 4789440
+									"seconds_until_end_time": 4742920,
+									"seconds_until_start_time": 4703320
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1128,7 +1425,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "GRAND OPENING! Uranus room",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982604_298052544986418_8045779444367213013_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LMUG0ytKjOQAX_nnTOk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c0adfcbcc8da8e5a9cf6c0ed22b04a6e&oe=607E77AD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982604_298052544986418_8045779444367213013_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LMUG0ytKjOQAX9srXKb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7ec3bb025567309791cece342dda5c9&oe=607E77AD"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1621368000,
+								"current_start_timestamp": 1621364400,
+								"temporal_info": {
+									"seconds_until_end_time": 4879720,
+									"seconds_until_start_time": 4876120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400802826938572",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974448_1857482291072504_5238631112104726178_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ez5CssMNrDYAX9f1e18&_nc_ht=scontent.oculuscdn.com&tp=28&oh=100f5b0959aa08ee114b9d3f97305b70&oe=6080DF38"
 								}
 							}
 						},
@@ -1138,8 +1468,8 @@
 								"current_end_timestamp": 1621490400,
 								"current_start_timestamp": 1621450800,
 								"temporal_info": {
-									"seconds_until_end_time": 5088240,
-									"seconds_until_start_time": 5048640
+									"seconds_until_end_time": 5002120,
+									"seconds_until_start_time": 4962520
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1161,7 +1491,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Saturn Viewing Deck: Gaze at the Ringed Planet",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031458_3659809974066332_5215477693673435422_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P_7immd8zdQAX9P0VA_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c648c7b8c6578eb4a596d78a4a6a2fa&oe=607CB654"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031458_3659809974066332_5215477693673435422_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P_7immd8zdQAX-G7ppv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3545cf9b93800dc8b9fc44455cb1725c&oe=6080AAD4"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1621611000,
+								"current_start_timestamp": 1621609200,
+								"temporal_info": {
+									"seconds_until_end_time": 5122720,
+									"seconds_until_start_time": 5120920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400795736939281",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003228_2949883525337813_6417985054603090426_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fARP5UoosCcAX_rBvrh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e10bed45f5b86e59571904b9d50734a1&oe=60809F6B"
 								}
 							}
 						},
@@ -1171,8 +1534,8 @@
 								"current_end_timestamp": 1622008800,
 								"current_start_timestamp": 1621969200,
 								"temporal_info": {
-									"seconds_until_end_time": 5606640,
-									"seconds_until_start_time": 5567040
+									"seconds_until_end_time": 5520520,
+									"seconds_until_start_time": 5480920
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1194,7 +1557,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "GRAND OPENING! Uranus room",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982604_857207541510733_4199113037211401025_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=be0_YyKiHQwAX_xYbV-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8288342e272552042f988e4dcb6fba2e&oe=607E86E6"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982604_857207541510733_4199113037211401025_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gvU6KFUrxjAAX9wNSRX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e142434a2f53da9375543b079c6002a&oe=607E86E6"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1621972800,
+								"current_start_timestamp": 1621969200,
+								"temporal_info": {
+									"seconds_until_end_time": 5484520,
+									"seconds_until_start_time": 5480920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400803096938545",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035375_4289208827775431_14418115637324136_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hDBC7Gq6M5gAX_35yZR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ae536d231c3fecaa26e7bf26c5a9f340&oe=607DA1F9"
 								}
 							}
 						},
@@ -1204,8 +1600,8 @@
 								"current_end_timestamp": 1622095200,
 								"current_start_timestamp": 1622055600,
 								"temporal_info": {
-									"seconds_until_end_time": 5693040,
-									"seconds_until_start_time": 5653440
+									"seconds_until_end_time": 5606920,
+									"seconds_until_start_time": 5567320
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -1227,7 +1623,370 @@
 								"is_vr_viewer_interested": false,
 								"name": "Celebrate the Super Blood Moon!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_286377189496941_3922389466230305606_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0hLD0RIuwAgAX-z9jwq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=db0b6dc4a20cefbd1ba6e51c68459352&oe=607E49E4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_286377189496941_3922389466230305606_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0hLD0RIuwAgAX9w--NX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c55f76ef00ca76731028259742cdda75&oe=607E49E4"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1622215800,
+								"current_start_timestamp": 1622214000,
+								"temporal_info": {
+									"seconds_until_end_time": 5727520,
+									"seconds_until_start_time": 5725720
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400795986939256",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_166397318636992_8489642400398121118_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IMAosaUXHAQAX_EZq_-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ecd0bf83487aa8dea15aec4bd72fe7a9&oe=6080C320"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1622577600,
+								"current_start_timestamp": 1622574000,
+								"temporal_info": {
+									"seconds_until_end_time": 6089320,
+									"seconds_until_start_time": 6085720
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400803496938505",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031653_197531298420668_7710468048288807657_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TC2MMGZTpCQAX9st2y0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=faac47cf625bed0e932f6684adfa34a6&oe=607D9746"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1622820600,
+								"current_start_timestamp": 1622818800,
+								"temporal_info": {
+									"seconds_until_end_time": 6332320,
+									"seconds_until_start_time": 6330520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400796523605869",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982600_288398746048694_9049368412122886476_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=p-H5CIo5YNAAX-sPbx9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=271f4c71e52d21dd174d0120f0f6f16d&oe=60802C29"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1623182400,
+								"current_start_timestamp": 1623178800,
+								"temporal_info": {
+									"seconds_until_end_time": 6694120,
+									"seconds_until_start_time": 6690520
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400803740271814",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031331_463802114819763_5672909515562972450_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4OyXLO1IPwoAX-Ddw8g&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e9ebb46ad86ca8152ba18604708a32c&oe=607F98F0"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1623425400,
+								"current_start_timestamp": 1623423600,
+								"temporal_info": {
+									"seconds_until_end_time": 6937120,
+									"seconds_until_start_time": 6935320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400798773605644",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569461_322943619192147_5608621715977643898_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VeT7_DCTXvcAX83Jf6v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a1ce0249a11a729f4a0f0892fad3fe83&oe=607E4F81"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1623787200,
+								"current_start_timestamp": 1623783600,
+								"temporal_info": {
+									"seconds_until_end_time": 7298920,
+									"seconds_until_start_time": 7295320
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400803893605132",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86610562_916518012496373_6198316239591348445_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Iv5Mf_eyBfMAX-AO417&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f2263e160bbcc89ecba01538d97d00c8&oe=607E9C07"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624030200,
+								"current_start_timestamp": 1624028400,
+								"temporal_info": {
+									"seconds_until_end_time": 7541920,
+									"seconds_until_start_time": 7540120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400799070272281",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031421_473338137149508_3435143133425098165_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=h8ASJHL9WGEAX8E7BPu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e6883962ed49f052a16d7b4d36f05e05&oe=60807160"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624338000,
+								"current_start_timestamp": 1624298400,
+								"temporal_info": {
+									"seconds_until_end_time": 7849720,
+									"seconds_until_start_time": 7810120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400809336937921",
+								"is_vr_viewer_interested": false,
+								"name": "Visit Stonehenge for the Summer Solstice",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031322_457445785688398_4704547933636280329_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ODFwSoyyEE0AX8I3_S_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=88ca0edf8775ab7a5b1e839c3daa714f&oe=607D5661"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624392000,
+								"current_start_timestamp": 1624388400,
+								"temporal_info": {
+									"seconds_until_end_time": 7903720,
+									"seconds_until_start_time": 7900120
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400804083605113",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_454940992254938_6843545646436752699_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NlVLSHaNHGwAX82heaP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9ecce4fceabdc786bb0e8f6e90d3bdc8&oe=607F3718"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624635000,
+								"current_start_timestamp": 1624633200,
+								"temporal_info": {
+									"seconds_until_end_time": 8146720,
+									"seconds_until_start_time": 8144920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400799323605589",
+								"is_vr_viewer_interested": false,
+								"name": "NASA Spacecast Weekly",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031318_872004460035160_622777315945862376_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3Ury_e8G2NoAX_J_Xyc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=416d004c5955820212b141d6c327e221&oe=607F5A3F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624996800,
+								"current_start_timestamp": 1624993200,
+								"temporal_info": {
+									"seconds_until_end_time": 8508520,
+									"seconds_until_start_time": 8504920
+								},
+								"vr_app_and_destination_string": "Multiverse",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "1976071352472244",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Multiverse"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1400804350271753",
+								"is_vr_viewer_interested": false,
+								"name": "Teaching Space with NASA",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003263_444677460189968_2548011783863562184_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=j3gHvGu8zxIAX9Tgre7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5bf5d7f8f9d6f71949a56360fbacfc90&oe=607D907B"
 								}
 							}
 						}
@@ -1283,7 +2042,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.5023041474654,
+			"quality_rating_aggregate": 3.4908256880734,
 			"support_website_url": "http://www.ftl.ltd/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -1302,8 +2061,8 @@
 			"firstQualityRatings": {
 				"count": 101,
 				"page_info": {
-					"end_cursor": "AQHR_mTKNxv9KAQH4Cpf28qWawh1dlje6SXwZ1gQ_d064cYikNZFpUhfwmnBwDuWFIU-ww1vZsTi-bDqSYJQAUOh7w",
-					"start_cursor": "AQHR_mTKNxv9KAQH4Cpf28qWawh1dlje6SXwZ1gQ_d064cYikNZFpUhfwmnBwDuWFIU-ww1vZsTi-bDqSYJQAUOh7w"
+					"end_cursor": "AQHReiK924hAMBEBBALq5A1hyLKT0yqEEE6sNR1f891aRGHUEukj7NmrYG8L_JglBKU1rmRjk7aiVSCLdXXfOe_yOA",
+					"start_cursor": "AQHReiK924hAMBEBBALq5A1hyLKT0yqEEE6sNR1f891aRGHUEukj7NmrYG8L_JglBKU1rmRjk7aiVSCLdXXfOe_yOA"
 				},
 				"edges": [
 					{
@@ -1313,13 +2072,13 @@
 								"id": "100659001432062",
 								"display_name": "maikmayers81",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75476754_270060621158565_852612400926302241_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LiyZAtnzxGEAX9TGF-A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b0fb00599078c07e49dccb658b2dcc24&oe=607D9D75"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75476754_270060621158565_852612400926302241_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LiyZAtnzxGEAX8NiY2J&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe507eba8a0713f5f0dbd69a60c8b20f&oe=607D9D75"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I thank the developers.  For those who are interested in astronomy this is a must.  The sun space has turned out great.  Except for a few chewed children, it was a great experience today.  I am deducting one star because I would like the German chess translation. Thank you for thinking of the Aggregat 4 and greetings from Germany. 😁 👍",
 							"reviewTitle": "Super",
-							"review_helpful_count": 19,
+							"review_helpful_count": 20,
 							"review_rank_by_viewer": null,
 							"date": 1612047906,
 							"developerResponse": null
@@ -1334,7 +2093,7 @@
 				"description": "Multiverse - Come in and experience our first domain: The Planetarium. Explore astronomy like never before - socially in VR with your friends.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982697_794327111051776_5856611872907722752_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7O5uhxKvIuYAX_NYbkC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=70fd53d984ebd981ccbc540c642e0933&oe=607EE763",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982697_794327111051776_5856611872907722752_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7O5uhxKvIuYAX-GA0zf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2af6f76e24efa7e2346fc2d57c33e495&oe=607EE763",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

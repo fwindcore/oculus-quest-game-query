@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001727_809564826499055_5858700799584474015_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CSFykjJHh9EAX__NFgN&_nc_oc=AQnmXMVSl377bzfBkeO9EtGla1t4vbh_bjq_y4JCAi5TGKh0imOg5hUkwFgiKwPKfzQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9bff3c0adc0599dca3e9defe6e836bf5&oe=607ED11F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035379_491267648710298_6717069292400252953_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=u6P-fg5kI4UAX_vBFlB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcbbc6e2abc7b524f9000b743aceae4b&oe=607E582E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031431_361376651668599_2565868102282494061_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=porKodhZ9fMAX_3xOFg&_nc_ht=scontent.oculuscdn.com&oh=b187ca40a41466dcf535e05202a2b874&oe=607F085E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75236134_276017877382356_9049987741878607713_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=8K_KRzc50nIAX_ey8Ic&_nc_ht=scontent.oculuscdn.com&oh=0021dd0b588a67a2a6caef789b46ed90&oe=607E6D73"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 38,
+					"count": 37,
 					"starRating": 1
 				},
 				{
@@ -31,21 +31,21 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 31,
+					"count": 32,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 84,
+					"count": 85,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 217,
+					"count": 219,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "What an excellent day for an exorcism!\n\nDescribed as one of the most disturbing experiences available for virtual reality, The Exorcist: Legion delivers FIVE unique stories and features a variety of demonic entities, exorcism tools, hidden artifacts and atmospheric locations. Delve deep into the heart of the supernatural as you learn the trade of demonic exorcism and uncover secrets leading you towards a final confrontation with your darkest, most hidden fears. Are you brave enough?\n\nThe Exorcist: Legion is part action, part mystery, part puzzle-solving... and ALL terror.\n\nCross-buy enabled!",
+			"display_long_description": "Now optimized for Quest 2... What an excellent day for an exorcism!\n\nDescribed as one of the most disturbing experiences available for virtual reality, The Exorcist: Legion delivers FIVE unique stories and features a variety of demonic entities, exorcism tools, hidden artifacts and atmospheric locations. Delve deep into the heart of the supernatural as you learn the trade of demonic exorcism and uncover secrets leading you towards a final confrontation with your darkest, most hidden fears. Are you brave enough?\n\nThe Exorcist: Legion is part action, part mystery, part puzzle-solving... and ALL terror.\n\nCross-buy enabled!",
 			"developer_privacy_policy_url": "https://www.exorcistlegion.com/terms",
 			"developer_terms_of_service_url": "https://www.exorcistlegion.com/terms",
 			"supported_player_modes": [
@@ -118,14 +118,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.9",
-				"change_log": "",
+				"version": "1.2.0",
+				"change_log": "Overview:\n\nMassive texture update, improved resolution, shaders and lighting\nQuest 2 90hz update\nNew animations, texture effects and scaled resolution on all demons\nImproved physics interactions and ported in the PC version of the Torch in Chapter 5\nOut of bounds now resets position after countdown\nVarious bug fixes and quality of life updates\n\nDetails: \n\nRendering update:\n\nIncreased texture resolution throughout\nImproved lighting throughout\nVarious updates to shaders and particles\nVarious animation and art improvements\nImproved readability of ingame documents\n\nOut of bounds System:\nPlayer position is now reset to a safe position if out of the play area for over 5 seconds\nCountdown and UI to explain repositioning\n\nPhysics:\n90hz physics refresh for Quest 2 users to smooth all interactions and movements\nImproved interaction pickup and release\nGeneral locomotion improvements\nSmooth crouching improvements\n\nDevelopment:\nMove forwards, backwards and diagonally while the menu is open - Strafe is blocked due to menu interactions.\nImproved memory management\nGeneral teleport improvements: player no longer has to look directly down at the floor to teleport.\n\nFixes:\nAdd fail-safes for the cross occasionally disconnecting from the kit and becoming unusable.\nBug where hands would sometimes get stuck in the hover state and the player would not be able to make a fist.\nGeneral fixes and additional rules to catch any potential issues\n",
 				"supported_hmd_types": [
 					"MONTEREY"
 				],
-				"total_installed_space": "1713189794",
-				"id": "2216934611727992",
-				"required_space_adjusted": "1827761402",
+				"total_installed_space": "1541006854",
+				"id": "3793383130749791",
+				"required_space_adjusted": "2860034627",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -138,17 +138,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "340092353357409",
+				"id": "195259165371559",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1874",
+					"formatted": "US$ 18.74"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "US$ 24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-25%",
+				"end_time": 1616569140,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -159,7 +164,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "2216934611727992"
+					"id": "3793383130749791"
 				}
 			},
 			"release_channels": {
@@ -170,8 +175,8 @@
 						"id": "279038272817289",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.9",
-							"id": "2216934611727992"
+							"version": "1.2.0",
+							"id": "3793383130749791"
 						}
 					}
 				]
@@ -231,16 +236,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "340092353357409"
+				"id": "195259165371559"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0505050505051,
+			"quality_rating_aggregate": 4.0601503759399,
 			"support_website_url": "http://exorcistvr.com/bugs",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 248,
+				"count": 250,
 				"orderings": [
 					{
 						"key": "top",
@@ -253,10 +258,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 248,
+				"count": 250,
 				"page_info": {
-					"end_cursor": "AQHRaD5OkGJUYqFeDoPX0fr_1eND6o4nIBG_VJdUHxcDYsGczWiavZUR5WnpkpJcFKIPUhJLRXHL1JlyEIVsHW-gaQ",
-					"start_cursor": "AQHRaD5OkGJUYqFeDoPX0fr_1eND6o4nIBG_VJdUHxcDYsGczWiavZUR5WnpkpJcFKIPUhJLRXHL1JlyEIVsHW-gaQ"
+					"end_cursor": "AQHR1e1BpLWl9Qa2VatgiBqVcFH8xhkwsEohSvC4AZEiDGaLpVGIeeV8rkX9ObAEdOowTzw8tN0_xrY9muyeSxUKuA",
+					"start_cursor": "AQHR1e1BpLWl9Qa2VatgiBqVcFH8xhkwsEohSvC4AZEiDGaLpVGIeeV8rkX9ObAEdOowTzw8tN0_xrY9muyeSxUKuA"
 				},
 				"edges": [
 					{
@@ -266,13 +271,13 @@
 								"id": "100339865297028",
 								"display_name": "TrueExcalibur01",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75458095_115187153812299_6909829485589242641_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lSm8Grue_rkAX9n7nxI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=36a9e50f087d6b562318a4c92077cc01&oe=607D8FCD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75458095_115187153812299_6909829485589242641_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=--VnLNNp3CMAX8OtINr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b454dc9ddf06b9fae6edf9045adba6fd&oe=607D8FCD"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I have to give it 4 stars because it needs more chapters. We finished the game in a few hours. This game was perfect for party nights with the boys. Just cast it to your phone or tv and you’ve got perfect entertainment. The game is very immersive. Please bring us some DLCs or more content!",
 							"reviewTitle": "Epic!",
-							"review_helpful_count": 156,
+							"review_helpful_count": 158,
 							"review_rank_by_viewer": null,
 							"date": 1609262629,
 							"developerResponse": null
@@ -287,7 +292,7 @@
 				"description": "The Exorcist: Legion is an acclaimed horror game set in the Academy Award-winning franchise of The Exorcist. Delve deep into the heart of the supernatural as you learn the ancient trade of demonic exorcism and uncover a supernatural conspiracy.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031385_2233540060293030_2725341823747751936_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZeL9f-6dpmAAX8JlTv0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f097717b75b9715f3e854de6cc836c60&oe=607D03C1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974631_195227568700407_5544254009322579557_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PHjhmJzZ888AX8QBYc7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d84793193f8da519cb257750d0697fe2&oe=607F7B77",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
