@@ -19,18 +19,18 @@
 					"current_offer": {
 						"__typename": "AppStoreOffer",
 						"price": {
-							"formatted": "US$ 39.99"
+							"formatted": "$39.99"
 						},
 						"strikethrough_price": {
-							"formatted": "US$ 49.89"
+							"formatted": "$49.89"
 						},
 						"id": "379634205997791"
 					},
 					"cover_landscape_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974596_323669061887304_7215924573475176448_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=a2WIoWayMpcAX-AyxDK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f7d7c08dfdd9c4684dd46762a23c033&oe=607F3EEC"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974596_323669061887304_7215924573475176448_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=a2WIoWayMpcAX8AkXNw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=783bae8f40ca5d20e9a3c82afebc9174&oe=607F3EEC"
 					},
 					"cover_square_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974827_400711780531518_4403156280940691456_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5QJ8Ko4949YAX97HSfl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bc4636822d9d1105c9f3ddd14351e2fb&oe=608017D3"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974827_400711780531518_4403156280940691456_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BDK12_KR50MAX9FlMK4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=57910a7f7c61a72829e74e58f4e91470&oe=608017D3"
 					},
 					"is_viewer_entitled": false,
 					"bundle_items": {
@@ -41,9 +41,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75240106_3506381712810582_4747869490948397008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7Db3jvCcggwAX9iqHuk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d3e9dff4685b9826a766b4845058e767&oe=6080027C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75240106_3506381712810582_4747869490948397008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7Db3jvCcggwAX_hfCy2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a49acdb20c330828a4bafce4c55aeb25&oe=6080027C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982447_722258038664433_606417404344080905_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=bwZTuOHYiAgAX_uNTIX&_nc_ht=scontent.oculuscdn.com&oh=fc7a82da0d35e23bba3f21b1a6b768e4&oe=607F3A10"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982447_722258038664433_606417404344080905_n.mp4?_nc_cat=1&ccb=1-3&_nc_sid=0ed769&_nc_ohc=bwZTuOHYiAgAX-7xN8r&_nc_ht=scontent.oculuscdn.com&oh=50ba0fcdc1c3c553fcfeb3927cb67c80&oe=607F3A10"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -58,17 +58,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 1018,
+					"count": 1020,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 3692,
+					"count": 3696,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 28347,
+					"count": 28373,
 					"starRating": 5
 				}
 			],
@@ -140,12 +140,12 @@
 									"price": {
 										"currency": "USD",
 										"offset_amount": "1499",
-										"formatted": "US$ 14.99"
+										"formatted": "$14.99"
 									},
 									"strikethrough_price": {
 										"currency": "USD",
 										"offset_amount": "2388",
-										"formatted": "US$ 23.88"
+										"formatted": "$23.88"
 									}
 								},
 								"__isAppStoreItem": "AppItemBundle",
@@ -258,7 +258,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "US$ 29.99"
+					"formatted": "$29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -311,7 +311,7 @@
 							"created_time": 1615293540,
 							"body_text": "Hey players, we just released a new update bringing several tweaks and improvements to Beat Saber. Check what's new in the game!\n\n- New Multiplayer results screen\n- New Badges after playing a Multiplayer match\n- New gameplay Modifiers\n- New main menu UI with new music\n- Custom colors for other players in Multiplayer\n- Updated lighting system\n- Fixed color profiles\n- Added Dash support\n- Various tweaks and fixes\n\nLet us know on social media what you think about this new update! We're @beatsaber on Twitter, Facebook and Instagram.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75647712_420650039239658_7160584023729054251_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bGNHjXzZ_yMAX-viBbl&_nc_ht=scontent.oculuscdn.com&oh=d55958384830d1b5572338acc6533d81&oe=607D45C9"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75647712_420650039239658_7160584023729054251_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bGNHjXzZ_yMAX-DkUXK&_nc_ht=scontent.oculuscdn.com&oh=8cea6bcf8d324456498752d4de72b006&oe=60813A49"
 							}
 						}
 					]
@@ -319,7 +319,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRFk_8qS-aY4dlXtzmjJfoj-d088kQym7bAKLtGGS_GF1DaXrYlFWRFr9erdJ83N1Bn2kpNwdiGHpJyPs8w4vM7w"
+							"cursor": "AQHR8JV5UGXstb55CaLUtkjBXo-VhKU20D8aokU_AGwrEdSU3W2NiIPkdtfTOLea4D5U9px_txqnvky_nHnHoCf_tA"
 						}
 					]
 				}
@@ -372,11 +372,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6875508307192,
+			"quality_rating_aggregate": 4.6876088218224,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 9087,
+				"count": 9086,
 				"orderings": [
 					{
 						"key": "top",
@@ -389,10 +389,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 9087,
+				"count": 9086,
 				"page_info": {
-					"end_cursor": "AQHRcTnp87WcLLVJtOkY7nAtiwPkKX9dqA_SxAIFOzf8r33o3zaCkApcrVOPnOW4G4wKlqBazCaBceKsOSwX29j2fw",
-					"start_cursor": "AQHRcTnp87WcLLVJtOkY7nAtiwPkKX9dqA_SxAIFOzf8r33o3zaCkApcrVOPnOW4G4wKlqBazCaBceKsOSwX29j2fw"
+					"end_cursor": "AQHR8aUemD7BUohucGMchQZwo1b4Fjp0cwQTYjrifAxViWyBYn-4akQBIKAg_LlsAulAeYPrTNoMJdh64mIv9R8OeA",
+					"start_cursor": "AQHR8aUemD7BUohucGMchQZwo1b4Fjp0cwQTYjrifAxViWyBYn-4akQBIKAg_LlsAulAeYPrTNoMJdh64mIv9R8OeA"
 				},
 				"edges": [
 					{
@@ -402,13 +402,13 @@
 								"id": "326041578745763",
 								"display_name": "XionideXII",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031540_327022761980978_4815510291192055764_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UUCGJbE-EM0AX8PIGFc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d16bee18c39b245d2a0e563aee1a0289&oe=607FCBD9"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031540_327022761980978_4815510291192055764_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aFB1XEjVBm4AX-huS6A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5219bde555bc7ef49d66410940d67ab2&oe=607FCBD9"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This game is a very good game and I really recommend it. I’ve been playing this for a few months now and I haven’t gotten even the slightest bored. Although, to be honest we need more songs. What we REALLY need is a custom song browser. HERE ME OUT, Either ￼let players pay a one time thing for it, or we could play monthly. What the players get is that they get to access all custom songs and y’all as a company can review everything that comes through so nothing outside guidelines is allowed in. I would ABSOLUTELY buy it and I know thousands of other people would too. Pls here me out I know a lot of people would like this. (Guys like the message so we can get the company to see this!) have a great day every one!",
 							"reviewTitle": "More Songs!",
-							"review_helpful_count": 1714,
+							"review_helpful_count": 1813,
 							"review_rank_by_viewer": null,
 							"date": 1614463408,
 							"developerResponse": null
@@ -423,7 +423,7 @@
 				"description": "Beat Saber is a VR rhythm game where your goal is to slash the beats which perfectly fit into precisely handcrafted music.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982666_428302788460654_8060613693742011808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9baSNCItBZ4AX-Dm--z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f3de8d520c9c28720bdb7f69998668d9&oe=607E3147",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982666_428302788460654_8060613693742011808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=onDMF0ENFVMAX8eLUfp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=987555affa71a5cd329eb32452d78fb6&oe=608225C7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
