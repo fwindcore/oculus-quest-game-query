@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75462207_229767481553851_4477259868549414912_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yU5eLDAPbwcAX_1FFN9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6b8c881d9229e4dfe0ba6beded605631&oe=6080F9AA"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75462207_229767481553851_4477259868549414912_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yU5eLDAPbwcAX9noHVM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=65b4e17fbad3c5be53c0919dd3831be0&oe=6080F9AA"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75622018_246151386400290_3950220037905711104_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cSVvusazlwEAX-sOJvL&_nc_ht=scontent.oculuscdn.com&oh=05399f106db44f47fac20c3c21986bc8&oe=607F137C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75622018_246151386400290_3950220037905711104_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cSVvusazlwEAX_FbdTh&_nc_ht=scontent.oculuscdn.com&oh=2ff930716c4ab3c8f7f23e2ebb755d15&oe=608307FC"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 55,
+					"count": 56,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 417,
+					"count": 419,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 4103,
+					"count": 4109,
 					"starRating": 5
 				}
 			],
@@ -58,7 +58,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -81,7 +82,8 @@
 				"version": "200131.1q",
 				"change_log": "* Updated bHaptics SDK to latest release to fix pairing bugs\n* Head hits now rumble more motors on the TACTAL mask to try to make the vibrations feel stronger\n--------\n* bHaptics pairing UI now shows an outline on devices that are available to pair\n* Fixed bug with the bHaptics pairing menu where it would only show one device as being paired after coming back to the pairing menu after a fight, even though other devices were still paired\n--------\n* Added support for bHaptics devices. Use the new bHaptics option on the main menu to pair the hardware with the Quest. You'll need to allow TotF permission to access Bluetooth (shown as location permissions).\n* Added support for Quest mixed reality capture.\n* Added multiplier reset button to the Configuration quick-view panel to the right of the main menu. This button will only appear when you have the \"Automatic Force Adjustment\" enabled, and will let you quickly reset your multiplier if you feel it is stuck too low or if you are handing off the headset to another player.\n* When the AI is lightly dizzed, it will only throw with its typical punch output when cornered. Previously, the AI would change from its lower punch output when significantly dizzy directly to its high punch output from being cornered. Switching to normal punch output under light dizziness helps the transition between the two.",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "1198952953",
 				"id": "3715772505107071",
@@ -158,7 +160,7 @@
 							"created_time": 1605307639,
 							"body_text": "Our players know that The Thrill of the Fight is a great way to have fun while getting an intense workout at home, but they often ask if there is any way to measure their physical activity while playing. We are excited to share that Oculus is now introducing this functionality with Oculus Move. This is a new platform feature that helps you track calories burned and physically active minutes as you play any game or app, including The Thrill of the Fight. The Oculus team has begun a gradual rollout today, so some Quest and Quest 2 users will already have access! Check your library for the Oculus Move app.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974845_432543434443983_5837061288033805773_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=giZjYMSpeIcAX8EmPnZ&_nc_ht=scontent.oculuscdn.com&oh=0538e455671bbb1de4c58b37cd6bf7cb&oe=6080D480"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974845_432543434443983_5837061288033805773_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_-hQNURSjfMAX-ICQDF&_nc_ht=scontent.oculuscdn.com&oh=253b733ca77b11320a113b04dc1513d6&oe=6080D480"
 							}
 						}
 					]
@@ -215,11 +217,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8151871657754,
+			"quality_rating_aggregate": 4.8142613151153,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2761,
+				"count": 2767,
 				"orderings": [
 					{
 						"key": "top",
@@ -232,10 +234,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2761,
+				"count": 2767,
 				"page_info": {
-					"end_cursor": "AQHRxUUHgB888vq0Dxm_dGXkqED9ZBruKraoXP22cV71DANLrERKi59PSWbQl6BulO33ktsTKXalJumUSmdX3NwIWQ",
-					"start_cursor": "AQHRxUUHgB888vq0Dxm_dGXkqED9ZBruKraoXP22cV71DANLrERKi59PSWbQl6BulO33ktsTKXalJumUSmdX3NwIWQ"
+					"end_cursor": "AQHRFZ1jSOttpI5wMrwcxrfcrdDaH2lERsU49kvJ6w8ID7A1OU1LGFd0g2ukpgeugQ-zrwtxFVT6alimRJtC1KyXSA",
+					"start_cursor": "AQHRFZ1jSOttpI5wMrwcxrfcrdDaH2lERsU49kvJ6w8ID7A1OU1LGFd0g2ukpgeugQ-zrwtxFVT6alimRJtC1KyXSA"
 				},
 				"edges": [
 					{
@@ -245,13 +247,13 @@
 								"id": "104444181589838",
 								"display_name": "Skrote",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974631_104444381589818_3004462654889664489_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KbKkDjDwZP4AX8VCgHT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9ca058822a44e0697cb30e3a8d05658f&oe=6081BC6B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974631_104444381589818_3004462654889664489_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KbKkDjDwZP4AX8-oC1S&_nc_ht=scontent.oculuscdn.com&tp=28&oh=89553f88df3651fc58ecc0f6ef150334&oe=6081BC6B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "i'm a 51 year old man (dad bod) looking for a fun way to get some exercise.  this is it.  you will get a great upper body workout and a fantastic cardio experience.  the first time i played it i was so sore......i couldnt play again for 2  more days.  since then, i play almost daily.  the game is realistic.  you dont want to lose the match so you push yourself to keep fighting.  you will be tired and sore but you cant wait to get back in the ring and try it again.  \n\nAs many people my age can testify, the older you get the more aches and pains you experience on a daily basis.  for me it was my lower back.  if i sit on the couch for a while and get up, my lower back would be very tight and i would grunt and groan like an old person tends to do.  since i've been playing this game (3 weeks) my lower back feels great!!  no more tightness, no more grunting and groaning.  \n\nif you're looking for a really fun way to exercise, this is the game for you.  \n\nas a side note, FITXR is also pretty good (exercises your legs more).  i use it as a warm up for Thrill of the Fight.",
 							"reviewTitle": "over 40?  please read",
-							"review_helpful_count": 341,
+							"review_helpful_count": 357,
 							"review_rank_by_viewer": null,
 							"date": 1612712158,
 							"developerResponse": null
@@ -266,7 +268,7 @@
 				"description": "The Thrill of the Fight is a room-scale only VR boxing game focused on authenticity. Face off in the virtual ring where you'll jab, dodge, and sweat your way to the top of the boxing world. Grab your gloves, step through the ropes, and become a champion.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974611_970471976621307_62421362462949376_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qnVezn8IEvsAX_BiIcl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=310bf83e9d6c478230c0de52ca1dbbdd&oe=608220AF",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974611_970471976621307_62421362462949376_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qnVezn8IEvsAX9km2CV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4d56a425c79cf661c12c84c36383378b&oe=608220AF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

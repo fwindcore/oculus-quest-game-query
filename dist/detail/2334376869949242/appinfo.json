@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974792_709060479791921_1148037846046816551_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6VlcC8H-y5wAX-32u3j&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6a80ff90dd743b065799851726fa2eb3&oe=607F32E0"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974792_709060479791921_1148037846046816551_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6VlcC8H-y5wAX-fyGxi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=efa7705a85bbb8b24fda797e4f38d009&oe=60832760"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982678_860715731165133_2566160289399505973_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FTg228sIbKUAX-OV8rj&_nc_ht=scontent.oculuscdn.com&oh=32b0487bd3c626ecfb6c274fc6cc8bd1&oe=60801363"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982678_860715731165133_2566160289399505973_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Fj1Sw3tBTQ4AX-Jq2au&_nc_ht=scontent.oculuscdn.com&oh=ddfaac345fa07c968feb2f467af3284f&oe=60801363"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 49,
+					"count": 50,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1904,
+					"count": 1905,
 					"starRating": 5
 				}
 			],
@@ -60,7 +60,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -80,14 +81,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.3.3",
-				"change_log": "Version 1.3.3\n\nWe’ve removed the Legends leaderboard from the profile board. It was sending the message that you have to play every part of the game to get Legend points and compete with others. But Legend points are just a reward for being good at what you decide to play, across different modes, weapons or tournaments, and were never meant to be compared with other players and what and how they choose to play.\n\nOther fixes:\n- Fixes for various game save issues reported by players\n- Removed the ‘cubby hole’ exploit in Anakim’s lair: it’s no longer possible to stay out of range of the attackers\n- Titan should no longer appear after player has reached max health limit\n- Player should no longer be placed underground after leaving the Pits\n- Fixed a player movement issue sometimes occurring in the Pit of Agony\n- Gabriel's sword is no longer able to hit player after the boss is killed\n- Using Return to Sanctuary portal in Last Stand should be more convenient now\n- Fixed a problem with shops sometimes teleporting the player back out\n- You can now check the leaderboards for a real time update of other players' score\n- The familiar has gotten new powers - it will now show a low headset battery warning\n- Siege of Heaven performance was improved\n- Various visual improvements and fixes for enemies in the main game\n\nWe wanted to thank our amazing community for their help with all these issues, you guys have been invaluable - thank you for helping us to make the game better for everyone, keep it coming at hello@superbright.org and our community-driven discord https://discord.gg/juqsuHtEH9",
+				"version": "1.3.4",
+				"change_log": "RC 1.3.4",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
-				"total_installed_space": "1993519472",
-				"id": "3884713394915574",
-				"required_space_adjusted": "3742871068",
+				"total_installed_space": "2003576552",
+				"id": "3888007787919468",
+				"required_space_adjusted": "3762981208",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -121,7 +123,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3884713394915574"
+					"id": "3888007787919468"
 				}
 			},
 			"release_channels": {
@@ -132,8 +134,8 @@
 						"id": "580193692384780",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.3.3",
-							"id": "3884713394915574"
+							"version": "1.3.4",
+							"id": "3888007787919468"
 						}
 					}
 				]
@@ -144,7 +146,15 @@
 				},
 				"id": "2492379927448481",
 				"posts": {
-					"nodes": []
+					"nodes": [
+						{
+							"id": "184197280180105",
+							"title": "In Death: Unchained update 1.3.3 is live!",
+							"created_time": 1616513270,
+							"body_text": "We’ve removed the Legends leaderboard from the profile board. It was sending the message that you have to play every part of the game to get Legend points and compete with others. But Legend points are just a reward for being good at what you decide to play, across different modes, weapons or tournaments, and were never meant to be compared with other players and what and how they choose to play.\n\nOther fixes:\n- Fixes for various game save issues reported by players\n- Removed the ‘cubby hole’ exploit in Anakim’s lair: it’s no longer possible to stay  out of range of the attackers\n- Titan should no longer appear after player has reached max health limit\n- Player should no longer be placed underground after leaving the Pits\n- Fixed a player movement issue sometimes occurring in the Pit of Agony\n- Gabriel's sword is no longer able to hit player after the boss is killed\n- Using Return to Sanctuary portal in Last Stand should be more convenient now\n- Fixed a problem with shops sometimes teleporting the player back out\n- You can now check the leaderboards for a real time update of other players' score\n- The familiar has gotten new powers - it will now show a low headset battery warning\n- Siege of Heaven performance was improved\n- Various visual improvements and fixes for enemies in the main game\n\nWe wanted to thank our amazing community for their help with all these issues, you guys have been invaluable - thank you for helping us to make the game better for everyone, keep it coming at hello@superbright.org and our community-driven discord https://discord.gg/juqsuHtEH9\n",
+							"tile_landscape_image": null
+						}
+					]
 				},
 				"iap_items_2": {
 					"edges": []
@@ -198,11 +208,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7521679598357,
+			"quality_rating_aggregate": 4.7514819881441,
 			"support_website_url": "http://superbrig.ht/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1191,
+				"count": 1192,
 				"orderings": [
 					{
 						"key": "top",
@@ -215,10 +225,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1191,
+				"count": 1192,
 				"page_info": {
-					"end_cursor": "AQHRrWvUr4praPD3vpI1Y6NA_JHFAxnQKL4c57Sq97s17nJLR8UxHjyytAik0a1WSX4tjHdSf7oQwLyCWz6WZNjaUQ",
-					"start_cursor": "AQHRrWvUr4praPD3vpI1Y6NA_JHFAxnQKL4c57Sq97s17nJLR8UxHjyytAik0a1WSX4tjHdSf7oQwLyCWz6WZNjaUQ"
+					"end_cursor": "AQHRw2-356hrCDrhiXtf59QPoAJhP4cbaiVQiyL6jRwqk3wVLu0WtxkF-80WWJggCjRNEssvAMTKGRHT9SwH6vh76g",
+					"start_cursor": "AQHRw2-356hrCDrhiXtf59QPoAJhP4cbaiVQiyL6jRwqk3wVLu0WtxkF-80WWJggCjRNEssvAMTKGRHT9SwH6vh76g"
 				},
 				"edges": [
 					{
@@ -228,13 +238,13 @@
 								"id": "343477983487266",
 								"display_name": "Orlans",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75451788_343593350142396_2985996813362362871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Bpa_aPw2fjcAX8K128b&_nc_ht=scontent.oculuscdn.com&tp=28&oh=431aeb789de8c7756ef66792fcdfba72&oe=60826E86"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75451788_343593350142396_2985996813362362871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Bpa_aPw2fjcAX_6kpVz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a6476993fe89271ca23e98e6b40220c5&oe=60826E86"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I own a high end gaming PC and own every major VR release on both Steam and Occulus, and THIS game is holding my attention longer than anything else.\n\nDon’t get me wrong, Half Life: Alex, Boneworks, Pavlov etc are all incredible experiences, but the fact that this humble little archery game is competing with the big dogs speaks for itself.\n\nI have more hours on this game than I do any other VR game that I own. I also own 4 different archery games and this one is by far my favorite.",
 							"reviewTitle": "Superb",
-							"review_helpful_count": 55,
+							"review_helpful_count": 61,
 							"review_rank_by_viewer": null,
 							"date": 1614294393,
 							"developerResponse": null
@@ -249,7 +259,7 @@
 				"description": "Must-have bow & arrow action game with state of the art Quest graphics. \n\nNEW GAME MODE “SIEGE OF HEAVEN” AND QUEST 2 UPGRADES!!!\n\nGrab your bow and rain down arrows against forsaken souls and angelic creatures that have taken over the afterlife, battle through the beautiful medieval fantasy levels of Heaven, Purgatory & Hell to restore Harmony\n\nThree beautiful and mysterious, procedurally generated worlds, with infinite replayability, three epic boss fights, multiple optional areas.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_171406687869032_9112191332372572108_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=upbRgS9UBFoAX_T-HMz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2738493bfb226dd0d8390d18168889fc&oe=60816A1C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_171406687869032_9112191332372572108_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=upbRgS9UBFoAX8lVFWf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b040ca6dca961cf6a4005df5a22e0386&oe=60816A1C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75340715_3030125190437579_307894437712013410_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-rL0ZcnEX0QAX8zc0IO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3dd8810bace114cd7b937f90b9221342&oe=60823D9D"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75340715_3030125190437579_307894437712013410_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-rL0ZcnEX0QAX--99Ry&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b5de2b5d9c579c6c75a9f2aa2b4f6032&oe=60823D9D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_593242188028612_7027680201771152210_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=PMwKVhsyHikAX8QfOYk&_nc_ht=scontent.oculuscdn.com&oh=ab6b180d93c8f7ce8f3935ae61474ba2&oe=607FE068"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_593242188028612_7027680201771152210_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=PMwKVhsyHikAX926fXF&_nc_ht=scontent.oculuscdn.com&oh=ddb30aeca16304a37ade1af3733dcd74&oe=6083D4E8"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 167,
+					"count": 168,
 					"starRating": 5
 				}
 			],
@@ -93,7 +93,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -116,7 +117,8 @@
 				"version": "1.03.78450",
 				"change_log": "",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "1700124007",
 				"id": "3354495031343142",
@@ -173,7 +175,107 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617534054,
+								"current_start_timestamp": 1617492600,
+								"temporal_info": {
+									"seconds_until_end_time": 872855,
+									"seconds_until_start_time": 831401
+								},
+								"vr_app_and_destination_string": "Shooty Skies Overdrive",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2632963266829659",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Shooty Skies Overdrive"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1073090983191814",
+								"is_vr_viewer_interested": false,
+								"name": "Leaderboard High Scores and Easter Fun in the Uncandy Valley!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982674_273072727788763_3488613382889724563_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9w45gQHZgm0AX9WopMy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f109d616ec49fa0d3452c06829ad44d9&oe=6082CEEF"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620561600,
+								"current_start_timestamp": 1620518460,
+								"temporal_info": {
+									"seconds_until_end_time": 3900401,
+									"seconds_until_start_time": 3857261
+								},
+								"vr_app_and_destination_string": "Shooty Skies Overdrive",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2632963266829659",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Shooty Skies Overdrive"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1073097503191162",
+								"is_vr_viewer_interested": false,
+								"name": "Play the Mother's Day Leaderboard Challenge!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222944_1196145350801647_1080584516292611552_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=u8j_ko4Tk0cAX-CfMAD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4b4037713577c746f86ec0672554b086&oe=60836392"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1625392811,
+								"current_start_timestamp": 1625349660,
+								"temporal_info": {
+									"seconds_until_end_time": 8731612,
+									"seconds_until_start_time": 8688461
+								},
+								"vr_app_and_destination_string": "Shooty Skies Overdrive",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2632963266829659",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Shooty Skies Overdrive"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1073110259856553",
+								"is_vr_viewer_interested": false,
+								"name": "Play for High Scores, Liberate the Mall!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75305882_1154874234973956_5349652832321971359_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nu95TevVnJoAX8bkC_D&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9543f056c82cb0f9aa12b96a215b1757&oe=60828B20"
+								}
+							}
+						}
+					]
 				},
 				"id": "647814599052790",
 				"posts": {
@@ -231,7 +333,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6872037914692,
+			"quality_rating_aggregate": 4.688679245283,
 			"support_website_url": "https://shootyskiesoverdrive.com/#contact",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -250,8 +352,8 @@
 			"firstQualityRatings": {
 				"count": 124,
 				"page_info": {
-					"end_cursor": "AQHRCan3xAYso6UtCWlo0ZfGNmS6YlveJvKdeHSlNN8cziAN7w6x83vgIzymDDv1-YXGR9aRVJn2cyPzT512AM4gNA",
-					"start_cursor": "AQHRCan3xAYso6UtCWlo0ZfGNmS6YlveJvKdeHSlNN8cziAN7w6x83vgIzymDDv1-YXGR9aRVJn2cyPzT512AM4gNA"
+					"end_cursor": "AQHRK0jNBoevah-SRRfJQY4DFYER9DCXK5twji1suqtSI9cT9JRCGMpm_3IpHnbrAnW0NjVkrbZdCSRh8peaoG66Ew",
+					"start_cursor": "AQHRK0jNBoevah-SRRfJQY4DFYER9DCXK5twji1suqtSI9cT9JRCGMpm_3IpHnbrAnW0NjVkrbZdCSRh8peaoG66Ew"
 				},
 				"edges": [
 					{
@@ -261,7 +363,7 @@
 								"id": "107234380339306",
 								"display_name": "xSICAPx",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974474_220837402312336_9173867367627751424_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wadq3cKzaegAX9TgbV3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c424b881e3ce9a7c646c9c73c4faadf9&oe=6081B091"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974474_220837402312336_9173867367627751424_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CVvM180K6DcAX8MhQ6A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ab6e6173f34c9612b935373bc735e093&oe=6081B091"
 								}
 							},
 							"score": 5,
@@ -282,7 +384,7 @@
 				"description": "Escape the arcade in Shooty Skies Overdrive, an action-paced VR shoot ‘em up designed for Oculus Quest. Dodge, weave and blast your way through colorful retro worlds and ridiculous alien invaders.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974861_2069244889866969_2556771167741794694_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_wvJ4_TOJzAAX-uUWeQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0090ada380efa21075a2ce88ec59e99d&oe=60811B6D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974861_2069244889866969_2556771167741794694_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DDe3Mjev-MQAX8doVR5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=10b136e368710eea219570147e4e8f19&oe=60811B6D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

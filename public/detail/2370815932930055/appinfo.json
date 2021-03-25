@@ -14,24 +14,24 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nfYqfs5DZXkAX8Y9thf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d921f0d645e4b1f26be3bb51a25e9df&oe=6082743F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g1UlGst56GkAX_OqBrw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a01e54b6b8dd136180feb100fb067c4a&oe=6082743F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=mZcGio4-4JkAX9pu6ZO&_nc_ht=scontent.oculuscdn.com&oh=74e27fa9e7a4309ee4f3040644cd55ff&oe=607FD8F1"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=mZcGio4-4JkAX_x3r8Q&_nc_ht=scontent.oculuscdn.com&oh=fea2d0d2a336a46ad1b6f9aef062e502&oe=6083CD71"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 684,
+					"count": 688,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 272,
+					"count": 274,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 380,
+					"count": 381,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1997,
+					"count": 2000,
 					"starRating": 5
 				}
 			],
@@ -58,7 +58,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -81,7 +82,8 @@
 				"version": "0.16.3.2_HF",
 				"change_log": "",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "2600650785",
 				"id": "4181730191838611",
@@ -142,41 +144,7 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1616630400,
-								"current_start_timestamp": 1616623200,
-								"temporal_info": {
-									"seconds_until_end_time": 54958,
-									"seconds_until_start_time": 47758
-								},
-								"vr_app_and_destination_string": "PokerStars VR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2370815932930055",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "PokerStars VR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "736686383695874",
-								"is_vr_viewer_interested": false,
-								"name": "PokerStars VR 2X Creds Power Hours",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031414_458089982151791_9130349098264912073_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ts8qHkG1Q-gAX8z6DFn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a9d4ee44d75aff2408537d0b1452ab69&oe=607F0E04"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "177864522911399",
 				"posts": {
@@ -187,7 +155,7 @@
 							"created_time": 1615581579,
 							"body_text": "\n\n\nHey PokerStars VR players we have a great update for you with [Patch 63] now live for download!\n\nThis update features 2 new awesome packs The St. Patrick's Day Pack & The March Mania 2021 Pack! It also includes new high stakes cash game stakes and a new $25M Metallic Ruby Chip!\n\nNew Features\n- New cash game stakes and leader board\n- New $25M Metallic Ruby chip\n- New featured game section in games browser\n- New price points available for higher purchases\n\nBug Fixes / Improvements\n- Storm Goddess Ring can Ignite Smokeables\n- 100k/200k & 500k/1M Stakes are now highlighted in the server browser and will always appear at the top of the first page (if more than 5 entries like this exist it will continue onto the next page)\n- SG Info Panel contains info on how Multipliers are used for payouts\n- Storm Goddess Skin Fix\n- Server browser filters refresh\n- Storm Goddess Lower Load Time for animations on Quest\n- Various bug fixes and improvements\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982727_145847190738164_8889326291551092193_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ujHbl7WBsjwAX_i8hau&_nc_ht=scontent.oculuscdn.com&oh=c749521a766ed369fb88b6b5d074a6bd&oe=607EAD69"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982727_145847190738164_8889326291551092193_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YqMM6PbP4WEAX8IbDBp&_nc_ht=scontent.oculuscdn.com&oh=4880bf4679f023585cec081615a9f128&oe=6082A1E9"
 							}
 						},
 						{
@@ -196,7 +164,7 @@
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VQ-Sl3JpBB4AX-kv0rn&_nc_ht=scontent.oculuscdn.com&oh=7922281553348296b2366a88f59125e7&oe=60818D31"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VQ-Sl3JpBB4AX-lsjLi&_nc_ht=scontent.oculuscdn.com&oh=1912da0cd8bd22d861c3d7f0e6df2363&oe=60818D31"
 							}
 						}
 					]
@@ -204,7 +172,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR3ZcWRKg9szeOYcZ5yYOGsneomv68cGJ1rgGAJgb85GjEjEDC7XweHA4-NKdz3XAC3wEzWq149LFErWVV6pOTaQ"
+							"cursor": "AQHRhoHxsJ9Hc5Z63gjFaJwNzQ2wXmla2plmy4YRl0TLGGHd4XegfGJSCKKYH-9IroAazA7JxlnSfOj9sTKk83ZDBA"
 						}
 					]
 				}
@@ -251,11 +219,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7603427172583,
+			"quality_rating_aggregate": 3.7575091575092,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1445,
+				"count": 1450,
 				"orderings": [
 					{
 						"key": "top",
@@ -268,10 +236,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1445,
+				"count": 1450,
 				"page_info": {
-					"end_cursor": "AQHR4qD3yW9ER6y0dO_L-3NrK0AN8FcMGPr5zGqZUah4PoeOtkAvAX2ueh5pB2e2T3IJcK1SiUn9s85PQsuomvInnw",
-					"start_cursor": "AQHR4qD3yW9ER6y0dO_L-3NrK0AN8FcMGPr5zGqZUah4PoeOtkAvAX2ueh5pB2e2T3IJcK1SiUn9s85PQsuomvInnw"
+					"end_cursor": "AQHRrQv43Ui8hhbwphQdakBiFPjzmOO99FPEGotq9xOD1POaIH1xV5Mr-WkXFPvO-bX_r-4HeV_eHnz4YQdmqwX3Ww",
+					"start_cursor": "AQHRrQv43Ui8hhbwphQdakBiFPjzmOO99FPEGotq9xOD1POaIH1xV5Mr-WkXFPvO-bX_r-4HeV_eHnz4YQdmqwX3Ww"
 				},
 				"edges": [
 					{
@@ -281,13 +249,13 @@
 								"id": "104484254774433",
 								"display_name": "Wally0623",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38974631_182612713628253_4603099357151624350_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Gu6yZqnWKI0AX-37vWb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97bf4aba980dae8d07c93d460612a89e&oe=607FC455"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38974631_182612713628253_4603099357151624350_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=d6u-1WRrhucAX-vxBuX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e16e17fa6a00739ecf12d546673a1e51&oe=6083B8D5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I have some fellow Oculus Quest users that would like to meet up with me in Pokerstars.  Unfortunately, we have been unable to do that without using a telephone and choosing a table.  I can't see my friends in the lobby and inviting them to a table doesn't seem to work.  Perhaps this is something that I am doing wrong, but it shouldn't be this hard.",
 							"reviewTitle": "Can't easily meet up with friends",
-							"review_helpful_count": 72,
+							"review_helpful_count": 76,
 							"review_rank_by_viewer": null,
 							"date": 1613945864,
 							"developerResponse": null
@@ -302,7 +270,7 @@
 				"description": "Step into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031493_442623763605727_6040787769737756471_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=srQeo1vrkPIAX_lP32q&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d963b4902b78fa0d57833323e0cd775&oe=607FB496",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031493_442623763605727_6040787769737756471_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=srQeo1vrkPIAX-sg697&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a9829ff0522e5a0584db7a187677f13e&oe=6083A916",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

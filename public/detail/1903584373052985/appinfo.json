@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035301_389480041701305_7087698848839106560_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QpBGl428WNwAX_TzZ0G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=301fea6a231150458b4aec1a5ff84fb0&oe=607F8247"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035301_389480041701305_7087698848839106560_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QpBGl428WNwAX_5fWNY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=64dd0d322c64219143d03cf37e7f7202&oe=608376C7"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_389462908369685_2420748519846445056_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=loDMSldJLJ8AX8OzBj7&_nc_ht=scontent.oculuscdn.com&oh=8b54b83f71e88844f674f762a2a334f1&oe=60827EBB"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_389462908369685_2420748519846445056_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=loDMSldJLJ8AX9mUyIO&_nc_ht=scontent.oculuscdn.com&oh=a6e6b701fbd78a4b3785adc7a44d563c&oe=60827EBB"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -74,7 +74,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -99,7 +100,8 @@
 				"version": "1.0",
 				"change_log": "V:235238\nLarge save games load correctly on the Quest.\n    •There had been occasions where some players with larger (15-25mb) save files would crash when trying to load those saves on Quest. The saves would often be corrupted when this crash happened.\n    •We adjusted the code so those larger sizes will load correctly.\n    •PLEASE NOTE: Larger save files will continue to take longer to load than smaller save files.\n\nUnder-the-hood adjustments to when islands can be joined in Multiplayer. \n    •There were a few cases where an island would show as “available to join” before it has completely loaded save data. Trying to connect to an island in that state would cause disconnection or a crash.\n    •Now, islands only show up as “available to join” once all data has been completely loaded. \n",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "1746369823",
 				"id": "2346146918796726",
@@ -233,8 +235,8 @@
 			"firstQualityRatings": {
 				"count": 317,
 				"page_info": {
-					"end_cursor": "AQHRk4zCLQMLjOj-CST6ivfxye2MKJQdB627YY4O2c-vniu5jLB6W05u4S_oud9XfypNmtpEt5PcbtQWOnjQd56Q8w",
-					"start_cursor": "AQHRk4zCLQMLjOj-CST6ivfxye2MKJQdB627YY4O2c-vniu5jLB6W05u4S_oud9XfypNmtpEt5PcbtQWOnjQd56Q8w"
+					"end_cursor": "AQHRwgWrB4B0ls7VUFpcqjnrw_6ZM3URKgBZbKOVNoaJ8hlLIP-Gvn4tVO1ukUwDJ1FdPN2sVIYIxVBwjb5RjNZgLQ",
+					"start_cursor": "AQHRwgWrB4B0ls7VUFpcqjnrw_6ZM3URKgBZbKOVNoaJ8hlLIP-Gvn4tVO1ukUwDJ1FdPN2sVIYIxVBwjb5RjNZgLQ"
 				},
 				"edges": [
 					{
@@ -244,13 +246,13 @@
 								"id": "103765171688221",
 								"display_name": "ChickenMuphy",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.61.439.439a/s160x160/38974820_104389824959089_1446954023210361585_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S6nZItU31dsAX8hCUzd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7cfe88b58001f02e350b008c6d4da81c&oe=6081A876"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.61.439.439a/s160x160/38974820_104389824959089_1446954023210361585_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MU1dNWGLRL8AX8hYwKZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9a216308450186c581b068e97a46f5ac&oe=6081A876"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is a review from an average gamer.  If you like Animal Crossing and Harvest Moon, this game has combined elements.\n\nYou get to gather resources by doing anything from finding them on the ground to farming them, chopping trees, mining, fishing, trading with the animals, etc.\n\nThe game does a great job of introducing you to the different elements gradually so you don't get overwhelmed.\n\nHandling objects is done very well, managing inventory is wonderful with the tablet, the day/cycle really regulates the gameplay. \n\nAs for the two big claims, motion sickness and glitches... The game runs smooth and I don't think the motion is anymore intense than something like Rec Room or any other game with artificial locomotion.  In fact, I found it quite the opposite, this was a great game to start with getting used to VR motion because it's more relaxed. But everybody is different.\n\nAs for glitches, I haven't noticed anything major, and definitely not anything that caused any hiccups in my game play. \n\nAll in all, I'm loving this game and can't seem to put it down.  There's a ton to do, lots to interact with, and extremely fun to play.  It's well worth the price!\n\nThe only thing I cannot comment on is the multiplayer since I don't heave anyone to play it with online.\n\nI recommend this for sure!",
 							"reviewTitle": "Super fun and tons of stuff to do",
-							"review_helpful_count": 63,
+							"review_helpful_count": 64,
 							"review_rank_by_viewer": null,
 							"date": 1610946575,
 							"developerResponse": null
@@ -265,7 +267,7 @@
 				"description": "Hello, Island Spirit!  A group of adorable sailors have been marooned on your shore.  Let’s help them build a home here. And just maybe, they can help us repair the island’s broken heart.  You can invite a friend if you wish, just make sure to watch out for the Raccoons!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031517_660379791064283_5796647459371352064_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Nxr14_fqi1AAX_h1luF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=94479854e178b131f9a67586087c3b09&oe=60803C13",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031517_660379791064283_5796647459371352064_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YTCHfMYZj0cAX_nWWRw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=81c47ac548bc9f2acd0765e4535152d7&oe=60803C13",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

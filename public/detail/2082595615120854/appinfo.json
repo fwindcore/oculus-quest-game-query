@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031460_201330007374484_7730455393473658880_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HfgYhVISiZgAX-2ckMk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b8537a431a52e5a0bb91adc49d0a197b&oe=6081BBA9"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031460_201330007374484_7730455393473658880_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_Stx4iUFpiYAX8MUpgy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3de6cc37a3db110351356ccbe1d3f231&oe=6081BBA9"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974736_2278439319041320_4453991032819810304_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=1zGA5Zk-G9IAX_VLgmt&_nc_ht=scontent.oculuscdn.com&oh=55c334cff5ebe932a7328d065cbfb154&oe=607F02CF"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974736_2278439319041320_4453991032819810304_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=1zGA5Zk-G9IAX_6NSJT&_nc_ht=scontent.oculuscdn.com&oh=3e9add6466448ed7da21b87824ea2755&oe=6082F74F"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 89,
+					"count": 90,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 543,
+					"count": 544,
 					"starRating": 5
 				}
 			],
@@ -110,7 +110,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -133,7 +134,8 @@
 				"version": "1.13.101326",
 				"change_log": "- Fixed performance issue that could occur when grabbing the handle repeatedly\n- Minor fixes",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "223040097",
 				"id": "3774091612637904",
@@ -201,8 +203,8 @@
 								"current_end_timestamp": 1616900400,
 								"current_start_timestamp": 1616860800,
 								"temporal_info": {
-									"seconds_until_end_time": 324957,
-									"seconds_until_start_time": 285357
+									"seconds_until_end_time": 239194,
+									"seconds_until_start_time": 199594
 								},
 								"vr_app_and_destination_string": "Bait!",
 								"vr_applications": {
@@ -224,7 +226,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Bait! Birthday Bonanza",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_153979079829510_4130999884435924681_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=T9r03agfaaIAX_W2n3b&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcded019056eb4d7d327cf1974b2d07b&oe=608097C4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_153979079829510_4130999884435924681_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9vbTamwuBW4AX8DVZTZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fc973bb698c873d1e89264ed230d9ee9&oe=608097C4"
 								}
 							}
 						}
@@ -237,7 +239,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRP31XEApBjJb7BqINsI56CqNqpkp1Q2wUJCt2fXNTOr30HtBTk3LqH3Xwp4u6FN9COBRFaAg9MAeAFfmiFbeFfA"
+							"cursor": "AQHRikE3vyIwxU8hpk7xXXRH3INGncvFz9monEPVLUnMyebwmIzk7SiZVz5-SAXbPr1s5v7Oig-IXUHjBRv61fAM8w"
 						}
 					]
 				}
@@ -284,7 +286,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0915492957746,
+			"quality_rating_aggregate": 4.0913654618474,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -303,27 +305,31 @@
 			"firstQualityRatings": {
 				"count": 383,
 				"page_info": {
-					"end_cursor": "AQHRNxq6fNcaoAHaNcVmuSUY9maWmm_RmHq5V30QEE2pUQIBo09c9TzVoi6rRkyPLs_WGN0RG13UBZklhCPSH-rNow",
-					"start_cursor": "AQHRNxq6fNcaoAHaNcVmuSUY9maWmm_RmHq5V30QEE2pUQIBo09c9TzVoi6rRkyPLs_WGN0RG13UBZklhCPSH-rNow"
+					"end_cursor": "AQHRkWdcfyXzBtJXF3QamJYSqxg_7k1HyGajbIOdiTHAOdaM1332tGFQlwHlVb1_rAhGSRPYrhbt7jpbJ91iJTPUeg",
+					"start_cursor": "AQHRkWdcfyXzBtJXF3QamJYSqxg_7k1HyGajbIOdiTHAOdaM1332tGFQlwHlVb1_rAhGSRPYrhbt7jpbJ91iJTPUeg"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "118955893573947",
+							"id": "186923656529095",
 							"author": {
-								"id": "103753748427495",
-								"display_name": "Icesplice",
+								"id": "105936931294435",
+								"display_name": "cleotrev",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.292.750.750a/s160x160/75222938_104418625027674_192213895251381162_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WQHY7oJNE1wAX8gWFz-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=26dab7133831533a4a7eef7c63b0feed&oe=608107D6"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031356_186914273196700_9097564983168600277_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=woAVOxsH9MUAX8E8aBd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c8c939e6772c756b38d2b62c9fad72a8&oe=6083D54C"
 								}
 							},
 							"score": 4,
-							"reviewDescription": "I wanted the vr fishing game but didn’t want to pay so much, bait was free and I thought il just have a go until I buy the other one but it’s become one of my go to apps for relieving stress I love the graphics love that your sitting in a chair love the story it’s just nice to sit and fish sometimes and zone out before work, I don’t want the vr fishing anymore so happy with bait",
-							"reviewTitle": "So relaxing!",
-							"review_helpful_count": 3,
+							"reviewDescription": "Overall the game is AMAZING and shouldn't be free in my opinion.The only problem i have though is when you reel in the fish its really hard to grab if you don't have long arms.I struggled to catch the fish for 5 mins before getting it.Please fix it so you can reel in the fish more and is more easy to grab",
+							"reviewTitle": "Just a little flaw",
+							"review_helpful_count": 2,
 							"review_rank_by_viewer": null,
-							"date": 1615579777,
-							"developerResponse": null
+							"date": 1616316994,
+							"developerResponse": {
+								"date": 1616577314,
+								"body": "Thank you so much for the feedback! If you're having a hard time grabbing the fish, you can press the thumbstick while holding the fishing rod.",
+								"id": "188889299665864"
+							}
 						}
 					}
 				]
@@ -335,7 +341,7 @@
 				"description": "Join the more than 3 million players who already enjoy Bait! \n\n“Bait! is one of those pleasant games for everyone.” - VRScout\n\nYou’re invited to Bait! Island to help your boss catch a rare fish, and thereby save the struggling aquarium where you work.\n\nDuring the game, you will catch a lot of different fish and make friends with the locals. But, will you be able to keep your loyalties both to your new friends and to your boss?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_584659778707210_5242566029300727808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kcdCQqjlzBUAX8F98Ie&_nc_ht=scontent.oculuscdn.com&tp=28&oh=45bb1a2028594b730e4da33efa3f53ec&oe=6080B687",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_584659778707210_5242566029300727808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kcdCQqjlzBUAX8FN_X5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=29bdd10638b36f7c6b3e16410c5ee0cc&oe=6080B687",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

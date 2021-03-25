@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982475_739835543063121_4841531184682893312_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ixTrPbgjeLUAX_LNqvn&_nc_oc=AQndUrxRCI1GPFbzDhPjwOfaGoLYELaAGMYx2-Jn_jPJE04hm9MJn0q48gAspXGVCfw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ae69f29cb2acc40e21408329348e2472&oe=6080E4E6"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982475_739835543063121_4841531184682893312_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=58fg-D9eP7AAX9ALLUO&_nc_oc=AQlPGqmvM0sVANNY51ylAo40jE_mTsbvqIklFlWEjDM4zD72fD_r2WrMXR4mLPbvzdE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=07d5664343f592497e1effecae954fd2&oe=6080E4E6"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_739834173063258_3048899396830756864_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=UYPikOLNl5IAX_HTG4T&_nc_ht=scontent.oculuscdn.com&oh=5a1468801bb28813e16c2cb2c52d5b6f&oe=60811DDD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_739834173063258_3048899396830756864_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cvFbDXD6rMgAX_R6jYR&_nc_ht=scontent.oculuscdn.com&oh=f37d26e91fbf7dd5a63716d39527d3d6&oe=60811DDD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 167,
+					"count": 170,
 					"starRating": 5
 				}
 			],
@@ -109,7 +109,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -132,7 +133,8 @@
 				"version": "1.00",
 				"change_log": "Added cloud save support and Quest 2 optimizations.",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "410167336",
 				"id": "3174128322686029",
@@ -149,22 +151,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "274916830803279",
+				"id": "831110897287312",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%",
-				"end_time": 1616655540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -247,16 +244,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "274916830803279"
+				"id": "831110897287312"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3665338645418,
+			"quality_rating_aggregate": 4.3740157480315,
 			"support_website_url": "http://thumpergame.com/manual",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 116,
+				"count": 120,
 				"orderings": [
 					{
 						"key": "top",
@@ -269,28 +266,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 116,
+				"count": 120,
 				"page_info": {
-					"end_cursor": "AQHR2jQHR5I_zrqrIyI4OWn_7daUYfQmEdCX-e9-0zrgU8BYZAqD4pjfBpejO_bQGG-cDthhojYMNfF5GsBGkVNwGA",
-					"start_cursor": "AQHR2jQHR5I_zrqrIyI4OWn_7daUYfQmEdCX-e9-0zrgU8BYZAqD4pjfBpejO_bQGG-cDthhojYMNfF5GsBGkVNwGA"
+					"end_cursor": "AQHRIYv2ZCkDujt065OQgfkIDOw1PHTPvY8tDAdgRgt_2cM_AH1ZfIBQOAvm10u6L9Q6D7zPipVSoPV7MsGvbBF8Yw",
+					"start_cursor": "AQHRIYv2ZCkDujt065OQgfkIDOw1PHTPvY8tDAdgRgt_2cM_AH1ZfIBQOAvm10u6L9Q6D7zPipVSoPV7MsGvbBF8Yw"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "153749256508556",
+							"id": "116925426998990",
 							"author": {
-								"id": "109909384225877",
-								"display_name": "skyrios",
+								"id": "104160984942101",
+								"display_name": "Sennodipoi",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/75240106_129304288953053_7300531341522752756_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NrEz6lpdEBkAX90Uj3I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ae9f5f42536dad0eafb92903f3356b8d&oe=608141FD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39001717_108348474523352_7259242365077747111_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dqdEVD8gOBgAX_e5b3o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1e674f10f8a3c52e0811d36fd124cdd6&oe=6083ABBC"
 								}
 							},
 							"score": 4,
-							"reviewDescription": "This game is really good. It really immerses you into this weird world. Easy to catch with only one button and analog stick even a non gamer will get really fast into it, but as it goes it gets challenging. \n\nMy complaint is that playing this in quest 2 thought seems worst than I thought. The screen seems like having the screen door effect. \n\nPlease make this update so that is played as it deserves!",
-							"reviewTitle": "Great game! Please make quest 2 update!",
-							"review_helpful_count": 43,
+							"reviewDescription": "I love this game, it's my favourite VR rhythm game along with Beat Saber, really unique and challenging. I already played it on different platforms but I wanted the Quest 2 version to play it anywhere. It's really worth it.\n\nThe only thing that puzzles me is that the graphics are good, but the image looks a little bit noisy/grainy, like it has been compressed. It's a bit of a shame since this game is very good looking and doesn't need much graphical power.\n\nIf you can fix the visuals, this is an easy 5/5 for me!",
+							"reviewTitle": "Awesome game, weird graphics",
+							"review_helpful_count": 21,
 							"review_rank_by_viewer": null,
-							"date": 1609335947,
+							"date": 1612194872,
 							"developerResponse": null
 						}
 					}
@@ -303,7 +300,7 @@
 				"description": "《Thumper》充滿節奏暴力：有經典節奏動作、疾風般速度，和殘暴的肉體打鬥。遊戲中由您扮演太空甲蟲，勇闖煉獄般的虛空，面對來自未來，令人陷入瘋狂的巨頭。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974575_465103234641716_3812948914127863569_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FXrfRw1cpX8AX97078u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3b247ecf780dfc3d10e80332de4aba45&oe=60824070",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974760_1938861752892444_3989627990639116288_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=93RIjAoxexkAX_cYfxu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcb2500bab7af2b7e3041b057d99b7c4&oe=607FEEF8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

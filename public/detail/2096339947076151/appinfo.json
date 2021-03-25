@@ -14,7 +14,7 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": null,
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_371442170511208_189323994456117195_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Gd8nov5tw3EAX9UOJre&_nc_oc=AQm88HiGlGKxCyxOPjhjYMsFSmbtFCGoE60xmj8vxiJkeeZ2myyK4gHdanT2SiaHtjE&_nc_ht=scontent.oculuscdn.com&oh=ab7b39a564dd71c2590290dd387a4427&oe=6081EE95"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_371442170511208_189323994456117195_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Gd8nov5tw3EAX9DVB8v&_nc_oc=AQmTxg2h2Q8YVmcGZIwX_F3rJBvH5jz_-3TXb7yfj4lFYvArAsAXQropIaAMnvD__Q0&_nc_ht=scontent.oculuscdn.com&oh=69ec3d7b2099640572e5d4453618817b&oe=6081EE95"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -73,7 +73,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -97,7 +98,8 @@
 				"version": "1.8.0",
 				"change_log": "1.8.0 Patch Notes:\n\nNew Features\n-Wand Powers: Wands have new and unique properties that make you more powerful\n-New Wands: 5 brand new wands have been added to the game\n-New Character: The Templar has entered The Beyond\n\nImproved Features\n-New AI difficulty: An “impossible” difficulty setting has been added\n-The Crystal Wand is now unlockable\n-New titles have been added for reaching skill ratings of 2600, 2700, 2800, and 2900\n-Each loadout can have a different set of wands\n-Current HP and Mana are now shown on your HUD\n-Notification icon appears on blackboard when you have unclaimed rewards\n-Event points can not be earned in friendly duels or against the AI\n-Level text is displayed in Lobby\n-All locked wands are shown at the Wand Station\n-Seasonal match count is displayed in-game (will become visible next season)\n-Teleport beacons at Relic Bench and Wand Station are shorter to make interaction easier\n-Snap turning delay has been increased, making accidental double turns less likely\n-AI matches cannot occur on Sanctum, preventing gas and sandstorm deaths\n\nGame Balancing\n-Dual Wielding pickup collection time reduced to 3s (down from 3.5s)\n-6DoF mana regen rate increased to 13/s (up from 12/s)\n-Flaming Phoenix – cooldown increased from 0.75s to 1.5s\n-Chilling Clutch – cooldown increased from 0.5s to 1s\n-Skull Specter – cooldown increased from 0.0s to 1.5s\n-Skull Specter – height raised to prevent firing into the ground\n-Armor of the Sun – cast cost increased from 50 to 75\n-Curse of the Undead – cast cost increased from 40 to 50\n\nBug Fixes\n-Summons’ projectiles no longer pass through the Warden’s arm on Aspis Prison\n-DPS damage does not immediately disappear from HUD\n-Electric Fist no longer causes significant framerate issues\n-Tile-based spells cannot be cast through the trains’ flat cars on Ortus Station\n-Haptic feedback on one hand is not interrupted by haptic feedback on the other hand\n-Opponent’s voice is no longer audible when they’re muted\n-Casting Chaos Leap while teleporting no longer prevents further teleporting\n-AI does not glitch on bottom tile of Aspis Prison\n-Devil’s Spit can no longer be fired from your previous location\n-Titles for Season 17 and up have been added\n-English text for Season 16 titles has been fixed\n-Teleport no longer fails when it’s the first spell selected when using the Point control scheme",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "702672961",
 				"id": "3529712930405505",
@@ -161,8 +163,8 @@
 								"current_end_timestamp": 1616796000,
 								"current_start_timestamp": 1616792400,
 								"temporal_info": {
-									"seconds_until_end_time": 220561,
-									"seconds_until_start_time": 216961
+									"seconds_until_end_time": 134798,
+									"seconds_until_start_time": 131198
 								},
 								"vr_app_and_destination_string": "魔杖",
 								"vr_applications": {
@@ -184,7 +186,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Easy Money",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982601_733934664177763_1260247913567741870_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Gikeq2BO13IAX9TAipd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cf75f645e818dfd84d0be93cc0278a98&oe=60814EDF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982601_733934664177763_1260247913567741870_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Gikeq2BO13IAX-TV12U&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d8210674f4860369fa30b35de9a1875&oe=60814EDF"
 								}
 							}
 						},
@@ -194,8 +196,8 @@
 								"current_end_timestamp": 1616839200,
 								"current_start_timestamp": 1616796000,
 								"temporal_info": {
-									"seconds_until_end_time": 263761,
-									"seconds_until_start_time": 220561
+									"seconds_until_end_time": 177998,
+									"seconds_until_start_time": 134798
 								},
 								"vr_app_and_destination_string": "魔杖",
 								"vr_applications": {
@@ -217,7 +219,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Rare Wand Weekend",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_715349729156152_3446184217931174117_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qJf_X0Z0rRAAX-x821X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e99279a2a09c9a925018f56e5f96687e&oe=607E9781"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_715349729156152_3446184217931174117_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qJf_X0Z0rRAAX9EykCA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d9f24f9751715d9740710f895a37e7bb&oe=60828C01"
 								}
 							}
 						}
@@ -232,7 +234,7 @@
 							"created_time": 1615817980,
 							"body_text": "The 22nd season of Wands, where you can compete with each other, win a special wand and titles, is now launched. The season starts on the 15th of March and will end on the 1st of May. During this time, you have the chance to compete, win, and climb the leaderboard to claim the coveted Season Champion title.\n\nFor more information, don't forget to check out our Wikipedia page https://wiki.wandsgame.com/wiki/Seasons, where you can also find the leaderboards from the previous seasons.\n\nGood luck!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75647712_3977013039020688_3975839645306749039_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2BSjFr6qUGQAX_CWMi3&_nc_ht=scontent.oculuscdn.com&oh=c92af7840f7219300b56d9e4560f0d1b&oe=6081DB72"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75647712_3977013039020688_3975839645306749039_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2BSjFr6qUGQAX-r0v88&_nc_ht=scontent.oculuscdn.com&oh=99e7ba0b4f3afdc960e48f62d2cd802e&oe=6081DB72"
 							}
 						},
 						{
@@ -326,7 +328,7 @@
 								"id": "100646551122371",
 								"display_name": "SlipSlot",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7BUhcsjUBBAAX-cVJ1e&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b9b7bc8cc4220084a3d9e1561904f9c5&oe=607FCE64"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UQCcuM0hEtAAX82MRdY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0a64013aac60f8c1eca17b3be62ac49f&oe=6083C2E4"
 								}
 							},
 							"score": 4,
@@ -351,7 +353,7 @@
 				"description": "魔杖®是一款第一人称虚拟现实体验，提供快节奏的魔法决斗为你的魔杖汲取更多的法术，咒语，能量，为了名利，权力，和和至高荣耀。在接二连三的战斗之间，在你的秘密工作室中探索新法术和磨练你的技能。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_168834158245130_2390692448484080031_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5XTMZaOoDKoAX8lB7zC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b0d681857f0bd4c7dc18bb366d3bdb43&oe=607FB936",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003269_168834158245130_2390692448484080031_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5XTMZaOoDKoAX_yWGhm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=01e9d056dcf7e7fcc3577fd2a0c5f368&oe=6083ADB6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

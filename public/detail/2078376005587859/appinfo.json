@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974744_278791059676338_8968335349809938432_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=69eDDsGzpWwAX8F1f3d&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ea410c7d5b3cfb79979c663e8dd0bf44&oe=60813336"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974744_278791059676338_8968335349809938432_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=69eDDsGzpWwAX9fbsIq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=50c4e181ee38cc3ec9956e100b829876&oe=60813336"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031315_278790186343092_8748549499472838656_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=sGqRB6TXQecAX8WelwK&_nc_oc=AQmttSavtyhfrugO-my8JHni33ZPvdxTh88w7lXVkeItQwbhCR1sp7UkmCvR5zrTByE&_nc_ht=scontent.oculuscdn.com&oh=7347246d187c2572f8518ae0c2137ed6&oe=6080EBC2"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031315_278790186343092_8748549499472838656_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=T9Hc0gBIfuAAX8CZ4a_&_nc_oc=AQnlLM9xhYKibhl90IVGv79KVK9XtEPYxyYCvxDoeCRVZg3B-1JnOgE6NhgcJwIMQHc&_nc_ht=scontent.oculuscdn.com&oh=adadb485247ebf88a4722aa2c5908e1b&oe=6080EBC2"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 132,
+					"count": 133,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 201,
+					"count": 202,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 454,
+					"count": 453,
 					"starRating": 5
 				}
 			],
@@ -59,7 +59,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -84,7 +85,8 @@
 				"version": "0.3394",
 				"change_log": "v0.3394\n• Quest 2 support including Quest 2 controller models, optimizations and visual improvements\n• Improvements to voice communication including echo cancellation, automatic gain control, and audio codec changes\n• Lip sync for avatars\n• Fixes for Go/Quest multiplayer audio\n• Fixed connection back to Alcove for players starting Wander from Alcove\n• Minor UI improvements\n• Performance improvements\n• Potential fix for rare bug where some users who are unable to load locations\n\nv0.3392\n• Improved search and fixed a regression where search could place users too far from their intended destination\n• Fix for occasional frame drops when loading new locations\n• Updated speech recognition plugin. \n• Removed Exit to Oculus Home on the dock as it does not appear to work well with the new focus aware menu from Oculus\n\nv0.3381\n• Fixed a bug that could prevent application from loading for some users\n• Fixed a bug that could prevent player markers from showing up in multiplayer if the map was closed when a player joined\n• Improved messaging (and logging) when errors occur during startup\n• Controls improved when using a single controller\n\nv0.3376\n• Fixed issue where in some locations the teleportation marker would be excessively large\n• Fixed a bug that could prevent the renaming of favorites\n• Fixed a bug where some locations that did not have high resolution imagery could fail to load with max resolution set\n• Fixed laser appearing in center of vision when bringing up the new focus aware Oculus menu\n• Updated collections\n• Improved thumbnail loading in collections (should be faster when scrolling)\n• Map no longer registers drags as clicks when the map is dragged back to its original location\n• Improved reliability of random search\n• Improved reliability of search on map when zoomed out\n• Improved voice quality and reliability\n• Boosted voice volume\n• Minor UI improvements\n• Slightly improved application startup time\n",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "381559774",
 				"id": "3705429596215817",
@@ -199,7 +201,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8104712041885,
+			"quality_rating_aggregate": 3.8064853556485,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -218,8 +220,8 @@
 			"firstQualityRatings": {
 				"count": 497,
 				"page_info": {
-					"end_cursor": "AQHRCCdhj4h5KJLj2ZPCssLcC1pcOEztzYqIN4CP7hqRJ-J-JJ_g27JRif7jCcDCVUqCiqF08obs1yKZ06-MslMstw",
-					"start_cursor": "AQHRCCdhj4h5KJLj2ZPCssLcC1pcOEztzYqIN4CP7hqRJ-J-JJ_g27JRif7jCcDCVUqCiqF08obs1yKZ06-MslMstw"
+					"end_cursor": "AQHRN5RiROzNh5K89Re0ZRphC03n2NHoINw_jF5Gjx7ZG6F1QO9Yj0U8hpx1UabCwWLDhGZDaGvXuOrvwyTayP3PEA",
+					"start_cursor": "AQHRN5RiROzNh5K89Re0ZRphC03n2NHoINw_jF5Gjx7ZG6F1QO9Yj0U8hpx1UabCwWLDhGZDaGvXuOrvwyTayP3PEA"
 				},
 				"edges": [
 					{
@@ -229,13 +231,13 @@
 								"id": "107692367647416",
 								"display_name": "Fantasmister",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/38974530_191116302638355_8706177273779633602_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=plAkjXdkz34AX-H3Val&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ee0c429e8fca904d4aaf32355587ee05&oe=60815712"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/38974530_191116302638355_8706177273779633602_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KNnD8UlYuAkAX_r5cr7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=03cef92836351c72bfef27f9007cacaf&oe=60815712"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This review is to help set your expectations to a realistic level. If you're expecting what it delivers, it's a great app. \n\nTo clarify for any potential buyers: It's not true VR, nor can you \"wander\" in it - it is essentially Google maps streetview (not even Google Earth, which would have been much more VR like), the same experience that you may have had with Google cardboard.\n\nDon't get me wrong - the ability to zap to almost anywhere in the world, even via static 360 degree photos, is still a great technological marvel, and does have a level of immersion. It's only perhaps disappointing if you're expecting a proper \"magic of vr\" experience, wandering through places, which is understandable from their overselling description.",
 							"reviewTitle": "Set your expectations",
-							"review_helpful_count": 768,
+							"review_helpful_count": 777,
 							"review_rank_by_viewer": null,
 							"date": 1611135883,
 							"developerResponse": null
@@ -250,7 +252,7 @@
 				"description": "Wander the world openly through the magic of VR. From the comfort of your living room you can teleport almost anywhere in the world - whether you wish to walk across the London Bridge, stroll the gardens of the Taj Mahal, or witness the enormity of the Great Pyramids of Egypt - unlimited exploration awaits!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974661_580808789094371_3228895235618635776_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XLKKa0d4DVIAX828TI5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97dd000d33a04cf78157202fba8445c3&oe=6080FC02",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974661_580808789094371_3228895235618635776_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1u8kVmbchWcAX-vHVwu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5b733199da7f48a99a128e19b4310897&oe=6080FC02",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

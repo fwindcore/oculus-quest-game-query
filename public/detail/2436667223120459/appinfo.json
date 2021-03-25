@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2WKS8FglVRUAX_9fhp2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d607d1478b225ed86064aa1d81248fe4&oe=607F7255"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2WKS8FglVRUAX9r85MZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b128ee68821a24bf309de44054c5dbd5&oe=608366D5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=p-j6PyLJR2wAX9l_WED&_nc_ht=scontent.oculuscdn.com&oh=4dc6d4c04df1987034504448925434d5&oe=607EA4E7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wYMTMxscMaUAX8TO7kX&_nc_ht=scontent.oculuscdn.com&oh=fbccaee5765e7f9afec14c1807a9be98&oe=60829967"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,7 +36,7 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 32,
+					"count": 33,
 					"starRating": 4
 				},
 				{
@@ -78,7 +78,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"游戏手柄",
@@ -102,7 +103,8 @@
 				"version": "3.4.2",
 				"change_log": "====================================\nv3.4.2 - Release Notes \n====================================\n- was a little too hasty in reverting the video decoder library in the last update. Putting it back to latest build again.\n\n====================================\nv3.4.1 - Release Notes: Minor update \n====================================\n- revert internal libVLC video decoder library to previous build as some people are reporting SMB playback issues on this newer decoder library still.\n- added a potential safeguard to MPO file processing to catch and avoid crash due to corrupted byte data on bad mpo files.\n\n\n======================\nv3.4 - Release Notes \n======================\n\nNew Features and Improvements\n=============================\n- added new Advanced settings screen with following settings:\n  + option to allow turning off of device refresh rate to framerate syncing.\n  + option to set default viewing mode of image and video media when file tagging for auto recognition is not used.\n  + moved ipd and \"use eyebuffer rendering...\" options into this advanced settings.\n- removed \"tap to recenter\" auto pop and functionality when we look outside the bounds of the Void screen. This is replaced with:\n  + manual recenter screen to gaze option, found under the player options screen.\n  + support for controller based re-orientation of Void screen by holding trigger down for 2 seconds or more\n- reduce white levels slightly of menus and subtitle text so they are easier on the eyes on Oculus Quest 2 screens. Not so much glare.\n- updated internal video decoder library to most up to date build.\n\nBug Fixes and Optimizations\n===========================\n- optimize image memory management and loading for better and more reliable loading of very very large images.\n- optimize thumbnail loading to reduce oom issues on large image files.\n- fix chronological sorting of folders for smb and local folders.\n- fix incorrect previous image bug when manually going to previous image during a slideshow or immediately after we stop a slideshow.\n- fix thumbnails not auto generating for videos over 4k.\n- fix cached thumbnails not accounting for duplicate names in different file locations.\n- fix issue with some MPO images showing as skewed due to width info in MPO header being off by a pixel.\n- fix auto play via config file option sometimes not kicking in for image slideshows.\n- fix auto detect view mode by file tag not kicking in for images when config file settings tells it to auto play.",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "241763093",
 				"id": "3783872818399886",
@@ -221,11 +223,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8484848484848,
+			"quality_rating_aggregate": 3.8493975903614,
 			"support_website_url": "https://hanginghatstudios.com/pigasus-faq",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 92,
+				"count": 93,
 				"orderings": [
 					{
 						"key": "top",
@@ -238,10 +240,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 92,
+				"count": 93,
 				"page_info": {
-					"end_cursor": "AQHRhNQblVbM_Aw3n27RREsuGJHggVMjHW7KYznnyHTLt4QRtO3YLa-MU5Ve47cnoYzDzpjgtmyZRi5Cf7dOrC-XsQ",
-					"start_cursor": "AQHRhNQblVbM_Aw3n27RREsuGJHggVMjHW7KYznnyHTLt4QRtO3YLa-MU5Ve47cnoYzDzpjgtmyZRi5Cf7dOrC-XsQ"
+					"end_cursor": "AQHR3Ci3EXCxIx7YOT6p8yxwOPb6fvgyRhtigcYvwVfOwCGtIa9sgdHTtmVBrMctwkLCvGvgLRL1Vc0aB602zgaQGg",
+					"start_cursor": "AQHR3Ci3EXCxIx7YOT6p8yxwOPb6fvgyRhtigcYvwVfOwCGtIa9sgdHTtmVBrMctwkLCvGvgLRL1Vc0aB602zgaQGg"
 				},
 				"edges": [
 					{
@@ -274,7 +276,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oLmGHdvoalAAX-vJZBx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=73c8b8f35f769c7eac527ced40e5d23e&oe=607F8301",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oLmGHdvoalAAX-afSTF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=37d8031b157ed93a7d6d616bbef346b5&oe=60837781",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

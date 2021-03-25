@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001710_399501457327962_1558503310841872384_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mP5hZJL1j7MAX9V2OYo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3888b69204b633527a259a0e828d0f78&oe=6081D664"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001710_399501457327962_1558503310841872384_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mP5hZJL1j7MAX8J5sB5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e3ef96713cab8b1249fa550face4979d&oe=6081D664"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_399495450661896_8158210466590490624_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=s7K-kTD1auoAX-EWc4F&_nc_ht=scontent.oculuscdn.com&oh=56d75d96b301f05012b97c795b68474a&oe=6080B0EA"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_399495450661896_8158210466590490624_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=CU6cW7LBwDEAX84F7fw&_nc_ht=scontent.oculuscdn.com&oh=e44711825e31ff022e3b314779cb6ffe&oe=6080B0EA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 963,
+					"count": 965,
 					"starRating": 5
 				}
 			],
@@ -58,7 +58,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -81,7 +82,8 @@
 				"version": "1.8.47",
 				"change_log": "Fixed the crash bug for some users who haven't got the Oculus System update yet.\nFixed the right controller bug when hand tracking is enabled.\nRe-enabled the re-centering option. (Still use plank setup if using a real plank)\nAdjusted lighting of hand tracking shader.\n\n\n",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "450874272",
 				"id": "3240963772674878",
@@ -149,7 +151,7 @@
 							"created_time": 1608468061,
 							"body_text": "Richie's Plank Experience receives a huge graphical update this week. While the update was intended for Quest 2, the artist and developer managed to squeeze a lot of them into Quest 1 as well.\n\n\n\n\nVISUAL\n\n- Higher resolution (Quest 2 only)\n- Bigger city. 20 new buildings.\n- 4k textures for Roads and footpaths.\n- Linear color space for higher contrast shadows.\n- More clouds. (Quest 2 only for now)\n- Photo-sourced terrain texture.\n- Fake bloom directional light. (Gives a slight sun-burned glow to everything)\n- Replaced low poly tree with a high poly statue for nice lighting.\n- Gravity Radio billboard.\n- Colorfull flags on ground floor.\n- Adjusted aircon vent vapor intensity.\n- Bigger god ray on ground floor.\n- More god ray particles.\n- Higher res cars.\n- More reflections on more buildings.\n- Improved building shader with stronger reflections and even more performance.\n- Photo-real texture for roads.\n- Fixed reflection bug in elevator. (not sure how)\n- Added more shadow trickery to break up bright areas.\n- Used more use of vertex colors for more pops of color.\n- Increased saturation of hot air balloon color.\n- Remastered aircon blades.\n- New texture for rooftop details.\n- Remastered building to the left of the plank.\n- Adjusted position of wind generators.\n- Gravity Signs.\n- Remastered park texture.\n- Smaller birds. (They were too big)\n\nSOUND\n\n- Increased helicoptor volume distance.\n\nUI\n- Rearranged UI text to be a bit more neater\n\nUX\n- Recentering isn't advised. Use plank setup!\n- Recentering message won't happen when you take the headset off anymore. This may lead to drift in the plank position sometimes. We are keeping an eye on this.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75404381_158527356032203_2424075316354467742_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MMMT37osvfYAX9NtVAC&_nc_ht=scontent.oculuscdn.com&oh=e2bae3027e7b81cf208d286b658a7dd1&oe=607EFC7A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75404381_158527356032203_2424075316354467742_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MMMT37osvfYAX9k0etx&_nc_ht=scontent.oculuscdn.com&oh=4dad9bd34355a25400664a4d3de80ccf&oe=6082F0FA"
 							}
 						}
 					]
@@ -206,11 +208,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0318302387268,
+			"quality_rating_aggregate": 4.0328563857976,
 			"support_website_url": "https://toast.gg/contact/support/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1047,
+				"count": 1048,
 				"orderings": [
 					{
 						"key": "top",
@@ -223,10 +225,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1047,
+				"count": 1048,
 				"page_info": {
-					"end_cursor": "AQHRRAE9T6pf5MeWB8RHm1-Ti53abPgo-Iy-iUHRq5PbqlSpgN5ACRmlE-LVtsBeFkH6PAnLHPjvDsc6iGm-0yVV9g",
-					"start_cursor": "AQHRRAE9T6pf5MeWB8RHm1-Ti53abPgo-Iy-iUHRq5PbqlSpgN5ACRmlE-LVtsBeFkH6PAnLHPjvDsc6iGm-0yVV9g"
+					"end_cursor": "AQHRR0MybZPYwho7dwaDhooNqpmtlKKqw-ggnsR6e4d0Ig-vpP8JXInhY4uFXqpbelHEYrqfF5uzFoqtAZRNbj2oow",
+					"start_cursor": "AQHRR0MybZPYwho7dwaDhooNqpmtlKKqw-ggnsR6e4d0Ig-vpP8JXInhY4uFXqpbelHEYrqfF5uzFoqtAZRNbj2oow"
 				},
 				"edges": [
 					{
@@ -236,13 +238,13 @@
 								"id": "336924227517113",
 								"display_name": "MisCarla",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001654_336924397517096_7951915752859577378_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9Sm4W2eoJ_AAX-1Udkx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8fa687a702b6fd7dbc69a61e8cd01965&oe=6081FD7E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001654_336924397517096_7951915752859577378_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9Sm4W2eoJ_AAX-1Zq9A&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7c8e88ec47e392b2ca678eb92ad4733b&oe=6081FD7E"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I enjoy This game. I like the options of free flight and Hero Academy. \nI found on the left side of the elevator an additional button but have not figured out what that is for. If  someone could let me know. I assume it has something to do with the nightmare option??\nI have become afraid to ride elevators. I thought this would be the perfect game to add a helpful option to assist in overcoming that fear. \nThis is a game my grandchildren can also play and enjoy. Thank you",
 							"reviewTitle": "Very enjoyable game",
-							"review_helpful_count": 9,
+							"review_helpful_count": 10,
 							"review_rank_by_viewer": null,
 							"date": 1615725210,
 							"developerResponse": {
@@ -261,7 +263,7 @@
 				"description": "Invoke the strongest possible emotions in the shortest possible time. Entertain your friends and family as they walk the plank, 80 stories high - knees week, palms sweaty.  If that doesn't hook them, the nightmare mode or flying at the hero academy will.\n\nIf you're expecting a 2 hour game for yourself, this isn't for you. Richie's Plank was specifically designed to entertain your friends and family. Especially if you setup a real plank.\n\nSTAY SAFE\n1. Use two spotters\n2. No pushing\n3. No jumping",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75485572_449234245783104_8542863103350538240_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rur0ZPGchjAAX-H4L5Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=939e937f0e1b2ec653446f4f2421d7c0&oe=6081889F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75485572_449234245783104_8542863103350538240_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rur0ZPGchjAAX_uwevU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=928505fa7b05f42c5f5f11cb9674d03c&oe=6081889F",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

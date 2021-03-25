@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75241704_786126388621532_7199152573861775636_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S7dSFsIDw1oAX83LEAy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e828ec73af23374a0bea95bb7da37a9&oe=607EC9CB"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75241704_786126388621532_7199152573861775636_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S7dSFsIDw1oAX8PPh5M&_nc_ht=scontent.oculuscdn.com&tp=28&oh=87ef30b4ac1a3b9beead6de2a120bc60&oe=6082BE4B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3000022216981568_4372684997308199041_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Q_zM8kWAHmoAX_jDpC8&_nc_ht=scontent.oculuscdn.com&oh=356cfb1c4bb4573685ced876e5f6af6d&oe=60820988"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3000022216981568_4372684997308199041_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Q_zM8kWAHmoAX_6cR1L&_nc_ht=scontent.oculuscdn.com&oh=640dfe13139e24bef2f24389baa99079&oe=60820988"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1049,
+					"count": 1052,
 					"starRating": 5
 				}
 			],
@@ -75,7 +75,8 @@
 				}
 			],
 			"supported_hmd_platforms": [
-				"MONTEREY"
+				"MONTEREY",
+				"HOLLYWOOD"
 			],
 			"supported_input_device_names": [
 				"Oculus Touch"
@@ -98,7 +99,8 @@
 				"version": "1.0.4+185011.cl.291854",
 				"change_log": "1.0.4\nFixes:\nFixed Quest 2 crash upon quitting from Main Menu \nFixed crash in certain situations when player is caught in geo and unable to be pushed out\n\n1.0.3\nAdditions/Major changes:\nAdded “smooth turning” toggle, and options to adjust smooth turning speed, found in Movement Settings in the Pause Menu.\nAdded the ability to switch between head-oriented, and hand-oriented movement, through the Settings menu under movement when Free Move is toggled on.\nRemoved ability to directly stow the All-Kit in the pouch by dropping it in.  All-Kit can still be placed directly into an inventory slot if stowing is desired. \nAdded additional range to torso settings as well as pouch settings to support more body types in non-Belt Only mode.\nAdded further additional forward range for belt positioning adjustment when in Belt Only mode to support reclined seating postures.\nAdded “palm pointing grab” as well as “finger pointing grab” to allow more angles that successfully grab items.\nProperly support two handed force usage in Temple of Darkness.\nAdded LT/RT labeling to UI expand button to make clear that the triggers can expand/collapse the menu.\nUsability tweaks to reduce accidental item grabs from inventory.\n\nFixes:\nStability improvements.\nFixed hands becoming invisible during level transition/respawn.\nAim improvements/weapon tuning.\nCompass fixes.\nAudio mix adjustments for J-4X, C-3PO holocalls, other items.\nLooping adjustments for music.\nPrevented a case in Mubo’s Cargo Transport where player could restore behind a closed door.\nPrevented a case in Hissiq Springs where certain configurations of enemy spawns could prevent player progression.\nFixed a rare case of losing the All-Kit tool when pausing during return to belt.\nImproved compass behavior across multiple missions.\nPrevented combat from starting during loading screen.\nFixed issue where current item state would not be properly saved in certain scenarios.\nFixed issues around lightsaber penetrating ground in smooth loc mode.\nFixed an issue where enemies would rarely briefly show a visual glitch on death.\nPrevented a situation where flying enemies could leave player range.\nFixed several instances of visual holes in geometry in various locations.\nFixed a controller “dead zone” in smooth locomotion mode.\nFixed Seeker droid shots continuing after seeker droid destruction in certain cases.\nFixed E-Web audio cutting out in certain situations.\nRemoved errant collision for destroyed E-Web in Splintered Spire.\nFixed missing credits reward when completing “Darkness In Us All.”\nFixed rare issue with Seezelslak animation popping after completing Temple of Darkness.\nFixed rare issue with pirate bodies flying midair post-death.\nFixed player teleport distance reduction when teleporting with left hand during scan.\nFixed missing Viper droid combat chatter.\nRestored VFX for remote droid destruction in Mubo’s Workshop.\nPrevented overlapping VO when throwing multiple remotes during Mubo’s remote intro.\nFixed issue which allowed credits to be duplicated in certain situations.\nFixed cinematic issues caused by restoring Threepio’s eye at unexpected times.\nFixed incorrect opening color coding in dial puzzle.\nFixed a rare bug where weapons and held items could become invisible if vented during menu open.\nPrevent low health beep from playing during final Splintered Spire cutscene.\nEnsured ammo meter is visible on shotgun while holstered.\n\n1.0.2\nFixed a rare case where the All-Kit tool could be lost by dropping it just after unscrewing a bolt.\nFailsafe to ensure player will always have an All-Kit tool once it’s initially found.\nFailsafe to ensure a player with no weapons and an empty holster will always have a pistol after level transition or load.\n\n1.0.1 \nFixed a rare issue where player could load outside the playable space in Mubo’s Workshop when moving during level transition.\nFixed audio glitches during combat in Hissiq Springs fighting viper droids.\nFixed an issue where Bacta sprays could be dropped midair.\nFixed an issue where changing the active mission when the compass was in inactive mode resulted in compass not functioning properly.\nFixed three bar puzzle functionality and visual issues.\nFixed misplaced cover points in various maps.\nFixed various issues with Cargo Vessel animation in Mubo’s Cargo Transport\nFixed prioritization of Cantina Problem with Porgs mission in certain scenarios.\nFixed J-4X video cutting out if player paused at very start of game.\nFixed an instance of “Pieces of the Pilot” mission arrow pointing incorrectly in Splintered Spire.\nFixed heavy blaster ammo indicator not appearing when holstered.\n\n",
 				"supported_hmd_types": [
-					"MONTEREY"
+					"MONTEREY",
+					"HOLLYWOOD"
 				],
 				"total_installed_space": "6089131523",
 				"id": "3657896014296693",
@@ -224,11 +226,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9527255185721,
+			"quality_rating_aggregate": 3.9542389210019,
 			"support_website_url": "https://support.starwars.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1096,
+				"count": 1097,
 				"orderings": [
 					{
 						"key": "top",
@@ -241,10 +243,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1096,
+				"count": 1097,
 				"page_info": {
-					"end_cursor": "AQHRJnavWs_JipeqAdWDsdwcqwyxPYM4_yZzqIkURFS3F2yW3lRvUxgAZwGUkhGevUanVzQ-551MRw_YAVsdDlK2nw",
-					"start_cursor": "AQHRJnavWs_JipeqAdWDsdwcqwyxPYM4_yZzqIkURFS3F2yW3lRvUxgAZwGUkhGevUanVzQ-551MRw_YAVsdDlK2nw"
+					"end_cursor": "AQHR7FinAOk7IUWTu0ddjnsrE1e0MnsHB9EpB8qo4Ap8lrwZho6C3294_xB2JWsyBbChPPB0AjhIiu21cwqoIa22TA",
+					"start_cursor": "AQHR7FinAOk7IUWTu0ddjnsrE1e0MnsHB9EpB8qo4Ap8lrwZho6C3294_xB2JWsyBbChPPB0AjhIiu21cwqoIa22TA"
 				},
 				"edges": [
 					{
@@ -254,13 +256,13 @@
 								"id": "101533195212191",
 								"display_name": "Osana_Playz",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c292.0.750.750a/s160x160/38974442_101534038545440_281083141795071516_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=H5xJOxtgIXYAX8Udrm9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=63cf1bcb19ec8205b9a9f5835b36bcd6&oe=6081BA5B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c292.0.750.750a/s160x160/38974442_101534038545440_281083141795071516_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=H5xJOxtgIXYAX9gsV4M&_nc_ht=scontent.oculuscdn.com&tp=28&oh=11669003dc0d8a8296463ffa13649281&oe=6081BA5B"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Ok. Let me say this first. I thought it was a very cool game, and it inspired me to write fanfiction based off of this. It’s not a bad game, there’s just a few things missing. \n1. I finished the entire game in like, 2 hours. The maps are really cool, and you get to shoot people,  but I was expecting more for $25.\n2. This game was very misleading. I thought this was the one with cool lightsaber fights and stuff, but it’s not. It’s still fun, but not as fun as I’d hoped.\nSo you can play it. There are some cool things you can do, for example, you find C3PO all damaged, and help him find his parts. He becomes your partner. That was cool. The rest of the game? Meh. I think you should play Vadar Immortal over this if you love Star Wars, or your trying to get into it. Vadar immortal comes in episodes that are only $10 a piece, and it’s a lot cooler. There are lightsaber fights and the force and it’s a lot more epic than this one. But that’s just my opinion.",
 							"reviewTitle": "It’s Ok....It’s cool! But...",
-							"review_helpful_count": 388,
+							"review_helpful_count": 395,
 							"review_rank_by_viewer": null,
 							"date": 1612710109,
 							"developerResponse": {
@@ -279,7 +281,7 @@
 				"description": "Star Wars: Tales from the Galaxy's Edge is an action-adventure virtual reality experience that lets you travel across the galaxy to the planet of Batuu and live out your own unforgettable story. You’ll fight alongside classic characters, and face intimidating villains, as you explore all-new regions and eras of the Star Wars galaxy. With different styles of gameplay and multiple difficulty settings, Tales from the Galaxy’s Edge appeals to Star Wars fans and VR gamers alike.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982547_801231837114161_6127919994528410984_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tYJAncAtHmgAX-12iJG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=438f41edd016f1d98a53b3f1be11e515&oe=60809E8C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982547_801231837114161_6127919994528410984_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tYJAncAtHmgAX-NoAc4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97d5ca470bc7a3ed33d366fdffd8ddbe&oe=60809E8C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
