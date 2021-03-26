@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75622010_2705623063098516_3103354920895283484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=I5l-kxfBTEoAX9H0D8H&_nc_ht=scontent.oculuscdn.com&tp=28&oh=be097095b0f6dcc85aab1dbdf13f5f13&oe=60805FB9"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75622010_2705623063098516_3103354920895283484_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=I5l-kxfBTEoAX-fqTib&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ddf49c7a2110524194e2b4e354174dbe&oe=60845439"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982464_3943107335710626_8637852130181055848_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=qBbtV0D4uAgAX9_MPPR&_nc_ht=scontent.oculuscdn.com&oh=7d2cda3646332d5e32badde7c358146d&oe=60807805"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982464_3943107335710626_8637852130181055848_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=qBbtV0D4uAgAX-Texlx&_nc_ht=scontent.oculuscdn.com&oh=aa1cc2c1e85ae817063ae4c740332523&oe=60846C85"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 254,
+					"count": 255,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 5167,
+					"count": 5177,
 					"starRating": 5
 				}
 			],
@@ -81,15 +81,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "498654",
-				"change_log": "A hotfix has just gone live to implement the following: \n\nGENERAL \n\nFixed an audio issue for cycling through loading screen tips. \nFixed an issue where the purchase confirmation window would not update when purchasing additional Echo Pass tiers. \nFixed an issue where players were unable to invite non-friended accounts to their party via the Arm Computer Social Tab. \nARENA \n\nFixed an issue where disc can get stuck on the corner of ramps. \nFixed an issue where player opponent nametags would sometimes be visible through level geometry. \nFixed an issue where player emblems on the scoreboard would persist when switching teams in a private match. ",
+				"version": "498667",
+				"change_log": "A hotfix has gone live to implement the following: \n\nExperimental throwing feature added. \nPlayers are no longer forced to grab a booster their head is touching. \nUpdated the Arm Computer to have the appropriate tag when \"none\" is selected. \nFix for members of a party being quiet in the Staging Area. \nFix for Combat name tags appearing after being eliminated. \nFix for audio listener becoming detached when switching to Follow Cam. \nFix for an issue when players would not grab geo in AI matches. ",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "827758511",
-				"id": "4106078339431862",
-				"required_space_adjusted": "1056864500",
+				"total_installed_space": "827882233",
+				"id": "4124673414239021",
+				"required_space_adjusted": "1056901364",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 4
@@ -177,7 +177,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4106078339431862"
+					"id": "4124673414239021"
 				}
 			},
 			"release_channels": {
@@ -188,8 +188,8 @@
 						"id": "292183291648408",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "498654",
-							"id": "4106078339431862"
+							"version": "498667",
+							"id": "4124673414239021"
 						}
 					}
 				]
@@ -207,7 +207,7 @@
 							"created_time": 1589247110,
 							"body_text": "Echo Units who own an Oculus Quest or Oculus Rift can team up and compete for glory in zero-g together!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75286676_2688030654851451_3504616876003033088_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1XoxmVe1Fi4AX8lMI5l&_nc_ht=scontent.oculuscdn.com&oh=4be2e0ecf4268ba81d39a5bed6598e23&oe=60800307"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75286676_2688030654851451_3504616876003033088_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ow4OK23dqAwAX96LmdD&_nc_ht=scontent.oculuscdn.com&oh=a090c6b3163bd1e1745c03a84ffda6be&oe=6083F787"
 							}
 						},
 						{
@@ -216,7 +216,7 @@
 							"created_time": 1588699862,
 							"body_text": "The Echo VR Open Beta is now available for all Oculus Quest Owners to download and play. Oculus Rift crossplay will be available soon.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75318185_168820404457256_2715516123985477632_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pyl5n_CdHbcAX8Jddck&_nc_ht=scontent.oculuscdn.com&oh=c4af5bb0a5d0d4759476b90c237b23b9&oe=60828541"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75318185_168820404457256_2715516123985477632_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XnBrw4abN2UAX-uJcuR&_nc_ht=scontent.oculuscdn.com&oh=e1efa5ec7ca361f59220bef0f6b39238&oe=60828541"
 							}
 						}
 					]
@@ -224,7 +224,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR15iO2ansho3d28ToDZkjDk5c2NAdGm1Dt38bypYfOLtVsU7WRyxrr2Ft8d2QUMcCKTyT1NOCSJcK5yuKZk5Dzg"
+							"cursor": "AQHRclHRKB_85m6EbV8uOWAfAjlsP_KfUR6suXU96HXnyc_wZhzg5lRkJC0Fys_O-f2MW-fwzzJOoJ65jcx2IzhiOA"
 						}
 					]
 				}
@@ -271,11 +271,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.661805217955,
+			"quality_rating_aggregate": 4.6617599482368,
 			"support_website_url": "http://www.readyatdawn.com/support/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2785,
+				"count": 2786,
 				"orderings": [
 					{
 						"key": "top",
@@ -288,10 +288,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2785,
+				"count": 2786,
 				"page_info": {
-					"end_cursor": "AQHRmnIkDW0GpGm7UZEJ5roaMs489yfeUrMtrK2bIZ-JUiLFDp65T3vELjaMP_EwFOJ4SBPOTyl5h6-y9L4SgUI-DQ",
-					"start_cursor": "AQHRmnIkDW0GpGm7UZEJ5roaMs489yfeUrMtrK2bIZ-JUiLFDp65T3vELjaMP_EwFOJ4SBPOTyl5h6-y9L4SgUI-DQ"
+					"end_cursor": "AQHReieCnD02qOgIJ9VpQKFKzrN8uzu590cRnfB6U1L4z0RSvpBDPgDz9ex9oLyCZcLrONEg05hL928x61B2WrgfDQ",
+					"start_cursor": "AQHReieCnD02qOgIJ9VpQKFKzrN8uzu590cRnfB6U1L4z0RSvpBDPgDz9ex9oLyCZcLrONEg05hL928x61B2WrgfDQ"
 				},
 				"edges": [
 					{
@@ -301,13 +301,13 @@
 								"id": "114589732830560",
 								"display_name": "meduzo",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.120.720.720a/s160x160/38982495_564525431170319_7511175337565097856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EkFsOR1BH6YAX-npMsR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bedea2f84093e4860936c940d7d9b772&oe=6080C5DD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.120.720.720a/s160x160/38982495_564525431170319_7511175337565097856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EkFsOR1BH6YAX8b2WfM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=30cf3699a5ed25c23afa6014a5231344&oe=6084BA5D"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I would pay full price just for VIP servers that don't have any kids.\n\nHaving this piece of software available for free on the most affordable headset was a recipe for disaster (community-wise), I'm sad to see these many neglected children thrown a headset on like a virtual nanny.\n\nThis is a great game, awesome if you have some friends with other headsets who want to play with you. However the community ruins it for me, I can't stand being around kids for more than a match or two, after the third march it becomes a burden and it's not fun anymore.\n\nI'm rating this 5 stars because the game is great and that's what the devs can control, they cannot control the community, I really hope they get lots of money from the parents' credit cards with the season passes so they can add better reporting systems and finally make some money with this game.",
 							"reviewTitle": "Being free on Quest was a bad decision",
-							"review_helpful_count": 61,
+							"review_helpful_count": 75,
 							"review_rank_by_viewer": null,
 							"date": 1615344277,
 							"developerResponse": null
@@ -322,7 +322,7 @@
 				"description": "Season 1 of Echo Pass is now open! Earn new Echo Points to unlock exciting rewards. \nExperience the freedom of zero-g movement and high energy competition in Echo VR! Load into the Echo VR social lobby to meet up with friends and customize your chassis before clashing against AI or opposing Echo Units in the Echo Arena.\n\nTo find links to feedback and bug report forms go to the Echo Games Discord, https://discord.com/invite/vXbazs5 \n\nNote: Echo VR requires Oculus runtime version 25 or greater.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003273_146681197286461_7758122122462017760_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JUt5ytlQcSIAX_todS1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4d0c1f2a80d8664fa1967ca05fb10c12&oe=6080ABEA",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003273_146681197286461_7758122122462017760_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JUt5ytlQcSIAX_eteQE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6688715edd4ae944042639dede02fb73&oe=6084A06A",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031334_2918947361670682_5741952600310652712_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VIbfvKK9XQEAX8oZnSn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d849998b52806a7759546362d9e70686&oe=60806A8D"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031334_2918947361670682_5741952600310652712_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FX_s8UqTYJoAX-GFlQ-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=74b8bb4d51dffe8257d8fecbf68b29a1&oe=60845F0D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_168396244922293_359415083971539575_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=L-HtIIyxlIoAX9RMusH&_nc_ht=scontent.oculuscdn.com&oh=3128538be3e77f517c432b7a449018e3&oe=60805BFC"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_168396244922293_359415083971539575_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=L-HtIIyxlIoAX_L_T1t&_nc_ht=scontent.oculuscdn.com&oh=81cd3149063f37ceb9c7de6e80a61367&oe=6084507C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 257,
+					"count": 260,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 189,
+					"count": 192,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 636,
+					"count": 640,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 5200,
+					"count": 5250,
 					"starRating": 5
 				}
 			],
@@ -97,15 +97,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.17298",
+				"version": "1.2.17479",
 				"change_log": "The best version of POP: ONE to date!",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "3642444271",
-				"id": "5510311158994084",
-				"required_space_adjusted": "5087302517",
+				"total_installed_space": "3680627632",
+				"id": "5536076256417574",
+				"required_space_adjusted": "5125081460",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -150,7 +150,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5510311158994084"
+					"id": "5536076256417574"
 				}
 			},
 			"release_channels": {
@@ -161,8 +161,8 @@
 						"id": "733026950405276",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.17298",
-							"id": "5510311158994084"
+							"version": "1.2.17479",
+							"id": "5536076256417574"
 						}
 					}
 				]
@@ -175,27 +175,27 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "465723811529926",
+							"title": "Weekly POP:ONE Update!",
+							"created_time": 1616622541,
+							"body_text": "March 25, 2021 Change List\n\nEnvironment\n\n- Seekers have taken over the Bureau Base on Summit\n- The power tower in Foothills has been downed\n- Collision: Fixed clipping into cliffs & other assorted fixes\n\nGeneral\n\n- Buffs: Increased Banana & Health Soda spawn chance (spawn ratio for Shield Drink to Health Items is now 2:1)\n- Social Currency: Removed toggle button (created performance issues)\n\nSupport\n- For support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- Calling Cards: All stats incorrectly display as 000\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\n&#x200B;\n\n~ see you in game!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035308_484712126016957_4675334007945691004_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DwBUrhCNg10AX8jys3d&_nc_ht=scontent.oculuscdn.com&oh=3908cca2d1f9dc53db8095797d226ebb&oe=6082F467"
+							}
+						},
+						{
 							"id": "3025484421026464",
 							"title": "Weekly POP:ONE Update!",
 							"created_time": 1616087233,
 							"body_text": "March 18, 2021 Change List\n\nGameplay\n\n- Guns: Fixed issue where pulling the trigger on guns stuck in a wall would endlessly fire\n- Buffs: Lowered Banana & Health Soda spawn chance (spawn ratio for Shield Drink to Health Items is now 4:1)\n- M60: Fixed reload issues\n\nGeneral\n\n- Leaderboard: Show the top 25 instead of only the top 10\n- Social Currency: Toggle button above right side bar to sort friends list by who hasn't been sent Seeker Silver\n- Main Menu: The top 1/3rd of the bottom navigation tab bar is no longer blocked off by an invisible collider\n- Store: Fixed issue where helper tool tips would incorrectly show up after making a purchase\n- Spectator: Setting height when in spectator mode no longer has a hole\n- Localization: Assorted bugfixes\n\nSupport\n\n- For support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n&#x200B;\n~ see you in game!",
 							"tile_landscape_image": null
-						},
-						{
-							"id": "360408865058517",
-							"title": "Weekly POP:ONE Update!",
-							"created_time": 1615423769,
-							"body_text": "March 11, 2021 Change List\n\nPhysics (PC VR only)\n\n- PC VR: Fixed issue where climbing or other movement could become jittery\n- PC VR: Fixed \"random\" movement speed fluctuation\n- This is an entirely different physics system on PC VR, please let us know if there are any bugs\n\nGameplay Balance\n\n- Both Sodas: Healing amount doubled (from 25 -> 50)\n- Both Sodas: Time to heal doubled\n- Both Sodas: Max in inventory slot decreased from 5 -> 3\n- AWP: Walk speed reduced to 80% max when AWP is in-hand\n- Melee: Knife and sword movement bonus increased from 10% -> 15%\n\nGameplay Fixes\n\n- Guns: Automatic weapons now start firing again after being stuck through a wall while the trigger is down\n- Waypoint Marker: Greatly increased ping distance and limited the loot ping distance\n- Compass: Show cardinal directions instead of numbers\n- Mutes: A mute will now cross mute (a muted player cannot hear the person that muted them)\n\nGeneral\n\n- Rewards: Impatient update ~ now \"Continue\" can be pressed to skip the reward/unlock animation\n- Store: Fixed discount price not showing correctly\n- Battle Menu: Fixed settings menu breaking if open while the match starts\n- Post Match: Fixed UI displaying behind the environment\n- Spectator: Setting height when in spectator mode no longer has a hole\n- Localization: Assorted bugfixes\n\nSupport\n\n- For support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n&#x200B;\n~ see you in game!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974809_532496641484807_5430720140360629592_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9SjplUDZFjwAX9dcDMC&_nc_ht=scontent.oculuscdn.com&oh=52bd3dcc1780fe29baf62f0d937fa4da&oe=60829041"
-							}
 						}
 					]
 				},
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRjPZSTZyMdEp5u8cp9Gvwkc-Ycpn6kx-3Blj04Adsr1aJaO_hQkSjneamugaXZ2FLT6sBWeJ4P-62QY7NJl11qw"
+							"cursor": "AQHRCJy_Bi02ErMc7Dr3iIhgXPP2Khw8QwRYKWZXCRlCCbK8Y2IVd-dv81_Fnki3YpOjak9boQ4zMslSAXyGsKitiA"
 						}
 					]
 				}
@@ -248,11 +248,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6297339593114,
+			"quality_rating_aggregate": 4.6297674418605,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 3263,
+				"count": 3273,
 				"orderings": [
 					{
 						"key": "top",
@@ -265,10 +265,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 3263,
+				"count": 3273,
 				"page_info": {
-					"end_cursor": "AQHRKIyS9JnzCbX4WD5Bla9mhYgU1MyCP7NQYFjYDSdoXiddppdyfft2SZLsUtcdYrf4sJwkBkpGARIXh_2Npl1yXQ",
-					"start_cursor": "AQHRKIyS9JnzCbX4WD5Bla9mhYgU1MyCP7NQYFjYDSdoXiddppdyfft2SZLsUtcdYrf4sJwkBkpGARIXh_2Npl1yXQ"
+					"end_cursor": "AQHRFOjzNMOrYmfsDoxlUN9Gsnw3s2SnCP0I-VQY48WbbDo_9W9EQq8MOnuW0lb5FHZxvhB7Pc9WkFym8QKP-P13vg",
+					"start_cursor": "AQHRFOjzNMOrYmfsDoxlUN9Gsnw3s2SnCP0I-VQY48WbbDo_9W9EQq8MOnuW0lb5FHZxvhB7Pc9WkFym8QKP-P13vg"
 				},
 				"edges": [
 					{
@@ -278,13 +278,13 @@
 								"id": "106246838076870",
 								"display_name": "dafrogmaster",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c3.0.850.850a/s160x160/38982715_136672388367648_112876248097758916_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dW6NIApYblYAX_vMqGs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a5ae0fdf6b03d376e5ddd112ea2a9ab2&oe=608136C3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c3.0.850.850a/s160x160/38982715_136672388367648_112876248097758916_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gBayKzuGeeMAX-feXRS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9330648fb352115e070c5a574b8f4e80&oe=60852B43"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This game is awesome but I have some ideas for changes\n1.in the main menu, please make a shooting range to practice while we wait for a game.\n2.Please implement war mode in the main game permanently. War mode is awesome.\n3.There should be a solo mode where you are a team by yourself and you are facing off against 8 more people.\n4.You don't have to do this one, but please make the player able to build ramps.\n5.when aiming down sights on the AWP, the reticle always starts at the bottom. Please make it start at the middle or where we are looking.\n6.please don't make pop:1 like fornite\n\nThat's it for now, thank you for your time.",
 							"reviewTitle": "BIG BOX PLEASE READ THIS!!",
-							"review_helpful_count": 109,
+							"review_helpful_count": 157,
 							"review_rank_by_viewer": null,
 							"date": 1615731383,
 							"developerResponse": null
@@ -299,7 +299,7 @@
 				"description": "CLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_259766475525536_7748797124750464409_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cNQipWB8E_4AX_d2vfa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=634b32a5b874676727e9c9d22d00dc28&oe=60815FE6",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_259766475525536_7748797124750464409_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cNQipWB8E_4AX9KYKGW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9dc2523835d2f40e332b81f42778c9a6&oe=60815FE6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

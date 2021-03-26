@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035457_250723189782106_2649516145910888399_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aNPAHhKGiukAX9gZaCK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e0c84371dee7faa5cfec68b67fe531d&oe=60807A13"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982488_1160550544376660_4954628775836466987_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UHgDePQjx1EAX_HBro3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4ab74dedcfefacf9ea1ebe653a5cc0d6&oe=6081C201"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_454159829058785_4327552095143249752_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=YQ-bqZQjPU8AX8QRk-5&_nc_ht=scontent.oculuscdn.com&oh=11146eaf24743a3a53fa92d0daf34597&oe=6081EC38"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_442800586993866_1603867384515380733_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=yX-1Yk8G-PIAX_uDBOW&_nc_ht=scontent.oculuscdn.com&oh=d35f3adc94eabf90844159a55393811a&oe=6082A2FF"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,16 +36,16 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 147,
+					"count": 149,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1090,
+					"count": 1095,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "Synth Riders is a freestyle dancing VR rhythm alternative with official custom song support. Lose yourself in the incredible music, meet friends in the multiplayer, and get a good workout in the process!\n\n• Dance to 67 Songs - 52 OST and 15 DLC including Muse!\n• Enjoy Official Custom Song Support (on the primary account)\n\n• Meet 10 Friends in Cross-Platform Multiplayer\n• Experience 360° Spin Mode in Every Song\n\n• Burn Those Calories with a Fitness Tracker\n• Play with Friends and Family in Party Mode\n\n\nThe trailer presents the Experience included with the \"Algorithm\" by Muse song. It is a DLC available for $1.99 or as a part of the \"Synthwave Essentials 2\" Music Pack.\n\n\n“An amazing physical experience with a full-body workout.” - VR Fitness Insider\n\n“An excellent, freestyling alternative to other VR rhythm games.” - Android Central",
+			"display_long_description": "Synth Riders is a freestyle dancing rhythm alternative with official custom song support. Lose yourself in the incredible music, meet friends in the multiplayer, and get a good workout in the process!\n\n• Dance to 55 free and 20 DLC songs including Muse and The Offspring\n• Enjoy Official Custom Song Support (on the primary account)\n• Meet 10 Friends in Cross-platform Multiplayer\n• Experience 360° Spin Mode in Every Song\n• Burn Calories with a Fitness Smartwatch\n\nDemo now available on App Lab!\n\n“An amazing full-body physical experience” - VR Fitness Insider\n“An excellent, freestyling alternative to other VR rhythm games” - Android Central\n\nThe trailer presents the Experience for \"Come Out and Play\" by The Offspring. It is a DLC available for $1.99 or as a part of the \"Adrenaline\" Music Pack.",
 			"developer_privacy_policy_url": "https://synthridersvr.com/privacy-policy",
 			"developer_terms_of_service_url": "https://synthridersvr.com/privacy-policy",
 			"supported_player_modes": [
@@ -81,51 +81,51 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.3.8.a23",
-				"change_log": "bHaptics Support Included\nWe’re excited to announce cross-platform support for bHaptics in Synth Riders!  You can now use the enhanced haptics of the bHaptics TactSuit or Tactosy and really feel that rhythm - and look out for the walls!\n\nThere’s a lot more to this release than this - we are always listening to your feedback, and looking for ways to make getting in and playing Synth Riders a better experience for everyone.  So there’s lots of great “Quality of Life” (QoL) improvements included with this release.\n\nSort, Filter & Random Song Improvements\n- Sort & Filter saved between songs.\n- Selecting \"Random Song\" from the song summary screen will not repeat songs you've played in the current session.\n- \"Random Song\" will try to stick to the song difficulty of the first song when available. If the difficulty is not available in the next random song, it picks the nearest available.\n- Previously only available while using Play Non-Stop mode, the Pause menu now always shows song information.\n\nMultiplayer\n- Banned players can no longer rejoin a room by manually entering the room name.\n- Individual player settings panel size increased to make it easier to access controls for adjusting mute, relative audio level (all players) and ban (room host only) for other players in the room.\n\nNo Fail -50% Penalty Only Applies When You Fail\n- There’s no reason not to use No Fail with friends in Multiplayer Mode now!  When you enable the \"No Fail\" modifier, the score modifier and leaderboard tag will only apply when your energy bar reaches zero.  At that point while playing, instead of failing out of the song, you can continue playing - but your score for the song will be halved and your score will be tagged as \"No Fail\" on the leaderboard.\n\nCamera Improvements (PCVR Only)\n- Selecting Settings > Visuals > Display Camera > Off now correctly disables the camera on the menu scenes. This is recommended for performance if you are not capturing the window.\n- Settings > Visuals > Display Camera > Window Size settings are now sticky.\n- Scriptable, simulated camera movement through making the playspace rotate while you play is now available.  This is an awesome effect which content creators can use to make their mixed reality videos even more amazing!  For more information on this, please see https://bit.ly/srcamera\t\n- LIV SDK Updated to 1.5.4.\n- Controller trails updated.\n\nImprovements / Bug Fixes\n- Back button in the settings menu goes back to the previous screen if a sub-panel is open (e.g. Advanced Graphics -> Graphics).\n- Changes to behaviour when playing songs with Custom difficulties that specify a Note Jump Speed (NJS) to be used AND using a Note Jump Speed modifier - essentially players will only receive bonuses and score marking  if the actual played Note Jump Speed is greater than that specified by the map (thanks Tititor).\n- You'll now be prompted for a water break at the song end screen, rather than waiting until you return to the main menu (thanks HeavyGee).\n- Finished Challenges display correctly when in Multiplayer.\n- Room Adjustment now applies correctly while playing on Quest.\n- Various typo fixes.\n\nTwitch Integration\n- When Power-Ups are disabled, score uploads are no longer disabled for !color, !invaderz, or !warp as these do not help the player. In addition, they are only disabled for !vanish and !prismatic when used in conjunction with the corresponding gameplay modifiers.\n- Bot is no longer disabled if pub sub fails.\n- Fixed error for follower updating when bot is disconnected.\n- Improved behaviour when switching channels.\n- Added a disabled reply for invaderz when in command mode.\n- Added message if a command is unavailable due to being in channelpoint mode.\n- Improved handling of blank/empty twitch channel name.\n\n\nAs always we welcome your feedback and bug reports on our Official Discord server (Invite: <http://discord.synthridersvr.com>) or in the Synth Riders Official Community on Facebook.\n\nIf you want to support the development of Synth Riders, we really appreciate reviews left on the Steam/Oculus Store!",
+				"version": "2.3.9.a5",
+				"change_log": "2.3.9.a5",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1026479061",
-				"id": "3828393313935229",
-				"required_space_adjusted": "1790163670",
+				"total_installed_space": "1051539983",
+				"id": "3880259795415247",
+				"required_space_adjusted": "1843398096",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
-					"count": 20
+					"count": 27
 				},
 				"firstIapItems": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"page_info": {
-						"end_cursor": "AQHRppGIXurlXU42-GYkXPCrFXildkuGXzv3KO0VMZESDRZmdgzDPvSQShqNGLBM7LS6xzJqvk0x4WBj-UOWcjDZHg",
-						"start_cursor": "AQHRppGIXurlXU42-GYkXPCrFXildkuGXzv3KO0VMZESDRZmdgzDPvSQShqNGLBM7LS6xzJqvk0x4WBj-UOWcjDZHg"
+						"end_cursor": "AQHR2WUbV7V0CQEMn5fFe1xf8B_yHTnCOFdox5riHfJwtmW9CII58luXeBrg_r5IXs7n8wDFrKXei-aZxHg-dAIBzQ",
+						"start_cursor": "AQHR2WUbV7V0CQEMn5fFe1xf8B_yHTnCOFdox5riHfJwtmW9CII58luXeBrg_r5IXs7n8wDFrKXei-aZxHg-dAIBzQ"
 					},
-					"count": 20,
+					"count": 27,
 					"edges": [
 						{
 							"__typename": "AndroidBinaryStoreAddonsIncludingBundlesEdge",
 							"node": {
 								"__typename": "AppItemBundle",
-								"id": "2722338971413849",
+								"id": "434038651226105",
 								"current_offer": {
 									"__typename": "AppStoreOffer",
-									"id": "409541336928198",
+									"id": "1826953724151391",
 									"offer_type": "APPSTORE_OFFER",
 									"__isPurchasableOfferWithApp": "AppStoreOffer",
 									"price": {
 										"currency": "USD",
-										"offset_amount": "799",
-										"formatted": "$7.99"
+										"offset_amount": "2974",
+										"formatted": "$29.74"
 									},
 									"strikethrough_price": {
 										"currency": "USD",
-										"offset_amount": "995",
-										"formatted": "$9.95"
+										"offset_amount": "4178",
+										"formatted": "$41.78"
 									}
 								},
 								"__isAppStoreItem": "AppItemBundle",
-								"display_name": "Synth Riders Synthwave Essentials 2",
-								"display_short_description": "With two Muse tracks alongside incredible Synthwave classics, this pack pays tribute to 80s music culture, blending in future influences. Expect catchy tunes, unique voices, and analog synths galore!",
+								"display_name": "Synth Riders Complete Collection",
+								"display_short_description": "Dance all night and never run out of tunes with the ultimate collection including 20 songs, 2 stages, and 2 experiences, from Muse to The Offspring to Parov Stelar!",
 								"is_viewer_entitled": false,
 								"parentApplication": {
 									"canonicalName": "kluge-interactive-synth-riders-android6d0f",
@@ -137,13 +137,31 @@
 										{
 											"node": {
 												"__typename": "IAPItem",
-												"id": "4056946694329195"
+												"id": "4190318844325312"
 											}
 										},
 										{
 											"node": {
 												"__typename": "IAPItem",
-												"id": "4056946164329248"
+												"id": "4190319797658550"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4190320454325151"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4190321070991756"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4190321707658359"
 											}
 										},
 										{
@@ -162,6 +180,90 @@
 											"node": {
 												"__typename": "IAPItem",
 												"id": "4056944594329405"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4056946694329195"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "4056946164329248"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3592026894154513"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3592026370821232"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3592025597487976"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3592024874154715"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3592024150821454"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3581300708560465"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3252925678064638"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3252691818088024"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3252690808088125"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3252689248088281"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3252686218088584"
+											}
+										},
+										{
+											"node": {
+												"__typename": "IAPItem",
+												"id": "3252683198088886"
 											}
 										}
 									]
@@ -186,17 +288,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "267959407837991",
+				"id": "3934886269882746",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1999",
+					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1617296400,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -207,7 +314,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3828393313935229"
+					"id": "3880259795415247"
 				}
 			},
 			"release_channels": {
@@ -218,8 +325,8 @@
 						"id": "1294977310680058",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.3.8.a23",
-							"id": "3828393313935229"
+							"version": "2.3.9.a5",
+							"id": "3880259795415247"
 						}
 					}
 				]
@@ -230,77 +337,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1616709617,
-								"current_start_timestamp": 1616702400,
-								"temporal_info": {
-									"seconds_until_end_time": 48416,
-									"seconds_until_start_time": 41199
-								},
-								"vr_app_and_destination_string": "Synth Riders",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2436558143118760",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Synth Riders"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1256526871448796",
-								"is_vr_viewer_interested": false,
-								"name": "\"Adrenaline\" Release - Play with the Devs (Europe)",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974593_3732395666797509_8192570988017000877_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FH4mVeH7_JMAX_5IHzJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4451c7ae3d7d3b2331228b44a2418da5&oe=608082FD"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1616727617,
-								"current_start_timestamp": 1616720400,
-								"temporal_info": {
-									"seconds_until_end_time": 66416,
-									"seconds_until_start_time": 59199
-								},
-								"vr_app_and_destination_string": "Synth Riders",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2436558143118760",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Synth Riders"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1256525798115570",
-								"is_vr_viewer_interested": false,
-								"name": "\"Adrenaline\" Release - Play with the Devs (US)",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974593_450088509443058_8629287019945007504_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uD8G12jMxesAX-p8C21&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d29401e1f7be0ca22fede668efb35bfe&oe=60809C2F"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1616900400,
 								"current_start_timestamp": 1616893200,
 								"temporal_info": {
-									"seconds_until_end_time": 239199,
-									"seconds_until_start_time": 231999
+									"seconds_until_end_time": 151215,
+									"seconds_until_start_time": 144015
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -322,7 +363,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375762_491043988528392_2855055394507377326_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nydWeGqWmGEAX-egO1G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b7131116dcce7cd603559bb648a7f3f6&oe=608349DC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375762_491043988528392_2855055394507377326_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nydWeGqWmGEAX9BR6WY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a9d7d89148a3bdf27dae634d0ef05f1&oe=608349DC"
 								}
 							}
 						},
@@ -332,8 +373,8 @@
 								"current_end_timestamp": 1616968800,
 								"current_start_timestamp": 1616961600,
 								"temporal_info": {
-									"seconds_until_end_time": 307599,
-									"seconds_until_start_time": 300399
+									"seconds_until_end_time": 219615,
+									"seconds_until_start_time": 212415
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -355,7 +396,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75422384_149200010366456_3759244016797916077_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=O-AtV2MhCLgAX_rFRK7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b59598cbb2ed8d70771690763c77bd58&oe=60805764"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75422384_149200010366456_3759244016797916077_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=O-AtV2MhCLgAX80CyM4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6da99b33b1307dc31a2878739fadbf9d&oe=60844BE4"
 								}
 							}
 						},
@@ -365,8 +406,8 @@
 								"current_end_timestamp": 1617505200,
 								"current_start_timestamp": 1617498000,
 								"temporal_info": {
-									"seconds_until_end_time": 843999,
-									"seconds_until_start_time": 836799
+									"seconds_until_end_time": 756015,
+									"seconds_until_start_time": 748815
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -388,7 +429,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86663416_797532457508169_1220921821925937803_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P2iCThHaD2kAX-JVX6t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=19a4539f03bf61eebcaeee43d688ced1&oe=60831790"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86663416_797532457508169_1220921821925937803_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P2iCThHaD2kAX-kGhbN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d1280d2714dc77c6bc5362d14c98a8a7&oe=60831790"
 								}
 							}
 						},
@@ -398,8 +439,8 @@
 								"current_end_timestamp": 1617573600,
 								"current_start_timestamp": 1617566400,
 								"temporal_info": {
-									"seconds_until_end_time": 912399,
-									"seconds_until_start_time": 905199
+									"seconds_until_end_time": 824415,
+									"seconds_until_start_time": 817215
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -421,7 +462,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031584_474790500185026_7881706683310441198_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FqZ8TfZZPRgAX8hQyAI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f7a50f9beec483b1b2fa073814a3df76&oe=608143B3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031584_474790500185026_7881706683310441198_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XNZsOpF6bnkAX-ZS-Ep&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f30f9a7f876dba1c12749da598a59585&oe=608143B3"
 								}
 							}
 						},
@@ -431,8 +472,8 @@
 								"current_end_timestamp": 1618110000,
 								"current_start_timestamp": 1618102800,
 								"temporal_info": {
-									"seconds_until_end_time": 1448799,
-									"seconds_until_start_time": 1441599
+									"seconds_until_end_time": 1360815,
+									"seconds_until_start_time": 1353615
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -454,7 +495,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982564_462207151629731_8024390393340451242_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wCxqxSSEfPMAX-o5NH8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=697414578b036670b90427a6b6bf52eb&oe=6080D907"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982564_462207151629731_8024390393340451242_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ISki5NPMGqMAX-QAF0o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e3ce3d14db82049ffb2f1569b16c3a92&oe=6084CD87"
 								}
 							}
 						},
@@ -464,8 +505,8 @@
 								"current_end_timestamp": 1618178400,
 								"current_start_timestamp": 1618171200,
 								"temporal_info": {
-									"seconds_until_end_time": 1517199,
-									"seconds_until_start_time": 1509999
+									"seconds_until_end_time": 1429215,
+									"seconds_until_start_time": 1422015
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -487,7 +528,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035399_124390119526955_3524074464594263908_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=D5wWorFILTkAX-cSc9a&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d448a42b59713681025b99002a22c7ea&oe=607FFEEC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035399_124390119526955_3524074464594263908_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sdb-AgWdMvMAX81rCll&_nc_ht=scontent.oculuscdn.com&tp=28&oh=82746b1fd107a7a1c993fe4f79b95092&oe=6083F36C"
 								}
 							}
 						},
@@ -497,8 +538,8 @@
 								"current_end_timestamp": 1618714800,
 								"current_start_timestamp": 1618707600,
 								"temporal_info": {
-									"seconds_until_end_time": 2053599,
-									"seconds_until_start_time": 2046399
+									"seconds_until_end_time": 1965615,
+									"seconds_until_start_time": 1958415
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -520,7 +561,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75221318_717247818976909_3029024924159150193_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qSYfELHl1J0AX-mClhq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ca80a6b4a0d38bd2113b877b46c8de67&oe=60808360"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75221318_717247818976909_3029024924159150193_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qSYfELHl1J0AX_cawD7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c598430935cd1da2df8d928810397c6&oe=608477E0"
 								}
 							}
 						},
@@ -530,8 +571,8 @@
 								"current_end_timestamp": 1618783200,
 								"current_start_timestamp": 1618776000,
 								"temporal_info": {
-									"seconds_until_end_time": 2121999,
-									"seconds_until_start_time": 2114799
+									"seconds_until_end_time": 2034015,
+									"seconds_until_start_time": 2026815
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -553,7 +594,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375088_878420066034453_329133079547549809_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6gaKCwjgKPAAX_yEnQr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e9badbcd51297557a265fd824d0de18b&oe=6080203F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375088_878420066034453_329133079547549809_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6gaKCwjgKPAAX-nJJwp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1bbb2c9e02326a759cc708361b4a0a60&oe=608414BF"
 								}
 							}
 						},
@@ -563,8 +604,8 @@
 								"current_end_timestamp": 1619319600,
 								"current_start_timestamp": 1619312400,
 								"temporal_info": {
-									"seconds_until_end_time": 2658399,
-									"seconds_until_start_time": 2651199
+									"seconds_until_end_time": 2570415,
+									"seconds_until_start_time": 2563215
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -586,7 +627,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75556798_745844086355738_6788009444655020302_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pwAaf7x0PskAX_RkPm3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59b207dc6e1ce82bb732057356249271&oe=60824F53"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75556798_745844086355738_6788009444655020302_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZyCoGzBCxiIAX_Aboke&_nc_ht=scontent.oculuscdn.com&tp=28&oh=794a90195865e05332accbf001337dad&oe=60824F53"
 								}
 							}
 						},
@@ -596,8 +637,8 @@
 								"current_end_timestamp": 1619388000,
 								"current_start_timestamp": 1619380800,
 								"temporal_info": {
-									"seconds_until_end_time": 2726799,
-									"seconds_until_start_time": 2719599
+									"seconds_until_end_time": 2638815,
+									"seconds_until_start_time": 2631615
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -619,7 +660,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75441580_886406821934453_5999894597597215497_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TwhlPxDzZX8AX_RyTIz&_nc_oc=AQl1A8H85CVv6dIxuSiQojV3hdNX_BVIYK3KRHtsjWI4DtM0uDIeSKG4hRTih_6aC2U&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e673a669e8e8478074b907fe65b75dd0&oe=6080861A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75441580_886406821934453_5999894597597215497_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TwhlPxDzZX8AX9w55SS&_nc_oc=AQm5IkjVp2y3AWicHs3n10OTg1bUddeCKCi4k3arPP7Poug3R6jegaUgUlzzUaFDKKk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2a8e4b1d54bc89c6152eb9e7481ed319&oe=60847A9A"
 								}
 							}
 						},
@@ -629,8 +670,8 @@
 								"current_end_timestamp": 1619924400,
 								"current_start_timestamp": 1619917200,
 								"temporal_info": {
-									"seconds_until_end_time": 3263199,
-									"seconds_until_start_time": 3255999
+									"seconds_until_end_time": 3175215,
+									"seconds_until_start_time": 3168015
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -652,7 +693,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982678_166554941715575_3009159330773409885_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PPv1x28xawMAX8RWFw0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c5e05078e182b3bd29c8a642c70a17f6&oe=60811578"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982678_166554941715575_3009159330773409885_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PPv1x28xawMAX_8-hEK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4ca47527b0a69a7fc2d969a9913ad328&oe=608509F8"
 								}
 							}
 						},
@@ -662,8 +703,8 @@
 								"current_end_timestamp": 1619992800,
 								"current_start_timestamp": 1619985600,
 								"temporal_info": {
-									"seconds_until_end_time": 3331599,
-									"seconds_until_start_time": 3324399
+									"seconds_until_end_time": 3243615,
+									"seconds_until_start_time": 3236415
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -685,7 +726,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75297584_2865725073687041_1317143527949680685_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=phdT2cHiLEwAX96imXb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46ebf3a33b591c196f40e87d2a43dc50&oe=6081E7FB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75297584_2865725073687041_1317143527949680685_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=phdT2cHiLEwAX_fl0vY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=10a18026b205a77b65196e07648f95dd&oe=6081E7FB"
 								}
 							}
 						},
@@ -695,8 +736,8 @@
 								"current_end_timestamp": 1620529200,
 								"current_start_timestamp": 1620522000,
 								"temporal_info": {
-									"seconds_until_end_time": 3867999,
-									"seconds_until_start_time": 3860799
+									"seconds_until_end_time": 3780015,
+									"seconds_until_start_time": 3772815
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -718,7 +759,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75411995_484191369408109_1962983644977834481_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cETgncHzp7IAX_VqEOD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35ceed40e760b2cdd35671d001380fb0&oe=60812444"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75411995_484191369408109_1962983644977834481_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cETgncHzp7IAX9I17vr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5f574489ff7df496974d3177f25f84cc&oe=608518C4"
 								}
 							}
 						},
@@ -728,8 +769,8 @@
 								"current_end_timestamp": 1620597600,
 								"current_start_timestamp": 1620590400,
 								"temporal_info": {
-									"seconds_until_end_time": 3936399,
-									"seconds_until_start_time": 3929199
+									"seconds_until_end_time": 3848415,
+									"seconds_until_start_time": 3841215
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -751,7 +792,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75416838_760519008218474_4774878412494946471_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lugeJMqyu1kAX-CDmC3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8b6b16c4ee0b5893a55b3103f3583387&oe=60805ECD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75416838_760519008218474_4774878412494946471_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lugeJMqyu1kAX-aOzMk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=80169036f95f98868fafc4005161fa82&oe=6084534D"
 								}
 							}
 						},
@@ -761,8 +802,8 @@
 								"current_end_timestamp": 1621134000,
 								"current_start_timestamp": 1621126800,
 								"temporal_info": {
-									"seconds_until_end_time": 4472799,
-									"seconds_until_start_time": 4465599
+									"seconds_until_end_time": 4384815,
+									"seconds_until_start_time": 4377615
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -784,7 +825,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75324645_926279708163261_8895207983832144228_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S4LZ466hMjgAX-8lMG3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4ce8f41defd2c92ad9fdc58e9ddd3516&oe=60820BAD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75324645_926279708163261_8895207983832144228_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S4LZ466hMjgAX96j1JG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=88ee1cb7c90706d4c078a4472f058fdb&oe=60820BAD"
 								}
 							}
 						},
@@ -794,8 +835,8 @@
 								"current_end_timestamp": 1621202400,
 								"current_start_timestamp": 1621195200,
 								"temporal_info": {
-									"seconds_until_end_time": 4541199,
-									"seconds_until_start_time": 4533999
+									"seconds_until_end_time": 4453215,
+									"seconds_until_start_time": 4446015
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -817,7 +858,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75348046_463760841473011_1090033904110420275_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fFDSu3q_6sEAX81Ft-Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8df6676dc5b290f0e4dc51ecff848f01&oe=608298CE"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75348046_463760841473011_1090033904110420275_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=m0Y6NBMoCzAAX_ZfD2e&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4171f0cc30892f913f446a59110ff448&oe=608298CE"
 								}
 							}
 						},
@@ -827,8 +868,8 @@
 								"current_end_timestamp": 1621738800,
 								"current_start_timestamp": 1621731600,
 								"temporal_info": {
-									"seconds_until_end_time": 5077599,
-									"seconds_until_start_time": 5070399
+									"seconds_until_end_time": 4989615,
+									"seconds_until_start_time": 4982415
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -850,7 +891,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974892_142308844394451_8738584320380031954_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9jYSzH9Eau8AX83yDm6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9dae401966769b9a6519898351dc7534&oe=6081807A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974892_142308844394451_8738584320380031954_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9jYSzH9Eau8AX8wPPz8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2c95e90fc3d67a8ab0a67ee277750651&oe=6081807A"
 								}
 							}
 						},
@@ -860,8 +901,8 @@
 								"current_end_timestamp": 1621807200,
 								"current_start_timestamp": 1621800000,
 								"temporal_info": {
-									"seconds_until_end_time": 5145999,
-									"seconds_until_start_time": 5138799
+									"seconds_until_end_time": 5058015,
+									"seconds_until_start_time": 5050815
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -883,7 +924,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75422390_147519280527139_2973303602456230482_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mhIxiayV5JwAX-vEPww&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5b7f2461119e4ede4992000e098235f0&oe=608057D1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75422390_147519280527139_2973303602456230482_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mhIxiayV5JwAX9GyJIB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1f5fd2c9b0e6c4f7d7c8cc8318f181be&oe=60844C51"
 								}
 							}
 						},
@@ -893,8 +934,8 @@
 								"current_end_timestamp": 1622343600,
 								"current_start_timestamp": 1622336400,
 								"temporal_info": {
-									"seconds_until_end_time": 5682399,
-									"seconds_until_start_time": 5675199
+									"seconds_until_end_time": 5594415,
+									"seconds_until_start_time": 5587215
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -916,7 +957,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035370_1762052603950063_3669086711017504551_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=B8VMtY7JGEcAX_w-kVa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=022172dc689233c3e4cc3ece0b04b484&oe=6083B4C5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035370_1762052603950063_3669086711017504551_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nHO-Z4BehbMAX8AX0X4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1add346380b71ff86aa009ae3743f024&oe=6083B4C5"
 								}
 							}
 						},
@@ -926,8 +967,8 @@
 								"current_end_timestamp": 1622412000,
 								"current_start_timestamp": 1622404800,
 								"temporal_info": {
-									"seconds_until_end_time": 5750799,
-									"seconds_until_start_time": 5743599
+									"seconds_until_end_time": 5662815,
+									"seconds_until_start_time": 5655615
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -949,7 +990,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75411988_726764088207222_5475618352682760511_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X9l4ttBX9skAX9FXbSv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd46f2545a95fa7bf1ea19e58f13e661&oe=60833A32"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75411988_726764088207222_5475618352682760511_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dFh8BrGUoGoAX8THkqj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bfb97a2fe03cd6ab4c06be86c5d94e44&oe=60833A32"
 								}
 							}
 						},
@@ -959,8 +1000,8 @@
 								"current_end_timestamp": 1622948400,
 								"current_start_timestamp": 1622941200,
 								"temporal_info": {
-									"seconds_until_end_time": 6287199,
-									"seconds_until_start_time": 6279999
+									"seconds_until_end_time": 6199215,
+									"seconds_until_start_time": 6192015
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -982,7 +1023,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330713_277327420439821_2753683274811243758_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kcy916uxR40AX--QUQR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=86bda35f814edeefea920d26007604f3&oe=6082BB90"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330713_277327420439821_2753683274811243758_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HKkFZLF7E8sAX8SpW-W&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1c70baa4cc745da9f10a375bc0c4509a&oe=6082BB90"
 								}
 							}
 						},
@@ -992,8 +1033,8 @@
 								"current_end_timestamp": 1623016800,
 								"current_start_timestamp": 1623009600,
 								"temporal_info": {
-									"seconds_until_end_time": 6355599,
-									"seconds_until_start_time": 6348399
+									"seconds_until_end_time": 6267615,
+									"seconds_until_start_time": 6260415
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1015,7 +1056,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75416835_3651813414871936_7488884798635589772_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=q5gol37TtUcAX-eHqNS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=66dd2bf4441b12c026ea503c9ecc9ca3&oe=6082B824"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75416835_3651813414871936_7488884798635589772_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=q5gol37TtUcAX_Nl4A8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4a214e4311b48e618f4ccb35d70157fb&oe=6082B824"
 								}
 							}
 						},
@@ -1025,8 +1066,8 @@
 								"current_end_timestamp": 1623553200,
 								"current_start_timestamp": 1623546000,
 								"temporal_info": {
-									"seconds_until_end_time": 6891999,
-									"seconds_until_start_time": 6884799
+									"seconds_until_end_time": 6804015,
+									"seconds_until_start_time": 6796815
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1048,7 +1089,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86601735_1158391271278066_7417411212376619794_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ftr-5gfxg3EAX_v5-1z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7dc51bdb5a43839c1432ca5c1605853d&oe=60827693"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86601735_1158391271278066_7417411212376619794_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ftr-5gfxg3EAX9QIjVo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=df1011241d8a957840edb133e8198cab&oe=60827693"
 								}
 							}
 						},
@@ -1058,8 +1099,8 @@
 								"current_end_timestamp": 1623621600,
 								"current_start_timestamp": 1623614400,
 								"temporal_info": {
-									"seconds_until_end_time": 6960399,
-									"seconds_until_start_time": 6953199
+									"seconds_until_end_time": 6872415,
+									"seconds_until_start_time": 6865215
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1081,7 +1122,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75542956_412541036713942_8331066845034243536_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VbvgDdygIWkAX-FzbpB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=458dab884f845ee46b4999a325240b04&oe=60801AD4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75542956_412541036713942_8331066845034243536_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VbvgDdygIWkAX_DI11k&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bc75c722e53c0bdf43f1df322cc45701&oe=60840F54"
 								}
 							}
 						},
@@ -1091,8 +1132,8 @@
 								"current_end_timestamp": 1624158000,
 								"current_start_timestamp": 1624150800,
 								"temporal_info": {
-									"seconds_until_end_time": 7496799,
-									"seconds_until_start_time": 7489599
+									"seconds_until_end_time": 7408815,
+									"seconds_until_start_time": 7401615
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1114,7 +1155,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75223482_215912223607046_3167083102434982735_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FV8zO49RLFAAX9zHOxZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d3f8890a95fae0405c653fc21bc0726&oe=6081B4B5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75223482_215912223607046_3167083102434982735_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FDiugWGzci0AX9zm0uv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7ecbc7dc57b22b230a5a68501af4572b&oe=6081B4B5"
 								}
 							}
 						},
@@ -1124,8 +1165,8 @@
 								"current_end_timestamp": 1624226400,
 								"current_start_timestamp": 1624219200,
 								"temporal_info": {
-									"seconds_until_end_time": 7565199,
-									"seconds_until_start_time": 7557999
+									"seconds_until_end_time": 7477215,
+									"seconds_until_start_time": 7470015
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1147,7 +1188,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75485580_3999606876770313_850913818835060141_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pE0VsbY8vhQAX_u6hTH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d0d3f62219a4b2401d962b6bd02723e2&oe=6082C2B1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75485580_3999606876770313_850913818835060141_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZO-xALLCGm4AX_OMXee&_nc_ht=scontent.oculuscdn.com&tp=28&oh=24cfd624300f183e3497a71ff1250939&oe=6082C2B1"
 								}
 							}
 						},
@@ -1157,8 +1198,8 @@
 								"current_end_timestamp": 1624762800,
 								"current_start_timestamp": 1624755600,
 								"temporal_info": {
-									"seconds_until_end_time": 8101599,
-									"seconds_until_start_time": 8094399
+									"seconds_until_end_time": 8013615,
+									"seconds_until_start_time": 8006415
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1180,7 +1221,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Saturday Synth Fever\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210891_257915999228209_2987285883203466899_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=neofvlzcLrsAX-7sF2G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f5bcbe830fbbc339078eb6b836bb646&oe=60805697"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210891_257915999228209_2987285883203466899_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KyONDKiBaCAAX98VbWF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=915a4dc4922fcdb185b1fa89f832728d&oe=60844B17"
 								}
 							}
 						},
@@ -1190,8 +1231,8 @@
 								"current_end_timestamp": 1624831200,
 								"current_start_timestamp": 1624824000,
 								"temporal_info": {
-									"seconds_until_end_time": 8169999,
-									"seconds_until_start_time": 8162799
+									"seconds_until_end_time": 8082015,
+									"seconds_until_start_time": 8074815
 								},
 								"vr_app_and_destination_string": "Synth Riders",
 								"vr_applications": {
@@ -1213,7 +1254,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "\"Sunday Sessions\" with Synth Riders",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75599467_1798220890352865_4385147887627524271_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ivgu1Z2bdxgAX8e44ft&_nc_ht=scontent.oculuscdn.com&tp=28&oh=916a6d812c4845b6b80096b17e9ea276&oe=608355E0"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75599467_1798220890352865_4385147887627524271_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ivgu1Z2bdxgAX8mFQnR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f1cb1512c1c290325454694edd23c8b9&oe=608355E0"
 								}
 							}
 						}
@@ -1223,21 +1264,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "189649962921604",
+							"title": "\"Adrenaline\" feat. The Offspring is now out!",
+							"created_time": 1616024725,
+							"body_text": "Rock out to The Offsprings!\n\nThe \"Adrenaline\" Music Pack is now available featuring 8 new songs!\n\nThis new pack will have you jumping straight into the mosh pit with the greatest hits of iconic punk rock artists including The Offspring, Bad Religion, and Rancid. The pack comes with 3 free songs and 5 paid DLC songs.\n\nThe song “Come Out And Play” by The Offspring comes bundled with the second Synth Riders Experience, this time packed with punk style and rock attitude tailored to match the track with perfectly synced visuals.\n\nCheck out a trailer for the new Experience.\n\nFree songs are already in your library! DLC songs can be purchased for $1.99 or as a bundle with a 20% discount.\n\nYou are invited to join our Community on Discord and leave a review on the Oculus Store to support the development.\n\nSee you in the game!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031393_547189416242531_8715424673514248731_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pSwtIkdVfsAAX8Fwnpl&_nc_ht=scontent.oculuscdn.com&oh=c9fc0413129a0dd86639682551c898e2&oe=60814DD5"
+							}
+						},
+						{
 							"id": "293149158901732",
 							"title": "You are invited for the \"Sunday Sessions\" Multiplayer Events!",
 							"created_time": 1614218524,
 							"body_text": "We invite you for the \"Sunday Sessions\", a brand new weekly event in the Multiplayer Mode of Synth Riders, Europe-friendly!\n\nEvery Sunday at 1PM PST / 10PM CET, join us to enjoy amazing music, dance with friends, meet new people, and get a good workout in the process.\n\nOur host HeyFalcon will jump between the rooms to get the party going.\n\nThe legendary \"Saturday Synth Fever\" is still going to run every Saturday at 6PM!\n\nYou can subscribe to both Oculus Events for upcoming weeks to make sure you don't miss the party.\n\nSee you in the game!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982545_278302760372779_5477740783634907821_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-13H42gNkDEAX9CUa3d&_nc_ht=scontent.oculuscdn.com&oh=9fc9a4498c906b0d688f0461eef93a42&oe=6081EFE7"
-							}
-						},
-						{
-							"id": "2843770782509311",
-							"title": "\"Synthwave Essentials 2\" feat. Muse is now available!",
-							"created_time": 1610377049,
-							"body_text": "Enter a neon future!\n\nWe are proud to present the “Synthwave Essentials 2” Music Pack featuring 3 free and 5 DLC songs!\n\nHeadlined by Muse with tracks from “Simulation Theory” sitting alongside incredible Synthwave classics, this pack pays tribute to 80s music culture, while blending in future influences.\n\n“Algorithm” by Muse comes with a free “Experience”. More than just a stage, this is artistically-driven, immersive visuals that result in the blending of sight, sound, and movement together into a transformative experience.\n\nFree songs are already in your library! DLC songs can be purchased for $1.99 or as a bundle with a 20% discount.\n\nYou are invited to join our Community on Discord and leave a review on the Oculus Store to support the development.\n\nSee you in the game!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75493235_748038052498576_7695123735658244992_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zA2nzrTWFzUAX_Z_QU2&_nc_ht=scontent.oculuscdn.com&oh=a1c3cd0e7515225156aa3b890735ad10&oe=60819215"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982545_278302760372779_5477740783634907821_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-13H42gNkDEAX_ZS7T_&_nc_ht=scontent.oculuscdn.com&oh=648a8843e881811b121c0bbc0764b5c9&oe=6081EFE7"
 							}
 						}
 					]
@@ -1245,7 +1286,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR8slhJ4EPT4sDE5ccMDLJMna1c-7l8zwuDWTJFeXdv0WIwPw8oLF3einMdoy9qt7LU4XWqIbCLfVm4E9p2MNEVA"
+							"cursor": "AQHR2eerD6Zhvhl9oD5U31V44W0fiqNe40VAdrKfILQx9LnzF_Tw-CnSQc5yls4wtKcXNPmAsOnQfHiGv6kTsbe1Rg"
 						}
 					]
 				}
@@ -1293,16 +1334,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "267959407837991"
+				"id": "3934886269882746"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.658788774003,
+			"quality_rating_aggregate": 4.6590742101396,
 			"support_website_url": "https://synthridersvr.com/contact-us/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 788,
+				"count": 790,
 				"orderings": [
 					{
 						"key": "top",
@@ -1315,10 +1356,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 788,
+				"count": 790,
 				"page_info": {
-					"end_cursor": "AQHRz74s5mCB9L1NJAHP5PWl8qORBXti-DPW82C_bKn31aBhTp1smpMo3HaDRPtJ4PbTq3ThqaXwwEpXkBNa59LHnw",
-					"start_cursor": "AQHRz74s5mCB9L1NJAHP5PWl8qORBXti-DPW82C_bKn31aBhTp1smpMo3HaDRPtJ4PbTq3ThqaXwwEpXkBNa59LHnw"
+					"end_cursor": "AQHRw3IdfSeRMr2VceCXCiNMME8rGq9X6iQcZqd_GrXxgMxREjpfebUXM7vvZA1nCitLhgp2nzL5vCHXqzVjjF1S4A",
+					"start_cursor": "AQHRw3IdfSeRMr2VceCXCiNMME8rGq9X6iQcZqd_GrXxgMxREjpfebUXM7vvZA1nCitLhgp2nzL5vCHXqzVjjF1S4A"
 				},
 				"edges": [
 					{
@@ -1328,13 +1369,13 @@
 								"id": "105468734692550",
 								"display_name": "supatoon",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974747_105469331359157_7849526387024080710_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=39Y6VCcpjdwAX_UxuOq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f9b3c91f155840408be3d26f590740b8&oe=608290AA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974747_105469331359157_7849526387024080710_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=39Y6VCcpjdwAX--Xkv2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0ecb734fbd800e0c202fcdedf59be80c&oe=608290AA"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I’m not going to sit here and compare this game to the other rhythm games. I enjoy Beat Saber, just as much as I enjoy Pistol Whip and Audio Trip. I think all these games offer something a little different and I’m happy to switch it up and play them all. \n\nBut there is something about Synth Riders that affects me a little differently. It puts me into almost a zen-like state. It relaxes me to a point even. \n\nI will go on to add that I found an escape with this game while recently dealing with the loss of my brother. He passed from cancer, months after being diagnosed. It was sudden, and hard to comprehend. Somehow this game allowed me to free my mind and just lose myself in the motions. I don’t know why I react so different to it vs the other games, but I have a special appreciation for it.",
 							"reviewTitle": "Something Special",
-							"review_helpful_count": 295,
+							"review_helpful_count": 317,
 							"review_rank_by_viewer": null,
 							"date": 1613018147,
 							"developerResponse": null
@@ -1346,10 +1387,10 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Synth Riders is a freestyle dancing VR rhythm alternative with official custom song support. Lose yourself in the incredible music, meet friends in the multiplayer, and get a good workout in the process!",
+				"description": "Synth Riders is a freestyle dancing rhythm alternative with official custom song support. Lose yourself in the incredible music, meet friends in the multiplayer, and get a good workout in the process!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982658_392466715384402_8528147996543921361_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yd8DpPlQodkAX80TdYT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ce232f74a59eb7765534f15d465d97c6&oe=6083A671",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974593_267112888250932_7647161884311425397_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1yjfDXCqauwAX_2yCSV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eecc4b250f7756687df809117078c77f&oe=60847509",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974864_5020676947973937_8734171976397690593_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2kknj58UfnIAX9nT4vP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=071af83d31422040cc54b24b62dc9da0&oe=6082C97E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974864_5020676947973937_8734171976397690593_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2kknj58UfnIAX-9lfda&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a9fd2a1f758b783df218395ebb60c6ec&oe=6082C97E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3094280590700035_7381456267087233931_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=PfxzpiGcjEAAX_TExxy&_nc_ht=scontent.oculuscdn.com&oh=b835328b2fd9a2d58beaa349c1192f67&oe=60813429"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3094280590700035_7381456267087233931_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=PfxzpiGcjEAAX_tn-Pq&_nc_ht=scontent.oculuscdn.com&oh=02e035650eed90fc8574c94602806c00&oe=608528A9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -104,17 +104,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "760684374779863",
+				"id": "438132513930015",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "2399",
+					"formatted": "$23.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1616828340,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -197,7 +202,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "760684374779863"
+				"id": "438132513930015"
 			},
 			"externalReviews": {
 				"count": 0
@@ -221,8 +226,8 @@
 			"firstQualityRatings": {
 				"count": 16,
 				"page_info": {
-					"end_cursor": "AQHRsFJIvcgUj4xyrdsl5wzfMT0wx5ErQF4Tnl9w9zvqAFYQsYPjrN_ElVd3KQAbDHx7oaCbiawuRvx35akkgV3r5w",
-					"start_cursor": "AQHRsFJIvcgUj4xyrdsl5wzfMT0wx5ErQF4Tnl9w9zvqAFYQsYPjrN_ElVd3KQAbDHx7oaCbiawuRvx35akkgV3r5w"
+					"end_cursor": "AQHR6LKRpuE0kdeIgS1zryv1IaQF3EYQ9NTN9ZYTeYjGAEcEmzvxPP_gh6EM5tQFD9nS_MjPEJQqvVBLvOVksaaYuA",
+					"start_cursor": "AQHR6LKRpuE0kdeIgS1zryv1IaQF3EYQ9NTN9ZYTeYjGAEcEmzvxPP_gh6EM5tQFD9nS_MjPEJQqvVBLvOVksaaYuA"
 				},
 				"edges": [
 					{
@@ -236,7 +241,7 @@
 							"score": 5,
 							"reviewDescription": "I didn't have the greatest expectations for this game, given the Quest's hardware limits. I never heard of this developer b4 but they manage to make something that looks and plays great.\n\nPros\n\n+Great anime look/feel.The characters have really good cel shading and modeling.Its easy to forget they're 3D.\n\n+Fun characters and great voices.I usually watch anime with Japanese voices with subtitles, I am glad this game supports that.\n\n+Simple, customizable controls. I can switch which hands I use for broom and wand. \n\n+/-OK story.I haven't seen the anime this is based off, the story is super simple, no twists but this isn't an RPG.\n\nCons\n\n-It's too easy. Most tracks a linear with a little obstacle dodging. This is probably how Univrs got their high comfort rating but for gamers who have stronger stomachs and want some more thrill,there's only 1 really challenging course.\n\n-Not 100% skill based. Hardcore gamer skills along aren't enough to beat the shooting level challenges. Anyone who grinds for the best gems can get high scores w/o much skill.\n\n-Not many areas. All the race and shooting courses are in Luna Nova, a Giant Tree and Mushroom Kingodm.Surely there's more popular locations in the anime?\n\n\nOver all it's a fun game that's a bit short and easy. Wish there was more variety.",
 							"reviewTitle": "Good game for noobs",
-							"review_helpful_count": 4,
+							"review_helpful_count": 9,
 							"review_rank_by_viewer": null,
 							"date": 1615811341,
 							"developerResponse": null
@@ -251,7 +256,7 @@
 				"description": "Soar through the skies, hunt for ghosts, and become the best witch racer in the world!\n\n© 2017 T/YY/LWAC   © UNIV",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_404815890760328_4928545365244904328_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=arpJ8dPrxIwAX9WHU0c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd6259af242946b64d6c3996948a765a&oe=60806BE7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974560_558238841767987_831694946741814394_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NriwFsT68KMAX9WEgZi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2cc480c434eea47b023326a67c56f530&oe=60843A93",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

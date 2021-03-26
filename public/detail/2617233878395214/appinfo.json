@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75254876_3449681048426045_2244789144129914513_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WvVTlPqzNHIAX9qwiNF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e0e90468c178b073ed82af18d9658a43&oe=6083237B"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75254876_3449681048426045_2244789144129914513_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iUwnSz4-qpkAX_bSp3I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6778233d9dcec0404103cd73ada9633b&oe=6083237B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86631736_681554102565039_1093462579968018764_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vojeFg_SgI0AX9JO7UH&_nc_ht=scontent.oculuscdn.com&oh=10b25ff85dd896dee01ac5be2a674bbd&oe=6081F613"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86631736_681554102565039_1093462579968018764_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vojeFg_SgI0AX_rqCDn&_nc_ht=scontent.oculuscdn.com&oh=e1791a00bfa64a5591b8805ef1e577e7&oe=6081F613"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 95,
+					"count": 100,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 68,
+					"count": 73,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 144,
+					"count": 145,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 335,
+					"count": 340,
 					"starRating": 5
 				}
 			],
@@ -114,14 +114,14 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "1.0",
-				"change_log": "Hello Climbers.\n \nHere is a hotfix to address some issues that some of you have been experiencing with the current LIVE build:\n \n- Fixed an issue causing leaderboard entries to stall which made the game feel laggy / cause occassional crash. Disclaimer: We are currently investigating on the stalls that might still potentially cause after returning to the menu or opening the leaderboard. We'll have a fix for you soon. \n \n- We've removed the option to disable body orientation as this feature has caused some players to not be able to pull themselves up at checkpoints. We will re-introduce this option at a later date again.\n \n- The issue with the placeholder strings has now been resolved. Disclaimer: If you still see placeholder strings when you launch the game please select any of the supported languages in-game and this will resolve the issue!\n \nLast but not least we are aware that some of you experience flickering and a few occasional crashes. We are monitoring closely what is said, and we will make it to a point to include those fixes with upcoming updates.\n \nWe hope you now have a smoother climbing experience!\n \nStay healthy, and have fun scaling new heights!",
+				"change_log": "Hello Climbers.\n\nToday we are releasing a hotfix to address the black screen issue that some of you have experienced and reported since hotfix #1. The issue in request seems to be based on multiple factors and is not entirely reproducible for us. We are therefore rolling out a tentative fix.\n\nWe rely on your feedback, and would appreciate if you could confirm that the black screen issue is now fixed for you. We sincerely hope that you continue having a smoother climbing experience. \n\nStay healthy, and have fun scaling new heights!",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "4542305372",
-				"id": "3707299679388623",
-				"required_space_adjusted": "8132279516",
+				"total_installed_space": "4542355837",
+				"id": "3744975845621006",
+				"required_space_adjusted": "8132376350",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -155,7 +155,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3707299679388623"
+					"id": "3744975845621006"
 				}
 			},
 			"release_channels": {
@@ -167,7 +167,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "1.0",
-							"id": "3707299679388623"
+							"id": "3744975845621006"
 						}
 					}
 				]
@@ -185,7 +185,7 @@
 							"created_time": 1615975605,
 							"body_text": "Hello Climbers,\n\n \nHere is a hotfix to address some issues that some of you have been experiencing with the current LIVE build:\n \n- Fixed an issue causing leaderboard entries to stall which made the game feel laggy / cause occassional crash. Disclaimer: We are currently investigating on the stalls that might still potentially cause after returning to the menu or opening the leaderboard. We'll have a fix for you soon.\n \n\n- We've removed the option to disable body orientation as this feature has caused some players to not be able to pull themselves up at checkpoints. We will re-introduce this option at a later date again.\n\n \n- The issue with the placeholder strings has now been resolved.\nDisclaimer: If you still see placeholder strings when you launch the game please select any of the supported languages in-game and this will resolve the issue!\n\n \nLast but not least we are aware that some of you experience flickering and a few occasional crashes. We are monitoring closely what is said, and we will make it to a point to include those fixes with upcoming updates.\n\n \nWe hope you now have a smoother climbing experience!\n \nStay healthy, and have fun scaling new heights!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75462206_1055246221553688_6882804170818752049_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1hNreTF3o7cAX_PDwk7&_nc_ht=scontent.oculuscdn.com&oh=f887f2c6dfe28dbc53378d72d187dc28&oe=60835ED1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75462206_1055246221553688_6882804170818752049_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=81z3IY0rcpIAX84ZZfO&_nc_ht=scontent.oculuscdn.com&oh=b4f11e8d333ac79c40dcff93604b1f94&oe=60835ED1"
 							}
 						},
 						{
@@ -194,7 +194,7 @@
 							"created_time": 1615024781,
 							"body_text": "We are aware of the issues you may have been facing and until we roll out a patch with fixes, we have a few workarounds for you.\n\n1) Game shows placeholder strings - that is mainly caused due to a mismatch of device and game language.\nWorkaround: Select any of the available in-game languages it will fix it.\n \n2) Game stalls / crashes – That is potentially caused by the stalling the leaderboard entries leading to the game crash \nWorkaround: Disconnect your device from WiFi when playing the game.\n \n3) Pulling yourself up at checkpoints does not work - \nWorkaround: Enable automatic body orientation if you have disabled it and all should work fine\n\nWhile we are sorry for any inconvenience this may have caused please use the workarounds for the time being and most of your issues should be addressed very soon.\n\nThank you for understanding.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_771912830398036_8382500250693550893_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mzHCo7sb6gEAX_ruKpg&_nc_ht=scontent.oculuscdn.com&oh=a085bbf34dd25d05f9f13ea46192a354&oe=6082744F"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031428_771912830398036_8382500250693550893_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mzHCo7sb6gEAX8FKfR_&_nc_ht=scontent.oculuscdn.com&oh=cb295e3df767b2936ca459ee2c40df18&oe=6082744F"
 							}
 						}
 					]
@@ -251,11 +251,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8783382789318,
+			"quality_rating_aggregate": 3.8594202898551,
 			"support_website_url": "https://theclimbgame.kayako.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 380,
+				"count": 383,
 				"orderings": [
 					{
 						"key": "top",
@@ -268,10 +268,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 380,
+				"count": 383,
 				"page_info": {
-					"end_cursor": "AQHR15rFayEoE439tkFvAaJ7Yt0HgdjLv7aIvHAqmZd24JqV16XQJyTX8SQ8cPyzJX2ilTP70vNoG-Xd0SR1HhX4lQ",
-					"start_cursor": "AQHR15rFayEoE439tkFvAaJ7Yt0HgdjLv7aIvHAqmZd24JqV16XQJyTX8SQ8cPyzJX2ilTP70vNoG-Xd0SR1HhX4lQ"
+					"end_cursor": "AQHRFwWB42XthT_FdE2B0tEm2FMVM1Gt_VwJGYRUXMIHQ3U0Chv7dTrnDuqZ0hBT_uVrRpWQwXOSZa6-utwc-kh5ZQ",
+					"start_cursor": "AQHRFwWB42XthT_FdE2B0tEm2FMVM1Gt_VwJGYRUXMIHQ3U0Chv7dTrnDuqZ0hBT_uVrRpWQwXOSZa6-utwc-kh5ZQ"
 				},
 				"edges": [
 					{
@@ -281,13 +281,13 @@
 								"id": "102840598512521",
 								"display_name": "davidroom",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/75210399_102842005179047_6002603541849183392_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4mvdMnnYAzcAX8N-Se6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=12d0c863a2cd510aa9a697dc7c50a425&oe=6080155E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/75210399_102842005179047_6002603541849183392_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4mvdMnnYAzcAX-1w06h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ead85da66ff81978ccff8018734f38ec&oe=608409DE"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "New to the climb and bought the duo pack. Only tried the climb 2 so far and it’s great! However as others have said there are some technical issues, and I can’t help feeling the devs could have added more innovative features to give this more replay value. \n\nTech wise, I’ve now also noticed the foveated rendering, which is a shame. Because a cool part of the game is to look around and appreciate surroundings, and it’s rather obvious that parts of the frame are lower Res, particularly when glancing down - which is surely a key thing in climbing. Also I keep getting the pop up to recentre my camera, happens a lot. It’s crashed a few times as others have stated. And once you start looking you do realise the backgrounds are very static and it breaks the immersion.\n\nIn terms of ideas, how about:\n\n- a photography mode where you have to take pictures of certain scenes or the wildlife \n- a nature mode where you have to actually rescue or recover the wildlife \n- some kind of lost object mode (like lost balls in walkabout golf) to make you want to explore all nooks and crannies \n- add hydration as a parameter you must manage - take drinks from your backpack or you faint on more demanding levels and vision goes grey \n- zen mode with ability to play your own music whilst climbing \n-ice climbing with a pick axe!\n- ability to bring up a map to show you where you are on the mountain \n- better race mechanics with friends - verbal update how far behind or ahead you are at every save point. Just not very exciting if you can’t actually see their hands once ahead or behind. \n- ability to Base jump or take a hang glider off the top of the mountain and fly around or return to the bottom - that would be awesome!\n- create a ‘base camp’ area at the start of the game where you can also interact with friends over a beer. Ability to race in real time. \n- add more locations as DLC!\n\nSo you see, so much potential to make this truly amazing if the devs are reading this!!",
 							"reviewTitle": "Great game but scope for improvements",
-							"review_helpful_count": 494,
+							"review_helpful_count": 510,
 							"review_rank_by_viewer": null,
 							"date": 1615035562,
 							"developerResponse": null
@@ -302,7 +302,7 @@
 				"description": "The Climb 2 brings the thrill of climbing alive with a new city setting, exciting new maps, new events, and more. Ascend epic peaks, navigate vast caves, scale skyscrapers, and discover shortcuts as you find your path to the top. Compete with friends in multiplayer and conquer leaderboards.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974792_156928682911137_8228593046090939291_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-1znTrkXficAX_dMgge&_nc_ht=scontent.oculuscdn.com&tp=28&oh=20ce2040a74c24a1b0b07ee0c9bf7139&oe=6080EC6F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974792_156928682911137_8228593046090939291_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-1znTrkXficAX_iiCcw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=72c954b68bfc3ce635804630408c2931&oe=6084E0EF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
