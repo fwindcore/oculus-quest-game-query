@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_2790597897852958_8245147560772599313_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ddIbvG1f7XgAX_xUVVe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=78039988a67dd1e48756d1e7dbcfa5ba&oe=608570E3"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_2790597897852958_8245147560772599313_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qTH4zAlSqC8AX9CLoXc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=04937bfa952aacb5a1e1e4dd590e52c2&oe=608570E3"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2741313839438508_5998900660500692992_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=MU3tsKD4rv0AX_-t5hd&_nc_ht=scontent.oculuscdn.com&oh=27820b6c35c268a97128a76b7fdc574d&oe=6087265D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2741313839438508_5998900660500692992_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=TTDQReSmDNQAX8CfdkD&_nc_ht=scontent.oculuscdn.com&oh=7420fdc453fd3f0737639e170a432c8e&oe=6087265D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 43,
+					"count": 44,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1056,
+					"count": 1064,
 					"starRating": 5
 				}
 			],
@@ -113,22 +113,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "947916152682039",
+				"id": "627470728181494",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2399",
-					"formatted": "$23.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1617001140,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -211,16 +206,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "947916152682039"
+				"id": "627470728181494"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7301458670989,
+			"quality_rating_aggregate": 4.7304907481899,
 			"support_website_url": "https://squanchtendo.atlassian.net/servicedesk/customer/portal/1",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 666,
+				"count": 672,
 				"orderings": [
 					{
 						"key": "top",
@@ -233,28 +228,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 666,
+				"count": 672,
 				"page_info": {
-					"end_cursor": "AQHRjBPpyHYSGi4Sd5WcEy2yjOeDVaVpb-LJ8IHAj6xGKUWU5rEnFCsnLqYRyOh5KPbguIRfS-jWmhpHh4sFZUbaxw",
-					"start_cursor": "AQHRjBPpyHYSGi4Sd5WcEy2yjOeDVaVpb-LJ8IHAj6xGKUWU5rEnFCsnLqYRyOh5KPbguIRfS-jWmhpHh4sFZUbaxw"
+					"end_cursor": "AQHRVQ8v5oC8eXpMYJt4wVewWP-F_HcH8NHn7fQyKCUl16Fnr96khxobL6seyDaagrF71UwurnAkj4c5nElQK823Kw",
+					"start_cursor": "AQHRVQ8v5oC8eXpMYJt4wVewWP-F_HcH8NHn7fQyKCUl16Fnr96khxobL6seyDaagrF71UwurnAkj4c5nElQK823Kw"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "133422538629902",
+							"id": "150463260238737",
 							"author": {
-								"id": "101133935192096",
-								"display_name": "ItsTheSpaceKing",
+								"id": "106494357968961",
+								"display_name": "undermeadow",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c4.0.1431.1431a/s160x160/57574723_101134148525408_6515562210810679694_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=T3JXtQZZMpoAX-8kmA9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c2a6418bc1e1afc7d60a6627e25d0cc7&oe=60863C8A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.757.757a/s160x160/39001670_107430624542001_8660494488600784708_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=G5uuM65XfWYAX-TS3Xi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=22c80249c2026d9ba7dc3b508dcd9f04&oe=6086DED3"
 								}
 							},
 							"score": 5,
-							"reviewDescription": "If you dont buy this game i dont like you i dont know who needs to hear this or who you even think you are but you need to buy this game. Stop what youre doing, stop being cheap n buy this. What are you even gonna do with that 30 bucks, buying this game thats what. maybe you should just send it over here so i can buy it twice then you'll see how much i like this game. Dont be stupid, just buy it. idk why youre even reading this still if you are, there's something wrong with you. buy the game already. im just sitting here minding my own business but, youuuu need some kind of assurance to feel good about your money that you were just gonna waste anyways. seriously, idk what your problem is but, if you want me to have any respect for you at all you'll buy this game help trover save the universe from your chair, you dont even need to leave your seat... go you. \n\nbuy the game or i hate you and your family is dumb",
-							"reviewTitle": "Listen..",
-							"review_helpful_count": 339,
+							"reviewDescription": "If you are familiar with Rick & Morty at all then Trover really needs no introduction. He’s vulgar, irreverent, random, and randomly vulgar and irreverent. The best thing I can say about the Trover experience is that it feels like being inside of a cartoon and who doesn’t want that??? I could repeatedly play all the way through Trover and still be entertained (and I have!). You can find, see, and hear new little details every time you go through. It never gets old nor do the jokes. Maybe you need to have a certain level of immaturity to fully enjoy Trover but luckily I’m a 40 year old child.",
+							"reviewTitle": "Do Trover again & again. Trover likes it",
+							"review_helpful_count": 43,
 							"review_rank_by_viewer": null,
-							"date": 1614706967,
+							"date": 1613584848,
 							"developerResponse": null
 						}
 					}
@@ -267,7 +262,7 @@
 				"description": "From the co-creator of Rick and Morty comes Trover Saves the Universe. Your pups are missing. The cosmos is at stake. Only you and Trover can save everything in this bizarre comedy adventure!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035469_377069239951256_5287511053117666893_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cwhb7CIlKuQAX9GNQ-H&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3e22299645b11f8aa73285ebf81a6491&oe=60874B38",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031629_1569711799861351_510653568336789504_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=T0V243CmUzMAX9ILiBE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd8a63dc59b6c0adb1a73c7c5ada4304&oe=6085C062",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
