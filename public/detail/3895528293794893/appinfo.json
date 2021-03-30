@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031434_2797780670459058_121874044104596879_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X8POA9N4ocAAX_cT1ic&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5bdd9ec72799bca41f5e9a9adb8ce7f3&oe=60885EF2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031434_2797780670459058_121874044104596879_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X8POA9N4ocAAX9RSJy5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=088d88633de314a98a5d457b3a7d52db&oe=60885EF2"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_404616954278176_8745668749629586494_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=iVKaNG1cxD8AX8JgTlL&_nc_ht=scontent.oculuscdn.com&oh=602c2214511b2677eb1139557311a6df&oe=60891B75"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_404616954278176_8745668749629586494_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=YiePT8k854gAX_0yXEY&_nc_ht=scontent.oculuscdn.com&oh=a47d17931db00b53e8181e858be589b4&oe=60891B75"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -84,15 +84,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.141",
-				"change_log": "Version 1.141",
+				"version": "1.142",
+				"change_log": "1.142\n- Minor fixes for in-app account creation.\n\n1.141\n- New experience: MultiBrush by Rendever  - Available on App Lab!\n- Don't have an Alcove account? We've added in-app account creation.\n- Into Space DLC now has preview trailers.\n- Reduced app size.\n- Bug fixes and Optimization.\n\n1.129\n- New experience: Jigsaw 360 - Multiplayer coming soon!\n- New videos from Malta in the travel globe!\n- Fixed issue where multiple avatars would overlap when teleporting\n- Fixed issue where avatar profile icons would load incorrectly\n\n1.126\n- SpeedSort moved from interactive table to Brain Games DLC\n- You can continue to play for free with the preview option!\n\n- Fixed issue with SpeedSort not launching correctly\n- Fixed String Recall locking up in certain situations\n\n1.123\n- Fixed issue with Globe pointing to the wrong version of Wander\n- Fixed issue with quick menu when using Quest 1\n- Fixed issue with Quest 2 pointers\n\n1.121\n- Fixed back button not working on Quest 2\n- Added all Virtuleap games to the cube in the health area\n\n1.120\n- New experience from Virtuleap, Magic Deck!\n- Two new visitation videos from David Lobser!\n- Fixed case where users were unable to interact in the Travel area\n- Fixed chess promotion not updating visuals\n- Adjusted volume and sound for high score in Staying Sharp DLC\n- Fixed case where you could follow a user while leading them\n\n1.115\n- Over 20 new brain games added to the Staying Sharp bundle!\n- Fix for an issue that could cause avatars to appear as only hands without a body \n- Voice communication is now maintained while users are in single player games\n\n1.111\n- Hotfix for missing Brain Games content.\n\n1.110\n- Happy holidays from Alcove!\n- Festive decor has been added to the living room\n- New holiday music videos have been added to the violin\n- Previous Staying Sharp games have returned to the interactive table\n- Performance and memory improvements\n\n1.108\nNew Premium Content:\n- Into Space by Faber Courtial -- Take off into space with 2 gravity-defying expeditions, 14 and 11 minutes each. These award-winning short VR films from Faber Courtial took the world by storm at Cannes XR, Venice Film Festival, Tribeca and many more, by conveying how it must feel to actually be out in the open cosmos. Visit unknown worlds of extraordinary richness, detail and authenticity - perfectly reconstructed in 3D from original NASA and ESA data. \n- AARP Staying Sharp Games --Test your recall, focus, word skills and more with this variety fun-pack of 22 short, 1-minute games! Track your progress and master 3 levels of difficulty in the categories of Logic, Language, Visual, Speed, Focus and Memory, recreated from AARP’s popular Staying Sharp digital program (https://stayingsharp.aarp.org/about/brain-health/games-play/). Season one includes Visual Sudoku, Mahjong Match, Grow Words, Math Bubbles, Pipe Dreams, Secret Symbols, and many more favorites from AARP’s premium content. Have you played the original version? Which one do you like more? \n\nNew Feature:\n- Photo rotation - we've added the ability to rotate photos. Click on each photo to bring up the options.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "659227151",
-				"id": "4794058353941878",
-				"required_space_adjusted": "1118551588",
+				"total_installed_space": "656477523",
+				"id": "4803079113039802",
+				"required_space_adjusted": "1116539980",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 2
@@ -176,7 +176,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4794058353941878"
+					"id": "4803079113039802"
 				}
 			},
 			"release_channels": {
@@ -187,8 +187,8 @@
 						"id": "255696595502083",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.141",
-							"id": "4794058353941878"
+							"version": "1.142",
+							"id": "4803079113039802"
 						}
 					}
 				]
@@ -206,7 +206,7 @@
 							"created_time": 1615513430,
 							"body_text": "Assemble spherical and flat jigsaw puzzles of Earth and Alcove Rooms with Jigsaw360 available now at the Interactives Table in Alcove.\n\nEnhance your mood. Improve spatial reasoning and problem solving. Relax. In Jigsaw 360 you'll never lose a puzzle piece again!\n\nWe're excited to bring you these puzzles with more on the way. Let us know which ones you like, and what puzzles you'd like to see next. We're always available at feedback@alcovevr.com. \n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974841_266603685047573_8065696144208046036_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KBEkGrVSTvQAX_XIVYk&_nc_ht=scontent.oculuscdn.com&oh=ed1c80f29e31b95890a99d2315841dd6&oe=60877D58"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974841_266603685047573_8065696144208046036_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KBEkGrVSTvQAX81MBLx&_nc_ht=scontent.oculuscdn.com&oh=be3770154d2428d8f1e322f8ec40be61&oe=60877D58"
 							}
 						},
 						{
@@ -215,7 +215,7 @@
 							"created_time": 1614645815,
 							"body_text": "Escape to Malta's ancient cities, sun-soaked beaches, landmarks, parks and cafes in Alcove's newest destination to explore, on your own or with up to three friends.\n\nChoose from ten guided and non-guided tours to Valletta, the 16th century Renaissance capital city and UNESCO World Heritage Site, take a boat tour, and much more - for over two hours of immersive travel, all filmed in 3D.\n\nWe hope that you enjoy Malta and all of Alcove's destinations, games and activities. Let us know your favorite part of the tour and where you'd like to travel next! Email us at any time with your recommendations and questions at feedback@alcovevr.com\n\nBon Voyage!\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982601_916275239144023_7402600877952260650_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pe7sQYmONLQAX-Aa1v_&_nc_ht=scontent.oculuscdn.com&oh=e7c2adfa7bf8ae73c04f94c677991e25&oe=6085E618"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982601_916275239144023_7402600877952260650_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pe7sQYmONLQAX_vEmP1&_nc_ht=scontent.oculuscdn.com&oh=d8729c183f5f3e259ece4253fed0c10e&oe=6089DA98"
 							}
 						}
 					]
@@ -223,7 +223,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR-l0F4XtCx3z31cAbpjDaLSKsGIXqizk5VfTXY3vnTfw3DBIPa38s04gSRdNyrSEsFMlR7K0kJORiN8xUrhnILQ"
+							"cursor": "AQHRx2sPOdKGN4QLZMsGwtKlTuaCtfmuYxum81d-QxdVRwcDLrAfs51LK5jIYLGB7Jp64ffXpy9hJsa4Fw7zDeM0xw"
 						}
 					]
 				}
@@ -293,8 +293,8 @@
 			"firstQualityRatings": {
 				"count": 162,
 				"page_info": {
-					"end_cursor": "AQHRtH1dxY9UTV8Lng_QZBOm0MikdUZHvI2YTHu0KmClff2C8pUHa4Si2_Eo5nq1Bz2B8u57QiIhGrgGSW4WImIP-w",
-					"start_cursor": "AQHRtH1dxY9UTV8Lng_QZBOm0MikdUZHvI2YTHu0KmClff2C8pUHa4Si2_Eo5nq1Bz2B8u57QiIhGrgGSW4WImIP-w"
+					"end_cursor": "AQHRUZU_9asc44RWk8FiycEuFx4DgdidjpnRYyzG5c4ip9pwR1Fwtrpb_g1aBqk7_u3BNslO5cN2ArIb6h9QmgtoUQ",
+					"start_cursor": "AQHRUZU_9asc44RWk8FiycEuFx4DgdidjpnRYyzG5c4ip9pwR1Fwtrpb_g1aBqk7_u3BNslO5cN2ArIb6h9QmgtoUQ"
 				},
 				"edges": [
 					{
@@ -304,13 +304,13 @@
 								"id": "100949901800687",
 								"display_name": "retroramblings",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.120.720.720a/s160x160/75393565_100953588466985_8334047501120555319_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nhQvjDO4LUsAX8R-Ol9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e502a7bbf4137a0cd3ea9751c83ac221&oe=6088CF1A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.120.720.720a/s160x160/75393565_100953588466985_8334047501120555319_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gi6hiv6ZnCsAX-ECLCb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d4e66416d4fde649436157d72beb8091&oe=6088CF1A"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I love being inside this house, especially now that I've worked out how to add my own photos to the walls. I agree with some of the other reviews, that more sound effects would be great for the scenery and the fire. Maybe also have it tied to the time zone so that when I put it on at night it's dark outside?\n\nWhat I would really love is a game like this where I can actually design and build my own dream house and walk around inside it. Maybe something that has lots of rooms and modules you can select and adapt to build your own place. But really, I would live in the Alcove house if I could.",
 							"reviewTitle": "Dream House",
-							"review_helpful_count": 20,
+							"review_helpful_count": 21,
 							"review_rank_by_viewer": null,
 							"date": 1613932215,
 							"developerResponse": {
@@ -329,7 +329,7 @@
 				"description": "A portal to new worlds, a virtual home filled with endless experiences to discover and explore, a place to connect with friends and family. World travel, casual games, media customization,  adventure, and relaxation.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75221316_370544957332318_8244130070664386577_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZEil1YCCoYoAX_zFo96&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7448ad639728e5e364e662c1a0039941&oe=60879187",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75221316_370544957332318_8244130070664386577_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZEil1YCCoYoAX8Uwtof&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f6acbf4dd9cb9ab52793c79b53cdd688&oe=60879187",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
