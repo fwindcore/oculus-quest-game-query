@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974644_320529855281149_2545904682895671296_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FjtXHKzw0kwAX8Jdxbk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d29ee560abb08a0323913eb007947644&oe=608909FB"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974644_320529855281149_2545904682895671296_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=htqbAVGde9YAX-TtjSA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8bf26418f2c35b3cec2f3beacb460ed2&oe=608CFE7B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974632_309704859696982_6881325966619049984_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=DSuZNW_4VYMAX9PvmOR&_nc_ht=scontent.oculuscdn.com&oh=a30643052b3031ebe02060aeaddc1080&oe=6088BA5A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974632_309704859696982_6881325966619049984_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=DSuZNW_4VYMAX8fyRQT&_nc_ht=scontent.oculuscdn.com&oh=439933786b80e1376e6f43ca442712c4&oe=608CAEDA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 861,
+					"count": 863,
 					"starRating": 5
 				}
 			],
@@ -126,17 +126,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2342599542685496",
+				"id": "270222788033129",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1199",
+					"formatted": "$11.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1617346740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -219,16 +224,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2342599542685496"
+				"id": "270222788033129"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6632366697848,
+			"quality_rating_aggregate": 4.6638655462185,
 			"support_website_url": "https://tenderclaws.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 523,
+				"count": 524,
 				"orderings": [
 					{
 						"key": "top",
@@ -241,10 +246,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 523,
+				"count": 524,
 				"page_info": {
-					"end_cursor": "AQHRsalIU9t4c3dvkcXwHn1RcdOGD--uP6ByxKFS8no08sNtUu_CqsjeHTUqfCibNwkDZvlSA7L2wb149x9yq5sFjw",
-					"start_cursor": "AQHRsalIU9t4c3dvkcXwHn1RcdOGD--uP6ByxKFS8no08sNtUu_CqsjeHTUqfCibNwkDZvlSA7L2wb149x9yq5sFjw"
+					"end_cursor": "AQHRcpVNrYmD0nmRhYNNOLAJ2Sw_gwOJcdq5qZ7kFNGc--POsiIBC5eE20c69NmfdDy02EFz544ScGykevBuoZ30ew",
+					"start_cursor": "AQHRcpVNrYmD0nmRhYNNOLAJ2Sw_gwOJcdq5qZ7kFNGc--POsiIBC5eE20c69NmfdDy02EFz544ScGykevBuoZ30ew"
 				},
 				"edges": [
 					{
@@ -254,13 +259,13 @@
 								"id": "102149271702596",
 								"display_name": "leaderofmagentalake",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.334.771.771a/s160x160/38974705_193180459266143_6785678320260026128_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rQHQ__X3YK0AX_A4Zsj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ebdd750a670df48a72ba13a7e4043463&oe=60897139"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.334.771.771a/s160x160/38974705_193180459266143_6785678320260026128_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rQHQ__X3YK0AX_62auq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f50e4b28d01771d6c2bb5c88e5891753&oe=60897139"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Omg no. Hell no no no no. This game messes you up, like is anything even real? Are they watching us? Are they watching us right now? This game makes me hella paranoid just thinking about it.... \n\nLmao buy it! It’s sickkkk and I can’t even explain how good the game is, you just have to play it... trust me xoxo",
 							"reviewTitle": "some black mirror/stranger thing s***",
-							"review_helpful_count": 84,
+							"review_helpful_count": 89,
 							"review_rank_by_viewer": null,
 							"date": 1613553694,
 							"developerResponse": null
@@ -275,7 +280,7 @@
 				"description": "一款关于虚拟实境、A.I. 和我们狂热的科幻之梦的游戏。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031421_2196437803767878_5865001829527453696_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s6iDc6TnwSQAX_DP1Ko&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ecad328a89497bead1e34720eef38086&oe=608ABEF5",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75294237_826005951327632_2190635977562709595_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hq2497ruAXoAX9pz0Oa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d2579ffdac4e5d0a88224eb6c362d3c1&oe=608B4AAA",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
