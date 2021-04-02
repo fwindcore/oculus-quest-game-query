@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=prisRahDOroAX8uTITg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8642d6a59f6dec7261fcd57b7e1c6b32&oe=608A5D3F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57569466_270002370730330_6009440917475824989_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=prisRahDOroAX_8lbxJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5483ad6e0328949c7595f4686331f8ce&oe=608E51BF"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Tkxqq7P3OKEAX_Wlpeh&_nc_ht=scontent.oculuscdn.com&oh=e34abbc0fadcb624657020515fcf4f5f&oe=608BB671"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_848433039015190_2959459246466840050_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Tkxqq7P3OKEAX_aDvqD&_nc_ht=scontent.oculuscdn.com&oh=37afa51aad5e72160b370430e5c8a234&oe=608BB671"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 711,
+					"count": 714,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 278,
+					"count": 277,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 391,
+					"count": 394,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 766,
+					"count": 768,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2033,
+					"count": 2040,
 					"starRating": 5
 				}
 			],
@@ -79,15 +79,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.16.4.2",
+				"version": "0.16.5.2_3",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2592101457",
-				"id": "4210868445591452",
-				"required_space_adjusted": "4573565435",
+				"total_installed_space": "2596411313",
+				"id": "4234850063193290",
+				"required_space_adjusted": "4574672765",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -125,7 +125,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4210868445591452"
+					"id": "4234850063193290"
 				}
 			},
 			"release_channels": {
@@ -136,8 +136,8 @@
 						"id": "297349780982051",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.16.4.2",
-							"id": "4210868445591452"
+							"version": "0.16.5.2_3",
+							"id": "4234850063193290"
 						}
 					}
 				]
@@ -151,8 +151,8 @@
 								"current_end_timestamp": 1617458400,
 								"current_start_timestamp": 1617454800,
 								"temporal_info": {
-									"seconds_until_end_time": 192410,
-									"seconds_until_start_time": 188810
+									"seconds_until_end_time": 105937,
+									"seconds_until_start_time": 102337
 								},
 								"vr_app_and_destination_string": "PokerStars VR",
 								"vr_applications": {
@@ -174,7 +174,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "1 HR ONLY - April Fools Pack Drop - Open Edition",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_222999246242983_6235415506502794375_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ikTuliUFk8YAX_hWvWK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b76cc6d607deae0d37934ecd6b198d2a&oe=608C1808"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974538_222999246242983_6235415506502794375_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ikTuliUFk8YAX89Keac&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2cd2589f56b64282b22d87576d002462&oe=608C1808"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1617476400,
+								"current_start_timestamp": 1617469200,
+								"temporal_info": {
+									"seconds_until_end_time": 123937,
+									"seconds_until_start_time": 116737
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "744994429531736",
+								"is_vr_viewer_interested": false,
+								"name": "Get in on the action with March Mania Basketball in PokerStars VR",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75481465_2386209598189530_5677313533673692643_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XFj1ylw1omgAX_BfJ39&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60de28cf466e08f3bca0db8a008ad16c&oe=608AA270"
 								}
 							}
 						},
@@ -184,8 +217,8 @@
 								"current_end_timestamp": 1617840000,
 								"current_start_timestamp": 1617832800,
 								"temporal_info": {
-									"seconds_until_end_time": 574010,
-									"seconds_until_start_time": 566810
+									"seconds_until_end_time": 487537,
+									"seconds_until_start_time": 480337
 								},
 								"vr_app_and_destination_string": "PokerStars VR",
 								"vr_applications": {
@@ -207,7 +240,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "PokerStars VR 2X Creds Power Hours",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035375_914912349267452_7445128237728608416_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-ZvfGDh3-wMAX8t9-GN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=30c3ad047f47a1e2ce204f4d154ee6b5&oe=608A70D7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035375_914912349267452_7445128237728608416_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-ZvfGDh3-wMAX-h3pEv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b98ef0569516b05c0b4af7dd78d81d80&oe=608A70D7"
 								}
 							}
 						}
@@ -222,7 +255,7 @@
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UF1jfNIrgV4AX8D72J-&_nc_ht=scontent.oculuscdn.com&oh=696ea6f23219164d2e12af3dadf21b9a&oe=60897631"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xemCzpSelrgAX9YHHO-&_nc_ht=scontent.oculuscdn.com&oh=d25b2cbf4705ead689da7041f944de2b&oe=608D6AB1"
 							}
 						}
 					]
@@ -230,7 +263,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRJVp2TWkx_MaNeWYO4xvUrqyMCnKVnsFmFBo6DqSrw0d2aTR9wtqrqxnboY289LkS3GUTUd3LM9TvKeT9KKRxsg"
+							"cursor": "AQHRqYEkOtvvHeUFamHtIDSI8xkB8hmB2yPd0Jql6QhTW5_G4UC_0N89hL8bEyy4zigh3HrBqfgMs6eztqqrn4js-w"
 						}
 					]
 				}
@@ -277,11 +310,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7494615936827,
+			"quality_rating_aggregate": 3.7495826377295,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1471,
+				"count": 1474,
 				"orderings": [
 					{
 						"key": "top",
@@ -294,10 +327,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1471,
+				"count": 1474,
 				"page_info": {
-					"end_cursor": "AQHRYgqhHbDyDwZiF68xKyqNdaFnwGQThFpEjx2xYusaeLQSQNsE2Ks_i2dYva2nNbTYGESBUpCopjL7PnqBbKMirw",
-					"start_cursor": "AQHRYgqhHbDyDwZiF68xKyqNdaFnwGQThFpEjx2xYusaeLQSQNsE2Ks_i2dYva2nNbTYGESBUpCopjL7PnqBbKMirw"
+					"end_cursor": "AQHRNJNEAxLmZEy_e3qLH25JFgSM31FXMk36fKyV4_5xqsqudrfkk_il0cAG4BJF0qBtny2ALlDpo1paG3ZOhU6qhQ",
+					"start_cursor": "AQHRNJNEAxLmZEy_e3qLH25JFgSM31FXMk36fKyV4_5xqsqudrfkk_il0cAG4BJF0qBtny2ALlDpo1paG3ZOhU6qhQ"
 				},
 				"edges": [
 					{
@@ -307,13 +340,13 @@
 								"id": "104484254774433",
 								"display_name": "Wally0623",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38974631_182612713628253_4603099357151624350_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OEqGJG7ib40AX955EZg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a4c162df4775311cc2d94fb503105edb&oe=608BA1D5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.180.1080.1080a/s160x160/38974631_182612713628253_4603099357151624350_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OEqGJG7ib40AX_ZR_4t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0cfaa3d0daf384d2358d69789df880ac&oe=608BA1D5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I have some fellow Oculus Quest users that would like to meet up with me in Pokerstars.  Unfortunately, we have been unable to do that without using a telephone and choosing a table.  I can't see my friends in the lobby and inviting them to a table doesn't seem to work.  Perhaps this is something that I am doing wrong, but it shouldn't be this hard.",
 							"reviewTitle": "Can't easily meet up with friends",
-							"review_helpful_count": 96,
+							"review_helpful_count": 98,
 							"review_rank_by_viewer": null,
 							"date": 1613945864,
 							"developerResponse": null
@@ -328,7 +361,7 @@
 				"description": "Step into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982535_721459915186356_9076213593118134369_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=no2-O_4-4EcAX9pdoyU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=577dceb6f3660c4c87e807d705b512a9&oe=608B9129",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982535_721459915186356_9076213593118134369_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=no2-O_4-4EcAX-Rq4PN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=aa5604320f9288cdc2ad6ccd5f16e84b&oe=608B9129",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
