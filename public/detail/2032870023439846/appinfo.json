@@ -10,13 +10,38 @@
 			"display_name": "Path of the Warrior",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "290867389063523",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "街机霸主",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "US$ 29.99"
+						},
+						"strikethrough_price": {
+							"formatted": "US$ 35.98"
+						},
+						"id": "237806241400436"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38982441_1099069503923681_814224137736056457_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QU_pQlbInXEAX8wqgMb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=58a945c9514d96b2bc45057a8e1c82ef&oe=608D75CB"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75422391_792716471172036_4124919267189587968_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LnYeTwtyIdAAX-osBi1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a0f294937a8db4076056627c71e1c3a2&oe=608AE05E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75422391_792716471172036_4124919267189587968_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Hdxq71rb-58AX_wGQOt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb980f8d44bd5cea19364405bcec93fc&oe=608ED4DE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001708_792712734505743_911463412502888448_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=dcAg7T_UsjsAX8qvkR5&_nc_ht=scontent.oculuscdn.com&oh=6dea84d2c7d99961885850175842fa86&oe=608D0457"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001708_792712734505743_911463412502888448_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=dcAg7T_UsjsAX_zEZmh&_nc_ht=scontent.oculuscdn.com&oh=b2a609ac6cfdf24677e5b5af8eee4b67&oe=608D0457"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -117,17 +142,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "842830819485437",
+				"id": "162024715687891",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1599",
+					"formatted": "US$ 15.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1617519540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -210,7 +240,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "842830819485437"
+				"id": "162024715687891"
 			},
 			"externalReviews": {
 				"count": 0
@@ -234,8 +264,8 @@
 			"firstQualityRatings": {
 				"count": 509,
 				"page_info": {
-					"end_cursor": "AQHR9yFJY8QUzwtUmJVxBfNK4wO_NTXB3UQDSTg6M7VzV0mK7OXBNd_QFqGlCsT8YSEBKivD0eMuhmkELbhne2z-Fw",
-					"start_cursor": "AQHR9yFJY8QUzwtUmJVxBfNK4wO_NTXB3UQDSTg6M7VzV0mK7OXBNd_QFqGlCsT8YSEBKivD0eMuhmkELbhne2z-Fw"
+					"end_cursor": "AQHR8lWeU8rYktwcVlKZGSUngCLb52cRtmo1-LgJs-AKSvfOWzgnUAj-9OpbOMW_toyfL_8Abod8k4i2z28yFcjWWA",
+					"start_cursor": "AQHR8lWeU8rYktwcVlKZGSUngCLb52cRtmo1-LgJs-AKSvfOWzgnUAj-9OpbOMW_toyfL_8Abod8k4i2z28yFcjWWA"
 				},
 				"edges": [
 					{
@@ -245,13 +275,13 @@
 								"id": "100646551122371",
 								"display_name": "SlipSlot",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OYxX887UyYkAX80MVeK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fa6f0b20a46f79050bb3bbd333da3d6c&oe=608BABE4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nH4ndLuutYUAX_rc7G5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eb85428048cd9a67865c0247eadf66da&oe=608FA064"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "The Streets of Rage and Double Dragon tones are strong in this one, Path of the Warrior is a first-person street brawler with colourful but detailed graphics and textures. The fighting mechanics feel tight and satisfying and the environments are fun to explore and use to your advantage. There are around six stages that will have you slowly progress through different areas, punching, kicking and whacking bad guys with melees weapons as you go. There’s a boss at the end of each stage with their own unique fighting style, defeating them will unlock a new superpower for you to use in other stages. It’s all very well thought out, looks good and is enjoyable to play.\n\nAnother VR game this could be compared to is Drunkn Bar Fight, especially as the first mission of Path of the Warrior takes place in a bar too. However, if you take anything from this review, please know that this game does what Drunkn Bar Fight does, only better and far, far beyond. After finishing each round you’ll be able to complete a handful of mini-games to earn collectables in the extras menu, these are simple diversions but they break up the mindless punch fest and are a nice way to cool down between the chaos of each stage. There’s also online co-op that works flawlessly and really allows you to tag-team your fighting techniques, you can even bring each other weapons and food if you’re feeling extra supportive!\n\nIt’s very hard to think up any negatives for Path of the Warrior, especially as they already added what would have been our most requested feature (co-op), I think one small thing we noticed is there’s no way to tell how low your teammate’s health is, so it’s difficult to judge who is more in need of food. We also think this game would benefit greatly from a few extra stages and same-account multiplayer. Otherwise, Path of the Warrior is an enjoyable beat ‘em up that will relate to nostalgic gamers who grew up in the 80s / 90s.\n\nRead the full review: https://www.opiumpulses.com/article/421/",
 							"reviewTitle": "Opium Pulses Review",
-							"review_helpful_count": 82,
+							"review_helpful_count": 87,
 							"review_rank_by_viewer": null,
 							"date": 1612363908,
 							"developerResponse": null
@@ -266,7 +296,7 @@
 				"description": "We interrupt this broadcast with breaking news...chaos in the streets of Rage City tonight!  The myriad local gangs, once at constant war with each other have now unified under a mysterious new crime boss...Mr. S.  Thugs have flooded the entire city, unleashing a wave of terror.  The police are overwhelmed and the public is in imminent danger!  Can anyone put a stop to the crime wave?  Can anyone save Rage City?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974883_492107958078038_5886580707295232000_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1viV-8mfLWkAX9-xTcD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0b2f4e764277232c2e429e9b58584f58&oe=608A82D7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974578_269393091336764_8069079665022975532_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X645id_f4-kAX9SDJo9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6c26b48d3bb1c4c44a5d23594e6d0bf7&oe=608E51F2",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
