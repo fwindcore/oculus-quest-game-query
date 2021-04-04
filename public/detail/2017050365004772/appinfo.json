@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ezr9Wfr4djoAX-wO3tb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=879cea0c6549085054033623b8313343&oe=608D5B12"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6XWs4bz6GNcAX8Zzl6Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d205061a9b729ea3b86665d7664898b1&oe=608D5B12"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=PqBdAFFurqgAX_2FwuD&_nc_ht=scontent.oculuscdn.com&oh=91c4351ee00d3bfad3c2b1d6dfffc1b6&oe=608C33C6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=PqBdAFFurqgAX_qbqMP&_nc_ht=scontent.oculuscdn.com&oh=1ecc8790fdfa64e687eec7f9888231f7&oe=60902846"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,22 +26,22 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 57,
+					"count": 59,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 90,
+					"count": 91,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 237,
+					"count": 238,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2646,
+					"count": 2654,
 					"starRating": 5
 				}
 			],
@@ -106,7 +106,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "US$ 19.99"
+					"formatted": "$19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -126,7 +126,7 @@
 				}
 			},
 			"release_channels": {
-				"count": 1,
+				"count": 2,
 				"nodes": [
 					{
 						"channel_name": "LIVE",
@@ -135,6 +135,15 @@
 							"__typename": "AndroidBinary",
 							"version": "1.20.1.0",
 							"id": "3882485768461213"
+						}
+					},
+					{
+						"channel_name": "BETA",
+						"id": "969986879861372",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.20.2.0",
+							"id": "3963764153666707"
 						}
 					}
 				]
@@ -150,7 +159,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR1d21kke7XeKCWt8AKXnCSrON8G3ErEq0C3Ac_QswY8aZ3BIcwxZ9KxmZRoSVeooXUjC6yMAdvCqP7rBbhFcTLw"
+							"cursor": "AQHRIrwOkuZ-whqCgE7wBEi6gAjApiEUTqdTPzFN_PbRN9hMtcbJa_vm3m0MuB6gD9z_-4CCUMbqZzp-pIv0o5dUGQ"
 						}
 					]
 				}
@@ -203,11 +212,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4630630630631,
+			"quality_rating_aggregate": 4.4622980251346,
 			"support_website_url": "http://discord.vrdesktop.net/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1677,
+				"count": 1681,
 				"orderings": [
 					{
 						"key": "top",
@@ -220,10 +229,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1677,
+				"count": 1681,
 				"page_info": {
-					"end_cursor": "AQHR0PYeuJmh9i1pCTYL_RmE3vuf9uIKmOAlKdSkQfvBupgG3TPVTp33oANfw0gRauNVPCxrMb1GbJ2cs9p-eQBDDg",
-					"start_cursor": "AQHR0PYeuJmh9i1pCTYL_RmE3vuf9uIKmOAlKdSkQfvBupgG3TPVTp33oANfw0gRauNVPCxrMb1GbJ2cs9p-eQBDDg"
+					"end_cursor": "AQHRZnjdh7As-xuUWSJP5VV1IuzBsju6Go4aJKlSkAE5IdqUnuL9zUEvF8hNVC7ryOaULSE6Y14UruEWotQ0IXgVcQ",
+					"start_cursor": "AQHRZnjdh7As-xuUWSJP5VV1IuzBsju6Go4aJKlSkAE5IdqUnuL9zUEvF8hNVC7ryOaULSE6Y14UruEWotQ0IXgVcQ"
 				},
 				"edges": [
 					{
@@ -233,13 +242,13 @@
 								"id": "1936843356571589",
 								"display_name": "Kanarico13",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982715_2733294606926456_9021111945894389567_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rm0ZN86wk6YAX8g-0Lm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fc18cf166c09d9ccf3b3bfda9e636c06&oe=608BDFB5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982715_2733294606926456_9021111945894389567_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rm0ZN86wk6YAX_0TVlj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7b81d43eabe53b5d1a641c3c806fa65f&oe=608FD435"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "If you have a decent WIFI connection then this app is a must. As of the recent version (1.20.0) you stream PC games to your Quest/Quest 2. Before you needed to sideload a patch to allow game streaming. There are a ton of options to get the streaming quality/performance to work for you and the developer and Discord community are very helpful.\n\nI've only used the remote desktop portion of this app a few times but the fact you can stream games from your PC wirelessly without having to use a USB cable is a game changer. The developer is constantly adding features and improving the overall experience. A must for everyone who has a gaming PC and a wireless network that can handle wireless streaming.",
 							"reviewTitle": "One of the best purchases you can make",
-							"review_helpful_count": 98,
+							"review_helpful_count": 115,
 							"review_rank_by_viewer": null,
 							"date": 1614271617,
 							"developerResponse": null
@@ -254,7 +263,7 @@
 				"description": "Connect wirelessly to your computer(s) to watch movies, browse the web, play 2D games or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.\n\n• Connect up to 4 computers (Windows 10 or macOS Mojave)\n• PCVR game streaming requires a VR Ready PC running Windows 10\n• Supports Bluetooth mice, keyboards and gamepads\n• A wired computer to a 5 GHz AC Wi-Fi is required\n• Also works over the Internet (enable UPnP on your router)",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X9-ryATeMuwAX-hfwcZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0b46f6d919267d163c8a2ed40bdaba85&oe=608C2858",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jezn15bRkIsAX9EQZ2-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e95b130c06319787f7d015e838746041&oe=60901CD8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
