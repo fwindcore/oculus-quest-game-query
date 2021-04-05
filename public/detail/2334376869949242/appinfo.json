@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974792_709060479791921_1148037846046816551_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ylDUQhezquQAX9yFhwi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4b1a5a1ce02c1a2523c82c180fa038be&oe=608F04E0"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974792_709060479791921_1148037846046816551_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kQKA5VyzAWkAX8M64Yh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a216ef3894a93de5bf1384af0e25a871&oe=608F04E0"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982678_860715731165133_2566160289399505973_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=RX4cgh6L1EoAX_OnSyn&_nc_ht=scontent.oculuscdn.com&oh=e6d03489aaa1c22ebd8328ca3d19266e&oe=608FE563"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982678_860715731165133_2566160289399505973_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=RX4cgh6L1EoAX-PSDsp&_nc_ht=scontent.oculuscdn.com&oh=7e8d8f5be6661ec35f58e5d47dfa5067&oe=608FE563"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 162,
+					"count": 163,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1949,
+					"count": 1950,
 					"starRating": 5
 				}
 			],
@@ -81,15 +81,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.3.6",
-				"change_log": "Version 1.3.6 (hotfix)\n\n- Added Restart Tournament and Return To Sanctuary options to pause menu in Pit Runner Tournament\n- Fixed issue with ghost not dying when shot in the weak spot\n- Fixed issue with disappearing pointer on Pit Runner Tournament leaderboard\n",
+				"version": "1.3.7",
+				"change_log": "RC 1.3.7",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2024331451",
-				"id": "3914163901970523",
-				"required_space_adjusted": "3804495238",
+				"total_installed_space": "2034593320",
+				"id": "3923359787717601",
+				"required_space_adjusted": "3825014760",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -107,7 +107,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -123,7 +123,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3914163901970523"
+					"id": "3923359787717601"
 				}
 			},
 			"release_channels": {
@@ -134,8 +134,8 @@
 						"id": "580193692384780",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.3.6",
-							"id": "3914163901970523"
+							"version": "1.3.7",
+							"id": "3923359787717601"
 						}
 					}
 				]
@@ -149,7 +149,7 @@
 								"current_end_timestamp": 1617649140,
 								"current_start_timestamp": 1617201000,
 								"temporal_info": {
-									"seconds_until_end_time": 124088,
+									"seconds_until_end_time": 37607,
 									"seconds_until_start_time": 0
 								},
 								"vr_app_and_destination_string": "In Death: Unchained",
@@ -172,7 +172,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "The Pit Runner Tournament",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566678_304876157730844_2372725892530230804_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ojx7oxcePogAX_JZtnd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ff33a614f7a4a20ee5d1fe2006763d4e&oe=608DA058"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566678_304876157730844_2372725892530230804_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ojx7oxcePogAX887Wc9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c8a0d73ab07afe9e7be53e22c1c201e0&oe=609194D8"
 								}
 							}
 						}
@@ -180,17 +180,7 @@
 				},
 				"id": "2492379927448481",
 				"posts": {
-					"nodes": [
-						{
-							"id": "237889901417112",
-							"title": "The Pit Runner Tournament",
-							"created_time": 1617201657,
-							"body_text": "Hello archers!\nWe’re happy to announce In Death: Unchained - The Pit Runner Tournament!\nProve your skills in the game: speed, accuracy and agility.\n\nWhat’s it all about?\nFight your way through the pit filled with enemies and kill all of them as fast as you can.\n\nHow to enter The Tournament?\nYou'll find a new portal in the Sanctuary - it will take you to the tournament dungeon, where you can prepare for the fight: choose your weapon and one of the special arrows.\nThe timer starts when you pass through the gate and stops only when the last enemy is dead.\n\nDon’t let the enemies defeat you or your efforts will be in vain - you will have to start over. But don’t worry, you can give it as many tries as you want. \nRemember, time is of the essence! No one will be left without a reward but only the fastest will achieve glory in the afterlife.\n\n\nDetails:\nChances are equal for everyone - your progress in the game is irrelevant in this tournament \nChoose your weapon and one of the special arrows\nThe clock starts when you pass through this gate and stops only when the last enemy is dead \nLook at your hand to see the timer and how many enemies are yet to be killed\nThe fastest player to clear the pit and survive becomes the winner \nAll participants will be rewarded with bonus Legend Points. The higher the place, the bigger the reward!\n\nThe tournament is on until April 4th 11:59 PM PDT (April 5th 8:59 AM CEST)\n\nGood luck and have fun!\n\n\n",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974899_563964764498427_3786611862028287126_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fO2JnRp1XkwAX9qD8Nq&_nc_ht=scontent.oculuscdn.com&oh=a73ddfee9ab6aa704a606ba6c2e5b8fd&oe=608E5C4C"
-							}
-						}
-					]
+					"nodes": []
 				},
 				"iap_items_2": {
 					"edges": []
@@ -244,7 +234,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7524531668153,
+			"quality_rating_aggregate": 4.7522281639929,
 			"support_website_url": "http://superbrig.ht/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -263,8 +253,8 @@
 			"firstQualityRatings": {
 				"count": 1215,
 				"page_info": {
-					"end_cursor": "AQHRb7ZFUR-7L0adrZ9Ys1ncoDdw2UYFvr1lCipW0A-42RU-jeSk7ml17BhALvH6MAcRxFCzUv0_EqU6QQEmjLhoGQ",
-					"start_cursor": "AQHRb7ZFUR-7L0adrZ9Ys1ncoDdw2UYFvr1lCipW0A-42RU-jeSk7ml17BhALvH6MAcRxFCzUv0_EqU6QQEmjLhoGQ"
+					"end_cursor": "AQHRyxF5REfjo-clCmLRxH43nSfjN8dOvgXAFvi0AuNPYcKeoYDarOK1yD9f6H0d_D2fQ83KdMiM6Ioe1Os8YxjU9w",
+					"start_cursor": "AQHRyxF5REfjo-clCmLRxH43nSfjN8dOvgXAFvi0AuNPYcKeoYDarOK1yD9f6H0d_D2fQ83KdMiM6Ioe1Os8YxjU9w"
 				},
 				"edges": [
 					{
@@ -274,13 +264,13 @@
 								"id": "343477983487266",
 								"display_name": "Orlans",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75451788_343593350142396_2985996813362362871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Cduk-Ag6Nw8AX-DkYxD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eedbf04012155da981053a5932025e9a&oe=608E4C06"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75451788_343593350142396_2985996813362362871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Cduk-Ag6Nw8AX8nmlU2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9b7f38f82e7c1d1d10afb1925d838f3b&oe=60924086"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I own a high end gaming PC and own every major VR release on both Steam and Occulus, and THIS game is holding my attention longer than anything else.\n\nDon’t get me wrong, Half Life: Alex, Boneworks, Pavlov etc are all incredible experiences, but the fact that this humble little archery game is competing with the big dogs speaks for itself.\n\nI have more hours on this game than I do any other VR game that I own. I also own 4 different archery games and this one is by far my favorite.",
 							"reviewTitle": "Superb",
-							"review_helpful_count": 110,
+							"review_helpful_count": 115,
 							"review_rank_by_viewer": null,
 							"date": 1614294393,
 							"developerResponse": null
@@ -295,7 +285,7 @@
 				"description": "Must-have bow & arrow action game with state of the art Quest graphics. \n\nNEW GAME MODE “SIEGE OF HEAVEN” AND QUEST 2 UPGRADES!!!\n\nGrab your bow and rain down arrows against forsaken souls and angelic creatures that have taken over the afterlife, battle through the beautiful medieval fantasy levels of Heaven, Purgatory & Hell to restore Harmony\n\nThree beautiful and mysterious, procedurally generated worlds, with infinite replayability, three epic boss fights, multiple optional areas.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_171406687869032_9112191332372572108_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4936RmmKpQ8AX8Yt0T3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dfa0f4cd8b278a42327ce56c97939315&oe=608D479C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_171406687869032_9112191332372572108_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4936RmmKpQ8AX-MvrXP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9d228ab0daf81dd9b737a2f1af806a7c&oe=60913C1C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
