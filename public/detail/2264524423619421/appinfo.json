@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75580066_2873939082885804_49444015256017434_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AaroYoKqGqkAX-otwYe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=10ab37ba9f25a1a4a94a31677387849e&oe=6091B5EC"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75580066_2873939082885804_49444015256017434_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AaroYoKqGqkAX-cwFSd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d60fec7a3484cd3801ed3fd9652e3bbd&oe=6091B5EC"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75251816_799490583994323_6242033177405054644_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lNEymq2SW7AAX9ryBuy&_nc_ht=scontent.oculuscdn.com&oh=2b02df3ac0d4f55a9b9b325777ca9c35&oe=6090F4C0"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75251816_799490583994323_6242033177405054644_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lNEymq2SW7AAX_mqycl&_nc_ht=scontent.oculuscdn.com&oh=340382421730e3b04a0f54bcfba13644&oe=6090F4C0"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 298,
+					"count": 301,
 					"starRating": 5
 				}
 			],
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.1",
-				"change_log": "",
+				"version": "1.2.3",
+				"change_log": "fix where music fill only fade out when the last piece of a puzzle will actually fit",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "233009644",
-				"id": "5213021252103042",
-				"required_space_adjusted": "217979568",
+				"total_installed_space": "233476160",
+				"id": "5282619565143210",
+				"required_space_adjusted": "218863328",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -108,7 +108,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "US$ 9.99"
+					"formatted": "$9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5213021252103042"
+					"id": "5282619565143210"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "2681946568697290",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.1",
-							"id": "5213021252103042"
+							"version": "1.2.3",
+							"id": "5282619565143210"
 						}
 					},
 					{
@@ -144,8 +144,8 @@
 						"id": "541499552957870",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.1",
-							"id": "5213021252103042"
+							"version": "1.2.3",
+							"id": "5282619565143210"
 						}
 					}
 				]
@@ -163,7 +163,7 @@
 							"created_time": 1615896710,
 							"body_text": "This latest update to Cubism adds experimental hand tracking support to the full game on Quest 1 and Quest 2. \nSo put your controllers down, and get hands-on with some mind-bending puzzles!\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zWlvhOB8oQ4AX_r9aJ0&_nc_ht=scontent.oculuscdn.com&oh=5db998579d7bc08e107ff19eeef649a6&oe=608F5AAF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZPqbkUTVa38AX942B_0&_nc_ht=scontent.oculuscdn.com&oh=cc57011366133d0b562dcd24f3d81d5a&oe=60934F2F"
 							}
 						}
 					]
@@ -224,7 +224,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8343373493976,
+			"quality_rating_aggregate": 4.8358208955224,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -243,8 +243,8 @@
 			"firstQualityRatings": {
 				"count": 139,
 				"page_info": {
-					"end_cursor": "AQHRehG6eix-vTMyFbjIxkd78n-rpMxtoG9ifEhK_T1Myyt9A-QuOPP1I3_8I-IOe3rrpqBRB4XQgXrBhVdbCWsTFw",
-					"start_cursor": "AQHRehG6eix-vTMyFbjIxkd78n-rpMxtoG9ifEhK_T1Myyt9A-QuOPP1I3_8I-IOe3rrpqBRB4XQgXrBhVdbCWsTFw"
+					"end_cursor": "AQHR55vMF6ej0PcIDsTTs1A8CzoGn_2nXNdaiS5iWagHk_pCbbWeEzHrOjXsoCJbWPO0jEI3hbwQlkX4px8wnGfl8g",
+					"start_cursor": "AQHR55vMF6ej0PcIDsTTs1A8CzoGn_2nXNdaiS5iWagHk_pCbbWeEzHrOjXsoCJbWPO0jEI3hbwQlkX4px8wnGfl8g"
 				},
 				"edges": [
 					{
@@ -254,13 +254,13 @@
 								"id": "113599293715994",
 								"display_name": "ExtremeCactus",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974883_266579201751335_5989058852920998486_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=art5yvsuVC8AX8Ga_lD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e70cc60f87fc75c63f66973aa5030419&oe=608FC219"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974883_266579201751335_5989058852920998486_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=art5yvsuVC8AX9_NL5B&_nc_ht=scontent.oculuscdn.com&tp=28&oh=046003e5751f4ccd2e49d021d02123fd&oe=608FC219"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I have mixed feelings about this game. On one hand, it’s amazing. It has puzzles that are so relaxing and fun to do. On the other hand, it’s SO FRUSTRATING when you can’t figure the puzzles out. That being said, this game is still fun and simple and relaxing.\n\n\n\n\n\n\n\n\n*DEV: YOU SHOULD ADD HINTS. IF THIS IS ALREADY A THING, PLZ TELL ME HOW TO FIND THEM! THX!*",
 							"reviewTitle": "Insanely Simple",
-							"review_helpful_count": 5,
+							"review_helpful_count": 8,
 							"review_rank_by_viewer": null,
 							"date": 1616669974,
 							"developerResponse": {
@@ -279,7 +279,7 @@
 				"description": "Challenge your mind in Cubism, a deceptively simple puzzle game where you assemble increasingly complex shapes out of colorful blocks.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75476593_2943619195862852_4706184706282195978_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YjxGEsMiwmgAX_jibUj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=989415c1b8d6a65ace30ffb1351b48c0&oe=6091FFE6",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75476593_2943619195862852_4706184706282195978_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YjxGEsMiwmgAX8XhFbU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f55774880555f07b2d3cea6595bc6e3f&oe=6091FFE6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
