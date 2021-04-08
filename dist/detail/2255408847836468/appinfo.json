@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JrKTz4_hNKsAX9KA_ln&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f8f7dfd7c565a6dd0fad34b158f1ca8&oe=60947B42"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kxhm3GixiS4AX8XkVU_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=325f77f45575604204c4b3a73ba195ab&oe=60947B42"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=S4A6BMjBcfEAX_0FohE&_nc_ht=scontent.oculuscdn.com&oh=1768b3516deb7d0173789b99d032ccda&oe=6093D413"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=S4A6BMjBcfEAX-K42RC&_nc_ht=scontent.oculuscdn.com&oh=fae11bdb12dc010d73516d4811d38a24&oe=6093D413"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1124,
+					"count": 1126,
 					"starRating": 5
 				}
 			],
@@ -90,15 +90,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.2.8",
-				"change_log": "Release Notes for version 2.2.8:\n- Bug fix (unconfirmed) - Versus match starts and there's no opponent and no arena, just a name tag\n- Bug fix - Stuck in limbo after selecting to play Offline\n- Crash fix - Quest version should be more stable and less crash prone\n- Tweak - In versus High Five is disabled during the actual match\n- Tweak - Buttons in \"Searching\" UI are more responsive\n- Tweak - Targets show up faster when there are many of them\n- XP cap\n- New stuff for next month ;)",
+				"version": "2.2.9",
+				"change_log": "Release notes for update v2.2.9:\n- Fixed a couple of bugs where tractor beam sometimes wouldn't work\n- A bit more 🍄!\n- Mushroom growth animation is faster (for comfort)\n- Fixed bug where Versus rating would reset in some rare cases of bad network (e.g. in the wilderness)",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "686400773",
-				"id": "4232896150087718",
-				"required_space_adjusted": "588277080",
+				"total_installed_space": "686457666",
+				"id": "4255650897812243",
+				"required_space_adjusted": "588357240",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -132,7 +132,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4232896150087718"
+					"id": "4255650897812243"
 				}
 			},
 			"release_channels": {
@@ -143,8 +143,8 @@
 						"id": "613025645811908",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.2.8",
-							"id": "4232896150087718"
+							"version": "2.2.9",
+							"id": "4255650897812243"
 						}
 					}
 				]
@@ -162,7 +162,7 @@
 							"created_time": 1614626788,
 							"body_text": "Season 4 is here!\n\nAnd if this wasn't enough, we have also launched an update that will make the new season more interesting and competitive:\n- Glicko rating system - your score reflects your performance more accurately\n- Matchmaking - you are matched against players of your skill level (when possible)\n- High five - enabled\n- Bug fixes and improvements\n\nSo jump right into action, and come share your experience with our community on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PDaxxoYleEwAX_Dr3k9&_nc_ht=scontent.oculuscdn.com&oh=7b86fe7577c4daa35096031a293ae4da&oe=6093625B"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QGwX4kxHmFEAX80-nNG&_nc_ht=scontent.oculuscdn.com&oh=471ccb977c93055dccd079f053620107&oe=6093625B"
 							}
 						},
 						{
@@ -171,7 +171,7 @@
 							"created_time": 1605563676,
 							"body_text": "Today we're rolled out a brand new game mode for Racket: Nx - Co-op!\nCo-op lets you team up with a friend or stranger and play shoulder to shoulder for the high score in a game against time!\nWe expect a lot of new players to join and veteran players to pop back in, so please be nice and welcoming.\n\nThis is the biggest update to RNX since launch, and after playtesting it for several weeks now, we've found it to be a super fun and bonding experience.\nAs always, this mode can be played cross platform and between devices sharing the same account, so hopefully some of you will be able to play with your kids, spouses and arch-enemies.\n\nIn addition to Co-op mode, we've added a few game mechanics to Arcade, making it more dynamic and interesting. These additions change Arcade enough for us to have had to reset the leaderboards. Apologies. We do hope you find these new changes worth it, though!\n\nThank you all for sticking with us as we continue to develop and expand RNX!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TYG2KH9oxKAAX_AlHJp&_nc_ht=scontent.oculuscdn.com&oh=0ddcfcbe120f6ca81b81f9b1c1cef0ee&oe=6091224C"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8MEDWW9OYfQAX-Vw2NU&_nc_ht=scontent.oculuscdn.com&oh=c4c56cc23440f51dc2244f1071ec00c1&oe=609516CC"
 							}
 						}
 					]
@@ -228,11 +228,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7273402674591,
+			"quality_rating_aggregate": 4.7277448071217,
 			"support_website_url": "https://racketnx.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 659,
+				"count": 662,
 				"orderings": [
 					{
 						"key": "top",
@@ -245,10 +245,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 659,
+				"count": 662,
 				"page_info": {
-					"end_cursor": "AQHRjAaisM0X1XHqYi_oIh9eY4YhI3bUXEMvM7eQHOjHbspGlmidhTHb7Tm6YqBUNLnnDNR47iFl14z9Q7S3M_cVvg",
-					"start_cursor": "AQHRjAaisM0X1XHqYi_oIh9eY4YhI3bUXEMvM7eQHOjHbspGlmidhTHb7Tm6YqBUNLnnDNR47iFl14z9Q7S3M_cVvg"
+					"end_cursor": "AQHRvWnEuPqabPHaNiwjKMK9UoIRJvIgp9n59rxqDwNKQX0vXnhIHuavdQ1azxVw8wgWk6BCXsyv0NeJOlJ4xH8yaQ",
+					"start_cursor": "AQHRvWnEuPqabPHaNiwjKMK9UoIRJvIgp9n59rxqDwNKQX0vXnhIHuavdQ1azxVw8wgWk6BCXsyv0NeJOlJ4xH8yaQ"
 				},
 				"edges": [
 					{
@@ -277,7 +277,7 @@
 				"description": "Racket: Nx是一款前所未见的游戏，旨在挑战玩家在VR中使用球拍的极限。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001679_937498047058727_197760325154451816_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VFO0pZYk_NQAX8O2Q_s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7911d9dc5c0a84240b2e09661890735e&oe=60927316",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001679_937498047058727_197760325154451816_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QABBrTPMs2cAX8w-Dqo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=78408e93b81b0da569026245dc527514&oe=60927316",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

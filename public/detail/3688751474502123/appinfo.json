@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982535_264219471758082_997212140826597774_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XlD3FZbM6ewAX_x15lK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=98f96480628fc5c2c95ddf094d8ccd8b&oe=6091CA8F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982535_264219471758082_997212140826597774_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XlD3FZbM6ewAX_m0sKt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2559dd2a7841f61beb8dd543dbb33088&oe=6095BF0F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974634_1946109205540288_3562904148340630264_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=njEIjXGnQaIAX95ox2L&_nc_ht=scontent.oculuscdn.com&oh=e31530a74ea7b740fdd02d1f407ae7a8&oe=6091EFFD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974634_1946109205540288_3562904148340630264_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=njEIjXGnQaIAX8G2DP-&_nc_ht=scontent.oculuscdn.com&oh=70612b6429e29edeffa9ca507064b1c2&oe=6095E47D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 131,
+					"count": 137,
 					"starRating": 5
 				}
 			],
@@ -89,15 +89,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.0.9",
-				"change_log": "- Fixed height not matching the real world (seated play is still possible from the new \"Seated Mode\" option in the Options menu)\n- Quest 2: Added dynamic shadows. Increased resolution of some environment textures.\n- Keys will no longer spawn in high shelves or inside closed lockers, where they were harder to see\n- Keys will no longer receive force from explosions in their vicinity\n- Locked doors will no longer become inoperable after being opened by the Cosmonaut\n- Fixed monster kill count at the end sometimes displaying excessive numbers\n- Improved accessibility of the Options menu from the wrist bracelet\n- Players will no longer suffocate after they've triggered the escape sequence\n- Improved health syringe detection range\n- Changed Polypoid death tip text to something more useful\n- Fixed geometry gaps in a corridor room\n- Selecting the Exit option from the menu when in the Credits scene will now take you back to the Intro menu\n- Other minor fixes and adjustments\n\nNOTE: Runs saved with the previous version won't work after the update. Please switch to the \"Old Version\" branch if you want to keep playing a previous run. (This is only for saved runs, it doesn't affect blueprint or modifier unlock progression).",
+				"version": "1.0.0.10",
+				"change_log": "- Added support for left handed controls (swaps controls between left and right hands)\n- Fixed locked doors that were already open sometimes becoming permanently closed with the key in the lock after saving the game\n- Fixed Lightning Gun's pump lever sometimes losing the hand interaction\n- Fixed reaching out behind shoulder causing the direction of walk to reverse in smooth locomotion\n- Fixed particle effects when using the teleporter with some enemies\n- Fixed interaction detection for the escape shuttle's lever\n- Fixed health indicator not refreshing after loading a saved game\n- Fixed player being able to close doors while enemies were already crossing through them\n- Fixed creatures sometimes spawning on top of the escape shuttle\n- Fixed Crawlers being able to jump on to the forcefields covering hull breaches\n- Fixed grenades causing other explosive items to detonate even through doors\n- Fixed players falling into infinity if their headset went too out of bounds in the Intro scene\n- Other minor fixes and improvements",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "773809243",
-				"id": "4013595172017750",
-				"required_space_adjusted": "1447142880",
+				"total_installed_space": "773826477",
+				"id": "4039623532748247",
+				"required_space_adjusted": "1447085216",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -142,7 +142,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4013595172017750"
+					"id": "4039623532748247"
 				}
 			},
 			"release_channels": {
@@ -153,8 +153,8 @@
 						"id": "376385766985122",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.0.9",
-							"id": "4013595172017750"
+							"version": "1.0.0.10",
+							"id": "4039623532748247"
 						}
 					},
 					{
@@ -162,8 +162,8 @@
 						"id": "138833251427062",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.0.7",
-							"id": "3998888990155035"
+							"version": "1.0.0.9",
+							"id": "4013595172017750"
 						}
 					}
 				]
@@ -228,11 +228,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4945054945055,
+			"quality_rating_aggregate": 4.5106382978723,
 			"support_website_url": "http://www.cosmodread.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 105,
+				"count": 106,
 				"orderings": [
 					{
 						"key": "top",
@@ -245,10 +245,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 105,
+				"count": 106,
 				"page_info": {
-					"end_cursor": "AQHROiVCLrZ6ABUOGgM65RatWhMdwi2lhp6lSzhvxszxPZaLBXg921dSnlzUyx4ju1E6_y93BpDHV7rbezvu6C_Grg",
-					"start_cursor": "AQHROiVCLrZ6ABUOGgM65RatWhMdwi2lhp6lSzhvxszxPZaLBXg921dSnlzUyx4ju1E6_y93BpDHV7rbezvu6C_Grg"
+					"end_cursor": "AQHRYJpMel34_87pmzpwwT9UAc230Vgr4wfcb3bi4S8pBRznakgZkGygSFsSt2KgVWf4RFWytFdhu9C0ijJfDbXqNA",
+					"start_cursor": "AQHRYJpMel34_87pmzpwwT9UAc230Vgr4wfcb3bi4S8pBRznakgZkGygSFsSt2KgVWf4RFWytFdhu9C0ijJfDbXqNA"
 				},
 				"edges": [
 					{
@@ -258,13 +258,13 @@
 								"id": "1279762762151535",
 								"display_name": "VRReviews",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.598.598a/s160x160/38974675_3828235460637573_6521363659750111882_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fJYet9-T1g4AX8onIOm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dc840d29f3b02edbf1e484abf350ebf5&oe=60915A80"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.598.598a/s160x160/38974675_3828235460637573_6521363659750111882_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nrQFknw5qoUAX9Gxmjh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb87dca21715f4fbbfd76acf05143eb1&oe=60954F00"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "See the full video review here: https://youtu.be/md59Agdnh5I\n\nCosmodread is possibly the best survival horror game you can get for your Quest right now. In this game you’re a cosmonaut trapped aboard a dying spaceship filled with horrors and your mission is to get back to earth. \n\nThe tense, horror atmosphere is amazing, and the gameplay is both engaging and addictive. The visuals are decent, and I love the retro look that the spaceship has which reminds me of a sci fi program from the 60s/70s.\n\nAmmo is scarce so in addition to weapons, grenades and traps, you will need to hide, run and throw things to distract enemies long enough to get by. The game is well balanced, you always feel like the odds are stacked against you as you scavenge items from the ship to stay alive, but it never gets impossibly difficult or unfair. \n\nTechnically you could complete all objectives on the ship in about 2 hours but it’s very unlikely you will do this on your first go. Realistically you are looking at a few attempts. It took me about 4-5 hours to get through one playthrough and even then there’s a ton of replay value here as the environments are procedurally generated so each time you play, the ship layout and monster/item placement changes up. There are also modifiers you can turn on which change the gameplay (e.g. more monsters, no guns).\n\nFor me, this is a must have title and for $15 is worth every cent.",
 							"reviewTitle": "A MUST HAVE GAME!",
-							"review_helpful_count": 110,
+							"review_helpful_count": 116,
 							"review_rank_by_viewer": null,
 							"date": 1616692325,
 							"developerResponse": null
@@ -279,7 +279,7 @@
 				"description": "Cosmodread is a VR survival horror roguelike about escaping a dying spaceship filled with nightmares. Stranded in a hostile universe, you must explore, survive, and find your way back to the safety of Earth.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86662329_1367187890295422_7273309200526519194_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xvPtq2M_05cAX8imBfB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69b802a85ca1ba9fe6d56a8d911fc2ef&oe=60945D25",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86662329_1367187890295422_7273309200526519194_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xvPtq2M_05cAX_iuZa0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c186ce8f73b92219cc32a39ef3fc41a2&oe=60945D25",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

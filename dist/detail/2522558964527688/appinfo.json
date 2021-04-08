@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75203621_796437734528590_2707227700941059907_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K_FM9A2ePqYAX_HbfEC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=924072bdf88b5e4fc6025bce914c6755&oe=60942F5E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75203621_796437734528590_2707227700941059907_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K_FM9A2ePqYAX_P1hLH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=abb89339dd7167674395b8552f4a67bc&oe=60942F5E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974558_737586013849390_8366319018140087053_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=rmlXw_5cnBkAX94kb7r&_nc_ht=scontent.oculuscdn.com&oh=12e6f48d7920c6db9c53e4ca4c72b507&oe=60921B44"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974558_737586013849390_8366319018140087053_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=rmlXw_5cnBkAX8MFaoa&_nc_ht=scontent.oculuscdn.com&oh=c171c84219185f8186e3d35c5a91ca00&oe=60960FC4"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 311,
+					"count": 312,
 					"starRating": 5
 				}
 			],
@@ -169,22 +169,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "567492064152480",
+				"id": "822562054924757",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1617865140,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -218,44 +213,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1617789600,
-								"current_start_timestamp": 1617746400,
-								"temporal_info": {
-									"seconds_until_end_time": 5256,
-									"seconds_until_start_time": 0
-								},
-								"vr_app_and_destination_string": "OhShape",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2522558964527688",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "OhShape"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1439492826387955",
-								"is_vr_viewer_interested": false,
-								"name": "Album 4 Electro Party - Radio Love - Expert - 1.2x Speed - 1.1x Precision ",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031326_252059436612010_3710521898572062761_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8AG-CSh1-A4AX8WrgCQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4fae0e1cb53b6e9b27006acdc3987304&oe=609460F7"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1618221600,
 								"current_start_timestamp": 1618178400,
 								"temporal_info": {
-									"seconds_until_end_time": 437256,
-									"seconds_until_start_time": 394056
+									"seconds_until_end_time": 350893,
+									"seconds_until_start_time": 307693
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -277,7 +239,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "OhShape April Challenge!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982580_492834528415109_635476481225734691_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eKRafZufIHwAX8gtHTc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ac616cb2d43510e71c5b53c19f258128&oe=60935B59"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982580_492834528415109_635476481225734691_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eKRafZufIHwAX9eQVJh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f6efef81d1b84859f0ade03b2b216182&oe=60935B59"
 								}
 							}
 						},
@@ -287,8 +249,8 @@
 								"current_end_timestamp": 1618394400,
 								"current_start_timestamp": 1618351200,
 								"temporal_info": {
-									"seconds_until_end_time": 610056,
-									"seconds_until_start_time": 566856
+									"seconds_until_end_time": 523693,
+									"seconds_until_start_time": 480493
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -310,7 +272,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Album 2 - My Time - Hard - 1.1x Speed - 1.2x Precision",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982611_433883060995742_4176929844310845352_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=racsVrdlxqkAX_xS9_J&_nc_ht=scontent.oculuscdn.com&tp=28&oh=55d61ab4257ef36bf873ee615fd88012&oe=6092BECB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982611_433883060995742_4176929844310845352_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=racsVrdlxqkAX9EAiWa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=52837dc26ab08e1ee6682ae4cb85ebfc&oe=6092BECB"
 								}
 							}
 						},
@@ -320,8 +282,8 @@
 								"current_end_timestamp": 1618567200,
 								"current_start_timestamp": 1618524000,
 								"temporal_info": {
-									"seconds_until_end_time": 782856,
-									"seconds_until_start_time": 739656
+									"seconds_until_end_time": 696493,
+									"seconds_until_start_time": 653293
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -343,7 +305,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Album 4 Electro Party - Save Me - Hard - 1.1x Speed - 1.2x Precision",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974530_1186507861814239_2542807996951840515_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7TXiiBtcBiQAX_8qrDH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eb3a2027f84eb1e13078c8b5fc0c3d77&oe=6093AC16"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974530_1186507861814239_2542807996951840515_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7TXiiBtcBiQAX9Ip9Rr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=191e60079ad20dbee6e62feced2facc8&oe=6093AC16"
 								}
 							}
 						},
@@ -353,8 +315,8 @@
 								"current_end_timestamp": 1618826400,
 								"current_start_timestamp": 1618783200,
 								"temporal_info": {
-									"seconds_until_end_time": 1042056,
-									"seconds_until_start_time": 998856
+									"seconds_until_end_time": 955693,
+									"seconds_until_start_time": 912493
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -376,7 +338,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "OhShape April Challenge!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_494834644854235_8562670067226838384_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SpQkiFzuIbcAX_oQLjK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=23abb2190aff1df1cfa63d2af3bdba39&oe=609197BA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_494834644854235_8562670067226838384_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1eLrkMAxX4gAX8NTQVX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=323b0ff596c7ca7bb572d9e209ecabeb&oe=60958C3A"
 								}
 							}
 						},
@@ -386,8 +348,8 @@
 								"current_end_timestamp": 1618999200,
 								"current_start_timestamp": 1618956000,
 								"temporal_info": {
-									"seconds_until_end_time": 1214856,
-									"seconds_until_start_time": 1171656
+									"seconds_until_end_time": 1128493,
+									"seconds_until_start_time": 1085293
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -409,7 +371,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Album 3 - 5 A.M. - Expert - 1.0x Speed - 1.0x Precision",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003239_447295836555386_611610117960573013_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yk0DhQsdWHEAX8qzRIs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0ab5bf6b4d5019771905a907067d5301&oe=609277CB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003239_447295836555386_611610117960573013_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5Ig1-iqtTKAAX-PT_1Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd4585839ab55954d48136ad6b8b3dbb&oe=609277CB"
 								}
 							}
 						},
@@ -419,8 +381,8 @@
 								"current_end_timestamp": 1619172000,
 								"current_start_timestamp": 1619128800,
 								"temporal_info": {
-									"seconds_until_end_time": 1387656,
-									"seconds_until_start_time": 1344456
+									"seconds_until_end_time": 1301293,
+									"seconds_until_start_time": 1258093
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -442,7 +404,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Album 4 Electro Party - The One - Expert - 1.0x Speed - 1.0x Precision",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974641_718232262188102_7026518740210227561_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_G_oFeg4bIMAX9wltjT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d008988fb0d176264467b0a55159b108&oe=609123A9"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974641_718232262188102_7026518740210227561_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_G_oFeg4bIMAX-gWaHl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=56fe8dddaa8fe9ec3951f9388310c234&oe=60951829"
 								}
 							}
 						},
@@ -452,8 +414,8 @@
 								"current_end_timestamp": 1619431200,
 								"current_start_timestamp": 1619388000,
 								"temporal_info": {
-									"seconds_until_end_time": 1646856,
-									"seconds_until_start_time": 1603656
+									"seconds_until_end_time": 1560493,
+									"seconds_until_start_time": 1517293
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -475,7 +437,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "OhShape April Challenge - Last week!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974634_898615490710642_6470552912369253259_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kFO-ntl1hxcAX9nxee9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=150a7e09b78e99d4473f7bcd879d25f9&oe=6093E7BC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974634_898615490710642_6470552912369253259_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5NHRZGY4QSIAX9hm4jA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f3bd8e5d523bfe88a685d37eb45b38d9&oe=6093E7BC"
 								}
 							}
 						},
@@ -485,8 +447,8 @@
 								"current_end_timestamp": 1619604000,
 								"current_start_timestamp": 1619560800,
 								"temporal_info": {
-									"seconds_until_end_time": 1819656,
-									"seconds_until_start_time": 1776456
+									"seconds_until_end_time": 1733293,
+									"seconds_until_start_time": 1690093
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -508,7 +470,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Album 1 - Keep On Hustling - Hard - 1.1x Speed - 1.1x Precision",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974453_477726643428414_30024891774821144_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1Fd3mBnb8LIAX8fmBvc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=df5d206fa64841064eae53de77f96b9c&oe=6094046B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974453_477726643428414_30024891774821144_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1Fd3mBnb8LIAX_r62zn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6b9bfa72511b85ed214b02557083319f&oe=6094046B"
 								}
 							}
 						},
@@ -518,8 +480,8 @@
 								"current_end_timestamp": 1619776800,
 								"current_start_timestamp": 1619733600,
 								"temporal_info": {
-									"seconds_until_end_time": 1992456,
-									"seconds_until_start_time": 1949256
+									"seconds_until_end_time": 1906093,
+									"seconds_until_start_time": 1862893
 								},
 								"vr_app_and_destination_string": "OhShape",
 								"vr_applications": {
@@ -541,7 +503,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Album 4 Electro Party - Attack - Hard - 1.1x Speed - 1.1x Precision",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_247521493729067_6362064556778045888_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fJkSw1oJcqsAX98jCEw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1569f07859b94caa73cb5d54ec37bb30&oe=60941292"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_247521493729067_6362064556778045888_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fJkSw1oJcqsAX_nfGAk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5bac60e28e6fbf7759878a30e2ccc837&oe=60941292"
 								}
 							}
 						}
@@ -556,7 +518,7 @@
 							"created_time": 1615474919,
 							"body_text": "Community feedback is key element fo us, so we have made some fine tuning to the feedback players receive when they fail a wall. Now it is clearer and less intrusive! The human shadow has also taken some dance lessons and it now moves better than ever!\n\nOn top of that, our Electro Party DLC owners will receive a free update with a new song: 'Show Me' by Tiësto.\n\nHere is a brief summary of the release notes for this update:\n\nv 1.8.5 - Tiësto Update - March 2021\n—————————————————————\n- New Song: Added ‘Show Me’  by Tiësto to Electro Party DLC for free!\n- Some feedback improvements upon failing and passing a wall\n- Shadow improvements: your human shadow behaves more accurately!\n- Found some little bugs, and splashed them\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57570299_738582990177679_28901741449154436_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Lhs8-YGLwK4AX-0uiYw&_nc_ht=scontent.oculuscdn.com&oh=cc84ae2624731c273c1f3033c15e21fa&oe=609252B9"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57570299_738582990177679_28901741449154436_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Lhs8-YGLwK4AX99cBoT&_nc_ht=scontent.oculuscdn.com&oh=65804c1549de73acf84a335450c6056d&oe=60964739"
 							}
 						},
 						{
@@ -565,7 +527,7 @@
 							"created_time": 1608200885,
 							"body_text": "Holidays are around the corner and OhShape has just released a very special update to celebrate! The main course of this update is the first ever DLC “Electro Party”, a music pack that takes you into a wild party with upbeat electronic music, vibrant moving elements, and electricity. A lot of electricity! This new album features a dark environment that resembles an epic disco stage, something widely demanded by the OhShape community. The Electro Party music pack includes 8 new songs:\n\n-\"Attack\" by Red City Hero\n-\"Detonate\" by Stretched\n-\"Is This All There\" by Arch Tremors\n-\"Keeping Love Alive\" by Guest of Rapture\n-\"Pump Up The Bass\" by Fassounds\n-\"Radio Love\" by Tyler Fiore\n-\"Save Me\" by Kiba\n-\"The One\" by Fassounds\n\nThe Electro Party DLC is available for $2.99 on the Oculus Quest and Steam, with the PSVR version coming soon at the same price.\n\n\nChallenges in Oculus Quest\n\nFrom now on, Quest players will also enjoy the Challenges feature where each week they will be able to join 2 exclusive challenges with different songs and modifiers, each featuring a different leaderboard. Players can compete on the global leaderboard and can challenge a friend to beat their score. Let the true competition begin!\n\n\nNewcomers welcome!\n\nThe Odders Lab team has been doing a deep research around the feedback received from the community and some adjustments have been made so the new players can have a better experience with OhShape. There is a new difficulty naming that provides a clearer information about the challenge and the skills the player needs to master each level.\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001663_4100804946615167_2317697925207429971_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CVJDHkqm_wYAX_Uk4ib&_nc_ht=scontent.oculuscdn.com&oh=285c4bb882eaeabd0ba7b1071e87107b&oe=6094A193"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001663_4100804946615167_2317697925207429971_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CVJDHkqm_wYAX_5s_cZ&_nc_ht=scontent.oculuscdn.com&oh=68fd21c71102479dcf865a0a1b9d1e35&oe=6094A193"
 							}
 						}
 					]
@@ -573,7 +535,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR6xNuSFrNLAJPa9oB_arHglRw1x4F_tWMuxbVv29O6n3HWeFHuCvYOmLApWoJUNyycTnzp7Aci37sC9T3iudMfA"
+							"cursor": "AQHRsSSXAOugXhZbt7bErF-FuZJajehGcDNVKVwkrh7T0lgyoPW4m8HrWVhrM0w9uynSmxkAWk6TFzBcRbe_5w3QmQ"
 						}
 					]
 				}
@@ -621,16 +583,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "567492064152480"
+				"id": "822562054924757"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1335807050093,
+			"quality_rating_aggregate": 4.1351851851852,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 322,
+				"count": 323,
 				"orderings": [
 					{
 						"key": "top",
@@ -643,10 +605,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 322,
+				"count": 323,
 				"page_info": {
-					"end_cursor": "AQHRy8vEdoMcFSOJtkFemXM-Jvvjfmy011PvRlPlXVhHkGhGfDe34AL-sveSdBAzUCIN6_45u46xbxJP61l2rZVVlA",
-					"start_cursor": "AQHRy8vEdoMcFSOJtkFemXM-Jvvjfmy011PvRlPlXVhHkGhGfDe34AL-sveSdBAzUCIN6_45u46xbxJP61l2rZVVlA"
+					"end_cursor": "AQHRNIWTCWCSHjY0NIWVPthhxYaCrIK8G9UpflP51WwoWnEs3eIQ0WbSVXmY9yEk5BZSdQZkqKOU5QiUP7L6y00kaA",
+					"start_cursor": "AQHRNIWTCWCSHjY0NIWVPthhxYaCrIK8G9UpflP51WwoWnEs3eIQ0WbSVXmY9yEk5BZSdQZkqKOU5QiUP7L6y00kaA"
 				},
 				"edges": [
 					{
@@ -656,13 +618,13 @@
 								"id": "100751192051369",
 								"display_name": "helennwilson",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75297583_100751375384684_6254456143265477311_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v4ZStRFz9t0AX_LnLrq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1a7d63c8bbc14eb57d49fe59de575aa6&oe=6094307B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75297583_100751375384684_6254456143265477311_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s0DNcnNxSxwAX-37s3v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8e575825c62ccc7cf439fbc3b1ba2b63&oe=6094307B"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This is great fun, and if you’re looking for apps that give you a medium cardio workout, this should definitely be part of your collection. Three suggestions:\n1. Can we please have a female-shaped shadow figure for aligning your body with the holes, or at least a more gender-neutral one? I find the exaggerated neck and shoulder musculature of the overtly male shadow figure, with whom I bear little resemblance, quite irritating\n2. A non-stop mode - or levels with a longer duration - would be great. Too much opportunity to catch one’s breath right now!\n3. Better music. Compared with Beat Sabre, the music in this app is well below par.",
 							"reviewTitle": "Good but could be better!",
-							"review_helpful_count": 31,
+							"review_helpful_count": 46,
 							"review_rank_by_viewer": null,
 							"date": 1615144413,
 							"developerResponse": {
@@ -681,7 +643,7 @@
 				"description": "OhShape是一款能够带来独一无二全身活动的音乐节奏类游戏。每张地图都需要躲避障碍，打击墙壁和做出可爱造型。通过游戏获取奖励，做自己的超级明星。\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_905229323594585_3746643759375121084_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4kF6Szla4rkAX_Vf7X8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c361387d62d3658227b514e11b4f625&oe=6092DAB9",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031315_1277082152658098_4009000642312919711_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v-NQidz7RXsAX9IQO04&_nc_ht=scontent.oculuscdn.com&tp=28&oh=80821865cb94090ff3f940c38db2818c&oe=6093AF6D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

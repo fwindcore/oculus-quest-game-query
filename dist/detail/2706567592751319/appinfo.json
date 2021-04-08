@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974705_1762987400470689_7475104787269156864_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LbQQGbl6PdEAX8z2Aa3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=47fe0a4bd505b27efd1bb5b6b141bc21&oe=60923321"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974705_1762987400470689_7475104787269156864_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZIAc5f-m-BsAX8who1j&_nc_ht=scontent.oculuscdn.com&tp=28&oh=32e571bdde4652752d86ebd60fd4e852&oe=609627A1"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1762973207138775_4268931079697596416_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=tdChlXZqJyIAX8aBozb&_nc_ht=scontent.oculuscdn.com&oh=8beb480b4b1216020e3c64fee4ab6c5b&oe=6094B7A1"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1762973207138775_4268931079697596416_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=tdChlXZqJyIAX8MddF-&_nc_ht=scontent.oculuscdn.com&oh=97c89be6a79984debab0bc856c021ade&oe=6094B7A1"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 96,
+					"count": 95,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 297,
+					"count": 298,
 					"starRating": 5
 				}
 			],
@@ -144,17 +144,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "372840690322438",
+				"id": "148581813752407",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "899",
+					"formatted": "$8.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99",
+					"offset": 100
+				},
+				"promo_benefit": "-10%",
+				"end_time": 1617951540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -237,12 +242,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "372840690322438"
+				"id": "148581813752407"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7337192474674,
+			"quality_rating_aggregate": 3.739507959479,
 			"support_website_url": "https://www.forwardgs.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -261,8 +266,8 @@
 			"firstQualityRatings": {
 				"count": 365,
 				"page_info": {
-					"end_cursor": "AQHREdY3fzE9m4_lLz0-1qQwVghMvOB7gEIAImsqx1Hnbp_tCqjl4NhtH85v_rnN3IlYlRYBO50lpTkxgAmCA-OZQA",
-					"start_cursor": "AQHREdY3fzE9m4_lLz0-1qQwVghMvOB7gEIAImsqx1Hnbp_tCqjl4NhtH85v_rnN3IlYlRYBO50lpTkxgAmCA-OZQA"
+					"end_cursor": "AQHRWumYnv6nU-dPvS9xoee7v5h9ROWbMzhWGLPifD-zqAs8o6jOjOoNw_pyUJt2OSmPUXUO6i0V1O8sjofXBBGE3w",
+					"start_cursor": "AQHRWumYnv6nU-dPvS9xoee7v5h9ROWbMzhWGLPifD-zqAs8o6jOjOoNw_pyUJt2OSmPUXUO6i0V1O8sjofXBBGE3w"
 				},
 				"edges": [
 					{
@@ -272,13 +277,13 @@
 								"id": "876063302543215",
 								"display_name": "TenaciousADD",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/11162694_876063419209870_7427343243404115968_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=O84cFyT1WyYAX-8tyKh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4a73aa36f20152e44dd564055872737c&oe=60920137"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/11162694_876063419209870_7427343243404115968_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=n6-81IccNQwAX_YNo6N&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8712e2f70125a012a9c994b79d6864e1&oe=6095F5B7"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I input the solution.\n\nThe audio distorts.\n\nThe room dims.\n\nA dark fluid starts running down the screen.\n\n“IS SHE HERE?” the screen asks.\n\nI turn around.\n\nI scream my lungs out and yank the headset off my head.\n\nSome of the endings are silly, some are wild, some will make your fight or flight response go bonkers. Definitely worth a purchase if you don’t mind almost zero hand-holding and love puzzles.",
 							"reviewTitle": "From “haha” to yanking the headset off.",
-							"review_helpful_count": 12,
+							"review_helpful_count": 18,
 							"review_rank_by_viewer": null,
 							"date": 1617117142,
 							"developerResponse": null
@@ -293,7 +298,7 @@
 				"description": "一款神秘的、挑战脑容量、复杂多变的益智按钮游戏",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974891_401301733806871_523259975955382272_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zaWVB_c-D9EAX-Kx6P4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed1f09c31b2b592e1ddc3476a4f96fc5&oe=60919483",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982528_283796259970184_8422569562078595326_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DOzjWgLOAncAX-d3-Pk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ed5a882ac9f88a450b9919bc9113f81b&oe=60964108",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75195904_256704012761904_26405886899506281_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0F3fskcw7WwAX-wFKn_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c9bf17093f91d98f3f25ec61c4691df9&oe=6093D110"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75195904_256704012761904_26405886899506281_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0F3fskcw7WwAX98qzRX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f7067d14f2a1916568ba1700ef5290ca&oe=6093D110"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974634_467900007733648_7764399463753957015_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=BU9SaoAFNmAAX8Ce3UG&_nc_ht=scontent.oculuscdn.com&oh=2d0a4792a2133aa9d4c0e98239c32e10&oe=6093E5B5"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974634_467900007733648_7764399463753957015_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=BU9SaoAFNmAAX-7defm&_nc_ht=scontent.oculuscdn.com&oh=169f1d9abbc8bb73be85e1aa6b9ba160&oe=6093E5B5"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 4,
+					"count": 5,
 					"starRating": 1
 				},
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 1,
+					"count": 3,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 50,
+					"count": 53,
 					"starRating": 5
 				}
 			],
@@ -187,7 +187,15 @@
 				},
 				"id": "139448947986849",
 				"posts": {
-					"nodes": []
+					"nodes": [
+						{
+							"id": "224866332763422",
+							"title": "v1.0.2.3 Change Notes",
+							"created_time": 1617738309,
+							"body_text": "Hello, PuzzPals!\n\nThank you so much for your incredible support since our launch last Thursday! Today we're releasing the first patch for Floor Plan 2 (v1.0.2.3) with a few improvements and bugfixes for some of the most commonly reported issues. We apologize for these issues if you ran into them, and hope you enjoy finishing the game!\n\nAdditionally, we now have a support site with extra hints and solutions \nat: www.turbo-button.com/floorplan2hints/\n\nPlay Area Centering:\nWhen playing with snap / smooth turn assist enabled, the play area can get off centered if you move around in the real world. We recommend only using snap / smooth turn for stationary play areas, and using the default settings (no turn assist) for roomscale play areas. In a future update, we're working on adding support for seated play to the game too.\n\nBugfixes and Improvements in v1.0.2.3:\n- Fixed some incorrect text that appeared when playing the game in Spanish, as well as a line that was incorrectly formatted in English.\n- When lost, items now recall to the edge of the play area instead of the center, making it easier to grab them without your waist pouch getting in the way.\n- Made it easier to clap with Quest 2 controllers.When distance grabbing from far away, hand alignment on objects is improved.\n\nSpoiler warning!\nThe following fixes may reveal parts of the game you haven't seen yet!\n\n- [East Elevator] Made it easier to take sunglasses off your face.\n- [East Elevator] Fixed the lasers in the bone case showing in the wrong position when the hatch door was fully slid open.\n- [East Elevator] Fixed edge cases where the crank could get stuck in the floor or floor grate of the dance club\n- [East Elevator] Fixed edge case where the pipe could get stuck under the bathroom sink.\n- [West Elevator] Fixed an issue where the power levels in the space station could get stuck at level 2 or higher.\n- [West Elevator] Improved light beams outside the space station so that the power levels don't flicker when moving beams around.\n- [West Elevator] Fixed an issue where the shoe could get stuck in the elevator when reloading from a save.\n- [CEO Office] Fixed an issue where Tammy could get stuck holding onto her hat if you put it back in her hand after she threw it away.\n- [CEO Office] Fixed an issue where items like the chalkboard could get stuck inside the CEO's desk or Bud's TV.\n- [CEO Office] The button on the game console now animates when pressed.\n- [West Elevator Overtime] Fixed an issue where the capsule with the red harry could get into a state where it could no longer be selected.\n- [West Elevator Overtime] Fixed an issue where the carrot would disappear if you held it up to your head, or could be invisible when loading from a save file.\n- [West Elevator Overtime] Fixed edge case where the carrot could get stuck in the planter.\n\nIf you encountered a problem that isn't listed in these notes, please reach out to us at hello@turbo-button.com and we'll do our best to address it quickly. Thanks for playing Floor Plan 2!!",
+							"tile_landscape_image": null
+						}
+					]
 				},
 				"iap_items_2": {
 					"edges": []
@@ -241,11 +249,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5211267605634,
+			"quality_rating_aggregate": 4.4545454545455,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 46,
+				"count": 50,
 				"orderings": [
 					{
 						"key": "top",
@@ -258,10 +266,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 46,
+				"count": 50,
 				"page_info": {
-					"end_cursor": "AQHR8eL2Qa3IIv9KeBYsO6D7MvgzC0v1Vl0M4qyXmjb5wQsDbC7RwiqYyR4dPTlpH-fWxlqVUBpe_ZZiaa3N8Db8zg",
-					"start_cursor": "AQHR8eL2Qa3IIv9KeBYsO6D7MvgzC0v1Vl0M4qyXmjb5wQsDbC7RwiqYyR4dPTlpH-fWxlqVUBpe_ZZiaa3N8Db8zg"
+					"end_cursor": "AQHRA2mx17buEpYFzmWVLyQdJzYg-a20wzSRt09yrw1RYtkU1uZGdAFRnyW9PcdbcxB5UCZjgVH8EGr4ymApfQpAeA",
+					"start_cursor": "AQHRA2mx17buEpYFzmWVLyQdJzYg-a20wzSRt09yrw1RYtkU1uZGdAFRnyW9PcdbcxB5UCZjgVH8EGr4ymApfQpAeA"
 				},
 				"edges": [
 					{
@@ -271,13 +279,13 @@
 								"id": "100743661092519",
 								"display_name": "BeardoBenjo",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1000.1000a/s160x160/39031562_495691468264401_3055543889129691564_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OlNkFEVqHhQAX99HKIo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2b7b76d9d06d3ccc3ce4c30d78fcd9cb&oe=60944278"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1000.1000a/s160x160/39031562_495691468264401_3055543889129691564_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OlNkFEVqHhQAX_FCw7F&_nc_ht=scontent.oculuscdn.com&tp=28&oh=99ffd086617c7a4ede694af3d9599428&oe=60944278"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Floor Plan 2 is absolutely insane. If you're looking for Quest 2 puzzle games, Quest 2 adventure games or Quest 2 escape room games then great news, Floor Plan 2 ticks all those boxes and throws in tonnes of personality, comedy & ridiculous encounters to top it all off. If like me you're a fan of escape rooms & want a challenge then don't disregard Floor Plan 2 due to it's colourful & cartoony visuals, these are some serious puzzles that will leave you scratching your head & searching for clues (I was stuck on the first level for an embarassing amount of time before everything started to click with me). Fans of irreverant comedy like Rick & Morty will also find plenty to love here, characters are hilariously animated & you'll often find yourself in some seriously weird situations.\n\nI'd love to give this one a full five stars but I did struggle to navigate the playspace a few times, players who have a small VR play area or who play seated will struggle with this one (there is no support for seated play, you need to move around as there is no locomotion). This definitely adds to the feeling of tackling a real escape room but some smooth locomotion would allow a much wider audience to enjoy this one.\n\nhttps://youtu.be/0oVcChz3aZk - Tutorial & First Level Impressions",
 							"reviewTitle": "Fantastic title but NEED space to enjoy!",
-							"review_helpful_count": 203,
+							"review_helpful_count": 224,
 							"review_rank_by_viewer": null,
 							"date": 1617297087,
 							"developerResponse": {
@@ -296,7 +304,7 @@
 				"description": "A comedy adventure inspired by escape rooms, packed with more puzzles than you can fit in an elevator.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_1073283206494004_6114094256092471896_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=d4K8MOb4m9gAX-xmGq5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd8add27ed0005b72f06096e617e0412&oe=60913A68",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974827_1073283206494004_6114094256092471896_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=d4K8MOb4m9gAX-2ROFE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a2f7c4e7a1f498aa5a5344e2128f8d0b&oe=60952EE8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
