@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035470_399949987970247_1201746845219325831_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=W67i-ztQ0nwAX-Oa_qw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0ea1caaa3a9631c78b40ba5e3b078788&oe=609456AE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035470_399949987970247_1201746845219325831_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=W67i-ztQ0nwAX966ZcU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cf925b54a1cb8de2f151068e5052199&oe=609456AE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_252829219592293_8506458637280909043_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=d_WntLFPLBcAX_tmGUT&_nc_ht=scontent.oculuscdn.com&oh=4b5e78c9ee2ba2749b839a6175b253c7&oe=609516C8"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_252829219592293_8506458637280909043_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=S_q3Sn9kyAsAX9oz_D1&_nc_ht=scontent.oculuscdn.com&oh=867d2a1b70e158a8ad950833133de76a&oe=609516C8"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 40,
+					"count": 41,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 66,
+					"count": 68,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 271,
+					"count": 274,
 					"starRating": 5
 				}
 			],
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.8.2",
-				"change_log": "Patch 2.8.2 Release Notes\n[Bug Fixes]\n[Crashes and serious issues]\n- Crash when buying Flame suit in the shop.\n- Crash when sound buffer is full, due to viewing too many items in the shop at the same time.\n\n[Gameplay]\n- Career mode, when using Immersive controls in the race track, all in-hand items are facing in the wrong direction.\n- Denturous when using can attack its owner.\n- The weapon can't use the Grip button when pressing the menu button.\n\n[Graphics & VFX]\n- Denturous 3rd person VFX(Head bite) is missing.\n\n[UX/UI]\n- Adventure IV - Press any key to continue text is missing.\n\n[Known Issues]\n- Volcanic Jungle: There is a very slight chance for the game to crash when AIs are randomizing items from item crates.\n- FPS drop in Ideon Grotto, Slushy Slope in certain areas for Rift/Rift S.\n- FPS drop in Los Muertos for Quest.\n- Virtual Desktop cannot calibrate and enter game in introduction screen.\n",
+				"version": "2.8.3",
+				"change_log": "[Features]\nScreen calibration - Added a new optional calibration button(this will be different on each platform).\nVirtual Desktop is now supported for Quest 1 and Quest 2 players.\n\n[Bug Fixes]\n[Crashes and serious issues]\nMatchmaking sometimes player is getting stuck in the garage when taking off the headset after finding a match.\nRift: FPS drop in tracks Ideon Grotto and Slushy Slope.\nWhen matchmaking fails in the lobby, finding match notification is incorrect.\n\n[Gameplay]\nImmersive mode - Getting hit with Denturous will only bite the hand when player is pressing the grab button.\nParty bug, when you quit the match, you are still in the party which makes it confusing.\nCareer mode - If winning all 3 conditions in Academy, the same garage tutorial pop-up will appear again.\n\n[Graphics & VFX]\nPerformance: Items pickup effect is causing game lag.\nSome character facials are using the wrong texture.\nRift in track Ideon Grotto the wrecking ball texture glitches are causing it to appear in black color.\n\n[UX/UI]\nOffline mode: Reconnect button glitch, cannot press trigger button to continue.\n\n[Known Issues]\nQuest - controller on intro screen is black and having no textures.\nLeaderboard player names can sometimes appear as none.\nImmersive mode - when flying and grabbing the glider's handrail, the hand position is wrong.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "4108506759",
-				"id": "3704312213007108",
-				"required_space_adjusted": "6209293673",
+				"total_installed_space": "4108840451",
+				"id": "3750710945033901",
+				"required_space_adjusted": "6209608341",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3704312213007108"
+					"id": "3750710945033901"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "316503405917151",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.8.2",
-							"id": "3704312213007108"
+							"version": "2.8.3",
+							"id": "3750710945033901"
 						}
 					}
 				]
@@ -154,7 +154,7 @@
 							"created_time": 1609269203,
 							"body_text": "\n\nChallenge yourself during this winter in FROSTY SEASON ☃️❄️\n\nComplete 30 new challenges throughout this season with 3 competitive events. 🏎💦\n\nYour chance to unlock all-new 26 limited exclusive items during this season ONLY!\n\n\n\nFull Throttle (LIVE NOW)\n\n\n\nBecome a Drift King in Dash Dash and show that you own the race by completing 10 new challenging drifting quests.\n\nJump in the Full Throttle event from 28th ( 00.00 am PDT) January - 10th (11.59 pm PDT) February 2021\n\nHere are 10 new challenging quests to complete 😎\n\n- Victory Hunting I/II/III/IV - Sustain the drift for at least 4/5/6/7 seconds.\n- Drift Maniac I/II/III - Fill the Nitro gauge with a single drift 40/80/120 times.\n- Initial Dash Dash - Collect 200 secs or more drift time in any mode.\n- Initial Dash Rush - Collect 50 secs or more drift time in single race mode.\n- Initial Dash GP - Collect 150 secs or more drift time in any mode.\n- Secret Dasher I - Collect 555 secs or more drift time in any mode.\n- Secret Dasher II - Sustain the drift for at least 9 secs\n\nCircuit Wonder\n\n\n\nRace in 6 wonderful circuits with 10 new quests and meet Dash Dash Academy members during the Circuits Wonder event. 🏎  🗺\n\nWho knows you might face some Top Racers from Dash Dash Academy. So watch out cause they won’t go easy on you!\n\nCircuits Wonder event starting TODAY until 27 January 2021\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV -  Tier 90%/70%/30%/10% on Seasonal Leaderboard.\n- Alpaca Brawl - Beat Special Character in Monte Alpaca 2 times.\n- Mad Liberty - Beat Special Character in Liberty Circuit 5 times.\n- Kabo Dojo Havoc - Beat Special Character in Kabo Dojo 2 times.\n- The Witness Meddy - Beat Special Character in Ideon Grotto 2 times.\n- Mariachi Smash Down - Beat Special Character in Los Muertos 5 times.\n- Evopolis Era - Best Special Character in Evopolis 5 times.\n\nImmersive Festa (Ended)\n\n\n\nNow it’s your chance to improve your immersive driving skills with new 10 immersive quests to complete.  💪\n\nImmersive Festa event starts TODAY until  12th January 2021 (11.59 pm PDT)\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV - Top 90/70/30/10% on Seasonal Leaderboard.\n- The Showdown - Win 3 race while playing using the Immersive control.\n- Triple Xtreme -  Place top 3 in extreme track while using super immersive control 3 times (any track)\n- Nitro Dash - Nitro 10 times in a single race while using super immersive control.\n- The Survivor - Wipe egg, dino carbo, and carbo cracker off-screen while using super immersive control.\n- Dash Store - Consume all Dash Products in a single race while using super immersive control (Bar, Bull, and Max).\n- Shoot and Drive - Hit 3 racers with a single Terminator Jr. while using super immersive control.\n\n\n\nView the Tournament trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=UWcdmi6XzoI\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982587_1078006156000430_1178325515187292999_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_aid=0&_nc_ohc=_ZF7JqcdpzIAX-pcr1o&_nc_ht=scontent.oculuscdn.com&oh=6c885f341ca9c18fb5453eea4e4aaea2&oe=60964A28"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982587_1078006156000430_1178325515187292999_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_aid=0&_nc_ohc=wfNmcnR2pagAX_BmO3Z&_nc_ht=scontent.oculuscdn.com&oh=dc5afcf53a5c07e6145b4adf3aa540c0&oe=60964A28"
 							}
 						},
 						{
@@ -163,7 +163,7 @@
 							"created_time": 1609267874,
 							"body_text": "\n\nWe have been developing this feature for over a year and now it is ready for prime time!\n\nView New trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=09WikLmlIUA\n\n\n\nTomorrow we will launch a 2 weeks tournament focusing on Virtual Steering. Here is a sneak peek.\n\n\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75322605_811188609610312_7520186997117274280_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UCD47G3D_hkAX_JIqlo&_nc_ht=scontent.oculuscdn.com&oh=dc7cd22c093c972370aa107a264d25a6&oe=6093B66A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75322605_811188609610312_7520186997117274280_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UCD47G3D_hkAX-JJuln&_nc_ht=scontent.oculuscdn.com&oh=7fe121c93bbde46b9162022cb7c7ab61&oe=6093B66A"
 							}
 						}
 					]
@@ -220,11 +220,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9848812095032,
+			"quality_rating_aggregate": 3.9893390191898,
 			"support_website_url": "https://www.DashDashRacing.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 247,
+				"count": 250,
 				"orderings": [
 					{
 						"key": "top",
@@ -237,29 +237,33 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 247,
+				"count": 250,
 				"page_info": {
-					"end_cursor": "AQHRWJJW2Msj2hpT8WU3xJ7fUEvLEdSGAcSGgVM1HzGgEWtVZxroWCDyvdf5yvEqphcYuRhUZMMjgWpykFnb9CIVfA",
-					"start_cursor": "AQHRWJJW2Msj2hpT8WU3xJ7fUEvLEdSGAcSGgVM1HzGgEWtVZxroWCDyvdf5yvEqphcYuRhUZMMjgWpykFnb9CIVfA"
+					"end_cursor": "AQHRdv2LdTf8MdFp5K8s3flG4NiT1UKGeDd7yoVjsUu4TnXC_Jw2tg6CQ7cVOrze_heIJsFdFkbAvMbCC305uYOdUg",
+					"start_cursor": "AQHRdv2LdTf8MdFp5K8s3flG4NiT1UKGeDd7yoVjsUu4TnXC_Jw2tg6CQ7cVOrze_heIJsFdFkbAvMbCC305uYOdUg"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "147453677218525",
+							"id": "178579654078343",
 							"author": {
-								"id": "103095448321015",
-								"display_name": "M-Life",
+								"id": "102577285011914",
+								"display_name": "Godreilm",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269594_105624658068094_6335372847304148714_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LcZ2PhMieU8AX9m3WDI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d3956a0cb2686e3e7d7cc5ce4d546edd&oe=6092FF14"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_118137626789213_4320816946605434883_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Nhdojxd97SUAX_-3Lzc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cb317e7c3e64a21cd77e6f2ccf043b1&oe=60950013"
 								}
 							},
 							"score": 4,
-							"reviewDescription": "If you love Mario Kart, this is basically a VR version, complete with drifting, special items, acceleration pads on the track, cartoonish graphics and similar game mechanics. I actually have played Mario Kart VR in Japan and this feels similar. The graphics look nice and you can use 'virtual steering wheel' or just use the touch controllers like a gamepad. If you like this sort of game you know what to expect, and I'm grateful that the developers created something for us Mario Kart junkies 👍",
-							"reviewTitle": "Mario Kart for VR",
-							"review_helpful_count": 48,
+							"reviewDescription": "I dropped a good 10 hours into this game and wanted to play it with my children.  We get them a quest and link the account to mine since I don’t allow them to have Facebook.  We go to play together and the game kicks off the first user.  I’m not going to go into a long sob story on this, but I will try and frame it for the developer.  When we have guests over and their kids want to play games with mine they turn on Mario kart and you know what happens we get a call from them sometimes asking for Nintendo user name so they can play online with my boys.  Imagine all the other people this happens too.  Too often VR is seen as puzzles or shooting games or gory games.  Games like this are easily overlooked when honestly after playing this Mario cart can’t compare.  I hope you guys fix this really soon.  I understand the appeal of one user one headset only, but when a game like this blocks themselves from being easily accessible to groups it’s really sad.  It doesn’t even have to be online gameplay just local multiple headsets.  This game is better than Mario cart, but with a limiting set up like this it may never take off.  The four star is proof that I truly believe this game is good, but until you allow for multiple headsets per account I cannot go higher.  If you want a great racing game that is not bad on motion sickness this is it.  The game is solid minus that one gripe about local multiple headsets.",
+							"reviewTitle": "Closest thing to Mario cart",
+							"review_helpful_count": 12,
 							"review_rank_by_viewer": null,
-							"date": 1613177201,
-							"developerResponse": null
+							"date": 1616289514,
+							"developerResponse": {
+								"date": 1616310197,
+								"body": "It is really great to hear you and your guests like the game! We believed that the number of tracks and tutorial is our priority that needs to be addressed asap. We did a survey, and you are right, most people are asking for seamless local matchmaking so that is what we will do next. Please stay tuned!",
+								"id": "178718527397789"
+							}
 						}
 					}
 				]
@@ -271,7 +275,7 @@
 				"description": "Dash Dash is a cross-platform VR racing game with full hand driving and weapons controls.\n\nOver 100 hours of gameplay contents including story mode, regular online tournaments, 100s of achievements and over 1,000,000,000,000 customizable parts.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75443234_339915850768206_5662292940917624562_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=f85rF6x2nUMAX9OatQB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=10849da2167a44a7f1c6243bf94eff25&oe=6093FC66",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75443234_339915850768206_5662292940917624562_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=f85rF6x2nUMAX8kU4YF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0dfea38a48e68da127b5735db9588c94&oe=6093FC66",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
