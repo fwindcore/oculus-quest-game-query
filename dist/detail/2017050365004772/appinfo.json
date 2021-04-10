@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TXYtxZR1f6cAX9Uvasx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=77af499968dadb56d6e753103a79e9e7&oe=60954412"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XC9DiEkXKXkAX__oxFv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c6165b45867c776fba28c24f820e0ea5&oe=60954412"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=5qxs0_AjDFgAX-EV3qO&_nc_ht=scontent.oculuscdn.com&oh=3709809351fa460132be24722f63dc45&oe=60941CC6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=5qxs0_AjDFgAX_IIUef&_nc_ht=scontent.oculuscdn.com&oh=475a30eb31442abfdc571716bb68fef1&oe=60981146"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 307,
+					"count": 311,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2690,
+					"count": 2712,
 					"starRating": 5
 				}
 			],
@@ -80,14 +80,14 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.20.1.0",
-				"change_log": "Welcome to Virtual Desktop! If you experience any issues, please visit the website at www.vrdesktop.net to check out the FAQ or reach out to us on Discord.\n\nChanges in this version:\n• Fixed issue with Microphone and Screenshot permissions not always working\n• Added ZoneAlarm detection on Windows\n• Made it easier to click on macOS\n• Implemented 'Lock on Disconnect' on macOS\n• Stability improvements",
+				"version": "1.20.3.0",
+				"change_log": "Welcome to Virtual Desktop! If you experience any issues, please visit the website at www.vrdesktop.net to check out the FAQ or reach out to us on Discord.\n\nChanges in this version:\n• Added DirectX 12 support in the PCVR runtime\n• Added windows network profile check in the Streamer\n• Uninstalling the Streamer from the system menu on macOS now uninstalls the audio devices\n• Fixed issue with Copy screenshots to desktop option getting unchecked\n• Fixed windows error message when launching game from system tray\n• Fixed Start with Windows no longer working in latest Windows version\n• Fixed game compatibility with: Echo VR, The Walking Dead: Saints & Sinners, WW1 Fighters, Creed: Rise to Glory, Layers of Fear VR, Arden's Wake\n• Fixed haptics in Echo VR, Onward and other games",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "440554362",
-				"id": "3882485768461213",
+				"total_installed_space": "440556178",
+				"id": "3981588625217593",
 				"required_space_adjusted": "776180992",
 				"storeAddOns": null,
 				"firstIapItems": null
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3882485768461213"
+					"id": "3981588625217593"
 				}
 			},
 			"release_channels": {
@@ -133,8 +133,8 @@
 						"id": "269719120347043",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.20.1.0",
-							"id": "3882485768461213"
+							"version": "1.20.3.0",
+							"id": "3981588625217593"
 						}
 					},
 					{
@@ -142,8 +142,8 @@
 						"id": "969986879861372",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.20.2.0",
-							"id": "3963764153666707"
+							"version": "1.20.3.0",
+							"id": "3981588625217593"
 						}
 					}
 				]
@@ -159,7 +159,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRk3KXjP5PGHVa35Y2ZBMTIAzQGS6qw5arSRspfpnOLsidPiCksXo0NAYEN_3oCWSRlanof3ZtFPNR2cGSTYJ5zA"
+							"cursor": "AQHRWUu-xj_1gilF7K2Z_nX-bSvpSYCWkaRBZUUGvYZKlaSqrRlGwLvi5wdSDOz2kuHR-C-nOYgJKBZOtuDru6Csxg"
 						}
 					]
 				}
@@ -212,11 +212,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4602893416002,
+			"quality_rating_aggregate": 4.4597128625842,
 			"support_website_url": "http://discord.vrdesktop.net/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1703,
+				"count": 1716,
 				"orderings": [
 					{
 						"key": "top",
@@ -229,10 +229,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1703,
+				"count": 1716,
 				"page_info": {
-					"end_cursor": "AQHROfQbf2L0g8jp5fncuQ_aG0PlXuVtyczVcrLY9q1vb8Nglm9Ue7XjTyoljYOSovw1UxCZ1EMq3cZF2yBgLcLEAw",
-					"start_cursor": "AQHROfQbf2L0g8jp5fncuQ_aG0PlXuVtyczVcrLY9q1vb8Nglm9Ue7XjTyoljYOSovw1UxCZ1EMq3cZF2yBgLcLEAw"
+					"end_cursor": "AQHRworvUH2ow7IYQpVLgnzdNEqSHSqcXGLQfS16Nt3Aiq-ln67hAqjvHKEw8ex3Rfrm-1Z8uOJatGVhM509616m-A",
+					"start_cursor": "AQHRworvUH2ow7IYQpVLgnzdNEqSHSqcXGLQfS16Nt3Aiq-ln67hAqjvHKEw8ex3Rfrm-1Z8uOJatGVhM509616m-A"
 				},
 				"edges": [
 					{
@@ -242,13 +242,13 @@
 								"id": "1936843356571589",
 								"display_name": "Kanarico13",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982715_2733294606926456_9021111945894389567_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yq-lTq2_cg4AX-ybwUj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=38ca9c688c21396e382e5013ee9bcb81&oe=6093C8B5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982715_2733294606926456_9021111945894389567_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yq-lTq2_cg4AX8oyCO3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a16e9e6e91bc53c89c1c8f8f26b01630&oe=6097BD35"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "If you have a decent WIFI connection then this app is a must. As of the recent version (1.20.0) you stream PC games to your Quest/Quest 2. Before you needed to sideload a patch to allow game streaming. There are a ton of options to get the streaming quality/performance to work for you and the developer and Discord community are very helpful.\n\nI've only used the remote desktop portion of this app a few times but the fact you can stream games from your PC wirelessly without having to use a USB cable is a game changer. The developer is constantly adding features and improving the overall experience. A must for everyone who has a gaming PC and a wireless network that can handle wireless streaming.",
 							"reviewTitle": "One of the best purchases you can make",
-							"review_helpful_count": 154,
+							"review_helpful_count": 165,
 							"review_rank_by_viewer": null,
 							"date": 1614271617,
 							"developerResponse": null
@@ -263,7 +263,7 @@
 				"description": "Connect wirelessly to your computer(s) to watch movies, browse the web, play 2D games or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.\n\n• Connect up to 4 computers (Windows 10 or macOS Mojave)\n• PCVR game streaming requires a VR Ready PC running Windows 10\n• Supports Bluetooth mice, keyboards and gamepads\n• A wired computer to a 5 GHz AC Wi-Fi is required\n• Also works over the Internet (enable UPnP on your router)",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YaaM6LgxL70AX8CfNGB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3513ccda9e0ee15518422d523afb7970&oe=60941158",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SQ37xqjqKiEAX8FhIPs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a8d5b5c70c39297169214f5351e80cd&oe=609805D8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

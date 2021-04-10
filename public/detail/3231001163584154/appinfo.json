@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75443239_190042059595933_2390996002624239704_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FWz1lnChdAEAX9xz-a8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d06da71644e2ebbc3667469c5c060d0&oe=60964304"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75443239_190042059595933_2390996002624239704_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FWz1lnChdAEAX9rHgqx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4abcf50280f304bc4426167f0252a908&oe=60964304"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_560781061550698_976255498646499112_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Nz-aePqDlAUAX8xzzf5&_nc_ht=scontent.oculuscdn.com&oh=20e32dfb0feebb2d93602a64de4919f4&oe=6094942B"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_560781061550698_976255498646499112_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Nz-aePqDlAUAX8k3ldW&_nc_ht=scontent.oculuscdn.com&oh=63c7ed2d15c5e118eb4193fb3f670395&oe=609888AB"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 122,
+					"count": 124,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 289,
+					"count": 290,
 					"starRating": 5
 				}
 			],
@@ -117,17 +117,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1572009803001517",
+				"id": "1219264421822996",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "2699",
+					"formatted": "$26.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99",
+					"offset": 100
+				},
+				"promo_benefit": "-10%",
+				"end_time": 1618124340,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -168,7 +173,7 @@
 							"created_time": 1617127358,
 							"body_text": "Battle Sister New Update\n\nA new Battle Sister update is here and this one we’re particularly excited about! Update 1.0.4 sees the release of our brand new Last Bastion Solo experience, gear up and start gunning! The horde awaits you, Sister.\n\nLast Bastion is a brand new solo horde mode experience for Battle Sister, launching with one map and more updates to follow shortly after.\n\nHold out in the Last Bastion, an encampment in the war-torn world of Warhammer 40k, you are surrounded, and cornered on all sides by the ravening hordes of Chaos who throw ever greater forces against you and your team of embattled heroes.\n\nThe aim is simple, to survive over a series of waves and rounds, attempting to reach higher levels and ranks, unlocking weapons and competing in global and friends leaderboards for high scores and achievements - Will you survive and claim glory for the Emperor?\n\nMode Overview:\n\n- Battle waves of Chaos forces to gain credits and upgrade your arsenal of weapons.\n- Create horde games to be played either in Solo mode and soon, in a future update, 2P Co-op mode.\n- Compete globally for high scores and against friends: Based on overall score and for scores of each map.\n- Gain EXP and climb through the rank progression system\n- Communicate via VOIP.\n\nPatch Notes:\n\nGameplay:\n\n- We’ve made a slight adjustment to the difficulty of the game, by increasing the players health pool and health regen time.\n- We increased player health by 20%\n- We decreased the time until the regen starts by 8%\n- We increased the amount health regenerated per second by 25%\n- Last Bastion Horde mode is now live!\n- You will be able to play the new mode by selecting ‘Last Bastion’ in the main menu.\n- We’re kicking things off with just one map for our solo play, but plenty more to come:\n- Two player coop will be arriving in the next update as well as an additional map!\n- The goal is to reach the final wave and survive until your last stand, gain points and increase your rank on the leaderboards for the holy imperium.\n- Players earn coins for killing enemies which you can spend on a central requisition terminal for bigger and better weapons and ammunition.\n- We reworked the bullet dispersion for Bolter so that it fits better to the physical reality of a recoiling weapon as standard FPS behaviour.\n\nGraphic updates:\n- We have updated the loading screens to reflect the style and mood of the game.\n\nBug Fixes:\n- We fixed a surprise hole in Chapter 3 which would have granted the long fall. Oops!\n\nNow it’s time to dive into our Last Bastion Solo Horde experience! We can’t wait to watch players climb the leaderboards for the glory of the emperor!\n\nWhat’s next?:\n\nComing up next we have our much anticipated and requested Co-op Last Bastion Horde mode, featuring a whole new map to play and experience.\n \n\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75314850_152081103493967_8683876671933453074_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mvCnbbJ5AkkAX_4gFD7&_nc_ht=scontent.oculuscdn.com&oh=cab04ce47999802068e86f42d3ca3c58&oe=6095AB07"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75314850_152081103493967_8683876671933453074_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ggMl6NCFDIUAX8CYcK4&_nc_ht=scontent.oculuscdn.com&oh=9dbe711af989c5a011af66eeb0f79eec&oe=6095AB07"
 							}
 						},
 						{
@@ -177,7 +182,7 @@
 							"created_time": 1614341614,
 							"body_text": "This update includes amazing visual improvements for Quest 2 drastically improving texture resolution and lighting whilst also adding new dynamic shadows and reflections. The team has also added a whole host of new achievements to unlock and fixed a number of community reported bugs!\n\nGameplay:\n\n- Added achievements to the game\n- Cloud saving added to the game so progress gets transferred between multiple devices (Quest 1 and Quest 2 only)\n\nGraphic updates:\n\n- Quest 2 only: Added dynamic shadows\n- Quest 2 only: Doubled texture resolution\n- Quest 2 only: Activated reflection on metallic and other reflective surfaces\n- Quest 1 & 2: Lighting pass through all levels\n- Quest 1: Sky box & horizon improvements\n\nAudio:\n\n- Audio level balancing pass\n\nBug Fixes:\n\n- Enemies, AI - Enemies no longer become inactive until the user stands in front of them\n- VFX, Weapons: Melta - The Melta gun no longer unloads a round when accessing the menu\n- CH1 - The Objective SFX no longer plays every time the user shoots a target in the range\n- CH1 - Rhino's gun no longer plays it's SFX when not in use\n- CH3 - The escape pod door no longer launches off unnaturally when the button is pressed to open\n- CH3 - Fixed a soft lock where a player could not use the zip-line\n- CH4 - Julius will no longer be seen unnecessarily shooting his gun as the level loads in\n- CH6 - Enemies no longer float in the air if they take the elevator\n- CH9 - Julius no longer becomes inactive after the opening cinematic\n- CH9 - Fixed Warp Talons appearing to have difficulty dropping down from low ridges and acting erratically\n\nThanks to everyone who has shared their feedback with our team, we will continue to improve the experience of Battle Sister throughout 2021 - The next update will see the release of our much anticipated brand new Last Bastion Horde mode!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035359_837247810340299_6163726195651863494_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=j_ejeP_fmMUAX89z-Yb&_nc_ht=scontent.oculuscdn.com&oh=23ad96d30268b1e92c93959c6999872a&oe=6096C151"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035359_837247810340299_6163726195651863494_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=j_ejeP_fmMUAX-hyFET&_nc_ht=scontent.oculuscdn.com&oh=8b5a69beb3806b5f8847b26f0ac7f7e1&oe=6096C151"
 							}
 						}
 					]
@@ -229,16 +234,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1572009803001517"
+				"id": "1219264421822996"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1495327102804,
+			"quality_rating_aggregate": 4.1505576208178,
 			"support_website_url": "https://pixeltoysltd.freshdesk.com/support/tickets/new",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 338,
+				"count": 339,
 				"orderings": [
 					{
 						"key": "top",
@@ -251,10 +256,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 338,
+				"count": 339,
 				"page_info": {
-					"end_cursor": "AQHRnQ_35krAEh9LXHlZ50GV-VOv2qhzhIgBZ0sPx_l4LFoD1cMhCXYW2xO4ccZG4hsYp7YLbly2rs2G0gd4Gy4JbA",
-					"start_cursor": "AQHRnQ_35krAEh9LXHlZ50GV-VOv2qhzhIgBZ0sPx_l4LFoD1cMhCXYW2xO4ccZG4hsYp7YLbly2rs2G0gd4Gy4JbA"
+					"end_cursor": "AQHRsJCXGlI7nHm_XiGzwlWgs1EoaO9gNnyj1jSmdx7sAsvyHB4-hOK2NXBOe7Xe5jVU8t_tPspCKSCFIh1wdwJfvg",
+					"start_cursor": "AQHRsJCXGlI7nHm_XiGzwlWgs1EoaO9gNnyj1jSmdx7sAsvyHB4-hOK2NXBOe7Xe5jVU8t_tPspCKSCFIh1wdwJfvg"
 				},
 				"edges": [
 					{
@@ -264,13 +269,13 @@
 								"id": "101023951790673",
 								"display_name": "Sradac",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031394_101024145123987_7926168873559072530_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g4-772UKr7cAX8Xuy86&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd6c4ddcb327263bcaf851b5d886b545&oe=6094ED1C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031394_101024145123987_7926168873559072530_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AckmGKt4mWQAX8efINx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69657ef97bc8955fdd2cb0c4aa916018&oe=6098E19C"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I was a bit hesitant to purchase this, the game looked \"fine\" in trailers and images, but the biggest thing that held me back was the guns looked...weak.  Bolters didn't seem chunky enough, Lasguns didnt seem \"pew\" enough and Meltas seemed more like a cigarette lighter than anything else.\n\nI went ahead and got it anyway finally, and I'm so happy I was wrong.  I can't stress enough that the game feels so much better to play yourself in VR than just watching a video.  As a 40k fan, when I first got to pickup and fire a Bolter I couldn't help but smile and say out loud \"Oh ho ho..BABY!\"  And they look amazing too.\n\nHowever I do have the same complaint many people do, and that is the graphical inconsistencies.  Models for characters and weapons look beautiful.  Lighting is also pretty good.  But some of the environmental textures like walls or rocks look kind of...bad.  Game is still 5 star in my opinion, its super fun.  Just seems strange that you can look down at yourself and see this beautifully rendered Sister, but then look at a wall and feel like its a texture from 2004.",
 							"reviewTitle": "The game is much more impressive in VR",
-							"review_helpful_count": 125,
+							"review_helpful_count": 128,
 							"review_rank_by_viewer": null,
 							"date": 1615992872,
 							"developerResponse": {
@@ -289,7 +294,7 @@
 				"description": "Join the fight and experience the ultimate in visceral and immersive futuristic combat.\n\nThis all-action shooter arms you with a range of super-powerful weapons and abilities with which to crush your foes. Dive into a gripping, action-filled story spanning the galaxy and battle against the hideous forces of Chaos who threaten the future of humanity.\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75241701_314425470023052_8172671741592814207_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fTKQnoAzB4sAX_NVvi5&_nc_oc=AQlz_hUSq4IH9yAWzZ7Dd-BjxgHuz6scXdRItr0jYy1SmqWn0YCFXV4TlsIA-rAYrbM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d8a6adc0dade1e0b7ffa407bf8abd8c1&oe=6093AAD0",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974853_473834376998677_8832200114655021004_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_jpiivq_XOkAX-vtEsr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a843a7c90e8b24eaae52c3a622663902&oe=6096EF7E",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
