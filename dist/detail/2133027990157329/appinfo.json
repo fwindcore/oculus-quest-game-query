@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6XE-pg2M12wAX9B_W8i&_nc_ht=scontent.oculuscdn.com&tp=28&oh=768cde86521f25b46a82b9f8573ef7e6&oe=6098FF62"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6XE-pg2M12wAX_QjXsX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b823539ea90c0879fe6c72dfa9890863&oe=6098FF62"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=k9oD2quRbLkAX-dV-jK&_nc_ht=scontent.oculuscdn.com&oh=6874377fdb815002e51dbf62996ef51e&oe=609AE14D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=rfXk3s71C3gAX8pY-z-&_nc_ht=scontent.oculuscdn.com&oh=1dfc253182deee0987f51ac190aac5d6&oe=609AE14D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "4.2.6",
-				"change_log": "• Microsoft Login support added for Mac builds \n• Several major fixes to Microsoft Account login flow\n\t• NOTE: If you had previously unlinked your MSA account, please re-link to help us confirm bugfixes. \n• Several Speech fixes, including: \n\t• Improvements to intermittent mute after 10 mins\n\t• Improvements to random audio cutoffs and others. \n• Updates to some 3rd party libraries (including Oculus) to improve stability \n• Retired the Oculus FPS panel in favor of AltspaceVR's more robust Diagnostics Panel. (Main Menu > Settings >Input)\n• Added speech captions feature on Mac builds \n\t• !! (NOTE: Mac Builds are not officially supported and are not recommended for reliable feature-use by hosts or audiences. Captions have been added as part of our continued pilot initiative.) !!\n• Made improvements to startup reliability \n• Added scrolling functionality to Settings panels (Main Menu > Settings)\n• Released new Title Screen which makes startup quicker, discoverability easier, and account management simpler \n• Released new Entry Codes for all Events and Worlds enable direct teleportation upon startup\n",
+				"version": "4.2.10",
+				"change_log": "- Replaced home button in radial menus with Title Screen button, adding new functionality to return to Title Screen\n- Added volume toggle for Title Screen.\n- Set tutorial as \"completed\" upon navigating from tutorial pivot.\n- Title Screen avatar.\n- Fix for queries sometimes not loading in UI.\n- Fixes to room property stability.\n- Fixed avatar customization color-picker bug\n- Many more minor stability and bug fixes.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "624101040",
-				"id": "3684682981658481",
-				"required_space_adjusted": "309851636",
+				"total_installed_space": "625297585",
+				"id": "3721634617963317",
+				"required_space_adjusted": "310237038",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3684682981658481"
+					"id": "3721634617963317"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "2271077649772225",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.6",
-							"id": "3684682981658481"
+							"version": "4.2.10",
+							"id": "3721634617963317"
 						}
 					},
 					{
@@ -144,8 +144,8 @@
 						"id": "597064230818090",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.6",
-							"id": "3684682981658481"
+							"version": "4.2.10",
+							"id": "3721634617963317"
 						}
 					}
 				]
@@ -159,8 +159,8 @@
 								"current_end_timestamp": 1619656200,
 								"current_start_timestamp": 1619654400,
 								"temporal_info": {
-									"seconds_until_end_time": 1439890,
-									"seconds_until_start_time": 1438090
+									"seconds_until_end_time": 1353482,
+									"seconds_until_start_time": 1351682
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -182,7 +182,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oUfgnvXeNX8AX9V9HJ_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c8e8960bec7b9c968796f99b3be065c9&oe=6098C84F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oUfgnvXeNX8AX8PTTbo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=717f3de25b0c7a5487aece9507b61436&oe=609CBCCF"
 								}
 							}
 						}
@@ -195,7 +195,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRHVT3TBugB_q0FOwmBlKXyWDOIT6Bmyl0c_1ZxDhFxU4HEGxfaoX0evpgWlXYkdX4l534yuGGeBuIS6feOQXAtA"
+							"cursor": "AQHRZV3TYKFuIfMz38E9m1spUa7baJnJrUxg3Ynxd0m7jRcGUyDV50akUv4GkkDbEi07NDFneVIL45f3v24azgS0Dg"
 						}
 					]
 				}
@@ -246,7 +246,7 @@
 			"support_website_url": "https://help.altvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 333,
+				"count": 334,
 				"orderings": [
 					{
 						"key": "top",
@@ -259,10 +259,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 333,
+				"count": 334,
 				"page_info": {
-					"end_cursor": "AQHRtUqb-QpKmS5b4a_ajgLkxy_s4vCopBaCUmu8_o0cS-VcNwIWm9YMxnYXqETCNyMdQv8vMx3pnj4aP0cwLvfosg",
-					"start_cursor": "AQHRtUqb-QpKmS5b4a_ajgLkxy_s4vCopBaCUmu8_o0cS-VcNwIWm9YMxnYXqETCNyMdQv8vMx3pnj4aP0cwLvfosg"
+					"end_cursor": "AQHRiN_Hc2l7wIp1HbBM6LicEJe7wzdFZhOoEhmSYcLJqa3OTYC8RIjhGcvFHsSXnnzt8zwrT-VmqMbTuijIvC3QWw",
+					"start_cursor": "AQHRiN_Hc2l7wIp1HbBM6LicEJe7wzdFZhOoEhmSYcLJqa3OTYC8RIjhGcvFHsSXnnzt8zwrT-VmqMbTuijIvC3QWw"
 				},
 				"edges": [
 					{
@@ -272,7 +272,7 @@
 								"id": "205913596680451",
 								"display_name": "Shaggy1479",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cVUvdJEquE8AX-3l0a0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=29a05203080162b04ed11d110ab155b0&oe=6099D07A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cVUvdJEquE8AX_iHSg1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69927144efade2a46cc72d64c4f5f44e&oe=6099D07A"
 								}
 							},
 							"score": 3,
@@ -293,7 +293,7 @@
 				"description": "AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world. Experience a spotlight event at 7pm PT every night where you can learn, laugh, and gather with people on every major VR headset. Attend hundreds of spotlight events every month like: Open Mic Night, Improv Comedy, Meditation, LGBTQ+ Meetups, VR Church and more. Easily start your own meetup, show or class and discover the next frontier of entertainment and community.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BcAF4FOoExsAX-mBat_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e437335ec601696fd3da18a4b0562e8b&oe=6099CEAF",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BcAF4FOoExsAX-2C73a&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62206151faeda49629617bd927c01e35&oe=6099CEAF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

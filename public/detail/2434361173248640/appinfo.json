@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031323_355166825162063_4568469043882754048_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8Hcj9hkVknYAX8luWRE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7bd0664c4b1bd1b0361f07d173f72b60&oe=60999045"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031323_355166825162063_4568469043882754048_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8Hcj9hkVknYAX_IUHA3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7f06e2b4fcf29d9a2f4cdbb644dfb351&oe=60999045"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_355156221829790_1527720807785037824_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=KorST3qnOTsAX9KhfFX&_nc_oc=AQnnBMtp1xgr3XOq4Ah29b5h9O6jY_8kSbvRpjsync05xd4VocSq2coMyvLkPs9gFz4&_nc_ht=scontent.oculuscdn.com&oh=dff858dc17def0944d73246a7824ff50&oe=609860D6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_355156221829790_1527720807785037824_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=6EdUfrhaeqIAX-MoDL1&_nc_oc=AQks7edgZuqBUte1jL6erC2cCmcF-Zj1odgUPjDgkDP08UOSIEHR0KlNaaoacxSdySE&_nc_ht=scontent.oculuscdn.com&oh=56243c76aa85f5cd26898172c0a762dc&oe=609C5556"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,12 +31,12 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 134,
+					"count": 135,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 167,
+					"count": 168,
 					"starRating": 4
 				},
 				{
@@ -127,17 +127,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2436416159756856",
+				"id": "933223484161319",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1199",
+					"formatted": "$11.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1618383540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -237,12 +242,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2436416159756856"
+				"id": "933223484161319"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6633380884451,
+			"quality_rating_aggregate": 3.6628733997155,
 			"support_website_url": "http://endspacevr.com/support/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -261,8 +266,8 @@
 			"firstQualityRatings": {
 				"count": 358,
 				"page_info": {
-					"end_cursor": "AQHRWkG6Wo_iJ232LCzR1HRAAAElRqst1ngQkO1FV0BSqTGaAydVA_xSQz2RVr954UbQH3FziubFOGu5Q_3Xou4d1Q",
-					"start_cursor": "AQHRWkG6Wo_iJ232LCzR1HRAAAElRqst1ngQkO1FV0BSqTGaAydVA_xSQz2RVr954UbQH3FziubFOGu5Q_3Xou4d1Q"
+					"end_cursor": "AQHR3yxOnw6aC86Kug1AI_AjZAXNnRgh-nkP0YBU833oTQV5OmCUJ56z-7dPN5eqD586YeGMsMF1j2o70hQP8scKPw",
+					"start_cursor": "AQHR3yxOnw6aC86Kug1AI_AjZAXNnRgh-nkP0YBU833oTQV5OmCUJ56z-7dPN5eqD586YeGMsMF1j2o70hQP8scKPw"
 				},
 				"edges": [
 					{
@@ -272,13 +277,13 @@
 								"id": "104636191521139",
 								"display_name": "Neuffexx",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.478.478a/s160x160/38982553_136377198347038_4480103109150320191_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wL9w9ZXjH3MAX_peZNS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6c7202305dd46f3cc9c6ade93e3e8d67&oe=6099CDD1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.478.478a/s160x160/38982553_136377198347038_4480103109150320191_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wL9w9ZXjH3MAX_MVTUE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=159fc8cf5b7d3708c2382a948c82b123&oe=6099CDD1"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I came to this game for the experience of sitting in a space fighter and feeling like your physically there looking around in your cockpit and having space battles. \nAnd that's exactly what I got.\n\nHowever, the game as many other reviews have mentioned lacks in content/replayabiltiy. Because for now all the game has is its campaign that isnt yet finished.\n\nIt takes some getting used to and finding your own preferable flight control system. Where I personally would have liked a system that mounts the fun facing forward constantly and you control maneuvering and shooting with the hand on the joystick and the actual acceleration and boost with the hand on the throttle for a bit more of an immersive experience.\n\nIt would have also been good if it would feature more upgrades for weapons and potentially other parts of the speed such as: shields, maneuverability, speed, multiple weapon system mounts (or even feature entirely different ships to choose that have these things in variety to each other.\n\nIn terms of graphics, it's not the most stunning game- however that is mostly due to the hardware limitations of the oculus and not to be blamed on the developer in my opinion. Since this is a fast pace game that requires high frame rates to not make the player feel motion sick which I hardly ever have and when I did it was because I was changing my position in my chai as I moved. The developer has to try balance the looks with the playability.\n\nHowever one thing I do think definitely needs to be worked on is the visual clarity in making the enemies distinguishable from the backgrounds without the enemy icon blocking most of the space ships in the distance. Because it feel like your shooting targets more than enemy space ships most of the time due to you mostly only seeing the enemy icons at a distance covering the spacecraft.\n\n\nTo sum it up, it's a great game if your looking for the experience, although albeit it is relatively short for the time being as I think the game is still under development. Just needs more content and replay ability value.",
 							"reviewTitle": "Great experience, but...",
-							"review_helpful_count": 131,
+							"review_helpful_count": 139,
 							"review_rank_by_viewer": null,
 							"date": 1613486525,
 							"developerResponse": null
@@ -293,7 +298,7 @@
 				"description": "Redesigned to support Oculus Quest  2 to offer the most immersive space flight you have ever experienced! \n\n'Game of the Year' - Nomination - UploadVR\n\n“This is the absolute best game I've ever played...” - vrgamerdude\n\nJump into the seat of the most advanced space fighter the United Trade Consortium has ever produced and join the fight against the Tartarus Liberation Front. With an engaging storyline, Touch controller support, improved visuals, and explosive sound fx.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974771_356081991901128_3506105369933905920_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=thmnt6yuLvoAX_OmDTC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=affec5b32fe652c21c1536ef13801f1f&oe=6097F4DE",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974514_290090299282484_5492854134368098405_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NMnfFfFR6nQAX9A1MJm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3018fae9d8242fadf7bd08a31c80ad49&oe=60991190",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
