@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974744_278791059676338_8968335349809938432_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mBuTQkzWyF0AX-elglD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b56536127bf0ef9dc3bc92919dfa70b&oe=609CE2B6"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974744_278791059676338_8968335349809938432_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mBuTQkzWyF0AX_BQfaR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e6161b47c43f6e3d7db1be6ccc873ecb&oe=609CE2B6"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031315_278790186343092_8748549499472838656_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=iVxeEopOmHoAX8hLLfT&_nc_oc=AQlP0ca0wRTSAxqiAHuDjMruBoxOfYjKmwutTSc-TQvEZo6fHvSYfbmR6M7p6XiJNuU&_nc_ht=scontent.oculuscdn.com&oh=545ecbe8e6b795f7ddea84c57d2223a2&oe=609C9B42"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031315_278790186343092_8748549499472838656_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=CLITY4d2s88AX-bSpyk&_nc_oc=AQnw0cqZ2JyU621XBuKNwdFB8JISt7lOGCYkOLIAlgjh4TrfpurMphb2vmSgf4gdmI8&_nc_ht=scontent.oculuscdn.com&oh=02335893fd2a0cc164ec55c524139223&oe=609C9B42"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 102,
+					"count": 100,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 204,
+					"count": 205,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 475,
+					"count": 482,
 					"starRating": 5
 				}
 			],
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.3409",
-				"change_log": "v0.3409\n• Improved ergonomics for the controller attached UI\n• Implemented one handed mode available through settings\n• Added a favorite/unfavorite button to the profile panel\n• Fixed a bug that prevented navigation arrows from being clickable\n• Fixed a bug where the controller attached UI could be visible when the application loses focus for the universal menu\n• Fixed a bug that could prevent the satellite map toggle from appearing before restarting the application on first launch\n\nv0.3407\n• Major UI/ease of use overhaul\n• New controller-attached minimap and tool set\n• Added random teleportation type toggles. You can now randomly teleport throughout the world, from within our collection of famous places, or within your favorites!\n• Added map navigation instructions on first launch.\n• Added a welcome/help panel\n• Simplified controls with an option to use advanced controls in settings\n• Fixed bug where the random location button would stop working after 4-5 attempts\n• Fixed a bug where audio in multiplayer could cut out\n• Fixed a bug that could cause unusual avatar positioning\n• Many other minor bug fixes\n\nv0.3394\n• Quest 2 support including Quest 2 controller models, optimizations and visual improvements\n• Improvements to voice communication including echo cancellation, automatic gain control, and audio codec changes\n• Lip sync for avatars\n• Fixes for Go/Quest multiplayer audio\n• Fixed connection back to Alcove for players starting Wander from Alcove\n• Minor UI improvements\n• Performance improvements\n• Potential fix for rare bug where some users who are unable to load locations\n\nv0.3392\n• Improved search and fixed a regression where search could place users too far from their intended destination\n• Fix for occasional frame drops when loading new locations\n• Updated speech recognition plugin. \n• Removed Exit to Oculus Home on the dock as it does not appear to work well with the new focus aware menu from Oculus\n\nv0.3381\n• Fixed a bug that could prevent application from loading for some users\n• Fixed a bug that could prevent player markers from showing up in multiplayer if the map was closed when a player joined\n• Improved messaging (and logging) when errors occur during startup\n• Controls improved when using a single controller\n\nv0.3376\n• Fixed issue where in some locations the teleportation marker would be excessively large\n• Fixed a bug that could prevent the renaming of favorites\n• Fixed a bug where some locations that did not have high resolution imagery could fail to load with max resolution set\n• Fixed laser appearing in center of vision when bringing up the new focus aware Oculus menu\n• Updated collections\n• Improved thumbnail loading in collections (should be faster when scrolling)\n• Map no longer registers drags as clicks when the map is dragged back to its original location\n• Improved reliability of random search\n• Improved reliability of search on map when zoomed out\n• Improved voice quality and reliability\n• Boosted voice volume\n• Minor UI improvements\n• Slightly improved application startup time\n\n\n",
+				"version": "0.3410",
+				"change_log": "v0.3410\n• Minor hotfix correcting the position of the welcome screen on launch\n\nv0.3409\n• Improved ergonomics for the controller attached UI\n• Implemented one handed mode available through settings\n• Added a favorite/unfavorite button to the profile panel\n• Fixed a bug that prevented navigation arrows from being clickable\n• Fixed a bug where the controller attached UI could be visible when the application loses focus for the universal menu\n• Fixed a bug that could prevent the satellite map toggle from appearing before restarting the application on first launch\n\nv0.3407\n• Major UI/ease of use overhaul\n• New controller-attached minimap and tool set\n• Added random teleportation type toggles. You can now randomly teleport throughout the world, from within our collection of famous places, or within your favorites!\n• Added map navigation instructions on first launch.\n• Added a welcome/help panel\n• Simplified controls with an option to use advanced controls in settings\n• Fixed bug where the random location button would stop working after 4-5 attempts\n• Fixed a bug where audio in multiplayer could cut out\n• Fixed a bug that could cause unusual avatar positioning\n• Many other minor bug fixes\n\nv0.3394\n• Quest 2 support including Quest 2 controller models, optimizations and visual improvements\n• Improvements to voice communication including echo cancellation, automatic gain control, and audio codec changes\n• Lip sync for avatars\n• Fixes for Go/Quest multiplayer audio\n• Fixed connection back to Alcove for players starting Wander from Alcove\n• Minor UI improvements\n• Performance improvements\n• Potential fix for rare bug where some users who are unable to load locations\n\nv0.3392\n• Improved search and fixed a regression where search could place users too far from their intended destination\n• Fix for occasional frame drops when loading new locations\n• Updated speech recognition plugin. \n• Removed Exit to Oculus Home on the dock as it does not appear to work well with the new focus aware menu from Oculus\n\nv0.3381\n• Fixed a bug that could prevent application from loading for some users\n• Fixed a bug that could prevent player markers from showing up in multiplayer if the map was closed when a player joined\n• Improved messaging (and logging) when errors occur during startup\n• Controls improved when using a single controller\n\nv0.3376\n• Fixed issue where in some locations the teleportation marker would be excessively large\n• Fixed a bug that could prevent the renaming of favorites\n• Fixed a bug where some locations that did not have high resolution imagery could fail to load with max resolution set\n• Fixed laser appearing in center of vision when bringing up the new focus aware Oculus menu\n• Updated collections\n• Improved thumbnail loading in collections (should be faster when scrolling)\n• Map no longer registers drags as clicks when the map is dragged back to its original location\n• Improved reliability of random search\n• Improved reliability of search on map when zoomed out\n• Improved voice quality and reliability\n• Boosted voice volume\n• Minor UI improvements\n• Slightly improved application startup time\n\n\n",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "183656715",
-				"id": "4266019033490201",
-				"required_space_adjusted": "235667116",
+				"total_installed_space": "183664692",
+				"id": "4269251056500332",
+				"required_space_adjusted": "235718446",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4266019033490201"
+					"id": "4269251056500332"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "377770446302091",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.3409",
-							"id": "4266019033490201"
+							"version": "0.3410",
+							"id": "4269251056500332"
 						}
 					}
 				]
@@ -201,11 +201,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8068410462777,
+			"quality_rating_aggregate": 3.817,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 521,
+				"count": 524,
 				"orderings": [
 					{
 						"key": "top",
@@ -218,10 +218,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 521,
+				"count": 524,
 				"page_info": {
-					"end_cursor": "AQHRDd3Sc608y0BWtd5gtV4aM9LMixnsaAigrhVAewLPJM9wMsRsNydQKAzC6L3iji92jGOAuWkUZ2xLcDlAmhMglg",
-					"start_cursor": "AQHRDd3Sc608y0BWtd5gtV4aM9LMixnsaAigrhVAewLPJM9wMsRsNydQKAzC6L3iji92jGOAuWkUZ2xLcDlAmhMglg"
+					"end_cursor": "AQHRhOekDNV0iGiz34s6GlfhT2bqnXCF2YYJOJ8UMOL4ozcXSov61LuBTE7v-lIxYCq5JYhB7ISaFDMCv7L5JLnpOQ",
+					"start_cursor": "AQHRhOekDNV0iGiz34s6GlfhT2bqnXCF2YYJOJ8UMOL4ozcXSov61LuBTE7v-lIxYCq5JYhB7ISaFDMCv7L5JLnpOQ"
 				},
 				"edges": [
 					{
@@ -231,13 +231,13 @@
 								"id": "107692367647416",
 								"display_name": "Fantasmister",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/38974530_191116302638355_8706177273779633602_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iBRdloAGnvsAX9aABiq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=44871602ced158571eac53da1e3a7960&oe=60991212"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/38974530_191116302638355_8706177273779633602_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WOrtC4X7d6MAX_I6OXa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d31f8f33d0a7dcaab19fe7b75a1d453&oe=609D0692"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This review is to help set your expectations to a realistic level. If you're expecting what it delivers, it's a great app. \n\nTo clarify for any potential buyers: It's not true VR, nor can you \"wander\" in it - it is essentially Google maps streetview (not even Google Earth, which would have been much more VR like), the same experience that you may have had with Google cardboard.\n\nDon't get me wrong - the ability to zap to almost anywhere in the world, even via static 360 degree photos, is still a great technological marvel, and does have a level of immersion. It's only perhaps disappointing if you're expecting a proper \"magic of vr\" experience, wandering through places, which is understandable from their overselling description.",
 							"reviewTitle": "Set your expectations",
-							"review_helpful_count": 924,
+							"review_helpful_count": 939,
 							"review_rank_by_viewer": null,
 							"date": 1611135883,
 							"developerResponse": null
@@ -252,7 +252,7 @@
 				"description": "Wander the world openly through the magic of VR. From the comfort of your living room you can teleport almost anywhere in the world - whether you wish to walk across the London Bridge, stroll the gardens of the Taj Mahal, or witness the enormity of the Great Pyramids of Egypt - unlimited exploration awaits!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974661_580808789094371_3228895235618635776_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xyD4jybxzloAX-hXozl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60d077231ee9691fd72aabeb7a77dc13&oe=609CAB82",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974661_580808789094371_3228895235618635776_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1R_dvKsbFJYAX9y7QzT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=679b442f0ea4cb1cd443d70af94c5087&oe=609CAB82",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
