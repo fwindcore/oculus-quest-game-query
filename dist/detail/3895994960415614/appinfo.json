@@ -1,0 +1,263 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3895994960415614",
+			"display_name": "AniCast Maker",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974561_495185938488070_8611842536361550618_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=30Ap3oilOjYAX-E6NJv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd09565adbc761842dbf1f71a5bb67ab&oe=609F9FAF"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/54770913_1795792087251722_11480687037141585_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=a2idbB7uvrUAX8DlOOK&_nc_ht=scontent.oculuscdn.com&oh=6e77754c5465afd3fcedc12bc78dff93&oe=609F9A9E"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 0,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 0,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 0,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "AniCast Maker is the simple and easy way for anybody to make their very own videos in VR.\nBe the actor, be the cameraman, place props and backgrounds, whatever you need to bring your creative dream to life!\n\nThe tool comes with tons of backgrounds, props, and character motions for you to jump right in and make all kinds of animations. You can even upload your videos to social media to get an instant reaction from your audience.\n\nWe'll also be teaming up with famous game, anime, and manga creators to bring their stuff to AniCast, too, as well as creating official contests where you can enter your videos to win! See our official homepage for details.\n\nWe hope you'll enjoy AniCast Maker, the easy way to make animation every day!",
+			"developer_privacy_policy_url": "https://avex.com/jp/en/public/privacy/",
+			"developer_terms_of_service_url": "https://anicast-maker.com/terms",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "Avex Technologies Inc.",
+			"supported_in_app_languages": [
+				{
+					"name": "日语"
+				},
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY",
+				"HOLLYWOOD"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "XVI Inc.",
+			"genre_names": [
+				"艺术/创意",
+				"休闲",
+				"工具"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.0",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY",
+					"HOLLYWOOD"
+				],
+				"total_installed_space": "329805290",
+				"id": "4299600703388369",
+				"required_space_adjusted": "453424006",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1618531155,
+			"supported_tracking_modes": [],
+			"website_url": "https://anicast-maker.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "379724129751422",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "1062927167497788"
+			},
+			"live_release_channel": {
+				"id": "1062927167497788",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4299600703388369"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "1062927167497788",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.0",
+							"id": "4299600703388369"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "790135455075904",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRPYFqmqZvPes5cVyeOcN0DiUyiUjb51RoKCwyCTioK0N3sHWAwzpo0MuoqWvW7lL2_JeeoEPFHncOkJrUSdfRmA"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "avex-technologies-inc-anicast-maker-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "2999"
+				},
+				"id": "379724129751422"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "AniCast Maker",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "379724129751422"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 0,
+			"support_website_url": null,
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 0,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 0,
+				"page_info": {
+					"end_cursor": null,
+					"start_cursor": null
+				},
+				"edges": []
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "AniCast Maker gives you your very own VR recording studio, so you can make your own short animations in VR! Be the actor, be the cameraman, whatever you want to do to make your creative dream come to life. \n\nThe software comes with two 3D character models, as well as plenty of backgrounds, props, and animated motions for you to jump right and in make all kinds of short animations.  Upload what you made to Twitter, Facebook, YouTube, and other social networks, so that others can see your brillian",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75485571_754473885501111_2698606413462379276_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=t7mHJAnYzrMAX9cQZw1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=906cfa27d9255ee8ad7217f8aaeee8e3&oe=609E5F18",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3895994960415614/",
+				"site_name": "Oculus",
+				"title": "AniCast Maker · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

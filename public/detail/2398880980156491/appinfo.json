@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974751_2152683124837435_6807346417665835008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=O4Oe33XG73kAX9NOspk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6a53d56f7583e7b6c6a2c4a2cc2cf3e3&oe=609E254E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974751_2152683124837435_6807346417665835008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=O4Oe33XG73kAX_s7Ygi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e9428594e3209050f4ae22b0617b00e6&oe=609E254E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2152671904838557_6218338060141068288_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=ELvfhTacvQ8AX_RYP5D&_nc_ht=scontent.oculuscdn.com&oh=1de6e6dfca9f16e6bb16e9295c34fa6a&oe=609F79B6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2152671904838557_6218338060141068288_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=GF9oZ68F38UAX_yosFD&_nc_ht=scontent.oculuscdn.com&oh=a9101ec3a6ae6527c4ed1f622ff524b0&oe=609F79B6"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 383,
+					"count": 385,
 					"starRating": 5
 				}
 			],
@@ -102,22 +102,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1901864963322603",
+				"id": "428774811047464",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1618556340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -158,7 +153,7 @@
 							"created_time": 1568230323,
 							"body_text": "We have heard your feedback about the balance of the game being too hard in the easiest difficulty.  This seems to be specifically focused around the Samurai characters.  So in this update we are doing a few things to make the Novice difficulty a bit easier.\n\nNovice Changes:\nSamurai and Boss health greatly reduced\nSpeed of all enemies reduced\nHealth of all enemies reduced\nAll projectiles can be blocked without slicing\n\nOverall Changes:\nProjectiles can now be dodged by moving after the projectile is thrown\nShortened tutorial\n\nWe'd also like to announce that Ninja Legends has launched on the SpringboardVR Platform and will be available in arcades soon!\nIf you are an arcade owner and would like to get Ninja Legends on the Quest, contact us and we can work it out.\n\nWe are also looking for playtesters on the archery update.  Message me directly if you are interested.  Our first testing build for that should be up this weekend.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974720_495461137852886_9102635249124245504_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YAnmZbPRgI8AX_WuQI3&_nc_ht=scontent.oculuscdn.com&oh=59b4f6abd476ab670b54c0affa6440d6&oe=609EABE4"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974720_495461137852886_9102635249124245504_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uOGlLKklH4UAX93V__g&_nc_ht=scontent.oculuscdn.com&oh=a1eab881e5c22f4221b03450c8edf7b9&oe=609EABE4"
 							}
 						}
 					]
@@ -210,16 +205,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1901864963322603"
+				"id": "428774811047464"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4934823091248,
+			"quality_rating_aggregate": 4.4953617810761,
 			"support_website_url": "https://discordapp.com/invite/camScV?utm_source=Discord+Widget&utm_medium=Connect",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 307,
+				"count": 309,
 				"orderings": [
 					{
 						"key": "top",
@@ -232,28 +227,26 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 307,
+				"count": 309,
 				"page_info": {
-					"end_cursor": "AQHRgKOvUIYyrvK-bQkOWbTVO7RSrdXHs8Kre5f1I2prkMMOQPIGHzpZVlpmy-Xw-u1EmHjpvD6fWnqlJzNoJMI4AA",
-					"start_cursor": "AQHRgKOvUIYyrvK-bQkOWbTVO7RSrdXHs8Kre5f1I2prkMMOQPIGHzpZVlpmy-Xw-u1EmHjpvD6fWnqlJzNoJMI4AA"
+					"end_cursor": "AQHRx1zZ0IthBOXn-0Ww8ZKa0O6zNjYKP7kNchhSzqhHTHu3kYHqcQppgV2McByhVuSw3RPE31fe6TGscfslpmgtiA",
+					"start_cursor": "AQHRx1zZ0IthBOXn-0Ww8ZKa0O6zNjYKP7kNchhSzqhHTHu3kYHqcQppgV2McByhVuSw3RPE31fe6TGscfslpmgtiA"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "133420248630131",
+							"id": "479475620056193",
 							"author": {
-								"id": "101133935192096",
-								"display_name": "ItsTheSpaceKing",
-								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c4.0.1431.1431a/s160x160/57574723_101134148525408_6515562210810679694_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VOK1zBeLbdUAX_Yg2_m&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f91047427744d41975d7a3a99bbb4fdc&oe=609DF78A"
-								}
+								"id": "102615214408904",
+								"display_name": "BruceinAK",
+								"profile_photo": null
 							},
 							"score": 5,
-							"reviewDescription": "Ninja legends is one of those games where you can really get hurt playing. I recommend finding a large play space so you dont bash your hand off a wall or something while moving faster than your guardian can respond. I dodged  quickly n just about broke my hand trying to block the other guys attack. I fell over a coffee table that was just outside of my guardian. I love this game it gets me really hyped n can be a pretty brutal workout but omg you can really mess yourself up on this one. FIVE STARS because is it really a immersive ninja game if you dont even get a scratch. I got bruises n possible fractures!",
-							"reviewTitle": "Brutal",
-							"review_helpful_count": 61,
+							"reviewDescription": "I use two katanas so as to work both arms. This is a great game for fitness, especially if you play the endless story option. Comments by other users related to requirements for space should be heeded.   The official minimum 6.5 ft x 6.5 ft (2m x 2m) is barely adequate.  You will eventually hit something.",
+							"reviewTitle": "Great for fitness; needs space to play",
+							"review_helpful_count": 5,
 							"review_rank_by_viewer": null,
-							"date": 1612936530,
+							"date": 1618178574,
 							"developerResponse": null
 						}
 					}
@@ -266,7 +259,7 @@
 				"description": "Now with 6 styles of archery! The most INTENSE combat experience on the Quest. Fight challenging enemies that attack from all sides while you slice your way through beautiful environments. Unlock amazing weapons and special ninjitsu abilities in your quest to retrieve the stolen Shadow Scrolls. Do you have what it takes to be a ninja legend?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974524_283131283301545_8966027047450203756_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MycOlexgcF4AX_3v-zf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4a4fde908f8a002328b996bbb60488c0&oe=609EF24D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75223478_961579390863898_3541728919608623104_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Aqc9-8Q2898AX8cjuDy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2326c94f2efa027b11f6735ca06c04a2&oe=60A05FEC",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

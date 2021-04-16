@@ -1,0 +1,281 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "2088366894520136",
+			"display_name": "VZfit",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974840_486575775700913_3781458670282844239_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kaEFCDMOlgcAX-1dOfk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a1c9d703531ee41f5f3809610bba84fc&oe=609DDE9B"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_273370610908414_3692177474064353825_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=LSw2ALXfkNsAX9U_MXE&_nc_ht=scontent.oculuscdn.com&oh=06623efcfce2561bc3cbc25d74c59fae&oe=609D8FAE"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 12,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 5,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 1,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 0,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 18,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Ride to every corner of the world while getting a full-body cardio workout!\n\nEXPLORE\nFrom the snow capped Italian Alps to the sun kissed coast of Oahu, experience our planet’s beauty over 10 million miles of roads through Google Street View**.\n\nMAKE IT YOURS\nCreate your own rides and share them with the community! Earn coins while riding to customize your rider.\n\nKEEP CONNECTED\nRide with a friend or training partner wherever they are in the world. \n\nFAMILY FRIENDLY\nFree profiles allow everyone using your Quest to track their own stats and progress. One subscription covers the entire family.\n\nOptionally use your bike or elliptical with the addition of a cadence sensor.\n\nStart your journey today with a 7-day free premium trial* to begin your ride around the world.\n\nWhere will you ride first?\n\n*$0 for duration of free trial, $9.99/month thereafter. Cancel at any time. Terms apply. Go to vzfit.com for more detail.\n**Uses Google Street View data but is not an official Google product.",
+			"developer_privacy_policy_url": "https://virzoom.zendesk.com/hc/en-us/articles/360056428751",
+			"developer_terms_of_service_url": "https://virzoom.zendesk.com/hc/en-us/articles/360056435331",
+			"supported_player_modes": [
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "VirZOOM, Inc.",
+			"supported_in_app_languages": [
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY",
+				"HOLLYWOOD"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人",
+				"多人",
+				"多人合作"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "VirZOOM, Inc.",
+			"genre_names": [
+				"探索",
+				"体育",
+				"旅行"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.0",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY",
+					"HOLLYWOOD"
+				],
+				"total_installed_space": "519753950",
+				"id": "3942958122394328",
+				"required_space_adjusted": "789088470",
+				"storeAddOns": null,
+				"firstIapItems": null
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1618505942,
+			"supported_tracking_modes": [],
+			"website_url": "https://vzfit.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "458404185380353",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "654328514987554"
+			},
+			"live_release_channel": {
+				"id": "654328514987554",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3942958122394328"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "654328514987554",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.0",
+							"id": "3942958122394328"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "553807328433814",
+				"posts": {
+					"nodes": [
+						{
+							"id": "789781494953483",
+							"title": "January Update is Live!",
+							"created_time": 1612822651,
+							"body_text": "January has been a great month for all of us with our VZfit users burning almost 3 Million VZcals!  How's that for nailing your resolutions!  With so many new users and coming on we put our focus on the new user experience for this update.\n\nNew Tutorials\nNew users will now begin their journey with a tutorial on the exerboard. From rendering modes to steering, this tutorial features everything you need to learn to get started in VZfit.  Additionally, we added video tutorials for some of the more advanced options in the game.\n\n\nNew Voice Over\nBoth the male and female coaches have had a voiceover update. We have also added multiple levels of voice over to suit your needs. Coaching mode is on by default and will offer you the most feedback on your ride.\n\nNew Continents Filter\nIn addition to the filters in last update we have now added a quick filter for toggling on and off specific continents. This can help you find a ride in a specific region and get you exploring faster!\n\n\nNew Store Items\nWe have added some more items to the store with a pretty great road warrior style jersey!\n\n\nIf you want to check out all the details be sure to visit our Updates page https://www.virzoom.com/2021/01/03/vzfit-update-january-2021/. We are off to a great start of the year and hope you are to!\n\nCheers and Happy Exploring!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75280979_691647738196047_205018326827229057_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5IGRmvH4m5oAX9WotK1&_nc_ht=scontent.oculuscdn.com&oh=2b1228675c908dfc7331913a710ad8c4&oe=609D7D81"
+							}
+						},
+						{
+							"id": "203367734700839",
+							"title": "December Update is Live!",
+							"created_time": 1608401266,
+							"body_text": "Our December update is a huge one! With trainer updates, a massive UI overhaul and a ton of requested features.\n\nTrainer Update\nOur trainers have always been your riding buddy and helped push you a bit further, but we have given them a much needed upgrade.  In standing mode the trainer now has access to 50 new exercise's and in both modes you will see a graph for your progress in the training session!  Loop them for a never ending workout, or leave them unlooped to get a workout summary after each workout.\n\nIn Game Maps\n\nWho goes exploring without a map?  You now have the ability to pause at any point and see where you are in the world. Better yet, in the create ride screen you can pan across the entire planet and find a spot to start and end your ride by dropping pins.\n\nFind and Search Rides\n\nThe only thing better than creating your own rides is being able to find the amazing rides other people have made and shared. The new find ride interface makes this so much easier. Search for a ride by creators name or use the quick filters we have added to find your next adventure.\n\nNew Holiday Clothes\nWe have also added a new holiday set to the store so you can spread some joy in your very own ugly sweater jersey. \n\nThis and so much more is waiting for you in our December update. You can read the full update notes at https://www.virzoom.com/2020/12/14/vzfit-update-december-2020/  We can't wait to hear your feedback on the forums or our facebook group.\n\nCheers and best wishes for a happy Holiday season from our team to you!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57575357_219607982966838_459005925741282251_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=B8JBzLqg0gcAX-2lVPG&_nc_oc=AQlSnEHmZi3AU0G7XbzwmFYZqFVNo9TFvN4_1kAQZnYp-s2g1SBZRRyT7q9JA0UyVFI&_nc_ht=scontent.oculuscdn.com&oh=1089f7bbdb9d9219589a733a0efd2076&oe=609FBD79"
+							}
+						}
+					]
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRaZfBLVNb5eC8XYFpw4qyd1utRPxNBqKeagzQjIAcF4FsMBjAvh2Q6xNzw4p_t9jcv5k6rdcmNeXGVOeK-YF3og"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_SOME",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "virzoom-vzfit-explorer-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "458404185380353"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "VZfit",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 3.1944444444444,
+			"support_website_url": "https://vzfit.com/help",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 18,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 18,
+				"page_info": {
+					"end_cursor": "AQHRPeB08oS05MMnG9krFL0ieo1Dlmm9jwbOdsij5InFsh6Q8XFcqTOuUSfOzx3kHRotmk2y9ApvGY_Ciyv3966bjA",
+					"start_cursor": "AQHRPeB08oS05MMnG9krFL0ieo1Dlmm9jwbOdsij5InFsh6Q8XFcqTOuUSfOzx3kHRotmk2y9ApvGY_Ciyv3966bjA"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "1045529502518245",
+							"author": {
+								"id": "146575022413702",
+								"display_name": "Shon_t",
+								"profile_photo": null
+							},
+							"score": 5,
+							"reviewDescription": "Although this app is fairly new to the App Store, I have been using it through the developers website for over a year. I’m not affiliated with the developers, I’m just a loyal customer. \n\nLast year, I got a crazy idea to use Google Street view and attempt a virtual tour of Japan. I used my own VR solution for about a month or two until I eventually stumbled onto this app. I used this app to complete a 1400 mile virtual bike tour of Japan and I’m roughly 2500 miles through a virtual tour of Russia. I’ve also taken time off of my tours to visit various points of interest around the world. \n\nUsing a Bluetooth cadence sensor that connects to the pedal crank of my exercise bike, the headset was able to determine how fast I was pedaling and allows me to move through either a curated route or a route I customized and generated myself. Customized routes are only limited by what is available and covered by Google Street view. For example, last year I followed the Colorado river and rode through the entire Grand Canyon. \n\nUse of this app has allows to to get a sense of travel, even while travel has otherwise been restricted. It’s definitely helped me exercise more consistently and I have found that I have exercised longer as well. It’s easy for 30-45 minutes to fly by without realizing it. \n\nThe small development team has been fantastic. They have been incredibly responsive to customer questions and feedback incorporating many user suggestions into future software updates. The app has improved dramatically over the past year. \n\nAs great as this app is, there are some limitations, given reliance on Google Street view. The app is using 360 degree photos for locations and manipulating the photos to give a sense of movement. While this process works great for objects off in the distance, it can cause noticeable distortion to objects closer to the rider. The app offers different riding modes to overcome these issues for example “comfort mode” offers a non-distorted view but sacrifices the sense of movement provided by other riding modes. This isn’t a deal breaker, but it can be a turnoff to some and can take a while to get used to. \n\nAnother limitation is the requirement for a fairly fast internet connection.  Internet is required for Google Street view photos to be uploaded during the ride. \n\nRegardless of the limitations I love this app. I love what it is able to do today and look forward to continuous improvements.",
+							"reviewTitle": "Explore the World!",
+							"review_helpful_count": 36,
+							"review_rank_by_viewer": null,
+							"date": 1618509922,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Have Fun. Explore the World. Get Fit.\n\nFull-body cardio workouts you will actually enjoy!\n\nFrom the snow capped Italian Alps to the coast of Oahu, workout virtually anywhere.\n\nOptionally use a bike or an elliptical with the addition of a cadence sensor.\n\nStart your journey today with a 7 day free trial!*\n\n*$0 for duration of free trial, $9.99/month thereafter. Cancel any time. Terms apply. Go to vzfit.com for more detail.\nVZfit uses Google Street View data but is not an official Google product.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974698_964079377332189_5975739684513108179_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jbXQh_CE7JsAX9gv5d_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dbd155d7f0f8aad2e975cb27e426b5ad&oe=609E15F7",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/2088366894520136/",
+				"site_name": "Oculus",
+				"title": "VZfit · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
