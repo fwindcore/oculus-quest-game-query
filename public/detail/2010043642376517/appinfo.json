@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38984460_377387866197056_8894988393704849408_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sXrhyf2CpCYAX_pidPE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b1ea735142e34718cdc5ce33d34795a1&oe=609EA288"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38984460_377387866197056_8894988393704849408_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QOA-CNjFI1AAX8mcLfI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b4dc32495a6313d0d0e7ce3f5bb008d&oe=60A29708"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974506_377386132863896_6112639249993957376_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=fYrnK_uDKhIAX9R6z1J&_nc_ht=scontent.oculuscdn.com&oh=666e0a958c01b1de4c6efd0aed622285&oe=60A01F90"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974506_377386132863896_6112639249993957376_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=B_vLBcJO46wAX9wEdJY&_nc_ht=scontent.oculuscdn.com&oh=799bcf866b69a1dfb79881dd63342901&oe=60A01F90"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 259,
+					"count": 260,
 					"starRating": 5
 				}
 			],
@@ -181,17 +181,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "452509162167015",
+				"id": "235382081702101",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1199",
+					"formatted": "$11.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1618815540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -274,12 +279,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "452509162167015"
+				"id": "235382081702101"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5825825825826,
+			"quality_rating_aggregate": 4.5838323353293,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -298,8 +303,8 @@
 			"firstQualityRatings": {
 				"count": 159,
 				"page_info": {
-					"end_cursor": "AQHRJy2ygmC9ZUULs58jEGhbfA0eNyzuxyQd3XDm9j3mfOxmSW2xQUbE6VD3vaSH6HjN94A33Jy896zyYzTwrhpwzw",
-					"start_cursor": "AQHRJy2ygmC9ZUULs58jEGhbfA0eNyzuxyQd3XDm9j3mfOxmSW2xQUbE6VD3vaSH6HjN94A33Jy896zyYzTwrhpwzw"
+					"end_cursor": "AQHROt1eQE-gRWnkTfINrHfFMW2pjxT5IqmywEgetbWq4ZuDXYZJ2dof-iy0xIXPhJ__0KDvS8IT81I4xGXevCHYMA",
+					"start_cursor": "AQHROt1eQE-gRWnkTfINrHfFMW2pjxT5IqmywEgetbWq4ZuDXYZJ2dof-iy0xIXPhJ__0KDvS8IT81I4xGXevCHYMA"
 				},
 				"edges": [
 					{
@@ -309,13 +314,13 @@
 								"id": "103017118113128",
 								"display_name": "ThomTom1",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031509_150431333371706_8350966486087943275_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=L61-AkdltEgAX9Intdt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f55530447b887287cd093e0fecd4130&oe=60A0BFA1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39031509_150431333371706_8350966486087943275_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=75vpfP8KAx8AX9eJab6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0ad26cadbe02eea13a51b6bc5a96c439&oe=60A0BFA1"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game is amazing and a blast to play with family and friends. And I would definitely recommend purchasing this game.\n\nHere are some Pro’s and Con’s as why you should buy this game.\n\nPro’s:\n\nThe randomising modules make each time you play a different experience. \n\nThe game has a range of difficulties for all players both new and old.\n\nThe physics and overall feel of the game feels smooth and natural making the experience better.\n\nComing in at only $22.99 (AU) and somewhere around $15 dollars US it definitely on the cheaper side of VR games.\n\nCons:\n\nHand-Tracking is unfortunately still not available despite the feature having been out for a while now.\n\nThe game lacks new updates which would keep old players coming back for more.\n\nSuggestions:\n\nHand-Tracking\n\nCustom DLC’s \n\nOverall this is a great party game to play with friends .",
 							"reviewTitle": "Great Game",
-							"review_helpful_count": 146,
+							"review_helpful_count": 153,
 							"review_rank_by_viewer": null,
 							"date": 1609670688,
 							"developerResponse": null
@@ -330,7 +335,7 @@
 				"description": "你发现自己与一个炸弹独处一室。你的伙伴手中有拆弹手册，但他们看不见你手中的炸弹，不想炸就快开始说话！  本游戏为本地多人游戏，需要至少2个玩家进行。游戏只需要一套VR设备即可。  需要拆弹手册，可免费在www.bombmanual.com/zh-CN上阅览",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974746_364826497678185_3600455845692833792_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pKGaiU3LaEIAX8TAbxs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b0993810309568e8ea3a2bf313f3dfa1&oe=60A0A52E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974860_1188204408258650_1730282672268804955_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4KsnPap8Ey8AX9Pjaac&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f0e722f6a2d37dde2f27a69d0f794e0f&oe=60A04E5B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
