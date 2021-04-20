@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031334_2918947361670682_5741952600310652712_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jpbUa48iMPYAX8ElKZu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f2dc4cba25b8aee361bf644f9e4dbcd9&oe=60A4030D"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031334_2918947361670682_5741952600310652712_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jpbUa48iMPYAX_Cf6GN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=09f258f16bb88c0fd3cb671122dc53c9&oe=60A4030D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_168396244922293_359415083971539575_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=jTMvh6IfkssAX8et2EO&_nc_ht=scontent.oculuscdn.com&oh=83908eacb1f63435192750b1300cace5&oe=60A3F47C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_168396244922293_359415083971539575_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=izEcIBxhwKwAX-55KPF&_nc_ht=scontent.oculuscdn.com&oh=89a9d3c682cfff2c3d7d184d20ea9b72&oe=60A3F47C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 216,
+					"count": 218,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 701,
+					"count": 702,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 5610,
+					"count": 5621,
 					"starRating": 5
 				}
 			],
@@ -173,43 +173,10 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1618858800,
-								"current_start_timestamp": 1617908400,
-								"temporal_info": {
-									"seconds_until_end_time": 37755,
-									"seconds_until_start_time": 0
-								},
-								"vr_app_and_destination_string": "POPULATION: ONE",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2564158073609422",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "POPULATION: ONE"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "806851113276930",
-								"is_vr_viewer_interested": false,
-								"name": "Tower Struggle",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974680_441998793536967_7570011605784975579_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ao49Kfb-Md0AX8wuN_r&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0fd9e37f0289d8334c2f8636a9fc7122&oe=60A40C70"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1619809200,
 								"current_start_timestamp": 1618599600,
 								"temporal_info": {
-									"seconds_until_end_time": 988155,
+									"seconds_until_end_time": 901751,
 									"seconds_until_start_time": 0
 								},
 								"vr_app_and_destination_string": "POPULATION: ONE",
@@ -232,7 +199,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "PRIVATE ROOM: SOLO MODE INCOMING on April 16",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001654_3975398435854161_1613936733370788444_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=r0wCK1aQTcUAX_KiGG2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a7e799c84ec41ba03cbf88b150988a65&oe=60A23B68"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001654_3975398435854161_1613936733370788444_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=r0wCK1aQTcUAX-duWRO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e83d9fcebb7348ae329dc8859f9808a5&oe=60A23B68"
 								}
 							}
 						}
@@ -247,7 +214,7 @@
 							"created_time": 1618505886,
 							"body_text": "April 15, 2021 Change List\n\nPrivate Rooms New Features\n- Once a team is manually set, teams no longer get shuffled when a new user joins or leaves (Changing Game Modes re-enables team number balancing)\n- Players can now join a room with a squad\n- A new room Leader will be automatically assigned if the current leader leaves\n- Added popup to inform the new leader they are the leader\n- Added a 1 hour countdown timer to force room closure and refresh the server - Prevents weird falling through world issues\n- Added popup toast for 10, 5, and 1 minute server closure countdowns\n- Disabled \"Start Match\" if you're the only one in the room\n\nPrivate Rooms Fixes\n- Fixed issue where the round would end if a player joined as a spectator / in the middle of the match\n- Fixed issue where the game continued after the player died in Solos\n- Fixed issue where the end of Match screen could appear underground\n- Player now receives a notification if they were kicked from the server\n\nGeneral Fixes\n- PC & Quest 2: Fixed issue where the level of detail could lower to Quest 1 level of detail\n- Calling Cards: Removed stats\n- Store: Fixed issue where bundles did not calculate correct funds\n\nSupport\nFor support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data\n&#x200B;\n~ see you in game!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974805_464878391426493_2389325237884804900_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pVl4EVPEFgUAX_yBvDm&_nc_ht=scontent.oculuscdn.com&oh=d0c530649fef086bb1ce44d8a62c36f6&oe=60A1F00E"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974805_464878391426493_2389325237884804900_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pVl4EVPEFgUAX_jnpEU&_nc_ht=scontent.oculuscdn.com&oh=9b12da89260a17f3e2e66f7c3cadaa68&oe=60A5E48E"
 							}
 						},
 						{
@@ -256,7 +223,7 @@
 							"created_time": 1617856266,
 							"body_text": "April 8, 2021 Change List\n\nChanges\n- The tower is now open!\n\nSupport\nFor support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\n&#x200B;\n\n~ see you in game!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974530_481985189911205_8161051285863754410_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MMOaWTkjCy4AX-KW9f3&_nc_ht=scontent.oculuscdn.com&oh=2a9d2579f2bee292251e6c6dbca20e38&oe=60A2ACD4"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974530_481985189911205_8161051285863754410_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MMOaWTkjCy4AX-4AWxo&_nc_ht=scontent.oculuscdn.com&oh=44433d15606a66f33b8578320c997580&oe=60A2ACD4"
 							}
 						}
 					]
@@ -264,7 +231,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRNIHEwsUKjdFdWVuWP-Oa6S8rYEiwaCkF3SxxIo58HYq5osTW6j_PIFjegTnMkPSAepaeXaby3Tk1EwMezFJm0g"
+							"cursor": "AQHRv9zl3pa83XeLK63BPVoMTqOHSC8kmfJvoKyHKmnV4-n_sEryVk4kcg7B1AK1Vfu3Q50K_USVphFL3oD-3k8FbQ"
 						}
 					]
 				}
@@ -317,11 +284,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6190682244339,
+			"quality_rating_aggregate": 4.6191161652512,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 3460,
+				"count": 3467,
 				"orderings": [
 					{
 						"key": "top",
@@ -334,10 +301,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 3460,
+				"count": 3467,
 				"page_info": {
-					"end_cursor": "AQHRjhm_ylq3paZCOxLDOKXxi-LhKc-YsxanUXxczrPg9CUKWleQg6LoVHyhn48T1HmmogGzyCydXSLHCRNZTSJCvw",
-					"start_cursor": "AQHRjhm_ylq3paZCOxLDOKXxi-LhKc-YsxanUXxczrPg9CUKWleQg6LoVHyhn48T1HmmogGzyCydXSLHCRNZTSJCvw"
+					"end_cursor": "AQHRiNqg9Q8SBciW4y0t0_5NJMpMgKygEgjAtj9wlol2SWfdprDFI2i9FXWuXKffK1-yahih1ewWRFko7Wvmm7aj8A",
+					"start_cursor": "AQHRiNqg9Q8SBciW4y0t0_5NJMpMgKygEgjAtj9wlol2SWfdprDFI2i9FXWuXKffK1-yahih1ewWRFko7Wvmm7aj8A"
 				},
 				"edges": [
 					{
@@ -347,13 +314,13 @@
 								"id": "106246838076870",
 								"display_name": "dafrogmaster",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c3.0.850.850a/s160x160/38982715_136672388367648_112876248097758916_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HBoUWbxe4AAAX_SDhxZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=aaa67b68ab987288a4fe3cac655b4a46&oe=60A0DAC3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c3.0.850.850a/s160x160/38982715_136672388367648_112876248097758916_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HBoUWbxe4AAAX-y_UnS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dad7e1f4f2bfbe935b7e9a2f265369b7&oe=60A4CF43"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This game is awesome but I have some ideas for changes\n1.in the main menu, please make a shooting range to practice while we wait for a game.\n2.Please implement war mode in the main game permanently. War mode is awesome.\n3.There should be a solo mode where you are a team by yourself and you are facing off against 8 more people.\n4.You don't have to do this one, but please make the player able to build ramps.\n5.when aiming down sights on the AWP, the reticle always starts at the bottom. Please make it start at the middle or where we are looking.\n6.please don't make pop:1 like fornite\n\nThat's it for now, thank you for your time.",
 							"reviewTitle": "BIG BOX PLEASE READ THIS!!",
-							"review_helpful_count": 689,
+							"review_helpful_count": 705,
 							"review_rank_by_viewer": null,
 							"date": 1615731383,
 							"developerResponse": null
@@ -368,7 +335,7 @@
 				"description": "CLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nDrop into a colorful, near future world with limitless combat possibilities. \n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_259766475525536_7748797124750464409_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oTCmKscZ-UUAX8-NTU9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a71d77cff9fce0af04fba3c2e8309274&oe=60A103E6",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_259766475525536_7748797124750464409_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oTCmKscZ-UUAX9X8ARi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c867f6004847e3aed7311e9084a8cb3a&oe=60A4F866",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

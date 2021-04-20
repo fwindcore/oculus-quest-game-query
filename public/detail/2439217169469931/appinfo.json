@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031449_1207538972782925_5257640986552565760_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4_SV9JFKmWYAX_omZrx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f2d3b6635f0192602047827f4e928cfb&oe=60A1F7A8"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031449_1207538972782925_5257640986552565760_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4_SV9JFKmWYAX8B_FQ1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a85b6e03107665cf059695b57da206bc&oe=60A5EC28"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1207525846117571_633812309600370688_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=jKgJeuEKASEAX_QmNgD&_nc_ht=scontent.oculuscdn.com&oh=1c7dfaf307e85f6c6ffac1ca7e5d53da&oe=60A2B762"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1207525846117571_633812309600370688_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=jKgJeuEKASEAX9enSCq&_nc_ht=scontent.oculuscdn.com&oh=82bdb2603f8d7dd54d794a2d4c077c3c&oe=60A2B762"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 266,
+					"count": 268,
 					"starRating": 5
 				}
 			],
@@ -133,22 +133,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "473627623954742",
+				"id": "2213961175568044",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99",
-					"offset": 100
+					"formatted": "$14.99"
 				},
-				"promo_benefit": "-33%",
-				"end_time": 1618901940,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -189,7 +184,7 @@
 							"created_time": 1589293574,
 							"body_text": "Hand Tracking has been added in The Curious Tale of the Stolen Pets on Oculus Quest! You can now explore the virtual miniature worlds, solve the puzzles and cuddle with the pets simply by using your own two hands.\n\nGive it a try today!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974709_605337923409287_3313913417458253824_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=igeVH-sQmBIAX-SYiQU&_nc_ht=scontent.oculuscdn.com&oh=7444fd104e45187d581fe7585e1d898f&oe=60A1DD56"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974709_605337923409287_3313913417458253824_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gj9fHwKpWwMAX9RULoU&_nc_ht=scontent.oculuscdn.com&oh=8b5b51130f70a3139a6c82518b5d0068&oe=60A5D1D6"
 							}
 						}
 					]
@@ -245,16 +240,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "473627623954742"
+				"id": "2213961175568044"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3783783783784,
+			"quality_rating_aggregate": 4.3811659192825,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 216,
+				"count": 218,
 				"orderings": [
 					{
 						"key": "top",
@@ -267,30 +262,32 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 216,
+				"count": 218,
 				"page_info": {
-					"end_cursor": "AQHRs273zwQ4Y1sM-gaOw_4WlbXlz7yCuo7OUcKDLjNO6-lAXfthaZ40vPTDkshwyq4miOzfpkj1TpsaxpE6JE9mag",
-					"start_cursor": "AQHRs273zwQ4Y1sM-gaOw_4WlbXlz7yCuo7OUcKDLjNO6-lAXfthaZ40vPTDkshwyq4miOzfpkj1TpsaxpE6JE9mag"
+					"end_cursor": "AQHRThZ1lwn8yEEHIC33mpWEGUUzkg8Iiz5Cxht853dHwtqGpZLJfEgSAcM7lvT5CG0zJcMb0veurylh6pX9hkOvdA",
+					"start_cursor": "AQHRThZ1lwn8yEEHIC33mpWEGUUzkg8Iiz5Cxht853dHwtqGpZLJfEgSAcM7lvT5CG0zJcMb0veurylh6pX9hkOvdA"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "226259259101622",
+							"id": "164818578837283",
 							"author": {
-								"id": "111574467236769",
-								"display_name": "kazykay",
-								"profile_photo": null
+								"id": "102186185100523",
+								"display_name": "Deejaywolf",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/39031427_107612121224596_9174348890675275209_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wrHa6gn3URUAX_VWjjW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8147356e6d460a8f95c5f7302aa52ac6&oe=60A47B91"
+								}
 							},
-							"score": 4,
-							"reviewDescription": "For practical purposes, this is a super short game. I used it as reward after math tutoring. My 10 year old solved it in four 30 minute sessions. She LOVED it. I purchased it discounted and that worked out to be about $2 a reward, so not bad at all. It’s not worth replaying. I found the grandfather narrator condescending and annoying. But as I stated, she loved it. Good purchase for my needs. Absolutely G rated.",
-							"reviewTitle": "10 year old granddaughter loved it",
-							"review_helpful_count": 47,
+							"score": 5,
+							"reviewDescription": "My little daughter loves the game. It is cute, hand tracked, logical.\nShe could play it all day long:-) But of course I won't allow it.\nShe is mad for cats, so it is her favourite pet :)",
+							"reviewTitle": "My 4 years old daughter loves it",
+							"review_helpful_count": 9,
 							"review_rank_by_viewer": null,
-							"date": 1609367869,
+							"date": 1618569972,
 							"developerResponse": {
-								"date": 1612191761,
-								"body": "Glad to hear your granddaughter loved it & that it helped with the tutoring! Thanks for your feedback.",
-								"id": "248025783591636"
+								"date": 1618392348,
+								"body": "Thanks for taking the time to leave a review! Glad to hear your daughter enjoyed The Curious Tale of the Stolen Pets! :-) Would love to know which is her favorite pet!",
+								"id": "165768912075583"
 							}
 						}
 					}
@@ -303,7 +300,7 @@
 				"description": "体验一个孩子般奇妙的互动故事！ 通过探索从头开始为VR制作的精彩微缩世界，帮助你的祖父解决被盗宠物之谜。在寒冬的景致中使用吹风机融化冰雪！搜索部分隐藏在水面之下的海盗船残骸！每个世界都独一无二，充满了互动和丰富多彩的生活。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75451775_4175066505845005_1496444573450872645_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Yxsh7XzyWKgAX8RQuTq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=73b0136929f93bdaba8a43ba5500abce&oe=60A3A031",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982671_632703004113432_672659984984755253_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=p51oqTQEasgAX_E8x75&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7acf79d2bb55e4bba63c1a9523c61fe&oe=60A31DAC",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

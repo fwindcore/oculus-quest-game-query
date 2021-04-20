@@ -16,12 +16,12 @@
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 484,
+					"count": 487,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 39,
+					"count": 41,
 					"starRating": 2
 				},
 				{
@@ -36,11 +36,11 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 177,
+					"count": 179,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "Oculus TV is a VR home for the best in immersive entertainment where you’re always at the center of the action. Get access to award-winning interactive stories, as well as immersive TV, animation and photos. Our regularly-updated lineup includes a variety of genres including sci-fi, travel, sports and more.",
+			"display_long_description": "Watch Colette, an Oscar®-nominated documentary short following one of the last surviving members of the WWII French Resistance on Oculus TV today!\n\nOculus TV is a VR home for the best in immersive entertainment where you’re always at the center of the action. Get access to award-winning interactive stories, as well as immersive TV, animation and photos. Our regularly-updated lineup includes a variety of genres including sci-fi, travel, sports and more.",
 			"developer_privacy_policy_url": "https://www.oculus.com/legal/privacy-policy/",
 			"developer_terms_of_service_url": "https://www.oculus.com/legal/terms-of-service/",
 			"supported_player_modes": [
@@ -76,15 +76,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.23.12",
+				"version": "2.24.75",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "31005293",
-				"id": "3821726681281885",
-				"required_space_adjusted": "30469480",
+				"total_installed_space": "30699587",
+				"id": "3915535285234357",
+				"required_space_adjusted": "29683940",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -102,7 +102,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "US$ 0.00"
+					"formatted": "$0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -118,7 +118,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3821726681281885"
+					"id": "3915535285234357"
 				}
 			},
 			"release_channels": {
@@ -129,8 +129,8 @@
 						"id": "772595736415538",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.23.12",
-							"id": "3821726681281885"
+							"version": "2.24.75",
+							"id": "3915535285234357"
 						}
 					}
 				]
@@ -143,21 +143,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "454929399107984",
+							"title": "Watch the Oscar® Nominated, Colette",
+							"created_time": 1618515477,
+							"body_text": "As a young girl, Colette Marin-Catherine fought the Nazis as a member of the French Resistance. Since 1945, she has refused to set foot in Germany. That changes when a history student named Lucie enters her life and encourages her to visit the concentration camp where the Nazis killed her brother. Don’t miss the Academy Award® Nominated short documentary on Oculus TV.\n\nHaving trouble finding Colette?  Make sure to update the Oculus TV app to the latest version (v2.24).   If you are in an older version of the app, you will be prompted with a pop up dialog box asking you to update before you start the app. Otherwise, go to the Oculus TV product detail page in the Oculus Store while in headset and click 'Update' to download the latest version.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/86661276_141466821262627_8989269146392079350_n.png?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sJnrm-BTIvIAX9vwC1I&_nc_ht=scontent.oculuscdn.com&oh=90bcd5490b7f13d904120b8ae69898a6&oe=60A33F10"
+							}
+						},
+						{
 							"id": "511883416508354",
 							"title": "Earth 360 Video: The Call of Science",
 							"created_time": 1618503208,
 							"body_text": "It’s Earth Week, and we’re taking a look at our planet from a new perspective!  Join NASA Earth scientists for a 360-degree view of our planet as they head into the field to study ice in Greenland and coral reefs in Hawaii. You can stand with scientists on Arctic ice, fly above the ice sheet, glaciers and sea ice as part of Operation IceBridge, then head to Hawaii as scientists dive into Kaneohe Bay as part of NASA’s CORAL mission. Watch now on Oculus TV!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974873_1089303088230816_1441854442365007071_n.png?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5ujV-bUv-WIAX-6Gc5Z&_nc_ht=scontent.oculuscdn.com&oh=4c65daf9f3a1e4b8f9c2e3997e8f8675&oe=60A33422"
-							}
-						},
-						{
-							"id": "3780099032107790",
-							"title": "Flora and Fauna",
-							"created_time": 1617910849,
-							"body_text": "Enjoy the wonders of nature in this animated series of Quill moments that whisk you away to incredible places on our planet.  Share a rainforest leaf with a poisonous dart frog or stand at the edge of a lake under the breathtaking aurora borealis.  Put on your headset and treat yourself this Earth Month by taking a moment to appreciate the beauty of our delicate world.",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031622_3739081989502575_1869560855249372705_n.png?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7ScpZZOam8gAX_iE-O0&_nc_ht=scontent.oculuscdn.com&oh=b444c1d339b64f05353629b5d3705eb3&oe=60A15C5B"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974873_1089303088230816_1441854442365007071_n.png?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5ujV-bUv-WIAX_S6DAC&_nc_ht=scontent.oculuscdn.com&oh=ab2d3246c5ad4681e81fb24dc0695d0b&oe=60A33422"
 							}
 						}
 					]
@@ -208,11 +208,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 2.2481389578164,
+			"quality_rating_aggregate": 2.249692496925,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 190,
+				"count": 191,
 				"orderings": [
 					{
 						"key": "top",
@@ -225,10 +225,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 190,
+				"count": 191,
 				"page_info": {
-					"end_cursor": "AQHRtL3_ZTawLFt8vA5r9a-WP8KIZaj0VloULQb8DemUE7qDRtcRvxooRwvbICk3f8OYyfHvAeQEdYtXI5EZlvA_Fg",
-					"start_cursor": "AQHRtL3_ZTawLFt8vA5r9a-WP8KIZaj0VloULQb8DemUE7qDRtcRvxooRwvbICk3f8OYyfHvAeQEdYtXI5EZlvA_Fg"
+					"end_cursor": "AQHRt0XvmGaaJmJApP-7pDQJ5tSjZyvZA8GEqq4bJg154DYXOARHdzfwZyXsb8oRKwBXcM41B1ShtdqGP0zGayRykw",
+					"start_cursor": "AQHRt0XvmGaaJmJApP-7pDQJ5tSjZyvZA8GEqq4bJg154DYXOARHdzfwZyXsb8oRKwBXcM41B1ShtdqGP0zGayRykw"
 				},
 				"edges": [
 					{
@@ -238,13 +238,13 @@
 								"id": "658199537671139",
 								"display_name": "Mike-Urilorib",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39031326_1902596026564811_6079088157919250824_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Qq6NkrlBFEsAX_icFI_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=03459f486e2c3c49d4d5236f5316780a&oe=60A456D2"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39031326_1902596026564811_6079088157919250824_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Qq6NkrlBFEsAX9d-aNo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bad376e33ac15a23aee09e6200fba351&oe=60A456D2"
 								}
 							},
 							"score": 2,
 							"reviewDescription": "The Samsung VR app was killed. And the current version of Oculus TV doesn't even have the very basic media gallery functionalities. \n\nDear developers, here is short list of improvements that IMHO would make Oculus TV a perfect local media gallery app:\n\n- Ability to browse files by folder, name or date (c'mon, this is very basic!).\n- Ability to render cubemaps of any kind.\n- Ability to render both full and half SBS still images and video.\n- Ability to read .png images.\n- Ability to render the other 20+ image types the old Samsung VR app was able to (including 180x101, planetary dome, rtpx, etc).  \n- Ability to read suffix in the file name and render it accordingly (e.g. if the file name is xyz_mono360.png it automatically opens as a monoscopic 360 picture).\n\nIn summary, please add every local media functionality we lost when Samsung VR was removed from store.\n\nANY future improvements towards the goal above is much appreciated!",
 							"reviewTitle": "Please improve media gallery!",
-							"review_helpful_count": 97,
+							"review_helpful_count": 106,
 							"review_rank_by_viewer": null,
 							"date": 1611493222,
 							"developerResponse": null
@@ -256,10 +256,10 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Oculus TV is a VR home for the best in immersive entertainment where you’re always at the center of the action. Get access to award-winning interactive stories, as well as immersive TV, animation and photos. Our regularly-updated lineup includes a variety of genres including sci-fi, travel, sports and more.",
+				"description": "Watch Colette, an Oscar®-nominated documentary short following one of the last surviving members of the WWII French Resistance on Oculus TV today!\n\nOculus TV is a VR home for the best in immersive entertainment where you’re always at the center of the action. Get access to award-winning interactive stories, as well as immersive TV, animation and photos. Our regularly-updated lineup includes a variety of genres including sci-fi, travel, sports and more.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207239_416610032700292_9172747376243013450_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HgAG1ucF5CMAX-3rzBg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=946249c79981ff5629c1733677b84f1c&oe=60A44459",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982635_911348596110047_857488066028161327_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jYcQAKut5uMAX8Ap_UQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f4a1ececfa76ab891c51e8a915c4f5c8&oe=60A4D559",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
