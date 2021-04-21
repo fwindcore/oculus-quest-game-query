@@ -10,13 +10,38 @@
 			"display_name": "SUPERHOT VR",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "299529168198186",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "必玩游戏捆绑包",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "$99.99"
+						},
+						"strikethrough_price": {
+							"formatted": "$159.94"
+						},
+						"id": "1332096040506985"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/75411996_281561650327459_244062173391720800_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nay5a2OElvsAX_xtMX6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eb1e9429b0d08c700b3d2c02656d56e2&oe=60A4E9DE"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 6
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001679_111785397353318_3975025948701263000_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Hap2cmsfwGcAX9ptIaO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=be3b52c1041d935b7515469b60b936f4&oe=60A5FAB6"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001679_111785397353318_3975025948701263000_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Hap2cmsfwGcAX8TpNFs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd40823f980381dcf299ab88b175fd6d&oe=60A5FAB6"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982471_1500379723496227_7540327010602276678_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=bAblZW7sA3YAX_VNUed&_nc_ht=scontent.oculuscdn.com&oh=09cdcaa12cb0f952bba2a980a995ce0f&oe=60A60E3E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982471_1500379723496227_7540327010602276678_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=bAblZW7sA3YAX-XN2bm&_nc_ht=scontent.oculuscdn.com&oh=eedb111cc2478eba9b4f25ff085feb38&oe=60A60E3E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +56,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 209,
+					"count": 210,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 1073,
+					"count": 1074,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 9705,
+					"count": 9709,
 					"starRating": 5
 				}
 			],
@@ -182,7 +207,7 @@
 							"created_time": 1613997518,
 							"body_text": "Hi Friends!\n\nIt’s been a wild ride ever since we released the original, non VR, very flat SUPERHOT on February 25th, 2016. 5 years ago. Half a decade.1825 ish days. That’s a hell of a lot of time. Can you believe it? We hardly can. It spawned a franchise that’s still going strong to this day.\n\nSUPERHOT VR was our next title and it turned out to be more fun, more successful, and more amazing than we ever hoped.\n\nOn Quest, we recently hit a couple of incredible SUPERHOT VR milestones. 1 million copies sold and over 10k reviews. We could not be happier and more thankful for the love you have shown us.\n\nTo help celebrate we’re going to be discounting SUPERHOT VR on Quest in the coming days. Tell your friends. Spread the system.\n\nFor the curious, check our out website superhotgame.com if you want to delve into the SUPERHOT story so far.\n\nSincerest thanks once again to all our fans, our players and everyone involved in everything SUPERHOT. You are the best.\n\nAlways and forever, \nSUPERHOT Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974892_902004447281945_780403551230389777_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6pZLoEmYUIsAX_LZ-rB&_nc_ht=scontent.oculuscdn.com&oh=5d908b5cba5efa31d02d572dbf06d013&oe=60A35B1F"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974892_902004447281945_780403551230389777_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6pZLoEmYUIsAX_04dqO&_nc_ht=scontent.oculuscdn.com&oh=6bd6f35edd15cfd4af7c091762eef41f&oe=60A74F9F"
 							}
 						}
 					]
@@ -239,11 +264,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.749845855721,
+			"quality_rating_aggregate": 4.7497138832644,
 			"support_website_url": "https://superhotgame.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 5206,
+				"count": 5209,
 				"orderings": [
 					{
 						"key": "top",
@@ -256,10 +281,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 5206,
+				"count": 5209,
 				"page_info": {
-					"end_cursor": "AQHRMDlElVgMJ-ONWgUWZ21mrxI4_Ngw1QHEu3u8DhfdlCzdePg9bVsQEKo8SkCq70UCUeObsAgXI7JKKLn6L2hU0Q",
-					"start_cursor": "AQHRMDlElVgMJ-ONWgUWZ21mrxI4_Ngw1QHEu3u8DhfdlCzdePg9bVsQEKo8SkCq70UCUeObsAgXI7JKKLn6L2hU0Q"
+					"end_cursor": "AQHRt_Umw_l0L5ud3_bPLA6FsHDyatV55dLZ-kD6p5d5cRBLtM0hRUmqL4ecGDMOaX116YznqteJehUoyl1UYiPlpg",
+					"start_cursor": "AQHRt_Umw_l0L5ud3_bPLA6FsHDyatV55dLZ-kD6p5d5cRBLtM0hRUmqL4ecGDMOaX116YznqteJehUoyl1UYiPlpg"
 				},
 				"edges": [
 					{
@@ -269,13 +294,13 @@
 								"id": "105525594837855",
 								"display_name": "DanielFayeFern",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974684_105526061504475_1455484629251935447_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XBaACbFfIKYAX_ocTai&_nc_ht=scontent.oculuscdn.com&tp=28&oh=01b6e7177fa2cb7252337c54d9b56473&oe=60A32C6B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974684_105526061504475_1455484629251935447_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XBaACbFfIKYAX9uPh_t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9045d932f3fcefc91b3aff26516d5449&oe=60A720EB"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Respectfully. I’ve been diagnosed with Treatment Resistant Depression. I’ve struggled all my life. I’ve thought about suicide and self medicated. \nWith proactivity and the use of mental health professionals, that combination with the VR community has given me a second chance. \nNo\nJoke.\n\nSo respectfully.\nIf you think this game has any semblance to real life. Any suggestive tone not unlike that of metal music “making” people commit the same result. \n\nYou fellows,\n\nHave some serious hang ups. \nI’d strongly suggest you reconsider reviewing this game on that basis. \n\nI’ll go further and say that this is one of my FAVORITE games, like EVER.\n\nSo please don’t bad mouth it because of your hang ups. \n\nTry not to censor your whole life with worries. \n\nGo shoot some anthropomorphic polygons in the shape of sentient beings.\n\nYeesh.\n\nIt’ll make you feel good, and for more of that, do a Tripp session (on the oculus App Store) and get in touch with reality and some inner peace. \n\nTo justify my 5 stars not on the basis of criticism, here goes:\n\nYou use tactics, and strategy, and a lot of yoga exercises to kick major buttoms and feel like a Superman. This game. Rules. My. Life. \nWhen are we getting updates and extra levels? Replay value is amazing!!!",
 							"reviewTitle": "In response to the 1 star reviews",
-							"review_helpful_count": 38,
+							"review_helpful_count": 48,
 							"review_rank_by_viewer": null,
 							"date": 1618266058,
 							"developerResponse": null
@@ -290,7 +315,7 @@
 				"description": "《SUPERHOT VR》 这款主视角射击游戏，打通了小心谋划策略与大胆搏杀进击之间的界限。在游戏中，人前进时，时间才前进。\n\n\n\n“《SUPERHOT VR》让你感到热血沸腾” \n- Polygon\n\n“就像一场美妙的死亡芭蕾” \n- Gamespot\n\n\n赢得了数十项年度虚拟现实游戏大奖，成为了PC和主机的VR游戏典型，《SUPERHOT VR》现已为Oculus Quest精心重制。这是史上最好的《SUPERHOT》了。\n\n没有缆绳，没有限制，没有妥协。\n让系统释放你的自由。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031634_1034680610354985_8151357713603702498_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kKmJAysJNlsAX_Aqkua&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bbb41b4e0aea0e72f3c704d31ff7d1eb&oe=60A2CBF0",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031634_1034680610354985_8151357713603702498_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZdN55610o40AX_NAgaA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97f0d653fbd4536478bc2b02909b9f3b&oe=60A6C070",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

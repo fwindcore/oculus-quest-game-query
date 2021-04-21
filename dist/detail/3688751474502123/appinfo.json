@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982535_264219471758082_997212140826597774_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Qn-iY-wReIAAX8_W1Tn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=de3e641f7da27c623fa946ab6c424882&oe=60A5910F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982535_264219471758082_997212140826597774_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Qn-iY-wReIAAX-zCc1I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ae40d90ec4d73e0f0d22a5eebebc213b&oe=60A5910F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974634_1946109205540288_3562904148340630264_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Hs7qN5X08owAX-D4HXl&_nc_ht=scontent.oculuscdn.com&oh=06e9c459c599daf0d9092b0a67d0a464&oe=60A5B67D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974634_1946109205540288_3562904148340630264_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=gRB23NHLxVsAX965V2-&_nc_ht=scontent.oculuscdn.com&oh=78c3b37c6afa35dbda86252fa3a5b562&oe=60A5B67D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 168,
+					"count": 169,
 					"starRating": 5
 				}
 			],
@@ -89,15 +89,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.0.10",
-				"change_log": "- Added support for left handed controls (swaps controls between left and right hands)\n- Fixed locked doors that were already open sometimes becoming permanently closed with the key in the lock after saving the game\n- Fixed Lightning Gun's pump lever sometimes losing the hand interaction\n- Fixed reaching out behind shoulder causing the direction of walk to reverse in smooth locomotion\n- Fixed particle effects when using the teleporter with some enemies\n- Fixed interaction detection for the escape shuttle's lever\n- Fixed health indicator not refreshing after loading a saved game\n- Fixed player being able to close doors while enemies were already crossing through them\n- Fixed creatures sometimes spawning on top of the escape shuttle\n- Fixed Crawlers being able to jump on to the forcefields covering hull breaches\n- Fixed grenades causing other explosive items to detonate even through doors\n- Fixed players falling into infinity if their headset went too out of bounds in the Intro scene\n- Other minor fixes and improvements",
+				"version": "1.0.0.12",
+				"change_log": "- Railgun: Increased damage multiplier for charged shots, reduced required time and ammo to charge a shot\n- EMP grenade: Added damage to drones\n- Teleporter grenade: Increased detection range when thrown at enemies\n- Enemies can now be distracted by loud sounds also when actively chasing the player, as long as they haven't just seen you\n- Fixed enemies sometimes spawning in invalid positions\n- Fixed enemies being able to sometimes cross closed doors after a game load\n- Fixed creatures not always disappearing when killed in a lit room\n- Fixed drone spotlights remaining active after destruction\n- Fixed lightning gun's sound getting stuck in a loop\n- Added tentative fixes for some hard to reproduce issues\n- Other fixes and improvements",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "773826477",
-				"id": "4039623532748247",
-				"required_space_adjusted": "1447085216",
+				"total_installed_space": "773810235",
+				"id": "4077839155593351",
+				"required_space_adjusted": "1447008974",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -142,7 +142,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4039623532748247"
+					"id": "4077839155593351"
 				}
 			},
 			"release_channels": {
@@ -153,8 +153,8 @@
 						"id": "376385766985122",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.0.10",
-							"id": "4039623532748247"
+							"version": "1.0.0.12",
+							"id": "4077839155593351"
 						}
 					},
 					{
@@ -162,8 +162,8 @@
 						"id": "138833251427062",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.0.9",
-							"id": "4013595172017750"
+							"version": "1.0.0.10",
+							"id": "4039623532748247"
 						}
 					}
 				]
@@ -228,11 +228,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5175438596491,
+			"quality_rating_aggregate": 4.5196506550218,
 			"support_website_url": "http://www.cosmodread.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 125,
+				"count": 127,
 				"orderings": [
 					{
 						"key": "top",
@@ -245,10 +245,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 125,
+				"count": 127,
 				"page_info": {
-					"end_cursor": "AQHRsa9MWVQzUD6GzN5X5e9bUO96SHG4PYoJOeogMpuOKPrS591hjdr4c6GshRu9splfbC7ecX9-IF4Cel2N84VtJQ",
-					"start_cursor": "AQHRsa9MWVQzUD6GzN5X5e9bUO96SHG4PYoJOeogMpuOKPrS591hjdr4c6GshRu9splfbC7ecX9-IF4Cel2N84VtJQ"
+					"end_cursor": "AQHRye6xeYGqWcqoQkfdQSLJAbSre7WjEkTbmPfYeTKB8HEDUONaR9gcXHkdWD0Wmwu6eXwQHpx0HcLPF9cYBhfaIQ",
+					"start_cursor": "AQHRye6xeYGqWcqoQkfdQSLJAbSre7WjEkTbmPfYeTKB8HEDUONaR9gcXHkdWD0Wmwu6eXwQHpx0HcLPF9cYBhfaIQ"
 				},
 				"edges": [
 					{
@@ -258,13 +258,13 @@
 								"id": "1279762762151535",
 								"display_name": "VRReviews",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.598.598a/s160x160/38974675_3828235460637573_6521363659750111882_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yYpA4yXBZQQAX-nJHxB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e160f23199812c2e1dafa5d78a5d6307&oe=60A52100"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.598.598a/s160x160/38974675_3828235460637573_6521363659750111882_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yYpA4yXBZQQAX__aYfE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3c10519678943cce3d1cc4b8dce080f1&oe=60A52100"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "See the full video review here: https://youtu.be/md59Agdnh5I\n\nCosmodread is possibly the best survival horror game you can get for your Quest right now. In this game you’re a cosmonaut trapped aboard a dying spaceship filled with horrors and your mission is to get back to earth. \n\nThe tense, horror atmosphere is amazing, and the gameplay is both engaging and addictive. The visuals are decent, and I love the retro look that the spaceship has which reminds me of a sci fi program from the 60s/70s.\n\nAmmo is scarce so in addition to weapons, grenades and traps, you will need to hide, run and throw things to distract enemies long enough to get by. The game is well balanced, you always feel like the odds are stacked against you as you scavenge items from the ship to stay alive, but it never gets impossibly difficult or unfair. \n\nTechnically you could complete all objectives on the ship in about 2 hours but it’s very unlikely you will do this on your first go. Realistically you are looking at a few attempts. It took me about 4-5 hours to get through one playthrough and even then there’s a ton of replay value here as the environments are procedurally generated so each time you play, the ship layout and monster/item placement changes up. There are also modifiers you can turn on which change the gameplay (e.g. more monsters, no guns).\n\nFor me, this is a must have title and for $15 is worth every cent.",
 							"reviewTitle": "A MUST HAVE GAME!",
-							"review_helpful_count": 144,
+							"review_helpful_count": 146,
 							"review_rank_by_viewer": null,
 							"date": 1616692325,
 							"developerResponse": null
@@ -279,7 +279,7 @@
 				"description": "Cosmodread is a VR survival horror roguelike about escaping a dying spaceship filled with nightmares. Stranded in a hostile universe, you must explore, survive, and find your way back to the safety of Earth.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86662329_1367187890295422_7273309200526519194_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5qfp1DMl0eEAX8RZPR4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1ebb6229f4e718ced452bf849bca544d&oe=60A42F25",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/86662329_1367187890295422_7273309200526519194_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5qfp1DMl0eEAX9Tdwue&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8a71cf3862eda733090cefc4afa76e99&oe=60A42F25",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

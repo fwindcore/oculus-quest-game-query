@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75462207_229767481553851_4477259868549414912_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-IBq5b27eGkAX9M3Yd3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcda907f0cfde8cfa0249b9044115cd2&oe=60A4922A"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75462207_229767481553851_4477259868549414912_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-IBq5b27eGkAX8QkEjm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd4ad860de931102b44c7a4310fe0184&oe=60A4922A"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75622018_246151386400290_3950220037905711104_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wYLQOF_aQqkAX-SJkY_&_nc_ht=scontent.oculuscdn.com&oh=e965ef4778732b2b0f2f12a0739dceb6&oe=60A2ABFC"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75622018_246151386400290_3950220037905711104_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wYLQOF_aQqkAX9-LpQB&_nc_ht=scontent.oculuscdn.com&oh=c3127141675965964a0b1988b9a5ea61&oe=60A6A07C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 61,
+					"count": 62,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 442,
+					"count": 443,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 4276,
+					"count": 4279,
 					"starRating": 5
 				}
 			],
@@ -100,17 +100,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "942251462776233",
+				"id": "894798601320553",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "799",
+					"formatted": "$7.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1619074740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -160,7 +165,7 @@
 							"created_time": 1605307639,
 							"body_text": "Our players know that The Thrill of the Fight is a great way to have fun while getting an intense workout at home, but they often ask if there is any way to measure their physical activity while playing. We are excited to share that Oculus is now introducing this functionality with Oculus Move. This is a new platform feature that helps you track calories burned and physically active minutes as you play any game or app, including The Thrill of the Fight. The Oculus team has begun a gradual rollout today, so some Quest and Quest 2 users will already have access! Check your library for the Oculus Move app.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974845_432543434443983_5837061288033805773_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3E1uK1GHqowAX_KV7FC&_nc_ht=scontent.oculuscdn.com&oh=f3462d01ef7cc844d80fada2f007989d&oe=60A46D00"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974845_432543434443983_5837061288033805773_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gqxXs_oGSQcAX9Sf7Xt&_nc_ht=scontent.oculuscdn.com&oh=697e1b800a2ef1b287320807dc7996ab&oe=60A46D00"
 							}
 						}
 					]
@@ -212,16 +217,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "942251462776233"
+				"id": "894798601320553"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8100695865739,
+			"quality_rating_aggregate": 4.8092414639133,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2897,
+				"count": 2899,
 				"orderings": [
 					{
 						"key": "top",
@@ -234,10 +239,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2897,
+				"count": 2899,
 				"page_info": {
-					"end_cursor": "AQHR5CKg55_vLuwfLnOBCMcEIrxEIW-Pu1YplvgHqK5zxvIuACmC94kGZseFscSK70x1yHut_3dCvBw2f4Pkb3WUOQ",
-					"start_cursor": "AQHR5CKg55_vLuwfLnOBCMcEIrxEIW-Pu1YplvgHqK5zxvIuACmC94kGZseFscSK70x1yHut_3dCvBw2f4Pkb3WUOQ"
+					"end_cursor": "AQHR215eAjBzt4Ti2IcZzQlo-a_tl43vI3qceAS-kCm9vxpWKYWblIgHMz5qQXhShh4eHuzxruZpZ9muqtK11O2yfA",
+					"start_cursor": "AQHR215eAjBzt4Ti2IcZzQlo-a_tl43vI3qceAS-kCm9vxpWKYWblIgHMz5qQXhShh4eHuzxruZpZ9muqtK11O2yfA"
 				},
 				"edges": [
 					{
@@ -247,13 +252,13 @@
 								"id": "104444181589838",
 								"display_name": "Skrote",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974631_104444381589818_3004462654889664489_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VtfKNcRCWtwAX8-fLDk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b29d2fd200371ad1d22290071f07a6d1&oe=60A554EB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974631_104444381589818_3004462654889664489_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VtfKNcRCWtwAX-fknM-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=739327b72795e9b8e8f8b38a98cfd26d&oe=60A554EB"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "i'm a 51 year old man (dad bod) looking for a fun way to get some exercise.  this is it.  you will get a great upper body workout and a fantastic cardio experience.  the first time i played it i was so sore......i couldnt play again for 2  more days.  since then, i play almost daily.  the game is realistic.  you dont want to lose the match so you push yourself to keep fighting.  you will be tired and sore but you cant wait to get back in the ring and try it again.  \n\nAs many people my age can testify, the older you get the more aches and pains you experience on a daily basis.  for me it was my lower back.  if i sit on the couch for a while and get up, my lower back would be very tight and i would grunt and groan like an old person tends to do.  since i've been playing this game (3 weeks) my lower back feels great!!  no more tightness, no more grunting and groaning.  \n\nif you're looking for a really fun way to exercise, this is the game for you.  \n\nas a side note, FITXR is also pretty good (exercises your legs more).  i use it as a warm up for Thrill of the Fight.\n\nUPDATE\nthanks for all the thumbs up! i've been steadily using thrill of the fight since feb.  Biggest improvements for me have been a great improvement in my cardiovascular fitness!  i can fight much much longer than in the beginning.  secondly, i've noticed that my shoulders are bigger and more toned.  \nTry setting the length of the rounds to \"infinite\" to see how long it takes to knock out an opponent with no breaks.  great fun, especially if you need a short but tough workout.  this is better than any gym workout i've ever tried.....mostly because it is so much fun.",
 							"reviewTitle": "over 40?  please read",
-							"review_helpful_count": 644,
+							"review_helpful_count": 665,
 							"review_rank_by_viewer": null,
 							"date": 1618769581,
 							"developerResponse": null
@@ -268,7 +273,7 @@
 				"description": "The Thrill of the Fight is a room-scale only VR boxing game focused on authenticity. Face off in the virtual ring where you'll jab, dodge, and sweat your way to the top of the boxing world. Grab your gloves, step through the ropes, and become a champion.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974611_970471976621307_62421362462949376_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QEsdoWOI1S8AX_92ZkM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2e2096300338b968f5c344ae2f82deca&oe=60A5B92F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974611_970471976621307_62421362462949376_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QEsdoWOI1S8AX_I8Bc3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46c60b7e7631a26f0653942003531724&oe=60A5B92F",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

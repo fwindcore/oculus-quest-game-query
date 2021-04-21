@@ -36,7 +36,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2515,
+					"count": 2516,
 					"starRating": 5
 				}
 			],
@@ -112,17 +112,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "389959558270381",
+				"id": "480431079813757",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "1949",
+					"formatted": "$19.49"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99",
+					"offset": 100
+				},
+				"promo_benefit": "-35%",
+				"end_time": 1619074740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -205,16 +210,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "389959558270381"
+				"id": "480431079813757"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5383518676932,
+			"quality_rating_aggregate": 4.5384834663626,
 			"support_website_url": "https://driftervr.atlassian.net/servicedesk/customer/portal/1",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1622,
+				"count": 1623,
 				"orderings": [
 					{
 						"key": "top",
@@ -227,10 +232,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1622,
+				"count": 1623,
 				"page_info": {
-					"end_cursor": "AQHRFgWyYOlb_RMZMCsxMGYtbfQ6eI4J99VCQt9w608EgwTJ8tZww_68yExaO_rr1yK-rytMslJBkQrvL4nJ7gWilw",
-					"start_cursor": "AQHRFgWyYOlb_RMZMCsxMGYtbfQ6eI4J99VCQt9w608EgwTJ8tZww_68yExaO_rr1yK-rytMslJBkQrvL4nJ7gWilw"
+					"end_cursor": "AQHRV5mH6BDKUx4ViT9b7_b2I1W_yEGnRecfwavF7ZdU_r51EVmF3r6e-NJl3JADnUMpwPjMwblE7mZK7IYR-XyoNg",
+					"start_cursor": "AQHRV5mH6BDKUx4ViT9b7_b2I1W_yEGnRecfwavF7ZdU_r51EVmF3r6e-NJl3JADnUMpwPjMwblE7mZK7IYR-XyoNg"
 				},
 				"edges": [
 					{
@@ -240,13 +245,13 @@
 								"id": "105408861477173",
 								"display_name": "Waffle_Monster1665",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.292.750.750a/s160x160/38982479_117006980317361_6468874903717069776_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OI7av7cLRfkAX9Fux8X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd6ac145cecc40c88e572eccef1f47bc&oe=60A2A0E1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.292.750.750a/s160x160/38982479_117006980317361_6468874903717069776_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OI7av7cLRfkAX-wh86z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=22d29809964f7413693c5e7398706352&oe=60A69561"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game was amazing, but it was really short and I beat it in like 2 hours and got bored of replaying missions, so I had an idea: horde mode that’s customizable! You can choose which bots are allowed and which ones aren’t, and have every weapon available instead of just 2, (laying around the map on tables maybe?) and maybe add grenades or a futuristic bow and arrow to this mode (I love bows in vr, ALOT) and just try to make it feel really free and open. (Select amount of robot waves, how many robots there will be each wave, night and day, different areas of the map, etc.)",
 							"reviewTitle": "Fun, too short. (Devs read) (horde mode)",
-							"review_helpful_count": 125,
+							"review_helpful_count": 129,
 							"review_rank_by_viewer": null,
 							"date": 1616863171,
 							"developerResponse": null
@@ -261,7 +266,7 @@
 				"description": "Robo Recall is an action-packed VR first-person shooter with visceral gameplay and an in-depth scoring system. Earn the high score by using creative combat tactics and skill shots as you teleport through city streets and rooftops in an awe-inspiring ballet of bullets. Tear apart your interactive robot foes and use them to fend off the enemy onslaught. Unlock, customize and test weapons before taking on advanced challenges that put your newfound skills to the test!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974471_387441531867602_6352091867248590848_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1kVCtf2g82UAX-f9pZ-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e6fcc8455492d041fafa72bc305627b3&oe=60A24415",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974471_387441531867602_6352091867248590848_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1kVCtf2g82UAX_J8IRS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7c12cc799d4862607a3d45bc01bb33d9&oe=60A63895",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
