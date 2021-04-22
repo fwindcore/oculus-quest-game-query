@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001654_499706961024276_8577671594931469618_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TD8nP0Xodk8AX8-g-tp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5ae3d493de9d920b340b6c6e9e53469f&oe=60A39470"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001654_499706961024276_8577671594931469618_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TD8nP0Xodk8AX84frAf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=79692ede427ae4332cdbd7669984ce0d&oe=60A788F0"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974841_256078615988715_2081387771810249242_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3uM0Umx_5dQAX8kD2Mg&_nc_ht=scontent.oculuscdn.com&oh=8dadfda4e0a4edc3778586814c53fc9b&oe=60A3AE5D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974841_256078615988715_2081387771810249242_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3uM0Umx_5dQAX9-2MnV&_nc_ht=scontent.oculuscdn.com&oh=61a935dc4ee8451a0ef33e3dd80e1a55&oe=60A7A2DD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -112,15 +112,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.2",
+				"version": "1.1.0",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "819693859",
-				"id": "4482329455116140",
-				"required_space_adjusted": "1480657004",
+				"total_installed_space": "819709698",
+				"id": "4544176678931417",
+				"required_space_adjusted": "1480651148",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -154,7 +154,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4482329455116140"
+					"id": "4544176678931417"
 				}
 			},
 			"release_channels": {
@@ -165,8 +165,8 @@
 						"id": "225172548802157",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.2",
-							"id": "4482329455116140"
+							"version": "1.1.0",
+							"id": "4544176678931417"
 						}
 					}
 				]
@@ -184,7 +184,7 @@
 							"created_time": 1618516125,
 							"body_text": "Meditation\nWe've listened to your feedback that the hints in the game could be clearer, so in our previous patches, we made the effort to improve the visual clarity of the Meditation ability. For anyone who isn't sure about what to interact with in a room, or what to pay attention to, activating Meditation by holding down the B or Y button will summon blue streaks of light to help you focus. \n\n\n\nWalkthrough\nWith the Meditation ability, narrative dialogue clues, and your own observation of the environment around you, we have confidence that you can play through Flow Weaver and solve the magical laws of Kelemspar.\n\nWe did not design a hint system in Flow Weaver that would eventually give players the answer since we want you all to feel rewarded and satisfied with solving the challenges on your own.\n\nHowever if you want to verify that what you're doing is on the right track, we created a video walkthrough series you can use as reference.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_876633739563341_229098442715057882_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Pbqe4ccHiGoAX-haUp9&_nc_oc=AQma3jCVxTS3K2jw5ADZiz_iIVi1a1kbtqF9rvQ5QcCTGLjitFkcQLycEHYFXEdLY_4&_nc_ht=scontent.oculuscdn.com&oh=a1dda7fd08b60c70e205cc721c9c0cd0&oe=60A57B50"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_876633739563341_229098442715057882_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Pbqe4ccHiGoAX9wxrCm&_nc_oc=AQkVpRCrnLaJIyUT3hD2KGnf-ocY0w26lt96S8Dss-xIfUFf23D3VpJTlKgQ8FhSR_g&_nc_ht=scontent.oculuscdn.com&oh=e90e34e56cfa7b371821f7b0b219430f&oe=60A57B50"
 							}
 						},
 						{
@@ -193,7 +193,7 @@
 							"created_time": 1617738587,
 							"body_text": "We’ve been working hard on your feedback and addressed issues discovered by some of our players. The most important one of all is that the game SAVES your progress much more often which means almost every completed puzzle will stay solved when you return. This improvement and skipping lines with the left thumbstick will go a long way for players who prefer multiple play sessions.\n\nUpdates in this patch include:\n\n- All Runestones and most placed objects stay in place when loading saved states\n- Player-view will now be re-centered automatically if you have to take a break and remove your headset\n- Runestones can no longer be grabbed a second time after being released in the Material World\n- Commune Spell can no longer be accidentally skipped. Fireflies will now stay visible until the spell is learned\n- Amended order of interactable events in Skybridge. The pink bird will no longer spawn until the player meets the Necromancer in person\n- Purple bauble now stays in Material World where it cannot be destroyed\n\nKnown issues that we have flagged as priorities and are continually working on:\n\n- Acorn resets its growth but works correctly if you only flow between Material World and Feylands.\n- Ectoplasm can separate from the bowl when you reload the game. They go back together again though!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75221326_937333103720508_165917425481416786_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=q2AuRqZWgwQAX_fiJ-p&_nc_ht=scontent.oculuscdn.com&oh=918fca34abe552da10bc873b7788aeb4&oe=60A58943"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75221326_937333103720508_165917425481416786_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=q2AuRqZWgwQAX-S06nv&_nc_ht=scontent.oculuscdn.com&oh=e7c7e74ad4ad9a3145880edd9581cde6&oe=60A58943"
 							}
 						}
 					]
@@ -269,8 +269,8 @@
 			"firstQualityRatings": {
 				"count": 33,
 				"page_info": {
-					"end_cursor": "AQHRE-U4PDolTsfG-lzxMebh5QUt-ErYbqJi0oWn0XUpFcbkiraq3y6EqZpKcDCPe4BmsDYnIOvRnH6tZRXrgKAXew",
-					"start_cursor": "AQHRE-U4PDolTsfG-lzxMebh5QUt-ErYbqJi0oWn0XUpFcbkiraq3y6EqZpKcDCPe4BmsDYnIOvRnH6tZRXrgKAXew"
+					"end_cursor": "AQHRzcL0Bj4Asz0g0tEEWUsLkhAvnypImYgK6vAbm_xTM_PF6Zd5Sf8PL4FAM79mlbA3SZDbm_HbmwXNyfgxUCLKEw",
+					"start_cursor": "AQHRzcL0Bj4Asz0g0tEEWUsLkhAvnypImYgK6vAbm_xTM_PF6Zd5Sf8PL4FAM79mlbA3SZDbm_HbmwXNyfgxUCLKEw"
 				},
 				"edges": [
 					{
@@ -280,13 +280,13 @@
 								"id": "104574881632999",
 								"display_name": "marshmellodragon",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974497_104575151632972_3931625143390736445_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=k2H_H68BhVwAX_J3hpp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0bf7a310ec85f39816b698422984909f&oe=60A57A0A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974497_104575151632972_3931625143390736445_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=k2H_H68BhVwAX_JZqOd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1c1a5a6af8f9091357d6163a49fe1a16&oe=60A57A0A"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Love the idea of fantasy-themed escape room puzzles, but some of these challenging puzzles demand you to think outside the box to solve them. There were few moments where I wished to have gotten more clues for the puzzles. Frankly, the puzzles test your patience and cause some frustration, but the seated experience makes it a bit better to think through them. \nThe visuals are beautifully designed and the flows are atmospheric especially the Skybridge. Enjoyed the entire gameplay which took me approximately 3-4 hours to solve. There are some bugs in between, but it resolves when you start the game again.\nOverall, the game demands a lot of thinking to solve the puzzles which I totally loved. The visuals are compelling. Would have given a 5 star if there were more clues to solve the puzzles. \nBut if you seek a challenge, definitely try this one. It's worth the price.",
 							"reviewTitle": "Amazing visuals with challenging puzzles",
-							"review_helpful_count": 50,
+							"review_helpful_count": 51,
 							"review_rank_by_viewer": null,
 							"date": 1615572344,
 							"developerResponse": null
@@ -301,7 +301,7 @@
 				"description": "You are trapped. Bound by magic by unknown captors. But you are a Flow Weaver and can move between dimensions. Travel amongst them, learn new spells, and uncover the secrets of this strange world to orchestrate your escape.\n\nFlow Weaver is a narrative escape room game. The player explores and experiments with their environment, moving between different magical dimensions to solve intuitive puzzles towards the goal of escape.\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001728_269710267923355_1379448384128825476_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3vGbxzI3zpgAX82fF7l&_nc_ht=scontent.oculuscdn.com&tp=28&oh=264bb429ea453171979213aa427fefa9&oe=60A5C742",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001728_269710267923355_1379448384128825476_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3vGbxzI3zpgAX-wFQtP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=41d2aa89f937bc7efa2a4493bcb89f59&oe=60A5C742",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qzOSWpcAv8oAX8DmxHG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4076102985696e35293df76179bd0f25&oe=60A6C058"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qzOSWpcAv8oAX-ivwMX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f7f3b126a7927a627ffd8e14e2b0b18f&oe=60A6C058"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=qN1AuAfJ_iAAX-uzVql&_nc_ht=scontent.oculuscdn.com&oh=2ebd3af58b7a3684b8316e0ab11e21f1&oe=60A6D2FA"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=qN1AuAfJ_iAAX9Q75ba&_nc_ht=scontent.oculuscdn.com&oh=4f84ef44f0299e7bc2ad5eeb71eaabaf&oe=60A6D2FA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 638,
+					"count": 640,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 406,
+					"count": 407,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 1066,
+					"count": 1067,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 7832,
+					"count": 7847,
 					"starRating": 5
 				}
 			],
@@ -83,15 +83,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "20210408",
-				"change_log": "",
+				"version": "20210414",
+				"change_log": "Rec Room UPDATE - the \"First Impressions\" edition\n\n## Dear Creators, Introducing... the (Beta) Mirror prop!\n\n- The dorm room mirror you know and love has been repackaged as the Mirror prop with a minimal, recolorable frame and configurable physics modes.\n- All mirrors (the Mirror prop, the dorm room & rec center mirrors, etc.) are now fully supported on Oculus Quest. No more solid color background!\n\nhttps://imgur.com/a/X5l5Rax\n\nPlease note that to make the Mirror prop possible, we've had to put some protections in place:\n\n- Why? Mirrors are quite costly in terms of performance. There's no way around this.\n- While the mirror is in beta, its ink cost is slightly over 50%. We will reassess ink cost when it comes out of beta.\n- There can only be 1 mirror per room. E.g. if you can't spawn a Mirror in your dorm since there's already a mirror there!\n- Reminder that to use a beta prop, you must enable beta content in your room settings.\n\n## General Improvements\n\n- Fix Anonymous cheers showing the sender\n- Add an auto message to the trolling report category for \"Art griefing\"\n- Add a profile button to portfolio page\n\n## Beta Content Changes\n\n- The multiple In and Out chips inside of other chips have been changed into single In and Out busses.\n- Recently used chips will now sort closer to the top of palette search.\n- Most events in objects now run for everyone. Filter chips have been added after the events to try to pick a best player to run for.\n- Type name billboarding has been improved on both VR and screens. The billboards are a more suitable size for screens. The billboards no longer rotate with your head or move around as much while moving your head in VR.\n- Log string channel configurations now sync correctly\n- Some exceptions are fixed on the CV2 palette page\n- Some exceptions are fixed with the Player Get Equipped Objects chip\n- Player Reference Boards are no longer be left behind in rooms when players leave\n- Toggle Button V2 has correct Pressed and Released data for all players.\n- Ports on the Delay chip have been arranged into the correct order.\n- Control Panels can now be deleted if their objects are also being deleted.\n- Dice Get Result now returns a bool.\n- Piston V2 and Rotator V2 now have tags.\n- Chip previews now always have the correct name\n- Some edge cases encountered when undoing deletion or addition of chips have been fixed\n- Chips no longer accidentally end up inside/outside of other chips during undo\n- Undoing deletion/addition of objects with control panels is more stable\n- Event definitions no longer disappear sometimes when inside of circuit boards or control panels\n- New Chips: If Local Player Should Run\n- Deprecated Chips: Instance AI, Instance Bool, Instance Combatant, Instance Creation Object\n\nInstance Float, Instance Int, Instance List<bool>, Instance List<CreationObject>, Instance List<Float>, Instance List<Int>, Instance List<Player>, Instance List<String>, Instance List<Vector3>, Instance Player, Instance String, Instance Vector3, Synced AI, Synced Bool, Synced Combatant, Synced CreationObject, Synced Float, Synced Int, Synced Player, Synced String, Synced Vector3, Set Value, Value Changed\n\n- The following chips have had CPU heat raised beyond the default: Button Set Text, Creation Object Add Tags, Creation Object Get All With Tag, Creation Object Get Tags, Creation Object Remove Tags, Delay, Event Receiver, Event Sender, For Each, For, Get All Players, List Add\n\nList Concat, List Insert, Remove At, List Remove Last, Log String, Make List, Parse Bool, Parse Float, Parse Int, Player Add Role, Player Remove Role, Prompt Local Player, Reset Object\nReset Room, Show Notification, String Format, Substring, Text Set Text, Trigger Volume Get Filter Tags, Trigger Volume Set Filter Tags, Trigger Volume Get Objects, Trigger Volume Get Player, To String\n\n- The following chips have had net raised heat beyond the default: Creation Object Add Tags, Creation Object Remove Tags, Player Add Role, Player Remove Role, Reset Object, Reset Room\n\nBreaking Changes\n\n- The exec port has been removed from Get All Players.\n- Rand Int chip is now inclusive.\n- SFX V2 now plays for everyone by default but has an option to disable synchronization.\n\nMarkers on Piston V2 and Rotator V2 also fire events for everyone by default but have an option to disable synchronization.\n\n- Piston V2, Rotator V2, and SFX V2 can now be played by anyone and networking will be done automatically.\n- Networked operations now expend additional network heat.\n- RPCs (some object chips) and synced events are now limited at 5-per frame.\n- You can find a new RPC meter in the CV2 page of the palette.\n- Impulse and reset chips are now networked automatically.\n- All chips with exec ports now expend additional CPU heat.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1259265384",
-				"id": "3995258313853638",
-				"required_space_adjusted": "2055312496",
+				"total_installed_space": "1261146590",
+				"id": "4013496385363164",
+				"required_space_adjusted": "2053144196",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -129,7 +129,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3995258313853638"
+					"id": "4013496385363164"
 				}
 			},
 			"release_channels": {
@@ -140,8 +140,8 @@
 						"id": "2159376657710378",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "20210408",
-							"id": "3995258313853638"
+							"version": "20210414",
+							"id": "4013496385363164"
 						}
 					}
 				]
@@ -157,7 +157,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRNz4mI1wG_y7MR1WS2TRciI8xLJJVOA50Es0fvs79fIb_46Wf2uM4-eHvTS0mc0VAsUW6BqURfuLFn_Lb8xZJ0w"
+							"cursor": "AQHREtUL0FVS9__D8s3jrA6QbT0U_tgG4uK9O4Sv8TSPGw0ZST5VrHx51p1gxpmu1FrH_mLE8GLhAsDMbgN9UY_Q9g"
 						}
 					]
 				}
@@ -204,11 +204,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.51171990901,
+			"quality_rating_aggregate": 4.511549851925,
 			"support_website_url": "https://recroom.happyfox.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2093,
+				"count": 2102,
 				"orderings": [
 					{
 						"key": "top",
@@ -221,10 +221,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2093,
+				"count": 2102,
 				"page_info": {
-					"end_cursor": "AQHRhOlkpB7EDVtwEKKSONRMJkjliB1q6OXtk47h8cEFNenAuN0-YDDP-Y5JikkqRwCbsiFruOP2fL9El-01ElA-dA",
-					"start_cursor": "AQHRhOlkpB7EDVtwEKKSONRMJkjliB1q6OXtk47h8cEFNenAuN0-YDDP-Y5JikkqRwCbsiFruOP2fL9El-01ElA-dA"
+					"end_cursor": "AQHR8XOBrOicjBgVMHXWCXQsxPhuV1c5IaSjSZLf1T1XXWB8_RSJjItvIDuODiKACmvgL8uCGEwiZ8wFwiC1Bi8YIw",
+					"start_cursor": "AQHR8XOBrOicjBgVMHXWCXQsxPhuV1c5IaSjSZLf1T1XXWB8_RSJjItvIDuODiKACmvgL8uCGEwiZ8wFwiC1Bi8YIw"
 				},
 				"edges": [
 					{
@@ -234,13 +234,13 @@
 								"id": "877980645721707",
 								"display_name": "Wuffles_in_Blue",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jLbie77TZcAAX9B4wcx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fd88c91e881986ede80c1b93a4576d8a&oe=60A460EB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jLbie77TZcAAX9ylbSX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=07cb0e99a81234d593027f4aaa81fd4e&oe=60A8556B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "______________________________________________\n\nI suppose that yes, there are toxic kids, racist kids, or just straight up garbage kids. It comes with the Voice Chat. Roblox has the SAME kids, just... no mic! If you are looking for a child friendly, completely fun and games and happiness, this is not the game for you. This game is for people who enjoy having social experiences with amazing people who are supportive, and can deal with the occasional (mostly occasional) kids who don’t want you to have fun. \n\nPAY ATTENTION TO THIS: \n\nRec Room is not a game for the easily offended. It’s not a game for your precious child who you want to keep pure until they are teenagers. This IS a game for people looking for new experiences and are able to deal with the jerks and toxic kids in exchange for finding friends, having fun, and playing games.\n\nTo be honest, this game is my favorite game in Vr, and I am used to the good and bad. Ultimately you should get this game to play with friends, meet new ones, and to become more knowledgeable in what VR can be.\n\n______________________________________________",
 							"reviewTitle": "Not bad, just too much exposure",
-							"review_helpful_count": 241,
+							"review_helpful_count": 260,
 							"review_rank_by_viewer": null,
 							"date": 1616350220,
 							"developerResponse": null
@@ -255,7 +255,7 @@
 				"description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game! Rec Room is a fun and welcoming place for people from all walks of life. Let us help you find people you’ll LOVE to hang out with. Join the club!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JC2ELNQJdcYAX97Jmd6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b118179399171ec0ba47cd8098083134&oe=60A6D881",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Lxeb1aAF1KgAX9BBkgj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c609bef7b819f16cc03a34037a56a99c&oe=60A6D881",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

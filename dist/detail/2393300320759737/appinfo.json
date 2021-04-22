@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031380_655254825111237_3036320405013854709_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2FIqqk9KHnwAX-gsKXj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1ce5eef2890509e367e72b833b28dae5&oe=60A6630F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031380_655254825111237_3036320405013854709_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2FIqqk9KHnwAX-xhxlp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=faccc3ca7436311d16a32ffd05d4ecfe&oe=60A6630F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_703282776890179_5097903983525259526_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=pTIxHhfJA2YAX9Dh9J-&_nc_ht=scontent.oculuscdn.com&oh=63d587137fce184bdc94f7098023a6fe&oe=60A4F9E8"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_703282776890179_5097903983525259526_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=pTIxHhfJA2YAX8JfYL9&_nc_ht=scontent.oculuscdn.com&oh=8f103645455aa167595c6f9c504105e4&oe=60A4F9E8"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 49,
+					"count": 50,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1644,
+					"count": 1649,
 					"starRating": 5
 				}
 			],
@@ -135,22 +135,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "890991361633065",
+				"id": "437820983551261",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-33%",
-				"end_time": 1619074740,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -191,7 +186,7 @@
 							"created_time": 1605812957,
 							"body_text": "Introducing experimental Hand Tracking for Vacation Simulator! Explore and interact with all Bots and activities that Vacation Island has to offer by using your very own HUMAN hands. Enjoy this new way to play, available now on Oculus Quest and Quest 2.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289915_864596891016688_1323156085301927944_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MotKnNTRm48AX_sJTQU&_nc_ht=scontent.oculuscdn.com&oh=6873aad2bb2bcd368e1e42d5ed25bcca&oe=60A5DF8A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289915_864596891016688_1323156085301927944_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AO0T5ZOvYA8AX937y8Q&_nc_ht=scontent.oculuscdn.com&oh=b39a3d9d241e4c5b0522301489b5f7d4&oe=60A5DF8A"
 							}
 						},
 						{
@@ -200,7 +195,7 @@
 							"created_time": 1599085278,
 							"body_text": "Human, are you ready to gig? Become your own BossBot and provide 5-star service in our new free DLC, Vacation Simulator: Back to Job. As a Giglr Independent Contractor run the Vacation Island Poolside Cabana with GigBot at your side! Enjoy endless tasks with Infinite Mode as you cook, entertain, advise, and do whatever it takes to help bots experience [MAXIMUM RELAXATION].",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75375772_338314347519677_8030192326765056404_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Z_wOW6KxMFkAX_KfwNt&_nc_ht=scontent.oculuscdn.com&oh=6a0060e1300b54690030943dbc20607e&oe=60A6B7D1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75375772_338314347519677_8030192326765056404_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Z_wOW6KxMFkAX9Zx4qM&_nc_ht=scontent.oculuscdn.com&oh=06738c456c482eec537de7e8583f6554&oe=60A6B7D1"
 							}
 						}
 					]
@@ -256,16 +251,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "890991361633065"
+				"id": "437820983551261"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7191991786448,
+			"quality_rating_aggregate": 4.7180143295803,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1005,
+				"count": 1009,
 				"orderings": [
 					{
 						"key": "top",
@@ -278,10 +273,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1005,
+				"count": 1009,
 				"page_info": {
-					"end_cursor": "AQHRONb1jmCSKVNZOqzda9XLkfOoWpjwgBexDYsoAKJKyHSpiznBeF5nCC8Vdq9H8x7d4kWT0yRkyic5KUAPgligsA",
-					"start_cursor": "AQHRONb1jmCSKVNZOqzda9XLkfOoWpjwgBexDYsoAKJKyHSpiznBeF5nCC8Vdq9H8x7d4kWT0yRkyic5KUAPgligsA"
+					"end_cursor": "AQHRePYX6t_Wqe3KQhtIiKvqqQISu8_vegVhAEdmxWj5Vc3eytCraqP7Qm-6GWXk_gMm6x3FBon4TXCfFOJb7r9EAw",
+					"start_cursor": "AQHRePYX6t_Wqe3KQhtIiKvqqQISu8_vegVhAEdmxWj5Vc3eytCraqP7Qm-6GWXk_gMm6x3FBon4TXCfFOJb7r9EAw"
 				},
 				"edges": [
 					{
@@ -291,13 +286,13 @@
 								"id": "111814927663003",
 								"display_name": "Blake0508",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974853_111815217662974_5046395490625198532_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=27NT9RhYX8oAX_XWXQ9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0de1d8e1687dffeb17fb6948c56d808e&oe=60A4981A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974853_111815217662974_5046395490625198532_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=27NT9RhYX8oAX-ex91Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=733c64036f3573e6211b2c63c2a9a756&oe=60A88C9A"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Vacation Simulator is worth every penny. Here are some reasons why.\n\n#1 There are so many orders to cook, and you can get memories for cooking too.\n\n#2 There are a lot of fun memories to find like the dive site and the geyser.\n\n#3 There are a few memories that you can get by taking pictures.",
 							"reviewTitle": "READ BEFORE BUYING",
-							"review_helpful_count": 117,
+							"review_helpful_count": 152,
 							"review_rank_by_viewer": null,
 							"date": 1616892529,
 							"developerResponse": null
@@ -312,7 +307,7 @@
 				"description": "欢迎来到《度假模拟器》！不用工作的你，可以跟随《工作模拟器》中的机器人管家，去体验轻松愉悦的假日时光。放下忙碌工作，准备好玩水放松，品尝水果点心，再给自己来一张轻松愉快的自拍",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974845_900766680328547_2209783432073304195_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7_QWzsfCP6EAX9mEzzl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b5c6be475310a47a61b7416961812e73&oe=60A60408",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974845_900766680328547_2209783432073304195_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ygJbqIw1dpoAX_RQzee&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e3f4bf5094183ba5f01a24abbfac204&oe=60A60408",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

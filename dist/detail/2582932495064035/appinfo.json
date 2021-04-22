@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75395602_501972817635218_919121087840147846_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zDvLLOTeH1gAX-iSKs4&_nc_oc=AQlDeXJ8LDnVNEm6ERpQPoMLT8EWgOJHzONVY9wIHX98xa7_KK-U32ayjqqrPvGhAcg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b932229603f3b83921e3efe02205537d&oe=60A3814F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75395602_501972817635218_919121087840147846_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zDvLLOTeH1gAX9xFnz2&_nc_oc=AQkO5NM9b4UXCPxZNb6sSJT5gyuEmig_laizMEKj5mVhYyoZyo7T0s-q1q2QCCOew5I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4af3ce7566a35892675cc5e7f9a78669&oe=60A775CF"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75330717_214346480480199_4792111640401160941_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=UfJ8QhWufZkAX8Ef6ji&_nc_ht=scontent.oculuscdn.com&oh=40a192a197ec08f5702e8d1bef65a3b8&oe=60A4A1F6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75330717_214346480480199_4792111640401160941_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=UfJ8QhWufZkAX_w-Gjg&_nc_ht=scontent.oculuscdn.com&oh=1828b63a532e55a454027d278a0ee0b5&oe=60A89676"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 58,
+					"count": 74,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 25,
+					"count": 27,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 70,
+					"count": 72,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 292,
+					"count": 294,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2046,
+					"count": 2072,
 					"starRating": 5
 				}
 			],
@@ -98,15 +98,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.516",
-				"change_log": "*Increase in the stability of the game\n*Fixed the autosave issue",
+				"version": "1.518",
+				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1016166882",
-				"id": "4195606887129913",
-				"required_space_adjusted": "1413747042",
+				"total_installed_space": "1016586857",
+				"id": "4231607360196532",
+				"required_space_adjusted": "1414586338",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -119,22 +119,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "354736582581491",
+				"id": "422696078367894",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-35%",
-				"end_time": 1619074740,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -145,7 +140,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4195606887129913"
+					"id": "4231607360196532"
 				}
 			},
 			"release_channels": {
@@ -156,8 +151,8 @@
 						"id": "2663787176993925",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.516",
-							"id": "4195606887129913"
+							"version": "1.518",
+							"id": "4231607360196532"
 						}
 					}
 				]
@@ -217,16 +212,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "354736582581491"
+				"id": "422696078367894"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7033319951827,
+			"quality_rating_aggregate": 4.6790074832611,
 			"support_website_url": "https://www.realvrfishing.com/contact-us/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1385,
+				"count": 1410,
 				"orderings": [
 					{
 						"key": "top",
@@ -239,10 +234,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1385,
+				"count": 1410,
 				"page_info": {
-					"end_cursor": "AQHRs3X0dY8vXILvJAMgO4D_NrFhwEwsqj9XvYZ5KlWQMuwn_rctIaS9SMCVY05BmRn9kR3exYbVhpWx40TB3127ug",
-					"start_cursor": "AQHRs3X0dY8vXILvJAMgO4D_NrFhwEwsqj9XvYZ5KlWQMuwn_rctIaS9SMCVY05BmRn9kR3exYbVhpWx40TB3127ug"
+					"end_cursor": "AQHR8TW3oAdljKiYclri0b7zbnMWoh03Nr-OAUqpFkW0kIe75KuPXzg3Op1N3fXqxZr8dkAS1SGUV6Tzy7ztWA2Iww",
+					"start_cursor": "AQHR8TW3oAdljKiYclri0b7zbnMWoh03Nr-OAUqpFkW0kIe75KuPXzg3Op1N3fXqxZr8dkAS1SGUV6Tzy7ztWA2Iww"
 				},
 				"edges": [
 					{
@@ -252,13 +247,13 @@
 								"id": "256531228131380",
 								"display_name": "michaeljones161",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.54.1015.1015a/s160x160/38974796_933088273809002_5987366920964276224_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mfKl0AfIhiMAX9l1GWB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f1a67fd204ab168fff1880876e0a3a25&oe=60A7586C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.54.1015.1015a/s160x160/38974796_933088273809002_5987366920964276224_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SQQeJlGm-o0AX-pr7b6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=83a84ca8990e589cead9d37436521cc0&oe=60A7586C"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "TLDR - Amazing game! I love it! Can we have something to sit on please?\n\nI am a big fan of this game.  I won't repeat all the praise it deservedly receives except to say I love everything about it - except for one thing!\n\nI am in my 60's with a dodgy knee. I can't stand for too long. I like games where you can play sitting down - which is one of the reasons I love Real VR Fishing. However, apart from a few of the boats, there is nowhere to sit!\n\nIt would be great if the next update included a stool or chair to sit on. When I'm on the kayak (for example), I put my real chair where the kayak seat is in-game and I can sit down comfortably. Some of the other boats have a bench or seat to sit on, and I move my chair around to match the position and adjust my height so it looks and feels  like I'm sitting on the seat - and if I get up for some reason, I can see in-game where to sit down again.\n\nIt would be great if (1) resetting the view would automatically put the player in the right place to sit down on the in-game bench or seat and (2) where there is no in-game seat (like on river banks or shores - or some boats), the player could select a stool or camp seat  which would appear under the headset as the player is sitting down.\n\nStools or chairs could be added as collectible items with a basic one at the start and fancier ones to earn or buy. It would give players something else to spend their cash on.\n\nPlease let me sit on something! Please!",
 							"reviewTitle": "Love this game! But let me sit down  : )",
-							"review_helpful_count": 218,
+							"review_helpful_count": 267,
 							"review_rank_by_viewer": null,
 							"date": 1614079542,
 							"developerResponse": {
@@ -277,7 +272,7 @@
 				"description": "Let’s dive in and explore the world of fishing or just sit back and relax in a mesmerizing scenery together.\nReal VR Fishing invites you to the incredible real-world fishing spots to feel the taste of fishing in the Multiplayer mode or to relax and enjoy the stillness in the Single-play mode. ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210391_280527946913433_5173349065334099883_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=umycJaenJGgAX9rcgPq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=274c93b38ab2fa3726b712879db5bace&oe=60A3C35F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210391_280527946913433_5173349065334099883_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=z9lxm7Qt92IAX8_8h9B&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e64be00beb7e7d570ad6ef7f65cc1754&oe=60A7B7DF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

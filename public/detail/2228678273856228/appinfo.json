@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974603_1240628822791920_5956410888343781376_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=z9BPn_BdFooAX9WKNLA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=97cdd9b5bf7eabb9b5f7f1a25a8527f6&oe=60A54B3E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974603_1240628822791920_5956410888343781376_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=z9BPn_BdFooAX-o7AfX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6ed554eac7a95b199ed28280e20a554f&oe=60A54B3E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1240628392791963_2019644126823186432_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=koqjJyDoGtoAX9f7jBT&_nc_ht=scontent.oculuscdn.com&oh=15ec3e84a428a5677e856a542491978f&oe=60A76BD6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1240628392791963_2019644126823186432_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=koqjJyDoGtoAX8CEc6c&_nc_ht=scontent.oculuscdn.com&oh=b5ec8e2072f651e2e92e503f4c4f268c&oe=60A76BD6"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1320,
+					"count": 1321,
 					"starRating": 5
 				}
 			],
@@ -168,7 +168,7 @@
 							"created_time": 1616324233,
 							"body_text": "We're excited to reveal Espire 1.8 \"Spectre\" - our 8th major content update since the game first launched. This free update adds 2 new challenges to Espire 1: VR Operative, both built around the \"Militaris\" environment. Players that complete the SMG and Shotgun weapon challenges can now also use the Spectre silenced SMG and Sawn Off Shotgun in the Espire 1 campaign.\n\nThis update also includes a host of fixes including and quality of life improvements. \nWe’ve fixed the 2 major issues that were causing the game to crash. We've also addressed the top 5 user reported bugs on our Discord, all centred around achievements and Espire trials.\n\nEnjoy Espire 1.8\nWe hope you enjoy the Spectre update. Thanks to all that have supported the game! We welcome any suggestions and ideas for future updates in our discord - https://Discord.gg/Espire1\n\nFull Release Notes\nEspire 1 v1.8 \"Spectre\" update. Full Release Notes for build 1.8.47:\n\nNew Features\n- 2 new virtual challenges added to the game: 1) Furcata Hostage Rescue challenge 2) Mangua Takedown challenge\n- New Weapons: Spectre SMG + Sawn off Shotgun are now playable in the campaign\n- If players complete all of the SMG weapon challenges + all of the Sawn-Off shotgun weapon challenges, these 2 guns will be unlocked for the campaign.\n- Players will find the weapons sitting on a weapon rack close to the starting point for each mission.\n- These weapons are only available when playing a campaign mission on the Espire Agent (Normal) difficulty level\n- Updated the \"All weapons\" cheat to include the Spectre SMG and Sawn-off shotgun\n\nUI Updates\n- New \"Latest News\" UI panel added to the main menu to highlight new content to players. This will be updated with every feature update going forward.\n- The game’s end-credits have been updated to credit the team members and testers who have worked on Espire 1 since its initial release.\n\nBug Fixes and Enhancements\n- AI Fixes/enhancements\n- Fixed an issue where enemy Soldiers no longer reacted to the player's hands. Now, guards will correctly spot the player’s hands if you’re using the hand-cams around a corner at close range to a guard!\n- Fixed an issue where enemy guards would not update their ‘perception component’ correctly. This reduces situations where enemies may spot the player at a glancing angle when they should not have\n- Fixed an issue where Enemies would say an incorrect voice line when discovering a knocked out ally, reporting the incident to their unit commander, and then waking up the ally.\n- Fixed an issue where dead/stunned hostages would appear to stand back up again after a period of time.\n- Fixed an issue where players could fall on the Jacobson (Destroyer) drone and ‘knock’ it out!\n\nCrash Fixes\n- Crash Fix: Fixed an issue where the game would become unresponsive if the player possessed an Espire unit while holding a weapon in their non-dominant hand. Thanks to the users who reported this issue and allowed us to narrow down the repro-steps.\n- Crash Fix: Fixed an issue where rarely, the game would crash during a ‘loading’ sequence in an airlock.\n\nAchievements, Espire Trials, Completion-related\n- Fixed an issue where an achievement related to collecting badges and trials will not be unlocked correctly. The player would have to replay a mission a 2nd time for the badge-count/trial-count achievement unlock to be reflected.\n- Fixed an issue where if the player completes every trial, the associated achievement would not unlock correctly.\n- Increased the time limit requirement for the \"Feet don't fail me now” Espire Trial in mission 1.6 to reflect recent changes to the map that made it very, very difficult to complete under the original time limit.\n- Fixed an issue in Mission 1.5 where an E1FS Pistol was missing in the level, making the ‘weapon procurement’ badge for that mission unobtainable.\n- Fixed an issue where rarely, In one of the takedown challenges (Cinnamon), a particular enemy would spawn inside a wall, and the player would be unable to shoot them, making the challenge impossible to complete.\n- Fixed an issue where In mission 1.5 “Ventilation System”, there was a case where a major cinematic will not play and the player would have to restart the mission.\n\nGeneral Bug Fixes and changes\n- Added plenty of ammo for the 2 secret cheat weapons \"Golden gun\" and \"Silver Serpent\", ensuring that if you use them in a campaign mission, there will be enough bullets.\n- Fixed in issue in mission 1.4 Data Centre where a weapon rack right near the start of the mission incorrectly had 3 copies of every pistol placed on it.\n- Fixed an issue in the game's first mission where, under certain circumstances, an area of the environment appeared jet black (not loading in).\n- Fixed an issue in the campaign where some weapons would sit at an incorrect orientation on the weapon racks found in airlocks\n- Fixed an issue where players would not correctly possess a new Espire unit if they happened to possess the unit while in the middle of climbing with their old Espire unit\n- Bullet logic (fired by the player and by enemies) was rewritten, improving performance\n\nUpdates to the Militaris Environment\nThe “Militaris” environment has been updated for the 2 new challenges added in this 1.8 update. As part of this work, the following bugs were fixed:\n- Fixed an issue where tripmines in the Militaris Intel challenge were not being activated correctly\n- Fixed an issue where a corpse in the Militaris environment did not render correctly\n- Fixed an issue in the Militaris challenges where a player could ‘throw themselves’ out of bounds.\n- Fixed an issue in the Militaris environment where players could climb so high that they could see’ out of world’",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003252_476312376840520_3968486563190046120_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fvOHVirvEVcAX9pEthj&_nc_ht=scontent.oculuscdn.com&oh=6b844114344b8f5f8e62d5cf79109b60&oe=60A56F41"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003252_476312376840520_3968486563190046120_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fvOHVirvEVcAX9znfcn&_nc_ht=scontent.oculuscdn.com&oh=83f5cafb10d059291208d42872eff814&oe=60A56F41"
 							}
 						},
 						{
@@ -177,7 +177,7 @@
 							"created_time": 1590458666,
 							"body_text": "Militaris is one of 4 all new \"Intel\" levels included in our free 1.6 Assimilation update. In Militaris, you must infiltrate a Copperhead outpost, hacking data from 4 workstations hidden throughout the environment. Militaris is our biggest challenge environment yet, with plenty of ways to approach each objective. Whether you want to play completely stealthy, or storm the outpost all guns blazing, we hope you enjoy Militaris and the rest of the Assimilation update!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982708_2572212006367953_53490312978366464_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ic224tR_XY4AX9a8J7S&_nc_ht=scontent.oculuscdn.com&oh=930fcd2ec6a50b28f3a093624a9d8c2f&oe=60A632F4"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982708_2572212006367953_53490312978366464_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ic224tR_XY4AX9REbdq&_nc_ht=scontent.oculuscdn.com&oh=9ff5702124f611ec4cb0d20d064d4af2&oe=60A632F4"
 							}
 						}
 					]
@@ -234,11 +234,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2065264061829,
+			"quality_rating_aggregate": 4.2068669527897,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1319,
+				"count": 1320,
 				"orderings": [
 					{
 						"key": "top",
@@ -251,10 +251,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1319,
+				"count": 1320,
 				"page_info": {
-					"end_cursor": "AQHRxwnKj7ex5A96HkEDfsbULap02BCzbv82Fe2RouEMlmYbipknO6MkpTFeFFUGJnvyzCcHYbgrgeWNuRKmnVEyJQ",
-					"start_cursor": "AQHRxwnKj7ex5A96HkEDfsbULap02BCzbv82Fe2RouEMlmYbipknO6MkpTFeFFUGJnvyzCcHYbgrgeWNuRKmnVEyJQ"
+					"end_cursor": "AQHRdCWX2BNGtYz8ijcXntFCWUI8TcDEJwlRejh0sAKejwZuQCVNMWAB17pYrPKAgzUkLGysN6Cfq0-3fpI8KXMX3Q",
+					"start_cursor": "AQHRdCWX2BNGtYz8ijcXntFCWUI8TcDEJwlRejh0sAKejwZuQCVNMWAB17pYrPKAgzUkLGysN6Cfq0-3fpI8KXMX3Q"
 				},
 				"edges": [
 					{
@@ -264,13 +264,13 @@
 								"id": "103658411344398",
 								"display_name": "knucklepuck907",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269596_132953401748232_3563278322030909553_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mBnhlWIyA4AAX_ephbh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=592d631b031032a71f0c5e668fb05c23&oe=60A6B27D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269596_132953401748232_3563278322030909553_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OK6SpdfmAVQAX-ZuOR7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=29b6d7635fbf19f168c7227b6bf99b78&oe=60A6B27D"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I absolutely love this game but I would love some more content the story is great and easy to follow unlike my other game. But the ending leaves you one a cliff hanger and just slightly disappointed. You did an amazing job with the cheats and the challenges to have some replay value but still I would love a sequel or an add-on this game is still amazing and my favorite game so far which is why I would love some more content.",
 							"reviewTitle": "Devs please read",
-							"review_helpful_count": 68,
+							"review_helpful_count": 70,
 							"review_rank_by_viewer": null,
 							"date": 1616099239,
 							"developerResponse": {
@@ -289,7 +289,7 @@
 				"description": "Espire 1: VR Operative is an ambitious new virtual reality game and IP with its sights firmly set on the single-player ‘stealth’ genre. We pitch this as \"Goldeneye 007\"meets \"Metal Gear Solid\" in an immersive VR world.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330717_2813068888905902_7034913126652012895_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cLLg96Oh8dkAX80Jk_b&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f806b526d4cd32b24bcbad6c411a19c8&oe=60A4422A",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330717_2813068888905902_7034913126652012895_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cLLg96Oh8dkAX86MSmo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f11e51fb4a767382d783abb1707efda&oe=60A836AA",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

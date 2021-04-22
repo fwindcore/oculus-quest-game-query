@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974792_709060479791921_1148037846046816551_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2ay7qYdYaEQAX9qBFJs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f94e35bd855290a2d93594fd3ce99e80&oe=60A6BFE0"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974792_709060479791921_1148037846046816551_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2ay7qYdYaEQAX_rd_yy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=117c3c868df9335b28e3f671cdaf0265&oe=60A6BFE0"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982678_860715731165133_2566160289399505973_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=xBhbH0l7NsQAX9LrUJY&_nc_ht=scontent.oculuscdn.com&oh=1f61f617dd27fd96cf6e5901a155692a&oe=60A3ABE3"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982678_860715731165133_2566160289399505973_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=xBhbH0l7NsQAX8NNmMH&_nc_ht=scontent.oculuscdn.com&oh=78ff60e7d1e9851d0abdbc30138a0c96&oe=60A7A063"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 57,
+					"count": 58,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 167,
+					"count": 168,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1993,
+					"count": 1995,
 					"starRating": 5
 				}
 			],
@@ -81,15 +81,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.3.8",
-				"change_log": "RC 1.3.8",
+				"version": "1.3.9",
+				"change_log": "Season 3 is here, ladies and gentlemen!\n\nWe didn’t expect Season 2 to be so short, but our amazing community brought some potential exploits to our attention and we wanted to react quickly to make sure the game can be fair and be played the right way by everyone. \n\nWe owe huge thanks to our fantastic community for bringing potential issues to our attention, and our ultra skilled players who keep working with us to make the game better for everyone. \n\nSo, congratulations to the winners of Season 2, a new season begins today and glory awaits all the players brave enough to enter the afterlife.\n\nFixes:\n* Fixed an exploit that encouraged a non-viable playstyle: using many weak headshots or teleport arrow headshots to maximize the score. Scoring rules have been adjusted.\n* Fixed an exploit where score multiplier wasn't reset after leaving Pits\n* Added a new main game achievement with Holy Armor upgrade as a reward! The Reckoning and Kill Asmodeus achievements are required to unlock it.\n* It's no longer possible to score a headshot with a shield bash :)\n* Added safe starting areas in Purgatory Pits\n* Fixed: arrows traveling short distance were sometimes counted as shot from long range\n* It’s no longer possible to jump on one of the high pillars in Asmodeus’ lair\n",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2019268346",
-				"id": "3928256240561289",
-				"required_space_adjusted": "3794364828",
+				"total_installed_space": "2044965408",
+				"id": "3971503589569887",
+				"required_space_adjusted": "3845651672",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -102,22 +102,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "281547016762511",
+				"id": "960492611133074",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-33%",
-				"end_time": 1619074740,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -128,7 +123,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3928256240561289"
+					"id": "3971503589569887"
 				}
 			},
 			"release_channels": {
@@ -139,8 +134,8 @@
 						"id": "580193692384780",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.3.8",
-							"id": "3928256240561289"
+							"version": "1.3.9",
+							"id": "3971503589569887"
 						}
 					}
 				]
@@ -153,21 +148,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "233487228553394",
+							"title": "Season 3 has just started!",
+							"created_time": 1618930512,
+							"body_text": "Season 2 was shorter than we originally planned, but our wonderful players let us know about some issues with the scoring system and we wanted to address them quickly to make sure the game can be fair. We are super grateful for all your feedback. It makes it possible for us to improve the game, so keep it coming!\n\nHuge congratulations to the winners of Season 2! New season begins today and glory awaits all the players brave enough to enter the afterlife.\n\nWe hope you’ll have fun in the new Season. Make sure to share your thoughts and opinions with us in our social media.\n\nLots of love, \nSuperbright\n",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982617_250774893464005_2605809532139024284_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hCOOZywUeDsAX-ppfSm&_nc_ht=scontent.oculuscdn.com&oh=4bdcf9eef22d2911113534ee9f350c79&oe=60A7ACA4"
+							}
+						},
+						{
 							"id": "5493755440665573",
 							"title": "We’re ending Season 2 early, Season 3 will start on April 21st.",
 							"created_time": 1617972220,
 							"body_text": "Our fantastic community helped us spot some issues in high-level play scoring that we felt needed addressing. We wouldn’t want these issues to affect how the game’s played, so we’re ending Season 2 much sooner than originally planned. Season 3 will start soon with proper adjustments.\n\nOn April 21st:\n- All players will earn experience and ranks for their placement on the leaderboard\n- Season 3 will begin with NEW LEADERBOARDS\n- Player progress % will be retained between seasons\n- Ranks from previous seasons will be rewarded with weapon skins\n- High level scoring system will be fixed and rebalanced\n  \nThe time is coming for your final runs and high scores. Now is a good moment to ensure your experience, rewards, and fame!\n\nStay tuned!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003274_469313137630012_466856780536134344_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=smntw7yc700AX9FNmGl&_nc_ht=scontent.oculuscdn.com&oh=7c8a3f2b0c5669e3efc34bb40b8fc818&oe=60A63355"
-							}
-						},
-						{
-							"id": "271165824632355",
-							"title": "In Death: Unchained now supports bHaptics TactSuit",
-							"created_time": 1617729925,
-							"body_text": "Hey everyone!\n\nWe’re excited to let you know about collaboration between us and bHaptics. We hope that through their technology our game will allow you to not only see the afterlife experience but to feel it on your own skin.\n\nVR technology is still new and developing and we think that it is accessories such as haptic suits that set its milestones. bHaptics created a TactSuit - wireless haptic vest that packs multiple individually controllable vibro-tactile motors with positional haptic feedback delivered to every corner of your body. Thanks to bHaptics this kind of technology is no longer reserved for sci-fi movies, but is now available to a wider group of users.\n\nFor an adrenaline pumping VR game like In Death: Unchained where you can get shot, thrown at with an axe, fireballed and more, support for this type of technology is a natural next step. A high-quality haptic suit shall provide an immersive, extremely real even though still virtual experience.\n\n\nLet us know if you like it!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38984460_533448344317087_3262979145850175846_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=O4lZ3VAldwEAX_4JRTu&_nc_ht=scontent.oculuscdn.com&oh=f8b582dd693189d2dfd72c0af7b07bcc&oe=60A68F21"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003274_469313137630012_466856780536134344_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=smntw7yc700AX9p0LZM&_nc_ht=scontent.oculuscdn.com&oh=5059f1e477db5cc9476305a516d5b498&oe=60A63355"
 							}
 						}
 					]
@@ -219,16 +214,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "281547016762511"
+				"id": "960492611133074"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7452173913043,
+			"quality_rating_aggregate": 4.7443576388889,
 			"support_website_url": "http://superbrig.ht/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1237,
+				"count": 1239,
 				"orderings": [
 					{
 						"key": "top",
@@ -241,10 +236,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1237,
+				"count": 1239,
 				"page_info": {
-					"end_cursor": "AQHRfWz8pk7Hbt1gkCGGyn3p8WkuZ2yS_a3az1bJIY3jiCPPp1XCv8hs8lkAHuXmwJd6rzEgNQka0hDZrP5utg0nDA",
-					"start_cursor": "AQHRfWz8pk7Hbt1gkCGGyn3p8WkuZ2yS_a3az1bJIY3jiCPPp1XCv8hs8lkAHuXmwJd6rzEgNQka0hDZrP5utg0nDA"
+					"end_cursor": "AQHRCOlsThlWVh31IVTOrvr78gdDKU1bGdCgLdtSnHWR0zLgy9ZN_SVcHkc39eH2HN1rFr7mAHV8RBAg1j3xA_vz9g",
+					"start_cursor": "AQHRCOlsThlWVh31IVTOrvr78gdDKU1bGdCgLdtSnHWR0zLgy9ZN_SVcHkc39eH2HN1rFr7mAHV8RBAg1j3xA_vz9g"
 				},
 				"edges": [
 					{
@@ -254,13 +249,13 @@
 								"id": "343477983487266",
 								"display_name": "Orlans",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75451788_343593350142396_2985996813362362871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pcBm_-W8uasAX-4iCDB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=809999e0ca59f8eb7a686f1045957e3d&oe=60A60706"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75451788_343593350142396_2985996813362362871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lut-SreKBlcAX-b_est&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6ba619043ad428c5a762ebae4c621576&oe=60A60706"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I own a high end gaming PC and own every major VR release on both Steam and Occulus, and THIS game is holding my attention longer than anything else.\n\nDon’t get me wrong, Half Life: Alex, Boneworks, Pavlov etc are all incredible experiences, but the fact that this humble little archery game is competing with the big dogs speaks for itself.\n\nI have more hours on this game than I do any other VR game that I own. I also own 4 different archery games and this one is by far my favorite.",
 							"reviewTitle": "Superb",
-							"review_helpful_count": 192,
+							"review_helpful_count": 223,
 							"review_rank_by_viewer": null,
 							"date": 1614294393,
 							"developerResponse": null
@@ -275,7 +270,7 @@
 				"description": "Must-have bow & arrow action game with state of the art Quest graphics. \n\nNEW GAME MODE “SIEGE OF HEAVEN” AND QUEST 2 UPGRADES!!!\n\nGrab your bow and rain down arrows against forsaken souls and angelic creatures that have taken over the afterlife, battle through the beautiful medieval fantasy levels of Heaven, Purgatory & Hell to restore Harmony\n\nThree beautiful and mysterious, procedurally generated worlds, with infinite replayability, three epic boss fights, multiple optional areas.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_171406687869032_9112191332372572108_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8dQYAaEAdL4AX-_I3Og&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a63aae3f918b6acfbd5e0c3b602d0ff2&oe=60A5029C",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974504_171406687869032_9112191332372572108_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KX0Oh-OFVK8AX-zGrZ0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=968d6c9d7931901f7bc13dd5bdc6a425&oe=60A5029C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
