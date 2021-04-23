@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035375_899677500608777_1717173507273828839_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3gCVAszJKesAX-sL2yX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=732a823fa3a7471015497c78688afd48&oe=60A85086"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035375_899677500608777_1717173507273828839_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3gCVAszJKesAX9wb9lY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cef851f001344429f391d0c4ad20a6c0&oe=60A85086"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974503_791121571832379_6661760072490213025_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=v__6gaS4Ka4AX-03N3I&_nc_ht=scontent.oculuscdn.com&oh=5fcb62d00055b29c23b46ff485e3af7d&oe=60A4F70C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974503_791121571832379_6661760072490213025_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=v__6gaS4Ka4AX9fjhZW&_nc_ht=scontent.oculuscdn.com&oh=24390e972a17c0778ecdb3392433b51b&oe=60A8EB8C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 5,
+					"count": 4,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 29,
+					"count": 33,
 					"starRating": 5
 				}
 			],
@@ -185,12 +185,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "450220126235769",
+							"title": "Game Patch",
+							"created_time": 1618996598,
+							"body_text": "First off, we just want to say that we're so happy to see the response to the release of the game – thank you so much for being with us on this journey!\n\nSecondly, we released a patch addressing some issues that were reported and we hope that you will have an even better time playing now. Please make sure to update the game both on Quest and on PC/Mac!\n\nRelease Notes:\n- Fixed a number of audio issues, if you're still experiencing issues, please reach out to us on Discord or email us at support@resolutiongames.com.\n- Fixed bug causing blocks held in the right hand to be slightly offset in multiplayer.\n- Fixed bug causing Carly to sometimes be pushed off blocks when Reaperman pushed them.\n- Fixed bug causing Carly to sometimes be visible under the platform when entering the portal.\n- Fixed bug where Carly would glide when in dialogs.\n- Disabled 'Quit to Hub' from the pause menu, since this would sometimes mean having to replay already cleared levels.\n- Disabled 180-degree turn using thumbstick down.\n- Various graphical tweaks and improvements.\n- Carly players on PC/Mac can now point at points of interest.\n\nPlease note that this version is not compatible with the previous, so please make sure to update the game on all devices.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974568_217369250161617_3861670494019145034_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=usNct3nOPjwAX_vPMux&_nc_oc=AQlXAuq3n9m4BI5UUVZfVMkEVaz41IQ0fS5LuxdU2K2ngmXJBBBvijfvRGzwmfYj9Z4&_nc_ht=scontent.oculuscdn.com&oh=6ec1a01ae09b67e95d5f4f6191d6d851&oe=60A7D119"
+							}
+						},
+						{
 							"id": "455363258855519",
 							"title": "Discord Server",
 							"created_time": 1618581570,
 							"body_text": "Don't have anyone to play with? No problem! Join our Discord server to find the other half of your team. Join here!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974909_361382648580687_6162198862176684051_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lFPX0VaCkoIAX-6cD34&_nc_ht=scontent.oculuscdn.com&oh=fcc5245aff709c082c361eca54250fc2&oe=60A54F31"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974909_361382648580687_6162198862176684051_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fXlrUVbbUSwAX-oE4JK&_nc_ht=scontent.oculuscdn.com&oh=60e3aa4a0d78f0f44843875e6742d13b&oe=60A943B1"
 							}
 						}
 					]
@@ -247,11 +256,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.2857142857143,
+			"quality_rating_aggregate": 4.4222222222222,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 21,
+				"count": 22,
 				"orderings": [
 					{
 						"key": "top",
@@ -264,10 +273,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 21,
+				"count": 22,
 				"page_info": {
-					"end_cursor": "AQHRkmT7W8AVkmDrXS02uroc2o4NAoP3yoeSTCpmNnVqE1UqTqRFaybfsHCnueNmPqJCCLaxpyGaj2wmaFO_bq_1_A",
-					"start_cursor": "AQHRkmT7W8AVkmDrXS02uroc2o4NAoP3yoeSTCpmNnVqE1UqTqRFaybfsHCnueNmPqJCCLaxpyGaj2wmaFO_bq_1_A"
+					"end_cursor": "AQHRWfO67bhbbq6SJ3h3NIFU-rmu0mlhpandroE78leYPxW4KiMIxpnfh5Fg-FrGuulioufODYZ71_GUJQn6L_D0qw",
+					"start_cursor": "AQHRWfO67bhbbq6SJ3h3NIFU-rmu0mlhpandroE78leYPxW4KiMIxpnfh5Fg-FrGuulioufODYZ71_GUJQn6L_D0qw"
 				},
 				"edges": [
 					{
@@ -277,13 +286,13 @@
 								"id": "100877697561482",
 								"display_name": "DAN-IS-THE-MAN",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.900.900a/s160x160/75221325_546984182950829_6382425738851674665_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WTvMdWKliZEAX8evic6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e5966ebc49c34496e3534aef42450da&oe=60A8679B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.900.900a/s160x160/75221325_546984182950829_6382425738851674665_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WTvMdWKliZEAX8Ax6uF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a2d5206cdc6505a79ab461d287063a3c&oe=60A8679B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I have deleted my previous review as I had audio issues but the devs have been great at looking into it and it seems to be resolved. I did get the chance to play a few levels before the issue and was loving it. I will be playing again tomorrow and will update this further with more game play information. The support I received was so quick and responsive I just wanted to get a good review up so people know that they can rely on an issues being resolved as other than my issue the game was great up to that point and I can't wait to play it again tomorrow.",
 							"reviewTitle": "Full review to come",
-							"review_helpful_count": 44,
+							"review_helpful_count": 46,
 							"review_rank_by_viewer": null,
 							"date": 1618520807,
 							"developerResponse": null
@@ -298,7 +307,7 @@
 				"description": "孤军奋战是无法逃出地下世界的。在这个合作解谜的平台冒险中与好友一起奔跑，跳跃并解谜找到通向自由的道路，然后赢得奖励吧！",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982619_178455353835439_7244036157326908999_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=U3aR7xT7SpgAX-cXJlC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d3162657aecb27f1dbab074d4b6305b&oe=60A6E20D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982619_178455353835439_7244036157326908999_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=U3aR7xT7SpgAX_r2AKs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5edbd7a75717e0ab8e963a8acfd1ba3a&oe=60A6E20D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
