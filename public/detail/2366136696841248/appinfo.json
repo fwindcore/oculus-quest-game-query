@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75572661_389753191912666_7460560056614912_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6xeUyrwux1IAX-BsnCG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=71915390e5e1402e2b8ce19cdbaf4ff5&oe=60A81428"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75572661_389753191912666_7460560056614912_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=k-TnRr68oLEAX8XskrM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=33109ac5bc5da6fccace022d1a6857a4&oe=60A81428"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974753_386040055617313_1942743948569083904_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=P2Sxyd0hxegAX8Hb93R&_nc_ht=scontent.oculuscdn.com&oh=fcea48ee8e82d21375c782bc8d161106&oe=60A6FD6C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974753_386040055617313_1942743948569083904_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=P2Sxyd0hxegAX8TCpLX&_nc_ht=scontent.oculuscdn.com&oh=6d541c6563c4a83219e54372bfa485e7&oe=60AAF1EC"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -101,16 +101,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1027189144308548",
+				"id": "655350358777117",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "US$ 24.99"
+					"offset_amount": "1999",
+					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1619333940,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -194,7 +199,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1027189144308548"
+				"id": "655350358777117"
 			},
 			"externalReviews": {
 				"count": 0
@@ -203,7 +208,7 @@
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 300,
+				"count": 301,
 				"orderings": [
 					{
 						"key": "top",
@@ -216,10 +221,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 300,
+				"count": 301,
 				"page_info": {
-					"end_cursor": "AQHR9xWxfdK4nsJ1t3yyO63IYTyg7RtSTvydvCpgZgLZvVOxy3EynLCz5WDu9a5EPrH4IuduG1163IyfzT7Ei1iGeQ",
-					"start_cursor": "AQHR9xWxfdK4nsJ1t3yyO63IYTyg7RtSTvydvCpgZgLZvVOxy3EynLCz5WDu9a5EPrH4IuduG1163IyfzT7Ei1iGeQ"
+					"end_cursor": "AQHRPLyuYd8PYYsMffzkWZ0HrAmc2SUpbNdHwo2d46IBC2I0GdVOY6EnnCMYlYiwY47rMmo0jZ2_9eQkYh28RfbWgQ",
+					"start_cursor": "AQHRPLyuYd8PYYsMffzkWZ0HrAmc2SUpbNdHwo2d46IBC2I0GdVOY6EnnCMYlYiwY47rMmo0jZ2_9eQkYh28RfbWgQ"
 				},
 				"edges": [
 					{
@@ -229,13 +234,13 @@
 								"id": "102423621787183",
 								"display_name": "PBaiano",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.325.325a/s160x160/38982674_108573461172199_1433385701974759411_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4bupR-HlqEIAX8ZFJW-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=afa59f8b777b96bec2d58df1d3a52c72&oe=60A99C34"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.325.325a/s160x160/38982674_108573461172199_1433385701974759411_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dvThNyW3ufIAX_CIi4u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d8dbce966063f90f43a09583a154bd23&oe=60A99C34"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This was one of the BEST games I ever played on Oculus Quest 2. Not only is it rich and beautiful graphics, it's literally everything else that a VR game should be. \n\nThe storyline was entertaining and wonderful and actually had me in tears a few times. The movement mechanics were well thought out, allowed you to pan around,  move through, and adjust your environment in a seamless way. (I only knocked my drink over once. And fortunately I was on the last sip so I didn't waste too much alcohol LOL)\n\nThe puzzles were beginner to intermediate at best but, I was totally okay with that. It also had a nice balance of puzzles, dialogue storytelling, and skill tricks to keep things from getting monotonous. \n\nI played The Room Dark Matter, Myst, I Expect You to Die, Red Matter, Down the Rabbit Hole etc...and sometimes those puzzles we're beyond intuitive and needing some cheats to figure them out. This game was a nice break from banging your head against the wall. You still had to think but they weren't impossible.\n\nI have a busy life and really only get to play anywhere from 30 minutes to an hour at a clip so, it took me about a week to finish. Unless I'm missing something, the only downside was not being able to save in the middle of a chapter so, if I had to stop before finishing a chapter next time I played I'd have to start over from the beginning of that chapter. But aside from that really hope that they do a sequel!",
 							"reviewTitle": "I absolutely LOVED this game!",
-							"review_helpful_count": 9,
+							"review_helpful_count": 13,
 							"review_rank_by_viewer": null,
 							"date": 1618103587,
 							"developerResponse": null
@@ -250,7 +255,7 @@
 				"description": "As the Ghost Giant, you are the protector of the lonely little boy Louis, who’s in dire need of a helping hand. Build trust with Louis by helping him overcome big - or even gigantic - obstacles. Discover Louis' world, meet its eccentric inhabitants and experience a heartwarming, and sometimes heartbreaking, story.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195909_757632518009175_3862638937411420160_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8fDNbeLbuUIAX8cxTFQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d362717f355fee79b16a97e11bcae000&oe=60A72659",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982583_311950470335553_8052965422647999046_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rprG2f3Gk-AAX9Gu3FV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6524b887081fab352f79330b0c0e5452&oe=60A7DD41",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
