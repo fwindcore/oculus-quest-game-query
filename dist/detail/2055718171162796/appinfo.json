@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974444_1207077886417409_8208442667862856597_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=H1YyQF_Bx30AX9FGxbZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e34bec7e35f0a882124aeae36df9d31&oe=60ABAA54"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974444_1207077886417409_8208442667862856597_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=H1YyQF_Bx30AX_Jn2MJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=822013aea8b681b4c03d231c4f04f8ba&oe=60ABAA54"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974874_601417424150564_7501884292131808436_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=_ifSRp_rv6AAX-QjKXs&_nc_oc=AQmwTGUOYCni9ZscBkSEsodU5ulfPa_-AMgvp0emPUQ12sf--K6GFsut-OljxyyNg78&_nc_ht=scontent.oculuscdn.com&oh=20a67b9d068e040ee5b0e7b4b3a300f1&oe=60AAD405"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974874_601417424150564_7501884292131808436_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=_ifSRp_rv6AAX8JmJ2V&_nc_oc=AQmBnlzQ3WiWQm5683uz2X-jZ7Zp36Q-savxe9xr532svVN4DWcvfQ74UsT9gzAsjIQ&_nc_ht=scontent.oculuscdn.com&oh=e4036e1c6267ed309b73dbf5c841c01a&oe=60AEC885"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -168,11 +168,44 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
+								"current_end_timestamp": 1619550000,
+								"current_start_timestamp": 1619546400,
+								"temporal_info": {
+									"seconds_until_end_time": 37665,
+									"seconds_until_start_time": 34065
+								},
+								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR | DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "768882253812976",
+								"is_vr_viewer_interested": false,
+								"name": "Tribe Plus | DJ Workshop",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003239_281514806937097_6940333548687773357_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fIVBG1qMn_AAX9RtUlP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=040aa30262f2ddbb99715a12fe9c5771&oe=60AF2979"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
 								"current_end_timestamp": 1619634600,
 								"current_start_timestamp": 1619632800,
 								"temporal_info": {
-									"seconds_until_end_time": 208650,
-									"seconds_until_start_time": 206850
+									"seconds_until_end_time": 122265,
+									"seconds_until_start_time": 120465
 								},
 								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
 								"vr_applications": {
@@ -194,7 +227,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_816392112297728_2867401067185745552_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hWFqIazOG7UAX-NDZ35&_nc_ht=scontent.oculuscdn.com&tp=28&oh=daac9333db973d7b95806b34b6b08467&oe=60ABF84C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_816392112297728_2867401067185745552_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hWFqIazOG7UAX8jn4YJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=308dde61065884a48ed4f7788f373d92&oe=60ABF84C"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619722800,
+								"current_start_timestamp": 1619719200,
+								"temporal_info": {
+									"seconds_until_end_time": 210465,
+									"seconds_until_start_time": 206865
+								},
+								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR | DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "768882520479616",
+								"is_vr_viewer_interested": false,
+								"name": "Tribe Plus | DJ Workshop",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031528_1406195563055916_5731459317131958996_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HLTg__35ywkAX-xec4A&_nc_oc=AQnS7FR8cY-4T9M5s61KXIlfQM-EQdt2CAzb1Gz57hkZhJx0gc8btt8oUZ9_HueTsGQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=88673d1f298dc014571c105a68c42f88&oe=60AE0420"
 								}
 							}
 						},
@@ -204,8 +270,8 @@
 								"current_end_timestamp": 1619807400,
 								"current_start_timestamp": 1619805600,
 								"temporal_info": {
-									"seconds_until_end_time": 381450,
-									"seconds_until_start_time": 379650
+									"seconds_until_end_time": 295065,
+									"seconds_until_start_time": 293265
 								},
 								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
 								"vr_applications": {
@@ -227,7 +293,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982584_5230971963643641_6280115937034482475_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qVsccsFB2t4AX_H-CEO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=407b7a020c0b6bbe84ab7e0e8143e0f7&oe=60AA8D5A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982584_5230971963643641_6280115937034482475_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VL7DK1Q8xNQAX8aEJv4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eb7753c6bbac59e69aa407fa816e0390&oe=60AE81DA"
 								}
 							}
 						},
@@ -237,8 +303,8 @@
 								"current_end_timestamp": 1619982000,
 								"current_start_timestamp": 1619978400,
 								"temporal_info": {
-									"seconds_until_end_time": 556050,
-									"seconds_until_start_time": 552450
+									"seconds_until_end_time": 469665,
+									"seconds_until_start_time": 466065
 								},
 								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
 								"vr_applications": {
@@ -260,7 +326,73 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class (also streamed to Altspace VR!)",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974840_944256412985108_2180282813771434776_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_0iUoFhfgrYAX_ztk5w&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8262b4937b6aeb08d09c5e217286ceab&oe=60AC4BAD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974840_944256412985108_2180282813771434776_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_0iUoFhfgrYAX84HabB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ccd3fe705ecbc3efbb8277e8a7012ee5&oe=60AC4BAD"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620068400,
+								"current_start_timestamp": 1620064800,
+								"temporal_info": {
+									"seconds_until_end_time": 556065,
+									"seconds_until_start_time": 552465
+								},
+								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR | DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "768882837146251",
+								"is_vr_viewer_interested": false,
+								"name": "Tribe Plus | DJ Workshop",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001654_154100073313208_7236953369676683257_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=irq_S3TlCxAAX8cRcGc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=be776902bf74440a9369b38f18631ef0&oe=60AC558F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620154800,
+								"current_start_timestamp": 1620151200,
+								"temporal_info": {
+									"seconds_until_end_time": 642465,
+									"seconds_until_start_time": 638865
+								},
+								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR | DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "768883103812891",
+								"is_vr_viewer_interested": false,
+								"name": "Tribe Plus | DJ Workshop",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974640_347021516997876_5737298452391473632_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PK2vTuqBP40AX_mY86a&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2b82957aa91b45b810fda9c8d1dc0310&oe=60AD41CD"
 								}
 							}
 						},
@@ -270,8 +402,8 @@
 								"current_end_timestamp": 1620239400,
 								"current_start_timestamp": 1620237600,
 								"temporal_info": {
-									"seconds_until_end_time": 813450,
-									"seconds_until_start_time": 811650
+									"seconds_until_end_time": 727065,
+									"seconds_until_start_time": 725265
 								},
 								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
 								"vr_applications": {
@@ -293,7 +425,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_886963148818910_1313423677537076882_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ntjh5ZzqraoAX-XSzxF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0c079b657a8e100a9b0fc4b05da64a31&oe=60AAEB67"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_886963148818910_1313423677537076882_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TK6tQES3qw8AX8pZQqY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d6e7464f5cf74866761b7b246526980a&oe=60AEDFE7"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620327600,
+								"current_start_timestamp": 1620324000,
+								"temporal_info": {
+									"seconds_until_end_time": 815265,
+									"seconds_until_start_time": 811665
+								},
+								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2055718171162796",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Tribe XR | DJ in VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "768883373812864",
+								"is_vr_viewer_interested": false,
+								"name": "Tribe Plus | DJ Workshop",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982727_1172148313211810_8364127429678932229_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VAEzgFJjcVkAX_3pcgl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cea1910fa3c361ed54e97b7e7c650a98&oe=60ACB6A5"
 								}
 							}
 						},
@@ -303,8 +468,8 @@
 								"current_end_timestamp": 1620412200,
 								"current_start_timestamp": 1620410400,
 								"temporal_info": {
-									"seconds_until_end_time": 986250,
-									"seconds_until_start_time": 984450
+									"seconds_until_end_time": 899865,
+									"seconds_until_start_time": 898065
 								},
 								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
 								"vr_applications": {
@@ -326,7 +491,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_1122924098185804_5775174235028477762_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UCRWtKwvPi0AX9iPPOa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eae806e3f23fdac8aa99cefaccb40dc9&oe=60AA70C1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031363_1122924098185804_5775174235028477762_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jxXk7SSnsmsAX_Cgrzv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3e11efd17127d6f44b06f3c367239acb&oe=60AE6541"
 								}
 							}
 						},
@@ -336,8 +501,8 @@
 								"current_end_timestamp": 1620586800,
 								"current_start_timestamp": 1620583200,
 								"temporal_info": {
-									"seconds_until_end_time": 1160850,
-									"seconds_until_start_time": 1157250
+									"seconds_until_end_time": 1074465,
+									"seconds_until_start_time": 1070865
 								},
 								"vr_app_and_destination_string": "Tribe XR | DJ in VR",
 								"vr_applications": {
@@ -359,7 +524,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Learn to DJ - a Tribe XR Class (also streamed to Altspace VR!)",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982580_274470280881083_6689028332045831338_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ucxk_6leHpQAX_GlusR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=207a6a130274f85692f23cad0ad7d32c&oe=60AAB3DB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982580_274470280881083_6689028332045831338_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ucxk_6leHpQAX8pLo64&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c51f406c633ee34cd85d6eb8cc155139&oe=60AEA85B"
 								}
 							}
 						}
@@ -372,7 +537,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRDzhx1ysLMFfEH7xZ2UQSopCkxxx3A7nzW_1ZyUXQbJQF-eIgvoa4e4LvkotRieix-xMUsI6M8gO0qmjRGlha_Q"
+							"cursor": "AQHRqVj0yCx9kjDY3Ue2rZ7AWH0P0B37Be705dUsxOEtQLu6M7ZQAzIWsztaYS12kUvLFOsNrTqfMVqrdIUioYXNJA"
 						}
 					]
 				}
@@ -444,8 +609,8 @@
 			"firstQualityRatings": {
 				"count": 236,
 				"page_info": {
-					"end_cursor": "AQHROPebRAiDG3rku14sjpnBHZwXqICRBcDGZCPfYUN05_st0zfp54TbKUHn0JiwkuEwYZ9GfUHeVe2CCgevH3Bl4A",
-					"start_cursor": "AQHROPebRAiDG3rku14sjpnBHZwXqICRBcDGZCPfYUN05_st0zfp54TbKUHn0JiwkuEwYZ9GfUHeVe2CCgevH3Bl4A"
+					"end_cursor": "AQHRiXvmDmZHUTOyleGirN7bgtqw4SbJR2STecku340g5q_IB_fFh0UTRfSMwFJXxPcnxJ-cupbgzSizSaj1DSpdSw",
+					"start_cursor": "AQHRiXvmDmZHUTOyleGirN7bgtqw4SbJR2STecku340g5q_IB_fFh0UTRfSMwFJXxPcnxJ-cupbgzSizSaj1DSpdSw"
 				},
 				"edges": [
 					{
@@ -455,13 +620,13 @@
 								"id": "100776005256910",
 								"display_name": "CJKahl",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974750_100776178590226_5012932407123965955_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oOSU6perVZsAX_q1KA-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=04590f67ebdf9f47f9784f5c1784d758&oe=60ABE1E5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974750_100776178590226_5012932407123965955_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oOSU6perVZsAX_qQ35x&_nc_ht=scontent.oculuscdn.com&tp=28&oh=80cfd880c37a5594312b207783ebef74&oe=60ABE1E5"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This is so cool. I've been Djing for 2 straight hours. I DJ occasionally in real life and this is spot on, and so much fun. Only complaint I have is you can only DJ in the same room. It would be really cool if you could perform at a festival or club in front of a virtual crowd, doesn't even have to be real vr friends. I would definitely use this app a lot more, and I'm sure others would too, if this was possible. Like I said, doesn't have to be real people, just being able to change venues and feel like you're DJing in front of a crowd would be a blast!!",
 							"reviewTitle": "Awesome, but one complaint",
-							"review_helpful_count": 319,
+							"review_helpful_count": 321,
 							"review_rank_by_viewer": null,
 							"date": 1611286023,
 							"developerResponse": null
@@ -476,7 +641,7 @@
 				"description": "Become a VR DJ: Practice on club-standard Pioneer DJ equipment. Take lessons from DJ instructors. Join Masterclasses. Mix back-to-back with DJs around the world. Perform to a global audience.\n\nTribe XR offers unlimited musical creativity\n- Official Pioneer DJ equipment\n- Immersive tutorials\n- Upload your own music\n- Join the community\n- Perform on live streams and weekly parties\n\n...and now, take your DJ skills to the next level with the optional membership to Tribe Plus ($4.99/month).\n\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/43997709_3879123145534984_7339095410946871131_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JxUcqZdHBsUAX8wUBti&_nc_ht=scontent.oculuscdn.com&tp=28&oh=577acdd2b27a771b367d8d0d6a6adc94&oe=60AC00D6",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/43997709_3879123145534984_7339095410946871131_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JxUcqZdHBsUAX-Wx-sa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d77b02d46400b012e5e6dd3da3c43c51&oe=60AC00D6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
