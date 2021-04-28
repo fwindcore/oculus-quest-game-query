@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wkM6Waaa-ZEAX-LY58-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7a2510a14a13a95c7cd058f388aac3d9&oe=60ACC5E2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wkM6Waaa-ZEAX-jYmx8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62c468e1d44c283165bf40152eaed0cf&oe=60ACC5E2"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=sXxft-CGHK8AX-AqLl6&_nc_ht=scontent.oculuscdn.com&oh=93c8f95c0bd5d478b12ac8c589ed86b8&oe=60AEA7CD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lonPw86b5D0AX8HndzW&_nc_ht=scontent.oculuscdn.com&oh=e5caf8d2a0d515b82aa86f151bea31a0&oe=60AEA7CD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "4.2.12",
-				"change_log": "•\tUI and Scaling tweaks in Title Screen\n•\tAdded avatar eye-blinking in Title Screen\n•\tBugfixes and improvements to Microsoft Account integration\n•\tAudio bugfixes\n•\tUpdates to Mac client & Mac installer. At this time, we highly recommend content merging for creators who have not yet uploaded their worlds/kits/MREs for Mac.\n•\tFixed issue where PCs were defaulting to in-VR-mode at launch\n•\tFixed issue with mirrored portal going to unintended destinations\n•\tFix for megaphone unmute in Host Zone\n",
+				"version": "4.2.13",
+				"change_log": "* Made improvements that enable better handling of multiple copies of the same glTF file in a space\n* Updated \"Join Friends\" feature. New default behavior is to auto-join the event room without a dialog if there is a friend in the event or all friends are in the same room.\n* Restored automatic login after unlinking a Microsoft account.\n* Minor bugfixes when logged in with a classic AltspaceVR account.\n* Fixed issue where local mute of another user was not preserved when they re-entering a space\n* Fixed several issues with HostZones and AudienceZones",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "625393173",
-				"id": "3749123661881079",
-				"required_space_adjusted": "310286190",
+				"total_installed_space": "625338950",
+				"id": "3756976144429164",
+				"required_space_adjusted": "278572764",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -128,7 +128,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3749123661881079"
+					"id": "3756976144429164"
 				}
 			},
 			"release_channels": {
@@ -139,8 +139,8 @@
 						"id": "2271077649772225",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.12",
-							"id": "3749123661881079"
+							"version": "4.2.13",
+							"id": "3756976144429164"
 						}
 					},
 					{
@@ -148,8 +148,8 @@
 						"id": "597064230818090",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.12",
-							"id": "3749123661881079"
+							"version": "4.2.13",
+							"id": "3756976144429164"
 						}
 					}
 				]
@@ -163,8 +163,8 @@
 								"current_end_timestamp": 1619656200,
 								"current_start_timestamp": 1619654400,
 								"temporal_info": {
-									"seconds_until_end_time": 143865,
-									"seconds_until_start_time": 142065
+									"seconds_until_end_time": 57518,
+									"seconds_until_start_time": 55718
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -186,7 +186,73 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RAfF--cduV0AX8bgqaZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a5f27f3bef17b5fd5122ada2d9670cd1&oe=60AC8ECF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RAfF--cduV0AX_BOAPs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=95c41ba64cb07c482dde151fbdd44da2&oe=60B0834F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619843400,
+								"current_start_timestamp": 1619834400,
+								"temporal_info": {
+									"seconds_until_end_time": 244718,
+									"seconds_until_start_time": 235718
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1723725073132552562",
+								"id": "794858248120300",
+								"is_vr_viewer_interested": false,
+								"name": "Pixel Ripped x FTR Comedy Club +18 ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982515_292068455691599_3785574195988273831_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LVpTAqkNUsgAX9ApWWn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7da733ab82ef4f465a5921faa1598c15&oe=60AF8F59"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1619899200,
+								"current_start_timestamp": 1619895600,
+								"temporal_info": {
+									"seconds_until_end_time": 300518,
+									"seconds_until_start_time": 296918
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1724231284789609076",
+								"id": "794863121453146",
+								"is_vr_viewer_interested": false,
+								"name": "Belle Mt. Video Release",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75241702_760031978238097_1221242933798776181_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RxiHGqrlv28AX_3-05E&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c650f89adcf96eede509a7207c73383f&oe=60AEB05C"
 								}
 							}
 						},
@@ -196,8 +262,8 @@
 								"current_end_timestamp": 1620261000,
 								"current_start_timestamp": 1620259200,
 								"temporal_info": {
-									"seconds_until_end_time": 748665,
-									"seconds_until_start_time": 746865
+									"seconds_until_end_time": 662318,
+									"seconds_until_start_time": 660518
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -219,7 +285,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Community MeetUp",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001692_305164284387039_1481309980981072512_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4X01x2qitngAX86nf57&_nc_ht=scontent.oculuscdn.com&tp=28&oh=147816c5da80ca021ebd21873785598c&oe=60ACA571"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001692_305164284387039_1481309980981072512_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4X01x2qitngAX-a47Ui&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcc1882a2f0ae4ece2b2fa67cb20db6f&oe=60B099F1"
 								}
 							}
 						}
@@ -232,7 +298,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRE_nlW9BKz1k9uHzb1wgyqtuE8d8VdL_gJrj1f9jCyWNQk3bY14yO90LztujzauoIEH-pORnRLhzXTzM_OzB9VA"
+							"cursor": "AQHRvxDeim2wT1wAARuRNcVjefqbfWVksPR3cYDgLxJjLJ2MjEFRSxkcpopAnqtuDIbaKE8lK-6WPzmOm87ww_fcGA"
 						}
 					]
 				}
@@ -298,8 +364,8 @@
 			"firstQualityRatings": {
 				"count": 340,
 				"page_info": {
-					"end_cursor": "AQHR9_Fg6wJWv-Dqz_ZdvctZK-EvrKLlZ6A1T5QzfNwlUCw8YvskZU11tZ6TNNhi_GCCa7LaXZw2euWb1CNaUdWiHw",
-					"start_cursor": "AQHR9_Fg6wJWv-Dqz_ZdvctZK-EvrKLlZ6A1T5QzfNwlUCw8YvskZU11tZ6TNNhi_GCCa7LaXZw2euWb1CNaUdWiHw"
+					"end_cursor": "AQHRXRUmG_LBeiI0pJlinTFhTqucA0yzYzk2OVinsPCTqB31WnU_3DPwXZwvqTUWuGrpkpV2oHFT0fuD_UkwRtJqTw",
+					"start_cursor": "AQHRXRUmG_LBeiI0pJlinTFhTqucA0yzYzk2OVinsPCTqB31WnU_3DPwXZwvqTUWuGrpkpV2oHFT0fuD_UkwRtJqTw"
 				},
 				"edges": [
 					{
@@ -309,16 +375,20 @@
 								"id": "205913596680451",
 								"display_name": "Shaggy1479",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=emMYn-sz_5MAX-YiDwf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7821520f5fbe06e4dbba1b12ad728e54&oe=60AD96FA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=emMYn-sz_5MAX-sEzWE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=85061c03ef0c0d691960675ff471923c&oe=60AD96FA"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "I am a huge fan of Altspace, having met many friends on there.  A friend that I have from the real world has recently gotten a Quest 2 and has been enjoying Altspace, yet for the past few days when I try to get on, the app will not even open, and I get booted back to my Quest 2 Home Screen.  For me, it doesn’t even get past the 3 blinking white lights on the black screen.  The app will not load at all.  I find this extremely frustrating, as I was hoping to spend time in Altspace with him, and show him some of the cool places I have found.  I have tried reinstalling, restarting, just about everything I can think of, but have had no luck.  Please help!!!",
 							"reviewTitle": "Will not even open.",
-							"review_helpful_count": 38,
+							"review_helpful_count": 37,
 							"review_rank_by_viewer": null,
 							"date": 1617726271,
-							"developerResponse": null
+							"developerResponse": {
+								"date": 1619546870,
+								"body": "Hi Shaggy1479, very sorry to hear about these loading issues! We've recently made some updates which have fixed several bugs, please download our latest version and see how that works for you. If you still have issues, please contact our Support so that we can get you back into Altspace :) http://altvr.com/support",
+								"id": "825117924760012"
+							}
 						}
 					}
 				]
@@ -330,7 +400,7 @@
 				"description": "AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world. Experience a spotlight event at 7pm PT every night where you can learn, laugh, and gather with people on every major VR headset. Attend hundreds of spotlight events every month like: Open Mic Night, Improv Comedy, Meditation, LGBTQ+ Meetups, VR Church and more. Easily start your own meetup, show or class and discover the next frontier of entertainment and community.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HxV-TA9GZOEAX_7MXgf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=360045d52f50db583411bf84c5bb778b&oe=60AD952F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HxV-TA9GZOEAX_apNIA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=958da65411ebb576308d46a76542fc0a&oe=60AD952F",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
