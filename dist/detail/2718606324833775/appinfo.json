@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031411_489972785111754_2739197242215759872_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3-TpO_CVnOsAX-srGqx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e96cf82932c6fb60ad0be3cad0c0f5d5&oe=60AF82F5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031411_489972785111754_2739197242215759872_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3-TpO_CVnOsAX8Kmngc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ba91d4dd0b327bab4f930235538c564&oe=60AF82F5"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_489455451830154_5905819862973808640_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=9OH1FgAl9yMAX9aSHXY&_nc_ht=scontent.oculuscdn.com&oh=8244cf4dedd4d46ecb751bae80570e31&oe=60B0A7B9"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_489455451830154_5905819862973808640_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=0aq1YMbydvYAX8_ddmy&_nc_ht=scontent.oculuscdn.com&oh=987998b81e6df9033542206c28de5f51&oe=60B0A7B9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -151,17 +151,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2326830277411457",
+				"id": "519152932575156",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1199",
+					"formatted": "$11.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1619852340,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -202,7 +207,7 @@
 							"created_time": 1611236324,
 							"body_text": "It's time to defeat the dreaded Dr. Frankenswine once and for all. Terror Peak, the fourth world of the Spooky Levels is now live. We also included some bug fixes and made browsing easier in the level builder mode.\n\nGrab your virtual slingshot and join your feathered friends in the new world today!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982604_759009441651806_8904661116262309253_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cwknJ6VvbxIAX-0edmV&_nc_ht=scontent.oculuscdn.com&oh=6f021819052448fb4393d08eac1c4983&oe=60B1F4CC"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982604_759009441651806_8904661116262309253_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cwknJ6VvbxIAX8loiAx&_nc_ht=scontent.oculuscdn.com&oh=ac8601a1d3e675bd0e25a01ec97dfbb3&oe=60B1F4CC"
 							}
 						},
 						{
@@ -211,7 +216,7 @@
 							"created_time": 1603291059,
 							"body_text": "The horrifying Dr. Frankenswine is back with his minions. They're bringing along 13 new spooky levels set in Slimy Slopes. Pick up your slingshot and help Red, Chuck, Bomb and the Blues put a stop to Dr. Frankenswine's evil schemes!\n\nPatch notes:\n- A new level pack: Slimy Slopes is now available!\n- Added hints on how to unlock spooky levels\n- Added three more achievements\n- Fixed an issue where the music sometimes stops playing in the spooky levels\n- General bug fixes and polish",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001667_3292441324206156_3741857328085321514_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wF8LNMJqd7kAX_PVtVJ&_nc_ht=scontent.oculuscdn.com&oh=4c274f5cfbfc0f41fdb422908907e4c6&oe=60AE5002"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001667_3292441324206156_3741857328085321514_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wF8LNMJqd7kAX8Gjyx_&_nc_ht=scontent.oculuscdn.com&oh=90a4d7d0cd96ce932916bf47aec6d5be&oe=60B24482"
 							}
 						}
 					]
@@ -263,7 +268,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2326830277411457"
+				"id": "519152932575156"
 			},
 			"externalReviews": {
 				"count": 0
@@ -287,8 +292,8 @@
 			"firstQualityRatings": {
 				"count": 362,
 				"page_info": {
-					"end_cursor": "AQHRiYFzLaChsoGPyRt4teN_FWv7Qd-iN7chUMTiMWlFSlQW2EGQvZwafSrznYnxvkYyRakSM0-zb-w6gAC0MPT5wQ",
-					"start_cursor": "AQHRiYFzLaChsoGPyRt4teN_FWv7Qd-iN7chUMTiMWlFSlQW2EGQvZwafSrznYnxvkYyRakSM0-zb-w6gAC0MPT5wQ"
+					"end_cursor": "AQHR2CQDLsn-pb3fF7aZfGZp09kdzLV0OqzhJEf9sWi5Fu_OlG0JZ1pjQj_dxg5HXSp3qC81lxhc5u4uwymC4J3zIA",
+					"start_cursor": "AQHR2CQDLsn-pb3fF7aZfGZp09kdzLV0OqzhJEf9sWi5Fu_OlG0JZ1pjQj_dxg5HXSp3qC81lxhc5u4uwymC4J3zIA"
 				},
 				"edges": [
 					{
@@ -298,13 +303,13 @@
 								"id": "100646551122371",
 								"display_name": "SlipSlot",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xqkxHDiGEA8AX9O2PoC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2f1a08118e415d41f1f515527e7131cb&oe=60AF4464"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HdJx4w8Npr4AX8f33Db&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1ca64cf0a5f9dea77dd5ad5d2365dd8b&oe=60B338E4"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "We were equal parts sceptical and curious about Angry Birds in VR at the beginning, worried it would just be a motion-controlled port of the mobile titles, while also curious of what else they could do to the franchise to make it feel fresh. If you aren’t sure what the premise of Angry Birds is, it’s a physics-based game that tasks you with aiming birds at structures that house (green?) pigs, causing as much destruction with the least amount of birds while taking out all the pigs for the highest score, it’s a mobile phenomenon and has spawned countless sequels, spins offs and animated movies.\n\nIf you’ve played any single one of its mobile counterparts you’ll feel immediately at home with it in VR, you hold the catapult in one hand and aim and fire your birds with the other. You can pick designated places around the map to view the structures and pigs from, which actually adds three-dimensional strategy to each level. One angle might give you a better advantage than others so you’re constantly switching angles to try better your approach.\n\nAngry Birds: Isle of Pigs translates much better to VR than you’d expect and is great for a casual, seated, half an hour to spare fun. My only complaint right now would be the relatively low amount of levels, but the devs are aiming to bring the level count beyond 100 before the year is up so post-launch support will only bring more value for your money.\n\nRead the full review and more here: https://www.opiumpulses.com/article/306/10-oculus-quest-new-release-reviews-p1",
 							"reviewTitle": "Opium Pulses Review",
-							"review_helpful_count": 75,
+							"review_helpful_count": 79,
 							"review_rank_by_viewer": null,
 							"date": 1612032941,
 							"developerResponse": null
@@ -319,7 +324,7 @@
 				"description": "Join Red, Chuck, Bomb and the Blues in the immersive VR game adventure from Resolution Games to save the stolen eggs in Angry Birds VR: Isle of Pigs! Discover the remote island where the greedy pigs vacation; slingshot your way through 104 fun-filled levels of beaches, cliffs, slopes and peaks; destroy structures in the most spectacular way to earn those all-important stars; and create, share and discover an infinite number of levels with the online level builder.  ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974879_1256880918021943_7755566948541598249_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xL_5BOismFsAX8DYg8v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ae25f2d36cd834f6f0e3e15c82213c52&oe=60B1DA1A",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974560_456635805634181_7988815397431295892_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kOtrMTDGfDYAX_Wn1dG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2a03532f4be0bf6963fe4d9c0d83b7b2&oe=60B2AFA3",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

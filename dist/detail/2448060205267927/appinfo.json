@@ -27,10 +27,10 @@
 						"id": "379634205997791"
 					},
 					"cover_landscape_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974596_323669061887304_7215924573475176448_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_dnTfzMqiuYAX9417oF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e1b81a9fc0d3569c3d2f05ed77b4ba29&oe=60AEB4EC"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974596_323669061887304_7215924573475176448_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_dnTfzMqiuYAX-93SLQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=04e234f0008cb48f12069ec91e195226&oe=60B2A96C"
 					},
 					"cover_square_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974827_400711780531518_4403156280940691456_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DY-dnZ7uj4gAX_BbP2-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2d264cea76f280d5f5517001f6d69110&oe=60AF8DD3"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974827_400711780531518_4403156280940691456_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DY-dnZ7uj4gAX8IqB-O&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7132dc5bcb603be4237940572e456c50&oe=60AF8DD3"
 					},
 					"is_viewer_entitled": false,
 					"bundle_items": {
@@ -41,14 +41,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75240106_3506381712810582_4747869490948397008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=k8AEuAGLzdUAX8cKMq7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9563aae17286a3bfe9702b97209d71fc&oe=60AF787C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75240106_3506381712810582_4747869490948397008_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9doDhVcJZg8AX9e31Uk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=39c23f9debcf86f07eda3ee19cb6e84f&oe=60AF787C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982447_722258038664433_606417404344080905_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=ixtODWYbITwAX89JfyL&_nc_ht=scontent.oculuscdn.com&oh=26cb56348f39ed11ddc63099db874f8a&oe=60AEB010"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982447_722258038664433_606417404344080905_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=pPoIfETxRRIAX-4xJ4-&_nc_ht=scontent.oculuscdn.com&oh=9c7caff0ec1655cb58a82ce98220595b&oe=60B2A490"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 968,
+					"count": 971,
 					"starRating": 1
 				},
 				{
@@ -63,12 +63,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 3804,
+					"count": 3805,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 29081,
+					"count": 29115,
 					"starRating": 5
 				}
 			],
@@ -82,7 +82,40 @@
 			"publisher_name": "Beat Games",
 			"supported_in_app_languages": [
 				{
+					"name": "德语"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
 					"name": "英语"
+				},
+				{
+					"name": "西班牙语（哥伦比亚）"
+				},
+				{
+					"name": "西班牙语（墨西哥）"
+				},
+				{
+					"name": "西班牙语（委内瑞拉）"
+				},
+				{
+					"name": "西班牙语（智利）"
+				},
+				{
+					"name": "西班牙语（波多黎各）"
+				},
+				{
+					"name": "西班牙语（秘鲁）"
+				},
+				{
+					"name": "西班牙语（阿根廷）"
+				},
+				{
+					"name": "韩语"
 				}
 			],
 			"supported_hmd_platforms": [
@@ -108,15 +141,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.14.0",
-				"change_log": " - Original Soundtrack Vol. 4 with 4 free new songs.\n - Performance tweaks.",
+				"version": "1.15.0",
+				"change_log": "- Added support for Japanese, Korean, Spanish, French and German language.\n- Small visual tweaks and fixes.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "747532417",
-				"id": "5211037672303486",
-				"required_space_adjusted": "1106662608",
+				"total_installed_space": "805046391",
+				"id": "5401288156611769",
+				"required_space_adjusted": "1159125616",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 72
@@ -276,7 +309,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5211037672303486"
+					"id": "5401288156611769"
 				}
 			},
 			"release_channels": {
@@ -287,8 +320,8 @@
 						"id": "703449633385683",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.14.0",
-							"id": "5211037672303486"
+							"version": "1.15.0",
+							"id": "5401288156611769"
 						}
 					}
 				]
@@ -301,27 +334,27 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "153216510076123",
+							"title": "Beat Saber v1.15.0 Released",
+							"created_time": 1619701526,
+							"body_text": "Hi! Salut! Hallo! ¡Hola! こんにちは！ 안녕하세요! \nWe just released a localization update v1.15.0 with 5 new languages in Beat Saber:\n- French\n- German\n- Spanish\n- Japanese\n- Korean\n\nIf you want to change the language, go to Settings –> Others –> and select the language you prefer.\n\nExcept for localization, we also made minor tweaks in visuals and fixed few bugs.\n\nPS: There is little something in the main menu to celebrate our 3rd anniversary with y'all! <3",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/86594851_3004189289810680_5053423444344022509_n.png?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K_MMu4EpyyUAX8hwqqx&_nc_ht=scontent.oculuscdn.com&oh=f08b8bc47f96baa8241eb90d6e031151&oe=60B0B70A"
+							}
+						},
+						{
 							"id": "3863271030431485",
 							"title": "OST 4 IS OUT NOW!",
 							"created_time": 1616066670,
 							"body_text": "Hey players, Original Soundtrack 4 just dropped in Beat Saber with 4 new songs!\n \n- Jaroslav Beck - Into The Dream (feat. Jakub Tirco)\n- Boom Kitty - It Takes Me (feat. Waylon Reavis)\n- Jaroslav Beck - LUDICROUS+\n- Camellia - Spin Eternally\n\nOur most intense OST up to date also features the new kaleidoscope environment by Freeek and Split.\n\n*This is a free release and all OST 4 songs have content ID turned off, so you can stream the songs without limitations.\n\n- This update also brings few performance tweaks\n\n",
 							"tile_landscape_image": null
-						},
-						{
-							"id": "156552242956747",
-							"title": "Beat Saber v1.13.4 Released",
-							"created_time": 1615293540,
-							"body_text": "Hey players, we just released a new update bringing several tweaks and improvements to Beat Saber. Check what's new in the game!\n\n- New Multiplayer results screen\n- New Badges after playing a Multiplayer match\n- New gameplay Modifiers\n- New main menu UI with new music\n- Custom colors for other players in Multiplayer\n- Updated lighting system\n- Fixed color profiles\n- Added Dash support\n- Various tweaks and fixes\n\nLet us know on social media what you think about this new update! We're @beatsaber on Twitter, Facebook and Instagram.",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75647712_420650039239658_7160584023729054251_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IN__ucmw5ggAX98aQEh&_nc_ht=scontent.oculuscdn.com&oh=eea5b82e983b19ad00e8c4c5b5bc310b&oe=60B0B049"
-							}
 						}
 					]
 				},
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRqx44dwP1McfMjGfWNWsiipVAsSm0Ys2MlhWoaclCXqt5sOUGA7zaQI4GN49FxA8Adp9IeJL9V3bzu5Cd8s6doA"
+							"cursor": "AQHRE_ebn2FfoIN0h9xmQhmB6t95bZsK1LpPRot2hsTsXcU9Sexwc2W0RN5_XSuZ0nk9eAG2fR9gJVq0p1r7R-fHBQ"
 						}
 					]
 				}
@@ -374,11 +407,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6831618810762,
+			"quality_rating_aggregate": 4.6831347749986,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 9110,
+				"count": 9111,
 				"orderings": [
 					{
 						"key": "top",
@@ -391,10 +424,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 9110,
+				"count": 9111,
 				"page_info": {
-					"end_cursor": "AQHRWEkBcZsAgNuRiu8cHD0tAOB949Krnb1bKE1XAXjjpoNofigIfVLScqgiSjXllMBOF2mtQJ66B0Yb1s01F3P0VA",
-					"start_cursor": "AQHRWEkBcZsAgNuRiu8cHD0tAOB949Krnb1bKE1XAXjjpoNofigIfVLScqgiSjXllMBOF2mtQJ66B0Yb1s01F3P0VA"
+					"end_cursor": "AQHRqORjABTyORxfnXTUvsEprp27gWcAwK2LOmqrbg1Lh1vvwuwexsylXcrKbcKrshXqq6xvAAM92e0ZcglnZL4jeQ",
+					"start_cursor": "AQHRqORjABTyORxfnXTUvsEprp27gWcAwK2LOmqrbg1Lh1vvwuwexsylXcrKbcKrshXqq6xvAAM92e0ZcglnZL4jeQ"
 				},
 				"edges": [
 					{
@@ -404,13 +437,13 @@
 								"id": "112706623943519",
 								"display_name": "Mr_Jumble",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/75272209_186765833204264_9092740147404231912_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Jh1U8pCkQ7wAX_DK2rv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f719664c49cb560888abded4cbcfc30c&oe=60AE7D05"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/75272209_186765833204264_9092740147404231912_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8xbnogN8QDQAX8l-miM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4470012e13a7f8fa94edeb7cfd6be0b1&oe=60B27185"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "So I was playing my daily round of multiplayer beat saber and I was doing spins and stuff because I thought I was soooooo cool. Little did I know, I was being a little bit too enthusiastic.... \n\nI was in the middle of a song and in first place when I did a spin that was a little too quick for my headset. Time slowed down as I watched my headset fly off my face like an anchor ready to plunge into water. Adrenaline rushed through my veins as I bolted to action! I wasn’t gonna let this one mistake break my headset. My hands reached out but sadly my controllers were in the way so I couldn’t get a grip on my headset. Both me and my headset crashed to the ground and I looked at my headset in panic. There it was, the foam pad that once covered my face was no longer connected to the headset due to the impact. But other than that, the headset looked fine! I could still hear the music of the beat saber song playing out of my headset, so that was a good sign. I quickly put the foam pad back onto my headset and put my headset on my face. A sigh of relief. My quest 2 was not broken.￼ \n\nIn the end I lost that beat saber game but I am very relieved that my quest 2 did not break. \n\nThis game is so good that I almost broke my headset because of it. I am very addicted to this game and if you’re looking for a first game to get on your new (or old) VR headset this is definitely the game to get. It is a blast!\n\nP.S. \n\nTo Beat Saber devs, \n\nIt would be pretty cool if you added the option of voice chat in beat saber multiplayer.",
 							"reviewTitle": "My quest 2 flew off my face....",
-							"review_helpful_count": 624,
+							"review_helpful_count": 691,
 							"review_rank_by_viewer": null,
 							"date": 1617337606,
 							"developerResponse": null
@@ -425,7 +458,7 @@
 				"description": "Beat Saber is a VR rhythm game where your goal is to slash the beats which perfectly fit into precisely handcrafted music.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982666_428302788460654_8060613693742011808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GffUWmKMcoUAX---BKk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=19643753f2cb7514fee69949522ff086&oe=60B19BC7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982666_428302788460654_8060613693742011808_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GffUWmKMcoUAX_qPy5g&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d1b69a748d5afe552d51cd915db34576&oe=60B19BC7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
