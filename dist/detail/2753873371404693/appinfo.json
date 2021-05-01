@@ -10,13 +10,38 @@
 			"display_name": "Traffic Jams",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "937271317038042",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "挑战好友",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "$44.99"
+						},
+						"strikethrough_price": {
+							"formatted": "$59.98"
+						},
+						"id": "371581980787451"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/39035310_458245045254581_809907407008961220_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=742AXulfsAEAX-_aOiC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eb1924275f40a0b8ad998564c4093c71&oe=60B0D96E"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974538_3026330044348123_42871815912042432_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zd6IO3rzNxsAX-pRY7t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=236728814175fc02f4acf30f09fd0abe&oe=60B32BAD"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974538_3026330044348123_42871815912042432_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zd6IO3rzNxsAX-udgQN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fa0d77c43b56c9748a49ae4f75a9c9ef&oe=60B32BAD"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_129683612462247_8559261468861341611_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=31UuoKSFRbsAX9vygm9&_nc_ht=scontent.oculuscdn.com&oh=9ffe9c2ce1e32a616a01435b8f774572&oe=60B2A6C2"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_129683612462247_8559261468861341611_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=DewiodWSInQAX_FKp3g&_nc_ht=scontent.oculuscdn.com&oh=7cfcc5d4e5b727df7d46676b767e02f0&oe=60B2A6C2"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -117,15 +142,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.21031518",
-				"change_log": "",
+				"version": "1.0.21041616",
+				"change_log": "fixed cheese and other event items falling through the ground\nfixed text on the traffic report indicating the next level to unlock\nfixed completed objectives in multiplayer not getting marked as completed on the watch\nadjusted traffic direction in tokyo multiplayer to match the road markings on the ground\nadded two new loadings tips specifically for multiplayer",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "960992743",
-				"id": "3635385016586853",
-				"required_space_adjusted": "1762112684",
+				"total_installed_space": "962460328",
+				"id": "3728467810611906",
+				"required_space_adjusted": "1764050606",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -159,7 +184,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3635385016586853"
+					"id": "3728467810611906"
 				}
 			},
 			"release_channels": {
@@ -170,8 +195,8 @@
 						"id": "217362019716259",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.21031518",
-							"id": "3635385016586853"
+							"version": "1.0.21041616",
+							"id": "3728467810611906"
 						}
 					}
 				]
@@ -189,7 +214,7 @@
 							"created_time": 1617970796,
 							"body_text": "When you've encountered the challenge of the streets, it's time to bring some backup! Traffic Jams' multiplayer mode is a cooperative effort between the VR player and non-VR players. The mode is unlocked per map after you play through a level for the first time and is visible by clicking the green tab on the level folder!\n\n\n\nNon-VR players can join in by entering the following URL in any browser, be it on the phone or on the computer!\n\nwww.trafficjams.app\n\n\n\nThe non-VR player will be asked for a 4-digit room code, which is provided by the VR player. After 4 players have entered the code and the player names during the countdown, the multiplayer session will start!\n\nCOOPERATIVE OBJECTIVES\n\nThe Multiplayer mode of Traffic Jams is very focused on teamwork! The non-VR players will have to spawn pedestrians, cars, zombies and more to supply the VR player with the objects necessary to clear the objectives!\n\n\n\nThe game ends when time runs out, so the better everyone works together, the longer you'll be able to jam on in the streets! At the end, a leaderboard will appear, showing who of the non-VR players contributed the most to the session.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982586_473291173822533_6954098668626997356_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P1ciQSaMKgoAX8pg0yx&_nc_ht=scontent.oculuscdn.com&oh=1cf0c111b23b425fe85d1bfc31b3f2c1&oe=60B05155"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982586_473291173822533_6954098668626997356_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P1ciQSaMKgoAX9w-U-5&_nc_ht=scontent.oculuscdn.com&oh=671e6f9a9f208f289497f41c78e71c67&oe=60B445D5"
 							}
 						},
 						{
@@ -198,7 +223,7 @@
 							"created_time": 1617895109,
 							"body_text": "Today is the day! The teams from Vertigo Games and Little Chicken Game Company are happy to share with you that Traffic Jams is out now on Oculus Quest!\n\nTraffic Jams is a tongue-in-cheek VR sim with a wacky take on traffic controlling and an asymmetrical multiplayer mode that will let you share the fun with the whole family, your friends - and yes, even your online followers!\n\nMultiplayer mode!\nThe couch party mode, unites VR and non-VR players in asymmetrical party play. Up to 4 non-VR friends can join in on the road mayhem using their mobile devices.\n\nManipulating traffic and events with the push of a button, mobile players will need to work together closely with the VR player to complete their objectives before time runs out.\n\nSee you at the crossroads!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974909_274620057579282_6595586180232542778_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9fgL8ejsPFEAX_WJHsu&_nc_ht=scontent.oculuscdn.com&oh=4bcdea0384868c668fcdc7d9f0c13ae6&oe=60B0EEF9"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974909_274620057579282_6595586180232542778_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9fgL8ejsPFEAX8RAn_A&_nc_ht=scontent.oculuscdn.com&oh=cc6b839c1491e2a9bc56d56aca818d41&oe=60B0EEF9"
 							}
 						}
 					]
@@ -274,8 +299,8 @@
 			"firstQualityRatings": {
 				"count": 38,
 				"page_info": {
-					"end_cursor": "AQHRcNPkz_rtWtw5Sk3uBaqmsEzBxju9nTgPE90Tr5MuqJvN_R_8yuXhNMi2laXyTOIjht2snYeq1n49Gb_m-J_gtg",
-					"start_cursor": "AQHRcNPkz_rtWtw5Sk3uBaqmsEzBxju9nTgPE90Tr5MuqJvN_R_8yuXhNMi2laXyTOIjht2snYeq1n49Gb_m-J_gtg"
+					"end_cursor": "AQHRqDhu15fSLkN6emvfj4toraB0AsZZk3xLqmIj7P7D_xY4fU-kyW4NzhQAjQxxdlV4uEgntf8PBHznHyc8BzPNZA",
+					"start_cursor": "AQHRqDhu15fSLkN6emvfj4toraB0AsZZk3xLqmIj7P7D_xY4fU-kyW4NzhQAjQxxdlV4uEgntf8PBHznHyc8BzPNZA"
 				},
 				"edges": [
 					{
@@ -285,7 +310,7 @@
 								"id": "100407938138626",
 								"display_name": "Get_To_Da_Choppa_VR",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.540.540a/s160x160/38974901_266588208187264_3466262889980753676_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=43WmkRLAbMsAX9M-jt6&_nc_oc=AQkRJ0bYkkS7IsrWFhDqAs4_e7X6JSycf4PZjx7CoRWUOZ2kPpWu4P8hKQv7MruLJzE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e25cd2275494765a0f21a4e016516f4&oe=60B02122"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.540.540a/s160x160/38974901_266588208187264_3466262889980753676_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7JjFaEAMYfsAX8RRiDu&_nc_oc=AQm8osgQTlrij2SuVK25FiWxlUCHfvCeBP1E9lJx8mcPObJ6aKrvn7uvAmnJy2a3Nvk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ca362a57cf46b4d0f9df9458584a1bf5&oe=60B415A2"
 								}
 							},
 							"score": 4,
@@ -306,7 +331,7 @@
 				"description": "在这款怪诞离奇的 VR 游戏里，你需要控制交通，直面让人抓狂的事件和肆无忌惮的路怒症行为。听起来小菜一碟吗？别高兴得太早！《Traffic Jams》中还会出现各种怪物和自然（非自然）灾害，你还可以在派对模式中与最多 4 位非 VR 好友一起游玩！",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_5787658857918763_4065263092201716732_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kSsplw6oWP4AX-HNuQS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=88c84548d707d7ed45a38fd4b8a37d45&oe=60B31B06",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_5787658857918763_4065263092201716732_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kSsplw6oWP4AX-srT8i&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d1a23a1604321bdaecea836e3a301f72&oe=60B31B06",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

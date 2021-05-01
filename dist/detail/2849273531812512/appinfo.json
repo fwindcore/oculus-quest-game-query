@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001684_1410541599334309_72590290987887752_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ux8Gv6Golk8AX9b0and&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f1df435b02b36a0c33372a821ea8b21f&oe=60AFC653"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001684_1410541599334309_72590290987887752_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ux8Gv6Golk8AX-1hnEL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d6456e72a04176bdec4a5c5fe5b1d2fd&oe=60B3BAD3"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57568672_622128251756161_8150225171028996523_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=GYyTOmyvzWsAX-h3zei&_nc_ht=scontent.oculuscdn.com&oh=1bc6f17db29942eb1f449525d2f8b287&oe=60B12DE8"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57568672_622128251756161_8150225171028996523_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cEJlXe7wYhwAX-3kxyY&_nc_ht=scontent.oculuscdn.com&oh=3a35f90e3be2615bbd473d6b26aed8d6&oe=60B12DE8"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -84,15 +84,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.8.13",
-				"change_log": "Fix menu on launch",
+				"version": "1.8.14",
+				"change_log": "fix black screen issue, new 360 photos, UI bug fixes",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "549130948",
-				"id": "5476951089044730",
-				"required_space_adjusted": "690662705",
+				"total_installed_space": "616575776",
+				"id": "5512573305482508",
+				"required_space_adjusted": "799316799",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -126,7 +126,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5476951089044730"
+					"id": "5512573305482508"
 				}
 			},
 			"release_channels": {
@@ -137,8 +137,8 @@
 						"id": "355866975097122",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.8.13",
-							"id": "5476951089044730"
+							"version": "1.8.14",
+							"id": "5512573305482508"
 						}
 					}
 				]
@@ -224,8 +224,8 @@
 			"firstQualityRatings": {
 				"count": 454,
 				"page_info": {
-					"end_cursor": "AQHRHfFcGhArqmScQSsud5P9L4cgR5pRJKNN2MAsC2jEaerkOaI4-HoprxAI4Wgd4HY5eG4-VCnLw19mKDq-NKmr8w",
-					"start_cursor": "AQHRHfFcGhArqmScQSsud5P9L4cgR5pRJKNN2MAsC2jEaerkOaI4-HoprxAI4Wgd4HY5eG4-VCnLw19mKDq-NKmr8w"
+					"end_cursor": "AQHR7Z_yy10P47WkWW4QV5g4s_0LTWklFB3nWvdfJqNNVZ2BdefhWTdtMEP2E16ubKYnIwGBS2PJvjSTDns4eMqNlw",
+					"start_cursor": "AQHR7Z_yy10P47WkWW4QV5g4s_0LTWklFB3nWvdfJqNNVZ2BdefhWTdtMEP2E16ubKYnIwGBS2PJvjSTDns4eMqNlw"
 				},
 				"edges": [
 					{
@@ -235,7 +235,7 @@
 								"id": "100452668631073",
 								"display_name": "HappeeDad",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974841_107421031267570_4387321440856480209_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qzCes_vmG5gAX-XTFrE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a54449246ec6f96243388fcf8f9c9ba2&oe=60B220A1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974841_107421031267570_4387321440856480209_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yKlbECmIU34AX8TmJjU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=79bd39732d147dd8018ffb4e12b4e29a&oe=60B220A1"
 								}
 							},
 							"score": 5,
@@ -256,7 +256,7 @@
 				"description": "VR Offices! Free app to get your Mac/PC/Linux screens in VR (including additional virtual screens with no extra hardware) in stunning virtual worlds!\nImmersed Desktop is great for solo work with 2 virtual screens in a virtual coffee shop, or upgrade to Immersed Elite to collaborate with your team around even more screens and whiteboards!\nFree 7-day trial of Elite included with every download!\n\nimmersedVR.com\nNOTE: For no lag, use WiFi Direct: immersedVR.com/wifi-direct",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207240_399536351075899_6835880674088994638_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Hk6z4eEcY0YAX_13A_C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60949fb1405254618ad69f2a2749732c&oe=60B0F9A7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75207240_399536351075899_6835880674088994638_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Hk6z4eEcY0YAX9Jqtob&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1f1da53df58e1cb5227b66ec1a1cad4c&oe=60B0F9A7",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

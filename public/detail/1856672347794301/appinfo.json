@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982653_326398221383628_1499138496214859776_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LPCDN57tXBcAX_6-q0e&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f79e18b38d17c7d67461faf3dfafc85a&oe=60B1B65A"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982653_326398221383628_1499138496214859776_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LPCDN57tXBcAX_3ujMB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3dea70f5896775150476720a3ad9689a&oe=60B1B65A"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_326397168050400_2154536607070289920_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=y5OfgrI3jmEAX_e60Zb&_nc_ht=scontent.oculuscdn.com&oh=bc1e680de12ee50b2be332cd456068f7&oe=60B23335"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_326397168050400_2154536607070289920_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=y5OfgrI3jmEAX8UI2_x&_nc_ht=scontent.oculuscdn.com&oh=aa54fa01cd54211b087ac459ec06b7fb&oe=60B23335"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 950,
+					"count": 952,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2880,
+					"count": 2885,
 					"starRating": 5
 				}
 			],
@@ -131,7 +131,7 @@
 				}
 			},
 			"release_channels": {
-				"count": 2,
+				"count": 1,
 				"nodes": [
 					{
 						"channel_name": "LIVE",
@@ -140,15 +140,6 @@
 							"__typename": "AndroidBinary",
 							"version": "2021.1.5p3-1078--Release",
 							"id": "3610403272421191"
-						}
-					},
-					{
-						"channel_name": "OpenBeta",
-						"id": "2733353553608365",
-						"latest_supported_binary": {
-							"__typename": "AndroidBinary",
-							"version": "2021.2.1-1084--Release",
-							"id": "3618291348299050"
 						}
 					}
 				]
@@ -162,7 +153,11 @@
 					"nodes": []
 				},
 				"iap_items_2": {
-					"edges": []
+					"edges": [
+						{
+							"cursor": "AQHRlJ4h5aSXIVhbR7d5t9fb82lJX1CqQcAz5ZQ5ahMBkIYornpogC1QDU_RRL3k6tJZPtZQ2sk1I8txZd9YinBQZw"
+						}
+					]
 				}
 			},
 			"externalReviewsForDisplay": {
@@ -207,11 +202,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7701269344462,
+			"quality_rating_aggregate": 3.7702327196943,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1889,
+				"count": 1891,
 				"orderings": [
 					{
 						"key": "top",
@@ -224,10 +219,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1889,
+				"count": 1891,
 				"page_info": {
-					"end_cursor": "AQHRYSmIRUGLLqMqFjhrxInuuLMrjuh32kNhs9465q10rloYr-qSpqEE98fvyusj_QdNZrCk7SdO1RbmjVbMl8MNZA",
-					"start_cursor": "AQHRYSmIRUGLLqMqFjhrxInuuLMrjuh32kNhs9465q10rloYr-qSpqEE98fvyusj_QdNZrCk7SdO1RbmjVbMl8MNZA"
+					"end_cursor": "AQHRPFf2uNY_eGXdW7X27IMAMusRLOU6BQPVBd3M3R0eoQnnZ2dscihE3F11cdgwX9jxthpMfR63Emh1_A0y0kLV1w",
+					"start_cursor": "AQHRPFf2uNY_eGXdW7X27IMAMusRLOU6BQPVBd3M3R0eoQnnZ2dscihE3F11cdgwX9jxthpMfR63Emh1_A0y0kLV1w"
 				},
 				"edges": [
 					{
@@ -237,7 +232,7 @@
 								"id": "103946967593478",
 								"display_name": "Shinobi_Inkling",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.717.717a/s160x160/38974853_436829524305219_9069767358578329117_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dhKXGpNxViQAX9ks-wn&_nc_oc=AQlLxzboQiEM1FIhhZ0_hgsELDo-54J5tsHPNSRwISlRAmoptwDN0JATIZb1AQ5MXHc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bdff3aa0d82f3d20dcbdfd7c2130c20c&oe=60B09916"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.717.717a/s160x160/38974853_436829524305219_9069767358578329117_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dhKXGpNxViQAX8R8TPG&_nc_oc=AQlH3HROuWYgGhm-qerdxvJyUHnRI5OgfCzUykHawpbEUEqDr2QkalpAkqBKdJLCbvk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ea0f8f2b40a0ea3b2c84f48dc6f2fd64&oe=60B48D96"
 								}
 							},
 							"score": 4,
@@ -258,7 +253,7 @@
 				"description": "Make Friends and Explore an endless stream of Community made Worlds and Avatars",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974851_359053188031459_882505591942021120_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GFXADyE94g8AX-HgPfX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=700945eb3ab99cfe448624a13c607dc7&oe=60B2EAB6",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974851_359053188031459_882505591942021120_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=d4qNu-jeK0sAX8KDsxZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1cf548a665df62bf8bc9cb862b473e49&oe=60B2EAB6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -10,38 +10,63 @@
 			"display_name": "Star Wars Pinball VR",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "140295288005939",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "“星球大战日”捆绑包",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "$59.99"
+						},
+						"strikethrough_price": {
+							"formatted": "$79.95"
+						},
+						"id": "782969495946762"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/75269589_186033426695467_5599399978141727988_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6QGM8lubGHQAX9KvO8N&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a81a3e798a313a6957480fca00a1f10&oe=60B1544C"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 5
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_3952853951496295_690541236126936005_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZGQ9wHC8xkkAX9RSOgN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=44b9ad6ff6f242e8251e741cbd8f601c&oe=60B33B9C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_3952853951496295_690541236126936005_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZGQ9wHC8xkkAX_4tBPv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=05c8ed4543f0c85306be991d6a152ee9&oe=60B33B9C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035469_1130178697464874_7912021907042290482_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Fxevm_BGTLMAX86PKAc&_nc_ht=scontent.oculuscdn.com&oh=232c8c50407489aa339ce1eec062c516&oe=60B0A47D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035469_1130178697464874_7912021907042290482_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lOFpSPyEPPoAX_RsalQ&_nc_ht=scontent.oculuscdn.com&oh=61a2d9e7e951f54b14ab0d6d32dd80c8&oe=60B498FD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 5,
+					"count": 6,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 12,
+					"count": 19,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 10,
+					"count": 19,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 11,
+					"count": 28,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 48,
+					"count": 72,
 					"starRating": 5
 				}
 			],
@@ -228,11 +253,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9883720930233,
+			"quality_rating_aggregate": 3.9791666666667,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 64,
+				"count": 109,
 				"orderings": [
 					{
 						"key": "top",
@@ -245,10 +270,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 64,
+				"count": 109,
 				"page_info": {
-					"end_cursor": "AQHRf7MB5wYRkvCZEmcbQ32k4QsFMqbOuCibVl_ZR0TSylrIqvdjU0SKzUNu7KctF8MVJmOSeWKBxBJlup_oEuzUYg",
-					"start_cursor": "AQHRf7MB5wYRkvCZEmcbQ32k4QsFMqbOuCibVl_ZR0TSylrIqvdjU0SKzUNu7KctF8MVJmOSeWKBxBJlup_oEuzUYg"
+					"end_cursor": "AQHRYqr5ipOW0JQ5vTZsMYkAOq2Z-as3ZA4lISfYGDv6Zikp_-UieNBr0pbCA_H5BdwQMGGWR6Ea2VkUoiEN7h2eog",
+					"start_cursor": "AQHRYqr5ipOW0JQ5vTZsMYkAOq2Z-as3ZA4lISfYGDv6Zikp_-UieNBr0pbCA_H5BdwQMGGWR6Ea2VkUoiEN7h2eog"
 				},
 				"edges": [
 					{
@@ -258,13 +283,13 @@
 								"id": "1682876785362558",
 								"display_name": "ParadiseDecay",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38982553_2699537167029843_5055754965830283041_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iPdniV3O5zQAX8KZ6je&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2448a79bad7f363936684f520daf8188&oe=60B2BB80"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38982553_2699537167029843_5055754965830283041_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JIECuLLRWbwAX9svV-l&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d016d42d530f45b724eabc01ea41f61a&oe=60B2BB80"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Impressions Video with Commentary:\nhttps://www.youtube.com/watch?v=Up2M89Fscpc\n\nMy Initial Impressions:\nAs a Massive fan of Star Wars and Pinball FX tables, I was not disappointed with this title. I have already sunk many hours into this game both on Quest 2 and PC.\nIn this game we get 8 unique tables, based around 8 Star Wars themes, ranging from Rebels to A New Hope and each table offers it own unique take on the lore and Star Wars Universe.\nI'm in heaven playing this game.",
 							"reviewTitle": "Yes I'm a Star Wars nerd, I love this!",
-							"review_helpful_count": 57,
+							"review_helpful_count": 88,
 							"review_rank_by_viewer": null,
 							"date": 1619715922,
 							"developerResponse": null
@@ -279,7 +304,7 @@
 				"description": "Star Wars Pinball VR surrounds you with amazing tables:\n • The Mandalorian \n • A New Hope \n • The Empire Strikes Back \n • Return of the Jedi \n • Rogue One\n • Star Wars Rebels\n • Masters of the Force\n • Classic Collectibles\n \n Customize your fan cave!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031318_132509852037857_9011120570206190213_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=y9-3MTlqiKQAX-l5vFg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f4d71f8a48e82fadca34d18bd32e581f&oe=60AFE0BB",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031318_132509852037857_9011120570206190213_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=y9-3MTlqiKQAX9-pkDl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ea25a08175eeffe4f46b5796689d0b2b&oe=60B3D53B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

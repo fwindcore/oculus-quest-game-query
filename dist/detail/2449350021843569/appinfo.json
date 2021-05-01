@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031493_266729675066561_2115852908831462978_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cYk0GavB8JwAX-kx6Ul&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5277c47f5471ddb2d97f4d144e840fc3&oe=60B226DB"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031493_266729675066561_2115852908831462978_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cYk0GavB8JwAX_EiPZ4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c1ec167c3e72bdfe091e6783a78708ca&oe=60B226DB"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_509536369709162_8376108403923091456_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=2nZGjmVs91EAX-gv-PL&_nc_ht=scontent.oculuscdn.com&oh=438abdf4f503ca1fb5fc96231164f60e&oe=60B19760"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_509536369709162_8376108403923091456_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=2nZGjmVs91EAX_m4ih9&_nc_ht=scontent.oculuscdn.com&oh=e64fe0242dc8720694a7afc3c36b2795&oe=60B19760"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 776,
+					"count": 777,
 					"starRating": 5
 				}
 			],
@@ -114,15 +114,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "138",
+				"version": "142",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1043861854",
-				"id": "3769302879848270",
-				"required_space_adjusted": "1219463130",
+				"total_installed_space": "1046118254",
+				"id": "3832882816823609",
+				"required_space_adjusted": "1222706194",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -135,17 +135,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "1090185464674877",
+				"id": "492876342064633",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1499",
+					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-25%",
+				"end_time": 1619938740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -156,7 +161,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3769302879848270"
+					"id": "3832882816823609"
 				}
 			},
 			"release_channels": {
@@ -167,8 +172,8 @@
 						"id": "1341351702703399",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "138",
-							"id": "3769302879848270"
+							"version": "142",
+							"id": "3832882816823609"
 						}
 					},
 					{
@@ -176,8 +181,8 @@
 						"id": "244544670000012",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "140",
-							"id": "3819155631529661"
+							"version": "142",
+							"id": "3832882816823609"
 						}
 					}
 				]
@@ -195,7 +200,7 @@
 							"created_time": 1595185930,
 							"body_text": "A new class has entered the arena! The Reaper is a swift and deadly fighter who wields a grim, heavy scythe. Look out for other new features as well, including voice chat, new GIF options, and new cosmetics.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035332_1586850171486195_4026298046320207427_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dr4jjOfvIQkAX_uNMPG&_nc_ht=scontent.oculuscdn.com&oh=6159923ab85a6e05f7f2d01c205373e4&oe=60AFD071"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39035332_1586850171486195_4026298046320207427_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dr4jjOfvIQkAX-6G2u6&_nc_ht=scontent.oculuscdn.com&oh=84c73aabbb16a5a334d9b15916e2cd67&oe=60B3C4F1"
 							}
 						}
 					]
@@ -203,7 +208,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRdmKYFKcSSyrONqZieQ-4HHBN4cig8r8xwcK_zKNXWcm2hU3sxsO37zHKJx11Kev-TN49lcrIg_-e91lw_YG3oA"
+							"cursor": "AQHRbf0ijEuVbsokQxNaKHve95SfOZRVprNryUSVr4ZRCKHMri6yoez63D7O0MNt3XArWMlEglab9YjJ2Uit1Dj53g"
 						}
 					]
 				}
@@ -251,16 +256,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "1090185464674877"
+				"id": "492876342064633"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3217021276596,
+			"quality_rating_aggregate": 4.3222789115646,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 668,
+				"count": 669,
 				"orderings": [
 					{
 						"key": "top",
@@ -273,10 +278,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 668,
+				"count": 669,
 				"page_info": {
-					"end_cursor": "AQHR054KSiUwy2pHgC6uZiJAtIAZ50nF9yM4HjcNIPKH-MbwAc3ye7IO6mnDmHrOWhEmA3kIKMrWC3pmL-Q21oZ9JQ",
-					"start_cursor": "AQHR054KSiUwy2pHgC6uZiJAtIAZ50nF9yM4HjcNIPKH-MbwAc3ye7IO6mnDmHrOWhEmA3kIKMrWC3pmL-Q21oZ9JQ"
+					"end_cursor": "AQHRXphNMJcHtlp2XJ-gmyarL4aTWT_8pZKC1Bbp6F-c8-v3WE62ThLROBoRkK4nlTs7-cDHn_YjuC7HMG85hZPc3g",
+					"start_cursor": "AQHRXphNMJcHtlp2XJ-gmyarL4aTWT_8pZKC1Bbp6F-c8-v3WE62ThLROBoRkK4nlTs7-cDHn_YjuC7HMG85hZPc3g"
 				},
 				"edges": [
 					{
@@ -286,13 +291,13 @@
 								"id": "102606331265328",
 								"display_name": "SotoTokihera",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.722.722a/s160x160/57566696_102606494598645_6176857493629566976_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MFgWpaHx-YMAX80FbTJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=db36fa2d36ec890badec7c01afe3b4f0&oe=60B2273D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.722.722a/s160x160/57566696_102606494598645_6176857493629566976_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MFgWpaHx-YMAX_yX553&_nc_ht=scontent.oculuscdn.com&tp=28&oh=329e55276095596d065e422b82e8368d&oe=60B2273D"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Listen, I get that you think the combat sucks because of the instant breaks of the weapons or the fact that it takes \"No Skill\". What do you think would happen if the weapons didn't break? Everybody would be hitting each other to no extent because weapons clipping through each other would be possible. Again, the no skill part hurts me so much. If it takes no skill, then give us a reason. The main reason you probably think it takes no skill is because a lot of the early rank players Just swing their weapons willy-nilly and you try to block but you can't because you actually haven't tried. If you try to have fun, you will have fun",
 							"reviewTitle": "Why the One Stars?",
-							"review_helpful_count": 89,
+							"review_helpful_count": 95,
 							"review_rank_by_viewer": null,
 							"date": 1617341026,
 							"developerResponse": null
@@ -307,7 +312,7 @@
 				"description": "Ironlights is a VR dueling game with skillful, fluid, slow-motion melee combat. Parry, block, and strike down your opponents using a variety of diverse physics-based weapons. Test your skills in online multiplayer battles, or fight to the top of the league in the huge single-player campaign!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974557_211081060782408_6446240184154725486_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_LIlN_QbmY0AX8BGUgU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59ee07a12ce43ba923ac11b8892fc8ae&oe=60AFA29D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75230052_154207126657240_7296948242038633326_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=e5oL_MeSWWAAX9M1btt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe3ef978205ab74bc149acdbd0a6598c&oe=60B1162E",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

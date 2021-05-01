@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DRHWN-Tj0RQAX8gQ-Kr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bb36744b962bd0f4e69932ce29da8a3c&oe=60B0F392"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982643_332260644008414_693318935457562624_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Oa3AltJuR60AX-cyff5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96dd0203d370d026b8f22e7426c348b9&oe=60B0F392"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=mBNXLOm-pQkAX_AcWJt&_nc_ht=scontent.oculuscdn.com&oh=076e5b036257d60393d98de52acaaf88&oe=60AFCC46"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_377613536417676_1393296496153067520_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=mBNXLOm-pQkAX-kJjIc&_nc_ht=scontent.oculuscdn.com&oh=29ae3c41410b75422e1f6fbade7a58c2&oe=60B3C0C6"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 326,
+					"count": 327,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 67,
+					"count": 68,
 					"starRating": 2
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 251,
+					"count": 252,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2828,
+					"count": 2846,
 					"starRating": 5
 				}
 			],
@@ -80,15 +80,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.20.3.0",
-				"change_log": "Welcome to Virtual Desktop! If you experience any issues, please visit the website at www.vrdesktop.net to check out the FAQ or reach out to us on Discord.\n\nChanges in this version:\n• Added DirectX 12 support in the PCVR runtime\n• Added windows network profile check in the Streamer\n• Uninstalling the Streamer from the system menu on macOS now uninstalls the audio devices\n• Fixed issue with Copy screenshots to desktop option getting unchecked\n• Fixed windows error message when launching game from system tray\n• Fixed Start with Windows no longer working in latest Windows version\n• Fixed game compatibility with: Echo VR, The Walking Dead: Saints & Sinners, WW1 Fighters, Creed: Rise to Glory, Layers of Fear VR, Arden's Wake\n• Fixed haptics in Echo VR, Onward and other games",
+				"version": "1.20.5.0",
+				"change_log": "Welcome to Virtual Desktop! If you experience any issues, please visit the website at www.vrdesktop.net to check out the FAQ or reach out to us on Discord.\n\nChanges in this version:\n• Added 120hz support when streaming VR games\n• Added Potato VR Graphics Quality option for those with lower-end GPUs\n• Hand tracking now uses high frequency tracking on Quest 2\n• Minimum VR Bitrate was reduced from 32 Mbps to 10 Mbps\n• Maximum Desktop Bitrate was increased from 32 Mbps to 40 Mbps on Quest 1 and 60 Mbps on Quest 2\n• Wi-Fi SSID name will now be displayed at the top of the Computers tab in VR (this is why you get a location permission request)\n• Fixed game compatibility with recent updates of: Until you Fall (Steam) and Onward",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "440556178",
-				"id": "3981588625217593",
-				"required_space_adjusted": "776180992",
+				"total_installed_space": "440721604",
+				"id": "4039092386133883",
+				"required_space_adjusted": "776484096",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -122,7 +122,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3981588625217593"
+					"id": "4039092386133883"
 				}
 			},
 			"release_channels": {
@@ -133,8 +133,8 @@
 						"id": "269719120347043",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.20.3.0",
-							"id": "3981588625217593"
+							"version": "1.20.5.0",
+							"id": "4039092386133883"
 						}
 					},
 					{
@@ -142,8 +142,8 @@
 						"id": "969986879861372",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.20.4.0",
-							"id": "4033250740051381"
+							"version": "1.20.5.0",
+							"id": "4039092386133883"
 						}
 					}
 				]
@@ -159,7 +159,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRD5pqlXFhOQlR6wgvNYcSxHuS2eezeZBfh_bxcr_jNYlY_KZ2DvLRdI287QcQtwEKyUr-Bt5JWqxP8oAoJw5NJA"
+							"cursor": "AQHR5qHaFHbBK62pezutTItcsG8hskj8S9mw9dEVyMZCLg1j1Krt16pGlJOKtfiCRZLRW430aShht4XWZOI5urtb0A"
 						}
 					]
 				}
@@ -212,11 +212,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4560763401628,
+			"quality_rating_aggregate": 4.45703125,
 			"support_website_url": "http://discord.vrdesktop.net/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1772,
+				"count": 1780,
 				"orderings": [
 					{
 						"key": "top",
@@ -229,10 +229,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1772,
+				"count": 1780,
 				"page_info": {
-					"end_cursor": "AQHRYf7w_1MqQIF5dmtodYk1MKQFUyAZbeXN97i8lg6bUdh5JuNcdxk3xQIin5-nLlty1lSb11YDlMh-OUpIDXELOQ",
-					"start_cursor": "AQHRYf7w_1MqQIF5dmtodYk1MKQFUyAZbeXN97i8lg6bUdh5JuNcdxk3xQIin5-nLlty1lSb11YDlMh-OUpIDXELOQ"
+					"end_cursor": "AQHR6Kr49slMLyiLEpOUCc_ZNMOkq7RbH-qWja7f4liEPag8T2BqNvqfjzuVfWFhmDCCmLy9scG9RjrnMzGoUO6LLQ",
+					"start_cursor": "AQHR6Kr49slMLyiLEpOUCc_ZNMOkq7RbH-qWja7f4liEPag8T2BqNvqfjzuVfWFhmDCCmLy9scG9RjrnMzGoUO6LLQ"
 				},
 				"edges": [
 					{
@@ -242,13 +242,13 @@
 								"id": "1936843356571589",
 								"display_name": "Kanarico13",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982715_2733294606926456_9021111945894389567_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aJI1i1cVIg8AX-DKAti&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a5caff419ac2a20a0e19950a1b4f13c5&oe=60AF7835"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982715_2733294606926456_9021111945894389567_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aJI1i1cVIg8AX-OuRrc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4dfc28577092c949ddf9453346e0fb27&oe=60B36CB5"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "If you have a decent WIFI connection then this app is a must. As of the recent version (1.20.0) you stream PC games to your Quest/Quest 2. Before you needed to sideload a patch to allow game streaming. There are a ton of options to get the streaming quality/performance to work for you and the developer and Discord community are very helpful.\n\nI've only used the remote desktop portion of this app a few times but the fact you can stream games from your PC wirelessly without having to use a USB cable is a game changer. The developer is constantly adding features and improving the overall experience. A must for everyone who has a gaming PC and a wireless network that can handle wireless streaming.",
 							"reviewTitle": "One of the best purchases you can make",
-							"review_helpful_count": 303,
+							"review_helpful_count": 308,
 							"review_rank_by_viewer": null,
 							"date": 1614271617,
 							"developerResponse": null
@@ -263,7 +263,7 @@
 				"description": "Connect wirelessly to your computer(s) to watch movies, browse the web, play 2D games or stream PCVR games. Virtual Desktop is a highly optimized, native application developed for low latency, high quality streaming.\n\n• Connect up to 4 computers (Windows 10 or macOS Mojave)\n• PCVR game streaming requires a VR Ready PC running Windows 10\n• Supports Bluetooth mice, keyboards and gamepads\n• A wired computer to a 5 GHz AC Wi-Fi is required\n• Also works over the Internet (enable UPnP on your router)",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NptyGF-aRi0AX-1Xqfs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9171b080975317114d488613a1d0e190&oe=60AFC0D8",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982462_2032515460150085_3948245327907127296_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=u6iEd9pIez4AX9JhBvR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=756aa362ab6a15e40be7baf67e03a111&oe=60B3B558",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
