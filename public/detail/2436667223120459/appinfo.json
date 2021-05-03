@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KoxkmKV-45IAX_J8FOO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1faf53ef217dc60acd3ab3dd62c8b7e6&oe=60B2DCD5"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031333_1230110377341838_853286106554848015_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KoxkmKV-45IAX8p-i-n&_nc_ht=scontent.oculuscdn.com&tp=28&oh=227cea48252c00fcb02e3f186fcbae21&oe=60B6D155"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=buEXaxbAvgAAX8g0Den&_nc_ht=scontent.oculuscdn.com&oh=afa9ebd9ca9f43b7b1f6b5535bae9d7c&oe=60B20F67"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035363_374996086998951_816375421846527748_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=qOT16r7KUQEAX-XHKGl&_nc_ht=scontent.oculuscdn.com&oh=ca42e9fb34eb993b5a850bd02a4bbdf1&oe=60B603E7"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 21,
+					"count": 22,
 					"starRating": 1
 				},
 				{
@@ -100,15 +100,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "3.4.2",
-				"change_log": "====================================\nv3.4.2 - Release Notes \n====================================\n- was a little too hasty in reverting the video decoder library in the last update. Putting it back to latest build again.\n\n====================================\nv3.4.1 - Release Notes: Minor update \n====================================\n- revert internal libVLC video decoder library to previous build as some people are reporting SMB playback issues on this newer decoder library still.\n- added a potential safeguard to MPO file processing to catch and avoid crash due to corrupted byte data on bad mpo files.\n\n\n======================\nv3.4 - Release Notes \n======================\n\nNew Features and Improvements\n=============================\n- added new Advanced settings screen with following settings:\n  + option to allow turning off of device refresh rate to framerate syncing.\n  + option to set default viewing mode of image and video media when file tagging for auto recognition is not used.\n  + moved ipd and \"use eyebuffer rendering...\" options into this advanced settings.\n- removed \"tap to recenter\" auto pop and functionality when we look outside the bounds of the Void screen. This is replaced with:\n  + manual recenter screen to gaze option, found under the player options screen.\n  + support for controller based re-orientation of Void screen by holding trigger down for 2 seconds or more\n- reduce white levels slightly of menus and subtitle text so they are easier on the eyes on Oculus Quest 2 screens. Not so much glare.\n- updated internal video decoder library to most up to date build.\n\nBug Fixes and Optimizations\n===========================\n- optimize image memory management and loading for better and more reliable loading of very very large images.\n- optimize thumbnail loading to reduce oom issues on large image files.\n- fix chronological sorting of folders for smb and local folders.\n- fix incorrect previous image bug when manually going to previous image during a slideshow or immediately after we stop a slideshow.\n- fix thumbnails not auto generating for videos over 4k.\n- fix cached thumbnails not accounting for duplicate names in different file locations.\n- fix issue with some MPO images showing as skewed due to width info in MPO header being off by a pixel.\n- fix auto play via config file option sometimes not kicking in for image slideshows.\n- fix auto detect view mode by file tag not kicking in for images when config file settings tells it to auto play.",
+				"version": "3.4.3",
+				"change_log": "Disable support for new experimental 120hz on Quest2. \nNo real advantage in supporting 120hz for a media app. Only causes more potential performance issues. ",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "241763093",
-				"id": "3783872818399886",
-				"required_space_adjusted": "149634012",
+				"total_installed_space": "241759701",
+				"id": "3931077897012710",
+				"required_space_adjusted": "149633782",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -142,7 +142,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3783872818399886"
+					"id": "3931077897012710"
 				}
 			},
 			"release_channels": {
@@ -153,8 +153,8 @@
 						"id": "1650270871774947",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "3.4.2",
-							"id": "3783872818399886"
+							"version": "3.4.3",
+							"id": "3931077897012710"
 						}
 					}
 				]
@@ -223,7 +223,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8439306358382,
+			"quality_rating_aggregate": 3.8275862068966,
 			"support_website_url": "https://hanginghatstudios.com/pigasus-faq",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -242,8 +242,8 @@
 			"firstQualityRatings": {
 				"count": 97,
 				"page_info": {
-					"end_cursor": "AQHRpLDDJHvaNNWxp0gXE6wo1ja50ms8HoEPtYGJmvIt1eDKQQCsgc6WkwrkFjIP8PaZzEerku92zFnJmavAXMvM6A",
-					"start_cursor": "AQHRpLDDJHvaNNWxp0gXE6wo1ja50ms8HoEPtYGJmvIt1eDKQQCsgc6WkwrkFjIP8PaZzEerku92zFnJmavAXMvM6A"
+					"end_cursor": "AQHRNf2G0UiKxG3uNgnkHHuQRhiaCoBffRkcrsvbkxywysJTCChvZUEr2eOYEMrkaw1G09rgyCsT_XgTGFjfQP7oww",
+					"start_cursor": "AQHRNf2G0UiKxG3uNgnkHHuQRhiaCoBffRkcrsvbkxywysJTCChvZUEr2eOYEMrkaw1G09rgyCsT_XgTGFjfQP7oww"
 				},
 				"edges": [
 					{
@@ -253,13 +253,13 @@
 								"id": "344120886661143",
 								"display_name": "zenon.arouseo",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75196220_397502087989689_9148409617987362355_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TMDo8ISrEzkAX_hba3t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=343cb39223fc9df88c36d20e2b179b57&oe=60B36C6E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75196220_397502087989689_9148409617987362355_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TMDo8ISrEzkAX9j4Qv6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e7554fce1a6363595794519048d04620&oe=60B36C6E"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "1. Only Pigasus and Skybox are currently sole media players who render to the frame of the video file. Fortunately, I experienced both. This is a very important function. difference is whether you can see a soft video like the butter melting or road made of stone by drive car, depending on the function and not.\n\n2. Hue adjustment function not found in Skybox but present in Pygasus. \n\n3. I'm happy to have SMB support and Favorite features. It is also available in Skybox, but Pygasus is cheaper than Skybox and works. But when playing a file from SMB, Time head change position sometimes lacking video or video playing there when the longer it takes. I hope it will be improved.\n\n4. You can see image files like JPG right away. It's very good!\n\n————\n\n5. Unfortunately, app logo and design sophistication of the virtual movie theater may be lacking, but there are two things that are more important. First, when using the point-of-time movement function by pressing and holding the trigger, Skybox method is less cognitive burden for the audience. This is because the box-type UI, which is supposed to set the point you want to see around while maintaining the 3D effect, was a good experience.\n\nSecond regret is that if the video playback default was set to 3D in the setting, screen cannot be viewed properly when an image file such as JPG is called.\nTherefore, there is a hassle of having to go to options and switch to 2D mode every time. Therefore, it would be nice to set the default value to 2D mode when importing  image file. Even if the default value of the image is 3D mode, I want to see the correct 2D image right away when I see the JPG file.\n\n\n6. It would be nice to have a variety of modes that correspond to the various angles of the 3D lens used for filming, but it would be good to proceed gradually. Before that, it would be best to automatically analyze and show whether the video is 2D or 3D.\n\n\nI chose Pygasus despite a few regret in comparison with Skybox.",
 							"reviewTitle": "Comparison with Skybox",
-							"review_helpful_count": 5,
+							"review_helpful_count": 6,
 							"review_rank_by_viewer": null,
 							"date": 1618835941,
 							"developerResponse": null
@@ -274,7 +274,7 @@
 				"description": "Pigasus(飞猪)是一款同时支持UPNP/DLNA媒体播放器，Samba共享等联网流媒体和本地播放，功能丰富的通用媒体播放器。\n\n进入，设置，然后用你喜爱的方式享受观看影片的乐趣。\n\n请查看PigasusFAQ获取更多功能支持，信息和帮助：\nhttps://hanginghatstudios.com/pigasus-faq-ch",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_ygCOqTmAecAX_kG3-g&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0f23080ef87236c8aea6762dac9d97ce&oe=60B2ED81",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031429_475688496633522_3688155482989527040_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_ygCOqTmAecAX9RRMn3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8d8b47196cd310b1de593b8a00307000&oe=60B6E201",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
