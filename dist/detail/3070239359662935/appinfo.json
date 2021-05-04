@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974518_162026735723811_4416925458547619227_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=o48-9K2SeakAX9Xq7Vj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4a5e8a8819caae47c2b857ca271e4006&oe=60B62521"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974518_162026735723811_4416925458547619227_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=o48-9K2SeakAX87DrxP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6830323de5471460367b485962ebab35&oe=60B62521"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_217085056748129_7891803098716843763_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3FfptnSZj0IAX_uS4iw&_nc_ht=scontent.oculuscdn.com&oh=6ab1a6f151c1b412d5eab4d978e488b6&oe=60B42935"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_217085056748129_7891803098716843763_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=dUiqBtTbxkQAX8V8nQU&_nc_ht=scontent.oculuscdn.com&oh=d042ee9bbed1850336b8d88101720f82&oe=60B81DB5"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 32,
+					"count": 33,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 66,
+					"count": 68,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 804,
+					"count": 811,
 					"starRating": 5
 				}
 			],
@@ -135,15 +135,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.16.4",
-				"change_log": "",
+				"version": "1.16.5",
+				"change_log": "Hotfix 1.16.5\n\nFixed\n- Capture the flag: couldn't throw flag while holding a shield\n- Capture the flag: flag attached to gun with akimbo mutator\n- Elimination: countdown timer on arm and spectator didn't work\n- Spectator: score didn't always update in capture the flag\n- Spectator: announcer voice didn't play\n- Wormhole bug",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1423926947",
-				"id": "4105664882787039",
-				"required_space_adjusted": "1594391476",
+				"total_installed_space": "1421410075",
+				"id": "4113034062050121",
+				"required_space_adjusted": "1593115674",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -188,7 +188,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4105664882787039"
+					"id": "4113034062050121"
 				}
 			},
 			"release_channels": {
@@ -199,8 +199,8 @@
 						"id": "2691249577664881",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.16.4",
-							"id": "4105664882787039"
+							"version": "1.16.5",
+							"id": "4113034062050121"
 						}
 					}
 				]
@@ -218,7 +218,7 @@
 							"created_time": 1618305238,
 							"body_text": "The Capture The Flag Update is now live!\n\nNew Map + Mode: Coast (CTF)\n\nSet on a rocky sunny beach, two bases are located inside the cliffs with a view of the ocean.\nTry to infiltrate the other team's base, grab the flag and dash back to your own base to score a point!\n\n\n\n\nNew Map + Mode: The Pit (Elimination)\n\nIf you thought Hyper Dash was already fast, give this map a try. \nThe team that can wipe out the entire enemy team first scores a point. You don't respawn during a round, but a round only last a few seconds.\nNote that this mode is experimental!\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/86613168_2886429081623309_707187482298890596_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3JIUuxAecEUAX-XAg-J&_nc_ht=scontent.oculuscdn.com&oh=fc1f7cc3265266259e958b25e992983a&oe=60B607B1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/86613168_2886429081623309_707187482298890596_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=I-tvi2h1hsYAX8TP7N4&_nc_ht=scontent.oculuscdn.com&oh=66ecc5e80be442c9c3549da451edf479&oe=60B607B1"
 							}
 						},
 						{
@@ -227,7 +227,7 @@
 							"created_time": 1615901099,
 							"body_text": "You can now create a custom / private server. This is great if you want to play with friends or avoid highly skilled players.\nAs the server owner, you can adjust the server settings each round, kick a player or transfer admin rights to another player.\n\nYou can customize these settings:\n- Map(s)\n- Bot count and difficulty\n- Mutators\n- Password or not\n- Level lock\n\nStay tuned for our next updates. We are also working on a friends system, and next month we release 2 new game modes and maps including the highly requested Capture The Flag mode!\n\nThank you for playing,\n\nTriangle Factory",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982464_2635067346783751_4905359321993980555_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S5JX0iTTvbIAX_YM4KJ&_nc_ht=scontent.oculuscdn.com&oh=78c848022367dcdd2a716af932a62d28&oe=60B6F8CA"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982464_2635067346783751_4905359321993980555_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GU342Nrcx1YAX-AlCKF&_nc_ht=scontent.oculuscdn.com&oh=47dd1193c09d5afa881a16847b0e965d&oe=60B6F8CA"
 							}
 						}
 					]
@@ -284,11 +284,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7175080558539,
+			"quality_rating_aggregate": 4.7141339001063,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 579,
+				"count": 582,
 				"orderings": [
 					{
 						"key": "top",
@@ -301,10 +301,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 579,
+				"count": 582,
 				"page_info": {
-					"end_cursor": "AQHRqZbZyeW2S2N2N9Lcy1YJHNwfuYu9DPwC_QR9n-uhaoFqvBRWa-gGDu18sAS47WcU62ki--gquOY0diXaE3HxOg",
-					"start_cursor": "AQHRqZbZyeW2S2N2N9Lcy1YJHNwfuYu9DPwC_QR9n-uhaoFqvBRWa-gGDu18sAS47WcU62ki--gquOY0diXaE3HxOg"
+					"end_cursor": "AQHR_2-_0hpBH2N4X2SJckIFSUksurBmeDbKP500JxX84rOlb75228IQUZLWYL1VwjSejEEqdHzOO5RAyPe9sxvfkQ",
+					"start_cursor": "AQHR_2-_0hpBH2N4X2SJckIFSUksurBmeDbKP500JxX84rOlb75228IQUZLWYL1VwjSejEEqdHzOO5RAyPe9sxvfkQ"
 				},
 				"edges": [
 					{
@@ -314,13 +314,13 @@
 								"id": "1253563481320971",
 								"display_name": "sstredd",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/75639797_3683173735026588_5128527804018351202_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PqpA1Vn5-9kAX_sITWO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e880d40677935286bcb20853b66f361&oe=60B38741"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/75639797_3683173735026588_5128527804018351202_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hDm4Dc04Cm0AX8-nkuW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1438789c9d3148e1dd48c3e0b2cc7cfa&oe=60B77BC1"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This is the game I have the most hours in with my Quest. I have played this since Alpha 1 and it has become polished to perfection. This will itch your fix for a fast paced arcade shooter with great visuals and performance. Buy it and try it, you will not regret it. Also the devs are a lot of fun and keep in touch with the already great community.",
 							"reviewTitle": "Amazing fast paced arcade shooter",
-							"review_helpful_count": 247,
+							"review_helpful_count": 248,
 							"review_rank_by_viewer": null,
 							"date": 1614318505,
 							"developerResponse": {
@@ -339,7 +339,7 @@
 				"description": "Hyper Dash is a VR multiplayer team based shooter. **CUSTOM GAMES UPDATE*** Create your own match where you set the rules! GAME MODES Payload, Domination, Control Point, Deathmatch and remix them with Mutators! MOVEMENT Make smart use of Dashing, Sprinting, Walking and Rail Grinding to get around the arena's fast and lethal. FEATURES Offline mode/Bots, Dedicated servers, Rebind-able controls, Left hand support, Voice chat CROSS-BUY Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75318181_146885227396334_996064439026790922_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RcyhCH7SQWAAX9lxige&_nc_ht=scontent.oculuscdn.com&tp=28&oh=50d93c6f0866903fbd9a83d1abb7bd7a&oe=60B67017",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75318181_146885227396334_996064439026790922_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RcyhCH7SQWAAX_5OK-9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e1822dbbbf5b52a46afeec74566e5552&oe=60B67017",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
