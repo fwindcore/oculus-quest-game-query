@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AK354fwmMTQAX8_DYJg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0597df3ed0f864879908fcc3045cc7c6&oe=60B4AEE2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AK354fwmMTQAX_vdIiJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6671141b326c7e323fa88da536b790d2&oe=60B8A362"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=27dm50ImVmQAX9Wxaze&_nc_ht=scontent.oculuscdn.com&oh=8726819266238006d2f442bcc13e5f59&oe=60B690CD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=27dm50ImVmQAX_GEXFf&_nc_ht=scontent.oculuscdn.com&oh=76720fd2f84fe0a9922292d5de2e9d73&oe=60B690CD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "4.2.13",
-				"change_log": "* Made improvements that enable better handling of multiple copies of the same glTF file in a space\n* Updated \"Join Friends\" feature. New default behavior is to auto-join the event room without a dialog if there is a friend in the event or all friends are in the same room.\n* Restored automatic login after unlinking a Microsoft account.\n* Minor bugfixes when logged in with a classic AltspaceVR account.\n* Fixed issue where local mute of another user was not preserved when they re-entering a space\n* Fixed several issues with HostZones and AudienceZones",
+				"version": "4.2.15",
+				"change_log": "• Fixed voice issue causing some users to randomly not be able to hear other users.\n• Added a new indicator to the HUD that shows the user's network health status. Will appear under the clock when issues are detected.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "625338950",
-				"id": "3756976144429164",
-				"required_space_adjusted": "278572764",
+				"total_installed_space": "644396500",
+				"id": "3779647338828711",
+				"required_space_adjusted": "290149958",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -128,7 +128,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3756976144429164"
+					"id": "3779647338828711"
 				}
 			},
 			"release_channels": {
@@ -139,8 +139,8 @@
 						"id": "2271077649772225",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.13",
-							"id": "3756976144429164"
+							"version": "4.2.15",
+							"id": "3779647338828711"
 						}
 					},
 					{
@@ -148,8 +148,8 @@
 						"id": "597064230818090",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.13",
-							"id": "3756976144429164"
+							"version": "4.2.15",
+							"id": "3779647338828711"
 						}
 					}
 				]
@@ -163,8 +163,8 @@
 								"current_end_timestamp": 1620448200,
 								"current_start_timestamp": 1620439200,
 								"temporal_info": {
-									"seconds_until_end_time": 331184,
-									"seconds_until_start_time": 322184
+									"seconds_until_end_time": 244854,
+									"seconds_until_start_time": 235854
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -186,7 +186,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Pixel Ripped x FTR Comedy Club +18 ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031554_1072820756540225_3108757923338506998_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GA11CSh5bvwAX-QI2i_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=90f62b683d253c1e9da0d0ecade645a3&oe=60B4CE3E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031554_1072820756540225_3108757923338506998_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PM1jRt7mUdQAX-0zmi0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bf7a42a097c2869678e68bf945531c42&oe=60B8C2BE"
 								}
 							}
 						},
@@ -196,8 +196,8 @@
 								"current_end_timestamp": 1621053000,
 								"current_start_timestamp": 1621044000,
 								"temporal_info": {
-									"seconds_until_end_time": 935984,
-									"seconds_until_start_time": 926984
+									"seconds_until_end_time": 849654,
+									"seconds_until_start_time": 840654
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -219,7 +219,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Pixel Ripped x FTR Comedy Club +18 ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57568679_2944830689169229_5280386023593633382_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=svLZaCB7RxkAX_0gubZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e9d2f27a2058c77a6cfcd5d5bd00fb0&oe=60B6854C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57568679_2944830689169229_5280386023593633382_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=svLZaCB7RxkAX_chqKW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62ea2fad01791a0fee0d22d2e42adf2d&oe=60B6854C"
 								}
 							}
 						},
@@ -229,8 +229,8 @@
 								"current_end_timestamp": 1621657800,
 								"current_start_timestamp": 1621648800,
 								"temporal_info": {
-									"seconds_until_end_time": 1540784,
-									"seconds_until_start_time": 1531784
+									"seconds_until_end_time": 1454454,
+									"seconds_until_start_time": 1445454
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -252,7 +252,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Pixel Ripped x FTR Comedy Club +18 ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222937_186977453150575_4133176107786649412_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9a2biZUB8_IAX9yTvkV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=53ba6476b71bbcf3cdd1135fa95ffcfa&oe=60B813B2"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222937_186977453150575_4133176107786649412_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9a2biZUB8_IAX8jpZs8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=15a2b964c99514c7e8d14a54a81b5a75&oe=60B813B2"
 								}
 							}
 						},
@@ -262,8 +262,8 @@
 								"current_end_timestamp": 1622075400,
 								"current_start_timestamp": 1622073600,
 								"temporal_info": {
-									"seconds_until_end_time": 1958384,
-									"seconds_until_start_time": 1956584
+									"seconds_until_end_time": 1872054,
+									"seconds_until_start_time": 1870254
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -285,7 +285,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Meet the Program Owner of AltspaceVR",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Dpb8ZQo4iM8AX-_Lfna&_nc_ht=scontent.oculuscdn.com&tp=28&oh=00b2080623c6bf992173d52af21c6356&oe=60B86C4F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210887_2685228081787337_2954110770891371727_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zefnBJYksHYAX-7xBlD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8dec3f5a93409d05ba947781a9c4aeb1&oe=60B86C4F"
 								}
 							}
 						},
@@ -295,8 +295,8 @@
 								"current_end_timestamp": 1622262600,
 								"current_start_timestamp": 1622253600,
 								"temporal_info": {
-									"seconds_until_end_time": 2145584,
-									"seconds_until_start_time": 2136584
+									"seconds_until_end_time": 2059254,
+									"seconds_until_start_time": 2050254
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -318,7 +318,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Pixel Ripped x FTR Comedy Club +18 ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031593_455284205566603_3027827974949638102_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KyaGs4j6wDkAX-hOvRE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=058a6c7053c9b5a1ea007d010d9c1c8e&oe=60B84FD1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031593_455284205566603_3027827974949638102_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Dn7GltsvQDwAX_oYW-G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e6d19cda63886f2b1da218c5113e685e&oe=60B84FD1"
 								}
 							}
 						},
@@ -328,8 +328,8 @@
 								"current_end_timestamp": 1622867400,
 								"current_start_timestamp": 1622858400,
 								"temporal_info": {
-									"seconds_until_end_time": 2750384,
-									"seconds_until_start_time": 2741384
+									"seconds_until_end_time": 2664054,
+									"seconds_until_start_time": 2655054
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -351,7 +351,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Pixel Ripped x FTR Comedy Club +18 ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974446_144928590922908_3194972470272487974_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SEHN9bDnxb0AX-hF-Dj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5d9daa5070faba4c5221036e6f819b64&oe=60B7BF1C"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974446_144928590922908_3194972470272487974_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ydhpMR_hsl0AX_3hLC0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b5112b55d88505cc05df6c8660cb222b&oe=60B7BF1C"
 								}
 							}
 						}
@@ -364,7 +364,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRuLRUzlghnI8KYQLVbTsWeNMpLOhR_Gbckieyna14h65z3qv1V6KfKVK1vRgS5zxkXugy_722nCqISGj4b33pTg"
+							"cursor": "AQHRGHGomJpUxl8yymbvaZdCrTMd0Bnbo6gOvBDqy3fyp4udfRoi-hwwj-blw_JHE53fJwwHEe0kbeA_bWFt8GtSVg"
 						}
 					]
 				}
@@ -430,8 +430,8 @@
 			"firstQualityRatings": {
 				"count": 343,
 				"page_info": {
-					"end_cursor": "AQHR9rYUq8ZPYXoi_Rw1Qj96pvSKUnd6oaaAG23MFMnZaj_I31218ByntchNXBOGXOg59CskOLkvzJ7s4u_ZIrnHwQ",
-					"start_cursor": "AQHR9rYUq8ZPYXoi_Rw1Qj96pvSKUnd6oaaAG23MFMnZaj_I31218ByntchNXBOGXOg59CskOLkvzJ7s4u_ZIrnHwQ"
+					"end_cursor": "AQHRHiQ3iseWF8OJQCZEkjwH4G766jAwDD6MG58odPwRek1Y-5ss91D8Oa2mrHBKQdp11mzUsdlJiXjGWmVb70_8Gg",
+					"start_cursor": "AQHRHiQ3iseWF8OJQCZEkjwH4G766jAwDD6MG58odPwRek1Y-5ss91D8Oa2mrHBKQdp11mzUsdlJiXjGWmVb70_8Gg"
 				},
 				"edges": [
 					{
@@ -441,13 +441,13 @@
 								"id": "205913596680451",
 								"display_name": "Shaggy1479",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Iv-TT9Hk8fwAX-z_uez&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c23407027ae2121dcf9aaf7a53e0607d&oe=60B57FFA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Iv-TT9Hk8fwAX_VJ-yK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f2da97e4eed9bb219c0197d7cf1bc4e&oe=60B9747A"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "I am a huge fan of Altspace, having met many friends on there.  A friend that I have from the real world has recently gotten a Quest 2 and has been enjoying Altspace, yet for the past few days when I try to get on, the app will not even open, and I get booted back to my Quest 2 Home Screen.  For me, it doesn’t even get past the 3 blinking white lights on the black screen.  The app will not load at all.  I find this extremely frustrating, as I was hoping to spend time in Altspace with him, and show him some of the cool places I have found.  I have tried reinstalling, restarting, just about everything I can think of, but have had no luck.  Please help!!!",
 							"reviewTitle": "Will not even open.",
-							"review_helpful_count": 44,
+							"review_helpful_count": 45,
 							"review_rank_by_viewer": null,
 							"date": 1617726271,
 							"developerResponse": {
@@ -466,7 +466,7 @@
 				"description": "AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world. Experience a spotlight event at 7pm PT every night where you can learn, laugh, and gather with people on every major VR headset. Attend hundreds of spotlight events every month like: Open Mic Night, Improv Comedy, Meditation, LGBTQ+ Meetups, VR Church and more. Easily start your own meetup, show or class and discover the next frontier of entertainment and community.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6tse-1RJVzkAX-0pVFX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b491e1a2e752b8b0a95d5223555980e5&oe=60B57E2F",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=euPvfBnl4iMAX95j__3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=08d1ee9df5554ee8dece5746f7306898&oe=60B972AF",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

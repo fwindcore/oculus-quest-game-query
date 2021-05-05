@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=l23h04r6GVgAX9cFJCY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5ae73225d57d143bd05f5ee200cb7653&oe=60B69D4B"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=G5xu2b9LJVQAX-a34-D&_nc_ht=scontent.oculuscdn.com&tp=28&oh=54d788c317df5c3c23e90950a9f97df4&oe=60B69D4B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=SFVX7LSs460AX8UnKXN&_nc_ht=scontent.oculuscdn.com&oh=46ae23d0c7330c7238b87e9549e61e04&oe=60B5218A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=SFVX7LSs460AX_5Kd_5&_nc_ht=scontent.oculuscdn.com&oh=04b73a24942d5af2e58f83f43a38a3f1&oe=60B9160A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 806,
+					"count": 805,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 312,
+					"count": 314,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 423,
+					"count": 424,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 817,
+					"count": 818,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2225,
+					"count": 2227,
 					"starRating": 5
 				}
 			],
@@ -151,8 +151,8 @@
 								"current_end_timestamp": 1620259200,
 								"current_start_timestamp": 1620252000,
 								"temporal_info": {
-									"seconds_until_end_time": 142182,
-									"seconds_until_start_time": 134982
+									"seconds_until_end_time": 55852,
+									"seconds_until_start_time": 48652
 								},
 								"vr_app_and_destination_string": "PokerStars VR",
 								"vr_applications": {
@@ -174,7 +174,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "PokerStars VR 2X Creds Power Hours",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75236138_368086001210055_5140642998634843375_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DSeimAE_CJcAX88wRCw&_nc_oc=AQk_f0vE-52Nec7Kg_FOcSDDpuWCuXtscRCk5Z9urYuMixPGpSZv0fZyAkHjQUY4Ex0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=84daf3102b386dfa42da1c414a555f0a&oe=60B5586A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75236138_368086001210055_5140642998634843375_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1OtO_AO3J6sAX_lN3Re&_nc_oc=AQlPW4iNVC1qmh3HyX6opgbhuq1BojKxyBxde-z2jF71Zf7kDNtGYU1jYCV8fW7aCT4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=486c0ef5e4866f25863889cec2eb0c0b&oe=60B94CEA"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1620864000,
+								"current_start_timestamp": 1620856800,
+								"temporal_info": {
+									"seconds_until_end_time": 660652,
+									"seconds_until_start_time": 653452
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "762351027796076",
+								"is_vr_viewer_interested": false,
+								"name": "PokerStars VR 2X Creds Power Hours",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974591_297487581878842_7714763995124685443_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BU47P-yjRLIAX_oL8ZV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69ce63458461c906268b3fb0eb77fa96&oe=60B752A2"
 								}
 							}
 						}
@@ -189,7 +222,7 @@
 							"created_time": 1619212894,
 							"body_text": "Hey everyone, we have another major update for you here with [Patch 68] The New Avatar Update!\n\nThis update includes the all-new expressive Oculus avatars!! These avatars are the highest fidelity and most performant ones yet and will enable great interaction and better gameplay with opponents who can express themselves at the tables.\n\nThis is a big change to our system so if you encounter some props and apparel that isn't looking right please send in a bug report and we'll get it fixed.\n\nWe're also running a new avatar selfie contest with custom cameras as prizes with a limited-time 2X Creds sale to grab some gear for your new look!\n\nNew Features\n-New Oculus Avatars\n-New room list logic (should fix failed to fetch room list + many instances of stuck in loading)\n\nBug Fixes / Improvements\n-Fixed players unable to gaze pot-Fixed Poker players unable to see other players on the Monitor overlay\n-Quest selfie cam now saves screenshots to your Quest. You can view this in the Sharing tab on Oculus Home.\n-Leaving during cash games will now cash you out immediately unless you are all in (will resolve and payout at end of hand if you won)\n\nJoin us on Discord\n\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031613_250184500221441_1461664047722459787_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2tXFp1Aj8SoAX-ziEwh&_nc_ht=scontent.oculuscdn.com&oh=b74f7a1da6c0eed7e88633e34f2f013f&oe=60B77ACF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031613_250184500221441_1461664047722459787_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2tXFp1Aj8SoAX-sQGeb&_nc_ht=scontent.oculuscdn.com&oh=e42f62557344806818c5bca274b9172b&oe=60B77ACF"
 							}
 						},
 						{
@@ -198,7 +231,7 @@
 							"created_time": 1618606453,
 							"body_text": "Hey everyone we have a major update for you here with [Patch 66] The Disconnection Protection Update!\n\nThis is a major technical upgrade to the game that allows players to rejoin a Sit & Go or Spin & Go tournament if they get disconnected.\n\nThis is a large scale change to the game if you encounter some initial bugs please report them on our Discord.gg/PokerStarsVR\n\nNew Features\n-Disconnection Protection\n-All in Percentages \n-Server Authoritative Poker [Major technical upgrade to the core game]",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57568679_1324038767978729_7712711526475467450_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tsmUzEJUjP8AX890eO_&_nc_ht=scontent.oculuscdn.com&oh=7ce542fcf6dcebd75e18dc2d0e072709&oe=60B52F9D"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57568679_1324038767978729_7712711526475467450_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tsmUzEJUjP8AX-TfytQ&_nc_ht=scontent.oculuscdn.com&oh=81d3bde8aeb940fdd36b627291753286&oe=60B9241D"
 							}
 						}
 					]
@@ -206,7 +239,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR-1wJ9dTdOJjImdDw9qPvVBmhVUOQOxjf86idIbcmUZLqUWskBSPzy7oa9GV2wF0mkhH_5tuA26YCvM1uZG8l5w"
+							"cursor": "AQHRWkxS3YZUU5M-TAMOEAeekO7ioujnS2DLNk9ec4VYxs1Nuiyosqrp9vEN7hAR5js8uZsY6OHN1WwWq0BWKQNEAA"
 						}
 					]
 				}
@@ -253,11 +286,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7294348679904,
+			"quality_rating_aggregate": 3.7297297297297,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1612,
+				"count": 1619,
 				"orderings": [
 					{
 						"key": "top",
@@ -270,10 +303,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1612,
+				"count": 1619,
 				"page_info": {
-					"end_cursor": "AQHRQEdVcWljNfRgmii3LEeafbm613uh4R35kjJ2N3Tg_m4HoQMqkvvgVSpZwtpgEwkVc_Pc0u6Ddcyi4TZl3tCXug",
-					"start_cursor": "AQHRQEdVcWljNfRgmii3LEeafbm613uh4R35kjJ2N3Tg_m4HoQMqkvvgVSpZwtpgEwkVc_Pc0u6Ddcyi4TZl3tCXug"
+					"end_cursor": "AQHRTXtAd6BKafKlM7R8xm4ZW0q9kVilEYf0jpu4gVO5KTGHGB4nPYemTITgtwZV1PaoM9IYpGHc2CuLWjiFBWAIoA",
+					"start_cursor": "AQHRTXtAd6BKafKlM7R8xm4ZW0q9kVilEYf0jpu4gVO5KTGHGB4nPYemTITgtwZV1PaoM9IYpGHc2CuLWjiFBWAIoA"
 				},
 				"edges": [
 					{
@@ -283,13 +316,13 @@
 								"id": "103866991561605",
 								"display_name": "SuperNerdKinda",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75314846_114796300468674_5718905340358296172_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NWiHlIZgWXEAX8fGlPq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bf1dd0b54896eb6bc374a69456687e1d&oe=60B72C5E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75314846_114796300468674_5718905340358296172_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NWiHlIZgWXEAX_MQPgE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9a97f5e6a8ec6dce110dd1def6ac290a&oe=60B72C5E"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "So first off I’m going say that I’m 16 and I’d love it I didn’t get banned due to this. I personally really enjoy this and the social aspect is amazing. The people have been great. This game does have an issue with people who are too young. I have ran into multiple 12ish year olds, who constantly talk, constantly mess around and a few people that go all in at the very start which is very Frustrating as no one is able to play properly then. Personally due to lack of action towards this I think that a vote kick feature should be introduced. That way the players can deal with them. \n\nFinally I would like to suggest a Tutorial on how to play poker. I know how to due to being taught by my dad but I’d like to have access to a refresher course type thing or for new players they could learn.\n\nOverall I think this is an amazing game and can be really fun. I hope the dev take into account what I’ve said. Thank you for your time.",
 							"reviewTitle": "Fantastic but could do with improvements",
-							"review_helpful_count": 193,
+							"review_helpful_count": 194,
 							"review_rank_by_viewer": null,
 							"date": 1614209037,
 							"developerResponse": {
@@ -308,7 +341,7 @@
 				"description": "THE NEW OCULUS AVATARS UPDATE IS NOW LIVE! \n\nStep into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035306_214584513760291_9182231143976528492_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BDvkf69oUt8AX_W2PnP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dafb67bd4500adf0eefcd2b9f253ca12&oe=60B83E33",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035306_214584513760291_9182231143976528492_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BDvkf69oUt8AX-qnn9u&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a5eeec6a0c0096b0150d68dfd6ce7ce1&oe=60B83E33",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

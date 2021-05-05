@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yucai1bmt-UAX-Gd2RL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3e8f4ac583a93049d3257bea41b05fab&oe=60B4E306"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75221325_699605213983107_840444001932626752_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yucai1bmt-UAX-HNnrL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=267e2f3dd2839d1f1f5a2a831ec85b2f&oe=60B8D786"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cOJouiOvL40AX8tOYou&_nc_ht=scontent.oculuscdn.com&oh=9db944369706e7e4306513ec00862225&oe=60B8492F"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_283900739344357_7475794461212998608_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cOJouiOvL40AX_pxWZA&_nc_ht=scontent.oculuscdn.com&oh=0d9ed831c184d0bb40059e7702aaca27&oe=60B8492F"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 204,
+					"count": 205,
 					"starRating": 3
 				},
 				{
@@ -83,15 +83,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.107.0.b199e5-beta-ui-2020-beta",
+				"version": "0.107.0.b44cc8-beta-ui-2020-beta",
 				"change_log": " Version 107 (04/13/2021):\n- Fixes performance issues when moving the Bigscreen menu around.\n- Fixes the mic audio delay problem between a Quest user and PCVR host.\n- Improvements to loading times on Quest headsets.\n\nVersion 107 (03/31/2021):\n- Fixes \"offline\" state after starting up the app\n- Various bug fixes and improvements\n\nVersion 107 (03/26/2021):\n- Various bug fixes and improvements\n\nVersion 107 (03/17/2021):\n- Various bug fixes and improvements\n\nVersion 107 (03/09/2021):\n- Fixes Quest 2 screen flicker while viewing a host's desktop\n- Prevent personal space bubble from hiding avatars when the selfie stick is active\n- Various bug fixes and improvements\n\nVersion 107 (03/04/2021):\n- Selfie stick is now available!\n- On-screen controls will only appear after clicking on the screen now\n- Various bug fixes and improvements\n\nVersion 107 (02/10/2021):\n- Added “Desktop” or “Remote Desktop” options to the “My Room” left pane navigation\n- Added geo-filtering for movie rentals to only show movies available in a specific region\n- Disabled “Movies” button for users in regions that we aren’t able to support yet\n- Updated the layout of the Room preview pop-up\n- Corrected button indications for Index controllers in onboarding\n- Various bug fixes and improvements\n\nVersion 107 (01/28/2021):\n- Added 14 ad-supported free-to-watch movies from PlutoTV in honor of Black History Month\n- Fixed a crash from headsets running out of memory\n- Various bug fixes and improvements\n\nVersion 106 (01/15/2021):\n- Added ad-supported free-to-watch movies from PlutoTV\n- Added a manual reload button for the Public Rooms UI\n- Increased automatic reload of the Public Rooms UI to 30 seconds\n- Added description field to Public Rooms UI popup\n- Flipped the horizontal scroll direction for thumbsticks\n- Removed the \"Holiday Lobby\" and added the normal Lobby\n- Updated TV Rooms \"No stream available\" message to explain more information\n- Various bug fixes and improvements\n\nVersion 106 (01/07/21):\n- TV: added subtitles support and fixed a bug with age-gated TV channels\n- Videoplayer: added support for inverted 3D modes (SBSRL and UO)\n- Fixed bug with Videoplayer and Movie Rentals where playback controls were always appearing on-screen\n- Improved lighting in the new Drive-In Theater\n- Various bug fixes and improvements\n\nVersion 106 (12/23/20):\n- NEW DRIVE-IN THEATER! Enjoy this nostalgic new environment from the comfort of your home!\n- New UI gives an overview of Bigscreen’s features, and makes it easier to discover interesting videos to watch and rooms to join\n- For paid movies, available subtitles are listed on the movie info page\n- Lobbies now support up to 12 people per instance\n- Fixed embedded subtitle support for the videoplayer on Quest\n- Various bug fixes and improvements\n\nVersion 105 (12/19/20):\n- Upgraded servers to prepare for the holiday influx.\n\nVersion 105 (12/3/20):\n- Updated the lobby with some holiday cheer!\n\nVersion 105 (11/25/20):\n- Fixed room description and categories not saving across app restarts\n\nVersion 105 (11/19/20):\n- Various bug fixes\n\nVersion 105 (11/17/20):\n- Green Screen Studio environment is now available on page 6 of the Environments section\n- Added more seats in the 360 Skybox environments, including the new Green Screen Studio environment\n\nFollow us on Discord to see a list of all our latest and past updates! https://discord.gg/bigscreen",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "926868819",
-				"id": "5357379621003087",
-				"required_space_adjusted": "1722737082",
+				"total_installed_space": "926838863",
+				"id": "5386153238125725",
+				"required_space_adjusted": "1722695386",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -129,7 +129,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5357379621003087"
+					"id": "5386153238125725"
 				}
 			},
 			"release_channels": {
@@ -140,8 +140,8 @@
 						"id": "405783720195874",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.107.0.b199e5-beta-ui-2020-beta",
-							"id": "5357379621003087"
+							"version": "0.107.0.b44cc8-beta-ui-2020-beta",
+							"id": "5386153238125725"
 						}
 					}
 				]
@@ -157,7 +157,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRwKLoOIkCB1xzX9zCydXFTfUzwuc5WsgxiHNJFRLKNQ7DF0ionmquShfAFk-YdMXmeosueyHqs7olPhfl0voOSg"
+							"cursor": "AQHRjG91YiQ0B2oxcA3VMMkFRP7b3q5qA5dLL8DkUFf0CIDRt9b0mFmB2QkVeejU8uWYpaDY3TzewPs-zvoDE3B8rg"
 						}
 					]
 				}
@@ -204,11 +204,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0085085085085,
+			"quality_rating_aggregate": 4.008004002001,
 			"support_website_url": "https://bigscreenvr.com/discord",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 627,
+				"count": 628,
 				"orderings": [
 					{
 						"key": "top",
@@ -221,10 +221,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 627,
+				"count": 628,
 				"page_info": {
-					"end_cursor": "AQHRyYhTqxpvtW_txehZ5UxWoHboQmRDVAKTuq_ZsWMLbQnLAPRDgCmSOkA0LzMRZunLBngRCFN8zJEu9Xb9xFVU8A",
-					"start_cursor": "AQHRyYhTqxpvtW_txehZ5UxWoHboQmRDVAKTuq_ZsWMLbQnLAPRDgCmSOkA0LzMRZunLBngRCFN8zJEu9Xb9xFVU8A"
+					"end_cursor": "AQHReftuBqf56VMO_jwrvEtG3vJUhqEX-yoIZZh8bYgALoPm1dC2SHhlGYmn-KjfM__p2HKlLWGkMvufKkHbN5nygQ",
+					"start_cursor": "AQHReftuBqf56VMO_jwrvEtG3vJUhqEX-yoIZZh8bYgALoPm1dC2SHhlGYmn-KjfM__p2HKlLWGkMvufKkHbN5nygQ"
 				},
 				"edges": [
 					{
@@ -234,13 +234,13 @@
 								"id": "105415631477383",
 								"display_name": "Vuyovich",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974558_108094151209531_4923217574895404919_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=So40v1EL4yMAX-eLynq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35b96d4d9f6e3550c2fe17b492df8616&oe=60B5AFA3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974558_108094151209531_4923217574895404919_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fB5XvfiwKK0AX96dbIn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4b58921c022bac02de2950a89033304d&oe=60B9A423"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I love Bigscreen, it’s definitely one of my favorite apps on VR. But I’m a little disappointed with inability to share movies. I can pay money to see one of the featured movies with a friend, but if I want to invite a friend over to my virtual living room to watch one of my movies on my server, it won’t work. My friend has to have that same movie on their server. Why? What would be the point in that? Maybe I’m doing something wrong, I’ve tried to see if there’s a workaround for this. So far, nothing. But if you can collaborate and share your files on your pc in a work related setting on Bigscreen, why couldn’t I watch a movie with a friend who doesn’t have the same movie? They can’t record it, download it...it’s not breaking any laws. It’s no different than buying the movie at a store, taking it home and watching it with my friends there. During this quarantine, my friends and I have been finding out what movies we haven’t seen and watching them. It would have been nice to share a movie with friend that I have, that they don’t have. Just hoping this is something that gets fixed. It doesn’t make sense and makes the whole idea of watching movies with friends limited to purchasing tickets for one of the handful of movies I really have no interest in seeing. Maybe if they played newly released movies that would be in the theaters, that would be better. I’d probably do that more often.",
 							"reviewTitle": "Movie sharing needs improvement",
-							"review_helpful_count": 728,
+							"review_helpful_count": 736,
 							"review_rank_by_viewer": null,
 							"date": 1611588524,
 							"developerResponse": null
@@ -255,7 +255,7 @@
 				"description": "WATCH movies with friends in a virtual movie theater. \nPLAY your favorite PC video games on a huge screen. \nHANG OUT in social VR chat rooms.\nEVENTS like weekly 3D Movie Nights and VR LAN parties!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UsGNjmlauGEAX8MNwEA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=aed6adc486ce947bf4816420a80a3796&oe=60B62F58",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031379_710393062883517_1799070053467716560_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UsGNjmlauGEAX8MkZPO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4ad514725ae3d6863dc094a1f0e53a68&oe=60B62F58",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
