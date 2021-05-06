@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75435290_2742148462730398_96781513042639743_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=N4u1E-dujH8AX8WFPgR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=414fdbd49db9d0cf2031438d1e06bd3c&oe=60B61500"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75435290_2742148462730398_96781513042639743_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=N4u1E-dujH8AX9h0gFu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7bc283b18f28d62c28df71f9ea72eaef&oe=60986B40"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3415353201821122_4613170621877790682_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Ro1RBAuUVYwAX_zZRy5&_nc_ht=scontent.oculuscdn.com&oh=45390700a0c9ca6fd7ae60d48350750c&oe=60B866D4"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3415353201821122_4613170621877790682_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Ro1RBAuUVYwAX84GQY4&_nc_ht=scontent.oculuscdn.com&oh=61e4354c64d4a8975e7e705744ee62cd&oe=6098C2D4"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 75,
+					"count": 77,
 					"starRating": 5
 				}
 			],
@@ -120,22 +120,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "816436789253179",
+				"id": "803082027103067",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%",
-				"end_time": 1620284340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -174,7 +169,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR8djtH-oKAxRK8-nKcXxbPbq4uMqPZd_89_4QmOqEUZUr8oPwVtH53IOI9rMWvLaVishnOu6FMonXBnl6xx7Kjg"
+							"cursor": "AQHRWZZpu9yXMtuvPHuXr_wYqkLQLF1BcJCvztsgAUP4ta5iKk7WgFuAAWdfNZic2cuAM4fb5pH_JccSSuhACmYdnQ"
 						}
 					]
 				}
@@ -222,16 +217,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "816436789253179"
+				"id": "803082027103067"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4423076923077,
+			"quality_rating_aggregate": 4.4528301886792,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 57,
+				"count": 58,
 				"orderings": [
 					{
 						"key": "top",
@@ -244,10 +239,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 57,
+				"count": 58,
 				"page_info": {
-					"end_cursor": "AQHRIbUCjfNizw8bA9J43gUIikAemf4ivhxEMG-7rG0m0-lxTACiufKzhKKyjweb1r1NzxaEZWVTttO5rn8SZkAIGQ",
-					"start_cursor": "AQHRIbUCjfNizw8bA9J43gUIikAemf4ivhxEMG-7rG0m0-lxTACiufKzhKKyjweb1r1NzxaEZWVTttO5rn8SZkAIGQ"
+					"end_cursor": "AQHRxpXGJCOg9hLZH0rrtrva9XUQN-QmZgwi0OWCic8ywBn6baKhTogwbwhv6O7CLqlllGfdkzy5D0BjAOEGLFtLpg",
+					"start_cursor": "AQHRxpXGJCOg9hLZH0rrtrva9XUQN-QmZgwi0OWCic8ywBn6baKhTogwbwhv6O7CLqlllGfdkzy5D0BjAOEGLFtLpg"
 				},
 				"edges": [
 					{
@@ -257,13 +252,13 @@
 								"id": "364333737874694",
 								"display_name": "VR_Queen109",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/75469630_377265853248149_3112656032155004470_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7_bPNt_IdrUAX8uXRdM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3fecba91dd11ee34b16b5f6c3ed67780&oe=60B981E7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/75469630_377265853248149_3112656032155004470_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7_bPNt_IdrUAX-XEp6x&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cbc9bebb2db176739ff4a6b9ea9bfbec&oe=6097E3A7"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Ran across this a few times and didn’t think I would like it bought it on the daily deal and glad I did it’s addicting I been trying to find a game like job and vacation simulator that my daughter would like and this is it she loves scanning the items and having to shoot the fruit it gets pretty difficult in the upper levels so if u gave up cuz it was too easy keep going it gets harder lol",
 							"reviewTitle": "Cool game",
-							"review_helpful_count": 17,
+							"review_helpful_count": 23,
 							"review_rank_by_viewer": null,
 							"date": 1614914662,
 							"developerResponse": null
@@ -278,7 +273,7 @@
 				"description": "THE AWARD WINNING MULTI-TASKING SHOOTER\n\nDo your job whilst shooting guns! Shooty Fruity combines high agency job simulation with exhilarating combat that makes you feel like a true action hero - whether McClane, Wick or Rambo. \n\nScan, serve & pack across countless missions. Take on new roles and unlock weapons to fight your way through your career. Scan shoot repeat!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982662_2280233132110206_6880819070763674485_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9WqqoJ1ADtkAX8S6Fyq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1dbab2e5e900e070c29b1cca6b37bfd4&oe=60B60CA1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031433_2769855023339321_3743352667922796993_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wP7earkGYWMAX898VCD&_nc_oc=AQlRv7xuebBKmMWFphiluYpipi1mfAYrzoweDhnTH3W6J6PD87skUitntmXh0Q0ewLU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7abe81119d779bcff98391638a08ae77&oe=6098EC76",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
