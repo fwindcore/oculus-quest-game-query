@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001679_111785397353318_3975025948701263000_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BvlIToyiGsMAX-ZBCJb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f83173fce1e5a28f2e253936a725d2eb&oe=609822F6"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001679_111785397353318_3975025948701263000_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BvlIToyiGsMAX-VQZnN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=21dcecc2de26b7eca0cd72e8726bf43e&oe=609A1D36"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982471_1500379723496227_7540327010602276678_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=JVPTai2P554AX88qZCR&_nc_ht=scontent.oculuscdn.com&oh=622733736bd51d5842f7c1ba3e1d93b6&oe=6098367E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982471_1500379723496227_7540327010602276678_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=JVPTai2P554AX_eqSax&_nc_ht=scontent.oculuscdn.com&oh=27427cda565d12a5e984bdb60518f747&oe=609A30BE"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 9855,
+					"count": 9867,
 					"starRating": 5
 				}
 			],
@@ -110,15 +110,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.13",
-				"change_log": "// SUPERHOT VR on Oculus Quest v1.13\n> Fixed few leaderboard and scoring system issues\n\n// SUPERHOT VR on Oculus Quest v1.126\n> Hotfix for vanishing floppy disks in save slot 2 and 3 under certain conditions\n\n// SUPERHOT VR on Oculus Quest v1.125\n\nA gift from us, to you, with love! This free, surprise “Boxing Day” update introduces an all-new holiday-themed game mode, a brand new endless level, a new scoring system, and a suitably festive soundtrack!\n\nThe Boxing Day update also features an exclusive leaderboard to show off your holiday survival skills. Get points for punching, dodging, headshots, style shots, and much more - and see how you stack up against your friends and enemies! \n\nAfter completing SUPERHOT VR, players can access the new Boxing Day content by loading the Endless floppy disk in the Hacker Room and selecting the Christmas Tree.  \n\nWe’re also adding support for Oculus Challenges on Quest. Via the Oculus Scoreboard app, you can now create mini-tournaments for friends and fellow players based around the Boxing Day update and the existing Endless levels. \n\nThe SUPERHOT Team sincerely wishes everyone a most excellent and triumphant 2021 <3\n\n// Bugs & Improvements & Updates\n\n> Added new Boxing Day content \n> Added new leaderboard functionality\n> Support for Oculus Challenges on Quest\n> Support for Oculus Destinations on Quest\n> New in-game menu replacing the existing piOS BIOS menu at startup, allowing you to now change settings during gameplay\n> Menu settings now have previews & clearer descriptions\n> Removed “exit guest” mode pyramids - you can now exit from the in-game menu instead\n> Fixed bullets occasionally passing through weapons\n> Fixed broken floppy disk grab sound in 4th Hacker Room\n> Fixed broken Hacker Room videos\n> Various other minor bug fixes \n> Additional performance improvements\n",
+				"version": "1.14",
+				"change_log": "// SUPERHOT VR on Oculus Quest v1.14\n> Added experimental 120 FPS mode for Quest 2\n",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2103612766",
-				"id": "3370009679775067",
-				"required_space_adjusted": "1117151094",
+				"total_installed_space": "2103800171",
+				"id": "3750357005073664",
+				"required_space_adjusted": "1114622642",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -152,7 +152,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3370009679775067"
+					"id": "3750357005073664"
 				}
 			},
 			"release_channels": {
@@ -163,8 +163,8 @@
 						"id": "1248260195311927",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.13",
-							"id": "3370009679775067"
+							"version": "1.14",
+							"id": "3750357005073664"
 						}
 					}
 				]
@@ -177,12 +177,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "1383120195391130",
+							"title": "Experimental 120 FPS Mode!",
+							"created_time": 1620209481,
+							"body_text": "Hi friends!\n\nIn our latest update 1.14, we’ve added experimental support for 120 FPS. From the Settings menu, you can toggle the new experimental mode On or Off. When enabled, SUPERHOT VR will render up to a super-fast 120 frames per second.\n\nWe don’t expect you to encounter any problems with the 120 FPS mode, the game should be smoother to play and better than ever. However, rendering at 120 FPS is experimental so please disable it if you encounter any issues!\n\nHave fun, spread the system,\n\nSUPERHOT Team",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001667_373307187332901_4288527377708647949_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rATkdUsmIuoAX8fsGwk&_nc_oc=AQlExP8TE762TXaMv9Uvy5Ju9k-KQeaNcjN9_D5Z5bF6JkuUw62WM5n-QX5APNHCv_o&_nc_ht=scontent.oculuscdn.com&oh=97f5eecb8500e086f6d3a1c49be84e84&oe=60999354"
+							}
+						},
+						{
 							"id": "489742342017637",
 							"title": "5 years, 10k reviews and 1 million copies sold!",
 							"created_time": 1613997518,
 							"body_text": "Hi Friends!\n\nIt’s been a wild ride ever since we released the original, non VR, very flat SUPERHOT on February 25th, 2016. 5 years ago. Half a decade.1825 ish days. That’s a hell of a lot of time. Can you believe it? We hardly can. It spawned a franchise that’s still going strong to this day.\n\nSUPERHOT VR was our next title and it turned out to be more fun, more successful, and more amazing than we ever hoped.\n\nOn Quest, we recently hit a couple of incredible SUPERHOT VR milestones. 1 million copies sold and over 10k reviews. We could not be happier and more thankful for the love you have shown us.\n\nTo help celebrate we’re going to be discounting SUPERHOT VR on Quest in the coming days. Tell your friends. Spread the system.\n\nFor the curious, check our out website superhotgame.com if you want to delve into the SUPERHOT story so far.\n\nSincerest thanks once again to all our fans, our players and everyone involved in everything SUPERHOT. You are the best.\n\nAlways and forever, \nSUPERHOT Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974892_902004447281945_780403551230389777_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IJszNafhKMcAX_a2kHJ&_nc_ht=scontent.oculuscdn.com&oh=249a02e8df991eaf3f748ce1590af017&oe=609977DF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974892_902004447281945_780403551230389777_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IJszNafhKMcAX9-LBcO&_nc_ht=scontent.oculuscdn.com&oh=a705b82219429f101f3099a4c1512b61&oe=609977DF"
 							}
 						}
 					]
@@ -239,11 +248,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7494797086368,
+			"quality_rating_aggregate": 4.7497401247401,
 			"support_website_url": "https://superhotgame.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 5302,
+				"count": 5306,
 				"orderings": [
 					{
 						"key": "top",
@@ -256,10 +265,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 5302,
+				"count": 5306,
 				"page_info": {
-					"end_cursor": "AQHRN9zNNT0723PK-j_IsP3cF8dmjZccTcod0pCIEjcZcara2tnK2QoHQclOmEKPeMlBDEaVkliznJ1HsC5puiwu0A",
-					"start_cursor": "AQHRN9zNNT0723PK-j_IsP3cF8dmjZccTcod0pCIEjcZcara2tnK2QoHQclOmEKPeMlBDEaVkliznJ1HsC5puiwu0A"
+					"end_cursor": "AQHRI-OoG899Ej63JZCwRdbGniGfjUX5kd3kWgX3InbEtw4szrx2gD_afp_ZuqtlaJ3NOJO7IMdHV6gizlinJ0szQA",
+					"start_cursor": "AQHRI-OoG899Ej63JZCwRdbGniGfjUX5kd3kWgX3InbEtw4szrx2gD_afp_ZuqtlaJ3NOJO7IMdHV6gizlinJ0szQA"
 				},
 				"edges": [
 					{
@@ -269,13 +278,13 @@
 								"id": "105525594837855",
 								"display_name": "DanielFayeFern",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974684_105526061504475_1455484629251935447_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nmbKk6ImyvYAX_NIhsE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=33eb129d7042650ffcfa8846ea380d38&oe=6099492B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/38974684_105526061504475_1455484629251935447_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MtXentv0JTYAX8aBrQ7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=763886bed82af63aa6cd51645ba877ce&oe=6099492B"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "Respectfully. I’ve been diagnosed with Treatment Resistant Depression. I’ve struggled all my life. I’ve thought about suicide and self medicated. \nWith proactivity and the use of mental health professionals, that combination with the VR community has given me a second chance. \nNo\nJoke.\n\nSo respectfully.\nIf you think this game has any semblance to real life. Any suggestive tone not unlike that of metal music “making” people commit the same result. \n\nYou fellows,\n\nHave some serious hang ups. \nI’d strongly suggest you reconsider reviewing this game on that basis. \n\nI’ll go further and say that this is one of my FAVORITE games, like EVER.\n\nSo please don’t bad mouth it because of your hang ups. \n\nTry not to censor your whole life with worries. \n\nGo shoot some anthropomorphic polygons in the shape of sentient beings.\n\nYeesh.\n\nIt’ll make you feel good, and for more of that, do a Tripp session (on the oculus App Store) and get in touch with reality and some inner peace. \n\nTo justify my 5 stars not on the basis of criticism, here goes:\n\nYou use tactics, and strategy, and a lot of yoga exercises to kick major buttoms and feel like a Superman. This game. Rules. My. Life. \nWhen are we getting updates and extra levels? Replay value is amazing!!!",
 							"reviewTitle": "In response to the 1 star reviews",
-							"review_helpful_count": 246,
+							"review_helpful_count": 266,
 							"review_rank_by_viewer": null,
 							"date": 1618266058,
 							"developerResponse": null
@@ -290,7 +299,7 @@
 				"description": "《SUPERHOT VR》 这款主视角射击游戏，打通了小心谋划策略与大胆搏杀进击之间的界限。在游戏中，人前进时，时间才前进。\n\n\n\n“《SUPERHOT VR》让你感到热血沸腾” \n- Polygon\n\n“就像一场美妙的死亡芭蕾” \n- Gamespot\n\n\n赢得了数十项年度虚拟现实游戏大奖，成为了PC和主机的VR游戏典型，《SUPERHOT VR》现已为Oculus Quest精心重制。这是史上最好的《SUPERHOT》了。\n\n没有缆绳，没有限制，没有妥协。\n让系统释放你的自由。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031634_1034680610354985_8151357713603702498_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vBXt-CQVtIcAX9duSBD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60d1ad2632052ce381aebe231706ea13&oe=6098E8B0",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031634_1034680610354985_8151357713603702498_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vBXt-CQVtIcAX-W4tdL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7d94f38f694e985c31a9ee8d50d5daef&oe=609AE2F0",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

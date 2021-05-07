@@ -1,6 +1,107 @@
 {
-	"count": 273,
+	"count": 275,
 	"edges": [
+		{
+			"id": "3634830803298285",
+			"canonicalName": "resolution-games-demeo-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "473369900670402",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1620320417,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Demeo",
+			"is_concept": false,
+			"quality_rating_aggregate": 4.8564356435644,
+			"supported_in_app_languages": [
+				{
+					"name": "德语"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
+					"name": "英语"
+				},
+				{
+					"name": "西班牙语（墨西哥）"
+				},
+				{
+					"name": "韩语"
+				}
+			],
+			"genre_names": [
+				"冒险",
+				"角色扮演",
+				"策略"
+			],
+			"rating_count": 202
+		},
+		{
+			"id": "2441213515992073",
+			"canonicalName": "carbon-studio-the-wizards-dark-times-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "158736046103545",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1620320399,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "The Wizards - Dark Times",
+			"is_concept": false,
+			"quality_rating_aggregate": 4.5769230769231,
+			"supported_in_app_languages": [
+				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "俄语"
+				},
+				{
+					"name": "德语"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
+					"name": "英语"
+				},
+				{
+					"name": "西班牙语（西班牙）"
+				}
+			],
+			"genre_names": [
+				"动作",
+				"冒险"
+			],
+			"rating_count": 26
+		},
 		{
 			"id": "3180994211970184",
 			"canonicalName": "zen-studios-star-wars-pinball-vr-android6d0f",
@@ -24,7 +125,7 @@
 			"__typename": "Application",
 			"display_name": "Star Wars Pinball VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9927272727273,
+			"quality_rating_aggregate": 3.9690721649485,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -48,7 +149,7 @@
 			"genre_names": [
 				"模拟"
 			],
-			"rating_count": 275
+			"rating_count": 291
 		},
 		{
 			"id": "2562090053828017",
@@ -73,7 +174,7 @@
 			"__typename": "Application",
 			"display_name": "Wraith: The Oblivion - Afterlife",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4502923976608,
+			"quality_rating_aggregate": 4.4261363636364,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -114,7 +215,7 @@
 				"探索",
 				"恐怖"
 			],
-			"rating_count": 171
+			"rating_count": 176
 		},
 		{
 			"id": "3895994960415614",
@@ -178,7 +279,7 @@
 			"__typename": "Application",
 			"display_name": "Carly and the Reaperman",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3166666666667,
+			"quality_rating_aggregate": 4.3387096774194,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -213,7 +314,7 @@
 				"益智",
 				"社交"
 			],
-			"rating_count": 60
+			"rating_count": 62
 		},
 		{
 			"id": "2088366894520136",
@@ -238,7 +339,7 @@
 			"__typename": "Application",
 			"display_name": "VZfit",
 			"is_concept": false,
-			"quality_rating_aggregate": 2.7768240343348,
+			"quality_rating_aggregate": 2.793991416309,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -274,7 +375,7 @@
 			"__typename": "Application",
 			"display_name": "Swarm",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8097412480974,
+			"quality_rating_aggregate": 4.8075187969925,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -285,7 +386,7 @@
 				"街机",
 				"射击"
 			],
-			"rating_count": 657
+			"rating_count": 665
 		},
 		{
 			"id": "2753873371404693",
@@ -382,7 +483,7 @@
 			"__typename": "Application",
 			"display_name": "Floor Plan 2",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3779069767442,
+			"quality_rating_aggregate": 4.3657142857143,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -426,7 +527,7 @@
 				"探索",
 				"益智"
 			],
-			"rating_count": 172
+			"rating_count": 175
 		},
 		{
 			"id": "3392175350802835",
@@ -451,7 +552,7 @@
 			"__typename": "Application",
 			"display_name": "Hand Physics Lab",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7165898617512,
+			"quality_rating_aggregate": 3.7123287671233,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -462,7 +563,7 @@
 				"益智",
 				"模拟"
 			],
-			"rating_count": 434
+			"rating_count": 438
 		},
 		{
 			"id": "2792447070854325",
@@ -523,7 +624,7 @@
 			"__typename": "Application",
 			"display_name": "Cosmodread",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.544061302682,
+			"quality_rating_aggregate": 4.5492424242424,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -542,7 +643,7 @@
 				"动作",
 				"恐怖"
 			],
-			"rating_count": 261
+			"rating_count": 264
 		},
 		{
 			"id": "1760132027421053",
@@ -601,7 +702,7 @@
 			"__typename": "Application",
 			"display_name": "Flow Weaver",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.379746835443,
+			"quality_rating_aggregate": 3.3625,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -645,7 +746,7 @@
 				"故事",
 				"益智"
 			],
-			"rating_count": 79
+			"rating_count": 80
 		},
 		{
 			"id": "2108767382537806",
@@ -706,7 +807,7 @@
 			"__typename": "Application",
 			"display_name": "The Climb 2",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9789473684211,
+			"quality_rating_aggregate": 3.9800420168067,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -750,7 +851,7 @@
 				"探索",
 				"体育"
 			],
-			"rating_count": 950
+			"rating_count": 952
 		},
 		{
 			"id": "2548290978591281",
@@ -811,7 +912,7 @@
 			"__typename": "Application",
 			"display_name": "Hyper Dash",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.697796432319,
+			"quality_rating_aggregate": 4.6934306569343,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（香港）"
@@ -875,7 +976,7 @@
 				"动作",
 				"射击"
 			],
-			"rating_count": 953
+			"rating_count": 959
 		},
 		{
 			"id": "1884760688319818",
@@ -900,7 +1001,7 @@
 			"__typename": "Application",
 			"display_name": "Crashland",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4035087719298,
+			"quality_rating_aggregate": 4.4164588528678,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -911,7 +1012,7 @@
 				"街机",
 				"恐怖"
 			],
-			"rating_count": 399
+			"rating_count": 401
 		},
 		{
 			"id": "3682965538398068",
@@ -1138,7 +1239,7 @@
 			"__typename": "Application",
 			"display_name": "GORN",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7869204789684,
+			"quality_rating_aggregate": 4.7867849495258,
 			"supported_in_app_languages": [
 				{
 					"name": "俄语"
@@ -1166,7 +1267,7 @@
 				"动作",
 				"格斗"
 			],
-			"rating_count": 3257
+			"rating_count": 3269
 		},
 		{
 			"id": "3622969487764448",
@@ -1191,7 +1292,7 @@
 			"__typename": "Application",
 			"display_name": "Yupitergrad",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7896825396825,
+			"quality_rating_aggregate": 4.7913385826772,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -1202,7 +1303,7 @@
 				"竞速",
 				"太空/宇宙"
 			],
-			"rating_count": 252
+			"rating_count": 254
 		},
 		{
 			"id": "3844657785549661",
@@ -1262,7 +1363,7 @@
 			"__typename": "Application",
 			"display_name": "BATTLESCAR: Punk Was Invented By Girls",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7578947368421,
+			"quality_rating_aggregate": 4.7604166666667,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -1279,7 +1380,7 @@
 				"音乐",
 				"故事"
 			],
-			"rating_count": 95
+			"rating_count": 96
 		},
 		{
 			"id": "3727135290647922",
@@ -1412,7 +1513,7 @@
 			"__typename": "Application",
 			"display_name": "Holofit by Holodia",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.2801418439716,
+			"quality_rating_aggregate": 3.2947368421053,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -1435,7 +1536,7 @@
 				"竞速",
 				"体育"
 			],
-			"rating_count": 282
+			"rating_count": 285
 		},
 		{
 			"id": "3323166227771391",
@@ -1460,7 +1561,7 @@
 			"__typename": "Application",
 			"display_name": "INVASION! Anniversary Edition",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.5272727272727,
+			"quality_rating_aggregate": 3.5135135135135,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -1471,7 +1572,7 @@
 				"360 度全景体验（非游戏）",
 				"电影"
 			],
-			"rating_count": 110
+			"rating_count": 111
 		},
 		{
 			"id": "2708465082504733",
@@ -1496,7 +1597,7 @@
 			"__typename": "Application",
 			"display_name": "Jurassic World Aftermath",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3128205128205,
+			"quality_rating_aggregate": 4.3154533844189,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -1507,7 +1608,7 @@
 				"恐龙",
 				"探索"
 			],
-			"rating_count": 780
+			"rating_count": 783
 		},
 		{
 			"id": "2719294624823942",
@@ -1532,7 +1633,7 @@
 			"__typename": "Application",
 			"display_name": "神秘岛 (Myst)",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1413043478261,
+			"quality_rating_aggregate": 4.1410488245931,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -1567,7 +1668,7 @@
 				"益智",
 				"故事"
 			],
-			"rating_count": 552
+			"rating_count": 553
 		},
 		{
 			"id": "3723136981093558",
@@ -1631,7 +1732,7 @@
 			"__typename": "Application",
 			"display_name": "Warhammer 40,000: Battle Sister",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1528455284553,
+			"quality_rating_aggregate": 4.1525974025974,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -1657,7 +1758,7 @@
 				"射击",
 				"恐怖"
 			],
-			"rating_count": 615
+			"rating_count": 616
 		},
 		{
 			"id": "2537261906377373",
@@ -1718,7 +1819,7 @@
 			"__typename": "Application",
 			"display_name": "监狱大佬VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3907284768212,
+			"quality_rating_aggregate": 4.3947368421053,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -1750,7 +1851,7 @@
 				"模拟",
 				"策略"
 			],
-			"rating_count": 151
+			"rating_count": 152
 		},
 		{
 			"id": "2436897736439055",
@@ -1775,7 +1876,7 @@
 			"__typename": "Application",
 			"display_name": "Contractors",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3155976676385,
+			"quality_rating_aggregate": 4.3163636363636,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -1785,7 +1886,7 @@
 				"动作",
 				"射击"
 			],
-			"rating_count": 1372
+			"rating_count": 1375
 		},
 		{
 			"id": "2977398372335251",
@@ -1810,7 +1911,7 @@
 			"__typename": "Application",
 			"display_name": "ALTDEUS: Beyond Chronos",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8213367609255,
+			"quality_rating_aggregate": 4.8217948717949,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -1833,7 +1934,7 @@
 				"冒险",
 				"故事"
 			],
-			"rating_count": 778
+			"rating_count": 780
 		},
 		{
 			"id": "2446271755437605",
@@ -1897,7 +1998,7 @@
 			"__typename": "Application",
 			"display_name": "Star Wars: Tales from the Galaxy's Edge",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9729609929078,
+			"quality_rating_aggregate": 3.9729969012838,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -1923,7 +2024,7 @@
 				"冒险",
 				"故事"
 			],
-			"rating_count": 2256
+			"rating_count": 2259
 		},
 		{
 			"id": "3092079454190601",
@@ -2140,7 +2241,7 @@
 			"__typename": "Application",
 			"display_name": "POPULATION: ONE",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6140302232081,
+			"quality_rating_aggregate": 4.6134697828793,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -2166,7 +2267,7 @@
 				"街机",
 				"射击"
 			],
-			"rating_count": 7213
+			"rating_count": 7231
 		},
 		{
 			"id": "3043045549099845",
@@ -2248,7 +2349,7 @@
 			"__typename": "Application",
 			"display_name": "The Walking Dead: Saints & Sinners",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6491729884343,
+			"quality_rating_aggregate": 4.6495344506518,
 			"supported_in_app_languages": [
 				{
 					"name": "俄语"
@@ -2283,7 +2384,7 @@
 				"冒险",
 				"恐怖"
 			],
-			"rating_count": 8041
+			"rating_count": 8055
 		},
 		{
 			"id": "2610547289060480",
@@ -2608,7 +2709,7 @@
 			"__typename": "Application",
 			"display_name": "Blaston",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7928802588997,
+			"quality_rating_aggregate": 4.7930476960388,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -2661,7 +2762,7 @@
 				"射击",
 				"体育"
 			],
-			"rating_count": 1236
+			"rating_count": 1237
 		},
 		{
 			"id": "1920879634657108",
@@ -2746,7 +2847,7 @@
 			"__typename": "Application",
 			"display_name": "Dash Dash World",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9553752535497,
+			"quality_rating_aggregate": 3.9516129032258,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -2757,7 +2858,7 @@
 				"休闲",
 				"竞速"
 			],
-			"rating_count": 493
+			"rating_count": 496
 		},
 		{
 			"id": "2567459230020142",
@@ -2782,7 +2883,7 @@
 			"__typename": "Application",
 			"display_name": "Until You Fall",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7174721189591,
+			"quality_rating_aggregate": 4.7169287696577,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -2792,7 +2893,7 @@
 				"动作",
 				"格斗"
 			],
-			"rating_count": 1076
+			"rating_count": 1081
 		},
 		{
 			"id": "2462678267173943",
@@ -2817,7 +2918,7 @@
 			"__typename": "Application",
 			"display_name": "Walkabout Mini Golf",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8353997434801,
+			"quality_rating_aggregate": 4.8352490421456,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -2827,7 +2928,7 @@
 				"体育",
 				"休闲"
 			],
-			"rating_count": 2339
+			"rating_count": 2349
 		},
 		{
 			"id": "2245426295493320",
@@ -2906,7 +3007,7 @@
 			"__typename": "Application",
 			"display_name": "Shuttle Commander",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7717391304348,
+			"quality_rating_aggregate": 3.7634408602151,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -2920,7 +3021,7 @@
 				"模拟",
 				"太空/宇宙"
 			],
-			"rating_count": 92
+			"rating_count": 93
 		},
 		{
 			"id": "2264524423619421",
@@ -3017,7 +3118,7 @@
 			"__typename": "Application",
 			"display_name": "Holopoint",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1666666666667,
+			"quality_rating_aggregate": 4.1754385964912,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -3410,7 +3511,7 @@
 			"__typename": "Application",
 			"display_name": "Alcove",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9172932330827,
+			"quality_rating_aggregate": 3.9067164179104,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -3421,7 +3522,7 @@
 				"社交",
 				"旅行"
 			],
-			"rating_count": 266
+			"rating_count": 268
 		},
 		{
 			"id": "2900834523285203",
@@ -3566,7 +3667,7 @@
 			"__typename": "Application",
 			"display_name": "Onward",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.405969155664,
+			"quality_rating_aggregate": 4.40638510143,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -3577,7 +3678,7 @@
 				"射击",
 				"模拟"
 			],
-			"rating_count": 9013
+			"rating_count": 9021
 		},
 		{
 			"id": "2334376869949242",
@@ -3602,7 +3703,7 @@
 			"__typename": "Application",
 			"display_name": "In Death: Unchained",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7384105960265,
+			"quality_rating_aggregate": 4.7396864686469,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -3613,7 +3714,7 @@
 				"射击",
 				"街机"
 			],
-			"rating_count": 2416
+			"rating_count": 2424
 		},
 		{
 			"id": "2849273531812512",
@@ -3760,7 +3861,7 @@
 			"__typename": "Application",
 			"display_name": "Five Nights at Freddy's: Help Wanted",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7697368421053,
+			"quality_rating_aggregate": 4.7696787525831,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -3770,7 +3871,7 @@
 				"恐怖",
 				"益智"
 			],
-			"rating_count": 5320
+			"rating_count": 5323
 		},
 		{
 			"id": "3087966124548124",
@@ -3795,7 +3896,7 @@
 			"__typename": "Application",
 			"display_name": "Layers of Fear VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0978260869565,
+			"quality_rating_aggregate": 4.0972972972973,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -3839,7 +3940,7 @@
 				"探索",
 				"恐怖"
 			],
-			"rating_count": 184
+			"rating_count": 185
 		},
 		{
 			"id": "2450698034945641",
@@ -4029,7 +4130,7 @@
 			"__typename": "Application",
 			"display_name": "Phantom: Covert Ops",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3413379073756,
+			"quality_rating_aggregate": 4.3390410958904,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -4061,7 +4162,7 @@
 				"冒险",
 				"射击"
 			],
-			"rating_count": 1166
+			"rating_count": 1168
 		},
 		{
 			"id": "2718107161580827",
@@ -4086,7 +4187,7 @@
 			"__typename": "Application",
 			"display_name": "Trover Saves the Universe",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7257227575982,
+			"quality_rating_aggregate": 4.7259259259259,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -4109,7 +4210,7 @@
 				"冒险",
 				"故事"
 			],
-			"rating_count": 1349
+			"rating_count": 1350
 		},
 		{
 			"id": "2833307773392914",
@@ -4242,7 +4343,7 @@
 			"__typename": "Application",
 			"display_name": "Premium Bowling",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0784982935154,
+			"quality_rating_aggregate": 4.0697278911565,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -4309,7 +4410,7 @@
 				"模拟",
 				"体育"
 			],
-			"rating_count": 586
+			"rating_count": 588
 		},
 		{
 			"id": "2685959161497510",
@@ -4472,7 +4573,7 @@
 			"__typename": "Application",
 			"display_name": "Elixir",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.378132118451,
+			"quality_rating_aggregate": 3.379833206975,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -4498,7 +4599,7 @@
 				"休闲",
 				"故事"
 			],
-			"rating_count": 1317
+			"rating_count": 1319
 		},
 		{
 			"id": "2531338473623578",
@@ -4559,7 +4660,7 @@
 			"__typename": "Application",
 			"display_name": "Tetris® Effect",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5529608006672,
+			"quality_rating_aggregate": 4.5537052456286,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（台湾）"
@@ -4594,7 +4695,7 @@
 				"益智",
 				"放松/冥想"
 			],
-			"rating_count": 1199
+			"rating_count": 1201
 		},
 		{
 			"id": "2371757336252737",
@@ -4619,7 +4720,7 @@
 			"__typename": "Application",
 			"display_name": "Mini Motor Racing X",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4297693920335,
+			"quality_rating_aggregate": 4.4309623430962,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -4663,7 +4764,7 @@
 				"街机",
 				"竞速"
 			],
-			"rating_count": 477
+			"rating_count": 478
 		},
 		{
 			"id": "2484044451715693",
@@ -4688,7 +4789,7 @@
 			"__typename": "Application",
 			"display_name": "Audio Trip",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6740412979351,
+			"quality_rating_aggregate": 4.6725403817915,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -4699,7 +4800,7 @@
 				"音乐",
 				"体育"
 			],
-			"rating_count": 678
+			"rating_count": 681
 		},
 		{
 			"id": "2215004568539258",
@@ -4724,7 +4825,7 @@
 			"__typename": "Application",
 			"display_name": "Echo VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6512274201019,
+			"quality_rating_aggregate": 4.6511412708205,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -4735,7 +4836,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 6477
+			"rating_count": 6484
 		},
 		{
 			"id": "1891638294265934",
@@ -4844,21 +4945,17 @@
 			"canonicalName": "arvore-immersive-experiences-pixel-ripped-1995-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1620370740,
-				"show_timer": true,
-				"id": "989599098450076",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1133903103656801",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1587661200,
@@ -4866,7 +4963,7 @@
 			"__typename": "Application",
 			"display_name": "Pixel Ripped 1995",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7051282051282,
+			"quality_rating_aggregate": 4.7058823529412,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -4898,7 +4995,7 @@
 				"冒险",
 				"街机"
 			],
-			"rating_count": 780
+			"rating_count": 782
 		},
 		{
 			"id": "1830168170427369",
@@ -4923,7 +5020,7 @@
 			"__typename": "Application",
 			"display_name": "Supernatural",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3986853386682,
+			"quality_rating_aggregate": 4.3989164528087,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -4934,7 +5031,7 @@
 				"体育",
 				"放松/冥想"
 			],
-			"rating_count": 3499
+			"rating_count": 3507
 		},
 		{
 			"id": "1924930950878181",
@@ -5063,7 +5160,7 @@
 			"__typename": "Application",
 			"display_name": "Ironlights",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3308270676692,
+			"quality_rating_aggregate": 4.3313856427379,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -5107,7 +5204,7 @@
 				"格斗",
 				"体育"
 			],
-			"rating_count": 1197
+			"rating_count": 1198
 		},
 		{
 			"id": "2652937004788947",
@@ -5294,7 +5391,7 @@
 			"__typename": "Application",
 			"display_name": "The Room VR: A Dark Matter",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8869658446929,
+			"quality_rating_aggregate": 4.8870548677976,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -5329,7 +5426,7 @@
 				"探索",
 				"益智"
 			],
-			"rating_count": 6529
+			"rating_count": 6543
 		},
 		{
 			"id": "2476104599150595",
@@ -5354,7 +5451,7 @@
 			"__typename": "Application",
 			"display_name": "Down the Rabbit Hole",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7267015706806,
+			"quality_rating_aggregate": 4.7230929989551,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -5413,7 +5510,7 @@
 				"故事",
 				"益智"
 			],
-			"rating_count": 955
+			"rating_count": 957
 		},
 		{
 			"id": "2702419963135346",
@@ -5438,7 +5535,7 @@
 			"__typename": "Application",
 			"display_name": "Color Space",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3823529411765,
+			"quality_rating_aggregate": 4.3814180929095,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -5467,7 +5564,7 @@
 				"休闲",
 				"放松/冥想"
 			],
-			"rating_count": 408
+			"rating_count": 409
 		},
 		{
 			"id": "1995434190525828",
@@ -5492,7 +5589,7 @@
 			"__typename": "Application",
 			"display_name": "Eleven Table Tennis",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6049453709028,
+			"quality_rating_aggregate": 4.605851979346,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -5542,7 +5639,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 3478
+			"rating_count": 3486
 		},
 		{
 			"id": "2260701747375712",
@@ -5750,7 +5847,7 @@
 			"__typename": "Application",
 			"display_name": "Doctor Who The Edge of Time",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.4312796208531,
+			"quality_rating_aggregate": 3.4302600472813,
 			"supported_in_app_languages": [
 				{
 					"name": "日语"
@@ -5770,7 +5867,7 @@
 				"冒险",
 				"探索"
 			],
-			"rating_count": 422
+			"rating_count": 423
 		},
 		{
 			"id": "2615129151844974",
@@ -5795,7 +5892,7 @@
 			"__typename": "Application",
 			"display_name": "Fail Factory!",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9142857142857,
+			"quality_rating_aggregate": 3.9078014184397,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -5824,7 +5921,7 @@
 				"休闲",
 				"益智"
 			],
-			"rating_count": 140
+			"rating_count": 141
 		},
 		{
 			"id": "1976071352472244",
@@ -6011,7 +6108,7 @@
 			"__typename": "Application",
 			"display_name": "Space Explorers",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7361111111111,
+			"quality_rating_aggregate": 3.6986301369863,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -6022,7 +6119,7 @@
 				"探索",
 				"故事"
 			],
-			"rating_count": 72
+			"rating_count": 73
 		},
 		{
 			"id": "2173576192720129",
@@ -6047,7 +6144,7 @@
 			"__typename": "Application",
 			"display_name": "TRIPP",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7737430167598,
+			"quality_rating_aggregate": 3.7715877437326,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -6058,24 +6155,28 @@
 				"效率",
 				"放松/冥想"
 			],
-			"rating_count": 716
+			"rating_count": 718
 		},
 		{
 			"id": "2359857214088490",
 			"canonicalName": "drashvr-llc-titans-of-space-plus-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "589793041794445",
+				"end_time": 1620457140,
+				"show_timer": true,
+				"id": "507300743790923",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "749",
+					"formatted": "$7.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1576778365,
@@ -6182,7 +6283,7 @@
 			"__typename": "Application",
 			"display_name": "Star Trek: Bridge Crew",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.1556572923479,
+			"quality_rating_aggregate": 3.1542483660131,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -6199,7 +6300,7 @@
 				"社交",
 				"太空/宇宙"
 			],
-			"rating_count": 1529
+			"rating_count": 1530
 		},
 		{
 			"id": "2032870023439846",
@@ -6275,7 +6376,7 @@
 			"__typename": "Application",
 			"display_name": "Vacation Simulator",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7177297840281,
+			"quality_rating_aggregate": 4.7188594297149,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -6319,7 +6420,7 @@
 				"模拟",
 				"休闲"
 			],
-			"rating_count": 1991
+			"rating_count": 1999
 		},
 		{
 			"id": "2967784573246968",
@@ -6500,7 +6601,7 @@
 			"__typename": "Application",
 			"display_name": "亚利桑那阳光 (Arizona Sunshine®)",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.2841566533155,
+			"quality_rating_aggregate": 4.2841590757609,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -6535,7 +6636,7 @@
 				"恐怖",
 				"射击"
 			],
-			"rating_count": 4494
+			"rating_count": 4501
 		},
 		{
 			"id": "1954488057986071",
@@ -6632,7 +6733,7 @@
 			"__typename": "Application",
 			"display_name": "The Climb",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3326790971541,
+			"quality_rating_aggregate": 4.3333333333333,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -6655,7 +6756,7 @@
 				"探索",
 				"体育"
 			],
-			"rating_count": 2038
+			"rating_count": 2040
 		},
 		{
 			"id": "2245906048808858",
@@ -6718,7 +6819,7 @@
 			"__typename": "Application",
 			"display_name": "A Fisherman's Tale",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5950359242325,
+			"quality_rating_aggregate": 4.5955642530985,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -6759,7 +6860,7 @@
 				"故事",
 				"益智"
 			],
-			"rating_count": 1531
+			"rating_count": 1533
 		},
 		{
 			"id": "2228678273856228",
@@ -6784,7 +6885,7 @@
 			"__typename": "Application",
 			"display_name": "Espire 1: VR Operative",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.2062339880444,
+			"quality_rating_aggregate": 4.2058949167023,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -6810,7 +6911,7 @@
 				"故事",
 				"射击"
 			],
-			"rating_count": 2342
+			"rating_count": 2341
 		},
 		{
 			"id": "2426206484098337",
@@ -6835,7 +6936,7 @@
 			"__typename": "Application",
 			"display_name": "Vader Immortal: Episode III",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5354737314773,
+			"quality_rating_aggregate": 4.5358905338717,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -6864,7 +6965,7 @@
 				"电影",
 				"故事"
 			],
-			"rating_count": 4454
+			"rating_count": 4458
 		},
 		{
 			"id": "1917371471713228",
@@ -6889,7 +6990,7 @@
 			"__typename": "Application",
 			"display_name": "The Under Presents",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3653483992467,
+			"quality_rating_aggregate": 4.3627819548872,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -6900,7 +7001,7 @@
 				"探索",
 				"故事"
 			],
-			"rating_count": 1062
+			"rating_count": 1064
 		},
 		{
 			"id": "2917608654922903",
@@ -6970,7 +7071,7 @@
 			"__typename": "Application",
 			"display_name": "The Curious Tale of the Stolen Pets",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3786191536748,
+			"quality_rating_aggregate": 4.38,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -7011,7 +7112,7 @@
 				"休闲",
 				"益智"
 			],
-			"rating_count": 449
+			"rating_count": 450
 		},
 		{
 			"id": "1427490644042488",
@@ -7107,7 +7208,7 @@
 			"__typename": "Application",
 			"display_name": "Pistol Whip",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7739747634069,
+			"quality_rating_aggregate": 4.7740308855972,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7118,7 +7219,7 @@
 				"音乐",
 				"射击"
 			],
-			"rating_count": 6340
+			"rating_count": 6346
 		},
 		{
 			"id": "2436558143118760",
@@ -7143,7 +7244,7 @@
 			"__typename": "Application",
 			"display_name": "Synth Riders",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6781144781145,
+			"quality_rating_aggregate": 4.6787634408602,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7154,7 +7255,7 @@
 				"音乐",
 				"体育"
 			],
-			"rating_count": 1485
+			"rating_count": 1488
 		},
 		{
 			"id": "3008315795852749",
@@ -7179,7 +7280,7 @@
 			"__typename": "Application",
 			"display_name": "The Thrill of the Fight",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8072741648547,
+			"quality_rating_aggregate": 4.8075404658508,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7190,7 +7291,7 @@
 				"格斗",
 				"体育"
 			],
-			"rating_count": 5059
+			"rating_count": 5066
 		},
 		{
 			"id": "2567395559960697",
@@ -7380,7 +7481,7 @@
 			"__typename": "Application",
 			"display_name": "Kingspray Graffiti",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7004538577912,
+			"quality_rating_aggregate": 4.7009063444109,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7394,7 +7495,7 @@
 				"休闲",
 				"模拟"
 			],
-			"rating_count": 1322
+			"rating_count": 1324
 		},
 		{
 			"id": "2128482130504783",
@@ -7466,7 +7567,7 @@
 			"__typename": "Application",
 			"display_name": "Death Horizon: Reloaded",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3664717348928,
+			"quality_rating_aggregate": 4.3662932294204,
 			"supported_in_app_languages": [
 				{
 					"name": "俄语"
@@ -7495,7 +7596,7 @@
 				"恐怖",
 				"射击"
 			],
-			"rating_count": 2052
+			"rating_count": 2053
 		},
 		{
 			"id": "2223615721048141",
@@ -7520,7 +7621,7 @@
 			"__typename": "Application",
 			"display_name": "Vader Immortal: Episode II",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1739348370927,
+			"quality_rating_aggregate": 4.1745554720761,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -7549,7 +7650,7 @@
 				"电影",
 				"故事"
 			],
-			"rating_count": 3990
+			"rating_count": 3993
 		},
 		{
 			"id": "2642735955738627",
@@ -7735,7 +7836,7 @@
 			"__typename": "Application",
 			"display_name": "Facebook Horizon (Invite-only Beta)",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.054347826087,
+			"quality_rating_aggregate": 4.0546448087432,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7745,7 +7846,7 @@
 				"探索",
 				"社交"
 			],
-			"rating_count": 184
+			"rating_count": 183
 		},
 		{
 			"id": "2121787737926354",
@@ -7770,7 +7871,7 @@
 			"__typename": "Application",
 			"display_name": "Traveling While Black",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9800362976407,
+			"quality_rating_aggregate": 3.981884057971,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7781,7 +7882,7 @@
 				"电影",
 				"故事"
 			],
-			"rating_count": 551
+			"rating_count": 552
 		},
 		{
 			"id": "2586839431358655",
@@ -7842,7 +7943,7 @@
 			"__typename": "Application",
 			"display_name": "Poker VR - Pure Poker & Multi Table Tournaments",
 			"is_concept": false,
-			"quality_rating_aggregate": 2.962962962963,
+			"quality_rating_aggregate": 2.9660056657224,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7853,7 +7954,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 702
+			"rating_count": 706
 		},
 		{
 			"id": "2675955252474460",
@@ -7878,7 +7979,7 @@
 			"__typename": "Application",
 			"display_name": "天境：王国乱斗",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1224489795918,
+			"quality_rating_aggregate": 4.1153846153846,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（台湾）"
@@ -7913,7 +8014,7 @@
 				"街机",
 				"策略"
 			],
-			"rating_count": 441
+			"rating_count": 442
 		},
 		{
 			"id": "2221553561229188",
@@ -7938,7 +8039,7 @@
 			"__typename": "Application",
 			"display_name": "Drunkn Bar Fight",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1003798155182,
+			"quality_rating_aggregate": 4.0985915492958,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7963,7 +8064,7 @@
 				"动作",
 				"格斗"
 			],
-			"rating_count": 1843
+			"rating_count": 1846
 		},
 		{
 			"id": "2133027990157329",
@@ -7988,7 +8089,7 @@
 			"__typename": "Application",
 			"display_name": "AltspaceVR",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.2123197903014,
+			"quality_rating_aggregate": 3.2135416666667,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -7998,7 +8099,7 @@
 				"休闲",
 				"社交"
 			],
-			"rating_count": 763
+			"rating_count": 768
 		},
 		{
 			"id": "2035353573194060",
@@ -8023,7 +8124,7 @@
 			"__typename": "Application",
 			"display_name": "Half + Half",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.9171483622351,
+			"quality_rating_aggregate": 3.9174664107486,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -8034,7 +8135,7 @@
 				"探索",
 				"社交"
 			],
-			"rating_count": 519
+			"rating_count": 521
 		},
 		{
 			"id": "2582932495064035",
@@ -8059,7 +8160,7 @@
 			"__typename": "Application",
 			"display_name": "Real VR Fishing",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6880326046684,
+			"quality_rating_aggregate": 4.6883789785344,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -8085,7 +8186,7 @@
 				"模拟",
 				"体育"
 			],
-			"rating_count": 2699
+			"rating_count": 2702
 		},
 		{
 			"id": "2325731427501921",
@@ -8110,7 +8211,7 @@
 			"__typename": "Application",
 			"display_name": "Elven Assassin",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1074561403509,
+			"quality_rating_aggregate": 4.108838568298,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -8121,7 +8222,7 @@
 				"角色扮演",
 				"模拟"
 			],
-			"rating_count": 1368
+			"rating_count": 1369
 		},
 		{
 			"id": "2434361173248640",
@@ -8146,7 +8247,7 @@
 			"__typename": "Application",
 			"display_name": "End Space",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.6547455295736,
+			"quality_rating_aggregate": 3.6570644718793,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -8181,7 +8282,7 @@
 				"飞行",
 				"太空/宇宙"
 			],
-			"rating_count": 727
+			"rating_count": 729
 		},
 		{
 			"id": "2345082335516570",
@@ -8206,7 +8307,7 @@
 			"__typename": "Application",
 			"display_name": "Acron: Attack of the Squirrels!",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5636910732197,
+			"quality_rating_aggregate": 4.5645645645646,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -8232,7 +8333,7 @@
 				"街机",
 				"社交"
 			],
-			"rating_count": 997
+			"rating_count": 999
 		},
 		{
 			"id": "1978992975501648",
@@ -8435,7 +8536,7 @@
 			"__typename": "Application",
 			"display_name": "Red Matter",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6525930851064,
+			"quality_rating_aggregate": 4.6528239202658,
 			"supported_in_app_languages": [
 				{
 					"name": "法语（法国）"
@@ -8452,7 +8553,7 @@
 				"探索",
 				"益智"
 			],
-			"rating_count": 3008
+			"rating_count": 3010
 		},
 		{
 			"id": "2055554051161375",
@@ -8528,7 +8629,7 @@
 			"__typename": "Application",
 			"display_name": "Pinball FX2 VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0662251655629,
+			"quality_rating_aggregate": 4.0660066006601,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -8550,7 +8651,7 @@
 				"街机",
 				"模拟"
 			],
-			"rating_count": 604
+			"rating_count": 606
 		},
 		{
 			"id": "2398880980156491",
@@ -8611,7 +8712,7 @@
 			"__typename": "Application",
 			"display_name": "DeoVR Video Player",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.0851851851852,
+			"quality_rating_aggregate": 3.0774907749077,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -8637,7 +8738,7 @@
 				"电影",
 				"工具"
 			],
-			"rating_count": 270
+			"rating_count": 271
 		},
 		{
 			"id": "2706567592751319",
@@ -8662,7 +8763,7 @@
 			"__typename": "Application",
 			"display_name": "Please, Don't Touch Anything",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7385257301808,
+			"quality_rating_aggregate": 3.7350901525659,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（香港）"
@@ -8715,7 +8816,7 @@
 				"益智",
 				"模拟"
 			],
-			"rating_count": 719
+			"rating_count": 721
 		},
 		{
 			"id": "2180252408763702",
@@ -8740,7 +8841,7 @@
 			"__typename": "Application",
 			"display_name": "Firefox Reality",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7058823529412,
+			"quality_rating_aggregate": 3.7037037037037,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（台湾）"
@@ -8796,7 +8897,7 @@
 				"效率",
 				"工具"
 			],
-			"rating_count": 323
+			"rating_count": 324
 		},
 		{
 			"id": "1903584373052985",
@@ -8821,7 +8922,7 @@
 			"__typename": "Application",
 			"display_name": "Raccoon Lagoon",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0545454545455,
+			"quality_rating_aggregate": 4.0562613430127,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -8847,7 +8948,7 @@
 				"休闲",
 				"模拟"
 			],
-			"rating_count": 550
+			"rating_count": 551
 		},
 		{
 			"id": "1794123900713107",
@@ -8965,7 +9066,7 @@
 			"__typename": "Application",
 			"display_name": "Prime Video VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.216404886562,
+			"quality_rating_aggregate": 3.2201039861352,
 			"supported_in_app_languages": [
 				{
 					"name": "丹麦语"
@@ -9015,7 +9116,7 @@
 				"电影",
 				"故事"
 			],
-			"rating_count": 573
+			"rating_count": 577
 		},
 		{
 			"id": "2285803881494677",
@@ -9040,7 +9141,7 @@
 			"__typename": "Application",
 			"display_name": "Gun Club VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4675892206846,
+			"quality_rating_aggregate": 4.4676049502548,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -9090,7 +9191,7 @@
 				"射击",
 				"模拟"
 			],
-			"rating_count": 4119
+			"rating_count": 4121
 		},
 		{
 			"id": "2255408847836468",
@@ -9115,7 +9216,7 @@
 			"__typename": "Application",
 			"display_name": "Racket: Nx",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7260869565217,
+			"quality_rating_aggregate": 4.726483357453,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -9135,7 +9236,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 1380
+			"rating_count": 1382
 		},
 		{
 			"id": "1587090851394426",
@@ -9235,7 +9336,7 @@
 			"__typename": "Application",
 			"display_name": "NOTES ON BLINDNESS",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5055432372506,
+			"quality_rating_aggregate": 4.5066371681416,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -9252,7 +9353,7 @@
 				"360 度全景体验（非游戏）",
 				"故事"
 			],
-			"rating_count": 451
+			"rating_count": 452
 		},
 		{
 			"id": "2560149374058829",
@@ -9461,7 +9562,7 @@
 			"__typename": "Application",
 			"display_name": "Fujii",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5714285714286,
+			"quality_rating_aggregate": 4.5732217573222,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（台湾）"
@@ -9502,7 +9603,7 @@
 				"探索",
 				"故事"
 			],
-			"rating_count": 238
+			"rating_count": 239
 		},
 		{
 			"id": "1642239225880682",
@@ -9527,7 +9628,7 @@
 			"__typename": "Application",
 			"display_name": "Richie's Plank Experience",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0270961145194,
+			"quality_rating_aggregate": 4.0255362614913,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -9538,7 +9639,7 @@
 				"飞行",
 				"模拟"
 			],
-			"rating_count": 1956
+			"rating_count": 1958
 		},
 		{
 			"id": "1958100334295482",
@@ -9563,7 +9664,7 @@
 			"__typename": "Application",
 			"display_name": "Anne Frank House VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5630936227951,
+			"quality_rating_aggregate": 4.5582655826558,
 			"supported_in_app_languages": [
 				{
 					"name": "希伯来语"
@@ -9592,7 +9693,7 @@
 				"教育",
 				"电影"
 			],
-			"rating_count": 737
+			"rating_count": 738
 		},
 		{
 			"id": "2740752989331803",
@@ -9766,7 +9867,7 @@
 			"__typename": "Application",
 			"display_name": "SWORDS of GARGANTUA",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1737835153923,
+			"quality_rating_aggregate": 4.1744301288404,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -9789,7 +9890,7 @@
 				"格斗",
 				"角色扮演"
 			],
-			"rating_count": 1007
+			"rating_count": 1009
 		},
 		{
 			"id": "2459503397416283",
@@ -9814,7 +9915,7 @@
 			"__typename": "Application",
 			"display_name": "The Wizards",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.1463917525773,
+			"quality_rating_aggregate": 4.1440329218107,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -9843,7 +9944,7 @@
 				"冒险",
 				"街机"
 			],
-			"rating_count": 485
+			"rating_count": 486
 		},
 		{
 			"id": "2022341094553436",
@@ -9907,7 +10008,7 @@
 			"__typename": "Application",
 			"display_name": "YouTube VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.8623188405797,
+			"quality_rating_aggregate": 3.8634719710669,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -9933,7 +10034,7 @@
 				"360 度全景体验（非游戏）",
 				"电影"
 			],
-			"rating_count": 1104
+			"rating_count": 1106
 		},
 		{
 			"id": "2184912004923042",
@@ -9958,7 +10059,7 @@
 			"__typename": "Application",
 			"display_name": "Netflix",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.0896091515729,
+			"quality_rating_aggregate": 3.0865842055186,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -9982,7 +10083,7 @@
 			"genre_names": [
 				"电影"
 			],
-			"rating_count": 1049
+			"rating_count": 1051
 		},
 		{
 			"id": "2448060205267927",
@@ -10007,7 +10108,7 @@
 			"__typename": "Application",
 			"display_name": "Beat Saber",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6818386407112,
+			"quality_rating_aggregate": 4.6819638940442,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -10051,7 +10152,7 @@
 				"音乐",
 				"体育"
 			],
-			"rating_count": 35548
+			"rating_count": 35562
 		},
 		{
 			"id": "2108775495884888",
@@ -10076,7 +10177,7 @@
 			"__typename": "Application",
 			"display_name": "Vader Immortal: Episode I",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4456965394854,
+			"quality_rating_aggregate": 4.4461279461279,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -10105,7 +10206,7 @@
 				"电影",
 				"故事"
 			],
-			"rating_count": 11270
+			"rating_count": 11286
 		},
 		{
 			"id": "2366245336750543",
@@ -10130,7 +10231,7 @@
 			"__typename": "Application",
 			"display_name": "Creed: Rise to Glory",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0624344176285,
+			"quality_rating_aggregate": 4.0638075313808,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -10180,7 +10281,7 @@
 				"格斗",
 				"体育"
 			],
-			"rating_count": 1906
+			"rating_count": 1912
 		},
 		{
 			"id": "1921533091289407",
@@ -10205,7 +10306,7 @@
 			"__typename": "Application",
 			"display_name": "SUPERHOT VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7494797086368,
+			"quality_rating_aggregate": 4.7497401247401,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -10246,7 +10347,7 @@
 				"益智",
 				"射击"
 			],
-			"rating_count": 11532
+			"rating_count": 11544
 		},
 		{
 			"id": "1952355814856769",
@@ -10307,7 +10408,7 @@
 			"__typename": "Application",
 			"display_name": "VRChat",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7789545609839,
+			"quality_rating_aggregate": 3.7803921568627,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -10318,7 +10419,7 @@
 				"探索",
 				"社交"
 			],
-			"rating_count": 5854
+			"rating_count": 5865
 		},
 		{
 			"id": "3235570703151406",
@@ -10343,7 +10444,7 @@
 			"__typename": "Application",
 			"display_name": "Job Simulator",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.7201014017298,
+			"quality_rating_aggregate": 4.7203516090584,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -10387,7 +10488,7 @@
 				"美食",
 				"模拟"
 			],
-			"rating_count": 6706
+			"rating_count": 6712
 		},
 		{
 			"id": "2718606324833775",
@@ -10570,7 +10671,7 @@
 			"__typename": "Application",
 			"display_name": "Bigscreen Beta",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0069790628116,
+			"quality_rating_aggregate": 4.006968641115,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -10581,7 +10682,7 @@
 				"效率",
 				"社交"
 			],
-			"rating_count": 2006
+			"rating_count": 2009
 		},
 		{
 			"id": "2453152771391571",
@@ -10606,7 +10707,7 @@
 			"__typename": "Application",
 			"display_name": "Dance Central",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3040238450075,
+			"quality_rating_aggregate": 4.3020833333333,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -10632,7 +10733,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 671
+			"rating_count": 672
 		},
 		{
 			"id": "2370815932930055",
@@ -10657,7 +10758,7 @@
 			"__typename": "Application",
 			"display_name": "PokerStars VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.7278067885117,
+			"quality_rating_aggregate": 3.7260511486779,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -10668,7 +10769,7 @@
 				"社交",
 				"策略"
 			],
-			"rating_count": 4596
+			"rating_count": 4614
 		},
 		{
 			"id": "2352932654734987",
@@ -10693,7 +10794,7 @@
 			"__typename": "Application",
 			"display_name": "OrbusVR: Reborn",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0667107001321,
+			"quality_rating_aggregate": 4.0653034300792,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -10704,7 +10805,7 @@
 				"角色扮演",
 				"社交"
 			],
-			"rating_count": 1514
+			"rating_count": 1516
 		},
 		{
 			"id": "2327205800645550",
@@ -10729,7 +10830,7 @@
 			"__typename": "Application",
 			"display_name": "FitXR — Box and Dance Fitness",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.2229617304493,
+			"quality_rating_aggregate": 3.2165991902834,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -10752,7 +10853,7 @@
 				"体育",
 				"音乐"
 			],
-			"rating_count": 5409
+			"rating_count": 5434
 		},
 		{
 			"id": "2322529091093901",
@@ -10813,7 +10914,7 @@
 			"__typename": "Application",
 			"display_name": "疯狂过山车",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.1569060773481,
+			"quality_rating_aggregate": 3.1563535911602,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -10924,7 +11025,7 @@
 			"__typename": "Application",
 			"display_name": "Rec Room",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5025473421129,
+			"quality_rating_aggregate": 4.5001439401209,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -10935,7 +11036,7 @@
 				"社交",
 				"体育"
 			],
-			"rating_count": 10403
+			"rating_count": 10421
 		},
 		{
 			"id": "2164469606967296",
@@ -11161,7 +11262,7 @@
 			"__typename": "Application",
 			"display_name": "Apex Construct",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0665778961385,
+			"quality_rating_aggregate": 4.0597609561753,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -11193,7 +11294,7 @@
 				"冒险",
 				"射击"
 			],
-			"rating_count": 751
+			"rating_count": 753
 		},
 		{
 			"id": "2088119334554800",
@@ -11218,7 +11319,7 @@
 			"__typename": "Application",
 			"display_name": "Shadow Point",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.459217877095,
+			"quality_rating_aggregate": 4.4598214285714,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -11259,7 +11360,7 @@
 				"故事",
 				"益智"
 			],
-			"rating_count": 895
+			"rating_count": 896
 		},
 		{
 			"id": "2082595615120854",
@@ -11284,7 +11385,7 @@
 			"__typename": "Application",
 			"display_name": "Bait!",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0956848030019,
+			"quality_rating_aggregate": 4.0965323336457,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -11346,7 +11447,7 @@
 				"休闲",
 				"探索"
 			],
-			"rating_count": 1066
+			"rating_count": 1067
 		},
 		{
 			"id": "2078376005587859",
@@ -11407,7 +11508,7 @@
 			"__typename": "Application",
 			"display_name": "National Geographic Explore VR",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.115306122449,
+			"quality_rating_aggregate": 4.1141692150866,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -11436,7 +11537,7 @@
 				"探索",
 				"旅行"
 			],
-			"rating_count": 980
+			"rating_count": 981
 		},
 		{
 			"id": "2017050365004772",
@@ -11461,7 +11562,7 @@
 			"__typename": "Application",
 			"display_name": "Virtual Desktop",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.4574585635359,
+			"quality_rating_aggregate": 4.4564017660044,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -11472,7 +11573,7 @@
 				"效率",
 				"工具"
 			],
-			"rating_count": 3620
+			"rating_count": 3624
 		},
 		{
 			"id": "2010043642376517",
@@ -11612,7 +11713,7 @@
 			"__typename": "Application",
 			"display_name": "I Expect You To Die",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8022082018927,
+			"quality_rating_aggregate": 4.8023329129887,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -11623,7 +11724,7 @@
 				"益智",
 				"模拟"
 			],
-			"rating_count": 3170
+			"rating_count": 3172
 		},
 		{
 			"id": "1947925211962268",
@@ -11723,7 +11824,7 @@
 			"__typename": "Application",
 			"display_name": "Drop Dead: Dual Strike Edition",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3167725065372,
+			"quality_rating_aggregate": 4.3157894736842,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -11749,7 +11850,7 @@
 				"恐怖",
 				"射击"
 			],
-			"rating_count": 2677
+			"rating_count": 2679
 		},
 		{
 			"id": "1906871599408213",
@@ -11774,7 +11875,7 @@
 			"__typename": "Application",
 			"display_name": "Robo Recall: Unplugged",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5380925507901,
+			"quality_rating_aggregate": 4.5382012968706,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -11800,7 +11901,7 @@
 				"街机",
 				"射击"
 			],
-			"rating_count": 3544
+			"rating_count": 3547
 		},
 		{
 			"id": "1893756264000446",
@@ -11969,7 +12070,7 @@
 			"__typename": "Application",
 			"display_name": "Face Your Fears 2",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.6386363636364,
+			"quality_rating_aggregate": 3.6371882086168,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -11995,7 +12096,7 @@
 				"恐怖",
 				"故事"
 			],
-			"rating_count": 440
+			"rating_count": 441
 		},
 		{
 			"id": "1854124104686464",
@@ -12020,7 +12121,7 @@
 			"__typename": "Application",
 			"display_name": "Thumper",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3420074349442,
+			"quality_rating_aggregate": 4.3444444444444,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -12082,7 +12183,7 @@
 				"街机",
 				"音乐"
 			],
-			"rating_count": 269
+			"rating_count": 270
 		},
 		{
 			"id": "1853479764707533",
@@ -12107,7 +12208,7 @@
 			"__typename": "Application",
 			"display_name": "Journey of the Gods",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.5972120322817,
+			"quality_rating_aggregate": 4.5975073313783,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -12133,7 +12234,7 @@
 				"益智",
 				"角色扮演"
 			],
-			"rating_count": 1363
+			"rating_count": 1364
 		},
 		{
 			"id": "1810693125705825",
@@ -12194,7 +12295,7 @@
 			"__typename": "Application",
 			"display_name": "Ultrawings",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.0735294117647,
+			"quality_rating_aggregate": 4.0744234800839,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -12229,7 +12330,7 @@
 				"飞行",
 				"模拟"
 			],
-			"rating_count": 952
+			"rating_count": 954
 		},
 		{
 			"id": "1756328964489238",
@@ -12290,7 +12391,7 @@
 			"__typename": "Application",
 			"display_name": "Space Pirate Trainer",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.6882876204596,
+			"quality_rating_aggregate": 4.6882636060718,
 			"supported_in_app_languages": [
 				{
 					"name": "德语"
@@ -12316,7 +12417,7 @@
 				"街机",
 				"射击"
 			],
-			"rating_count": 2698
+			"rating_count": 2701
 		},
 		{
 			"id": "1654565391314903",
@@ -12341,7 +12442,7 @@
 			"__typename": "Application",
 			"display_name": "Moss",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.8264150943396,
+			"quality_rating_aggregate": 4.826453617399,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（简体）"
@@ -12379,7 +12480,7 @@
 				"冒险",
 				"益智"
 			],
-			"rating_count": 4505
+			"rating_count": 4506
 		},
 		{
 			"id": "1611681078875316",
@@ -12651,7 +12752,7 @@
 			"__typename": "Application",
 			"display_name": "SKYBOX VR 视频播放器",
 			"is_concept": false,
-			"quality_rating_aggregate": 4.3741573033708,
+			"quality_rating_aggregate": 4.3737373737374,
 			"supported_in_app_languages": [
 				{
 					"name": "中文（台湾）"
@@ -12692,7 +12793,7 @@
 				"电影",
 				"效率"
 			],
-			"rating_count": 890
+			"rating_count": 891
 		},
 		{
 			"id": "1790834284361209",
@@ -13033,7 +13134,7 @@
 			"__typename": "Application",
 			"display_name": "Oculus Gallery",
 			"is_concept": false,
-			"quality_rating_aggregate": 2.4520123839009,
+			"quality_rating_aggregate": 2.4430769230769,
 			"supported_in_app_languages": [
 				{
 					"name": "英语"
@@ -13042,7 +13143,7 @@
 			"genre_names": [
 				"媒体播放器"
 			],
-			"rating_count": 323
+			"rating_count": 325
 		},
 		{
 			"id": "2215140511885250",
@@ -13211,7 +13312,7 @@
 			"__typename": "Application",
 			"display_name": "Oculus Browser",
 			"is_concept": false,
-			"quality_rating_aggregate": 3.6611721611722,
+			"quality_rating_aggregate": 3.6556776556777,
 			"supported_in_app_languages": [
 				{
 					"name": "俄语"

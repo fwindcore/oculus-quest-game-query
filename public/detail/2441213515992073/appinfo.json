@@ -1,0 +1,278 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "2441213515992073",
+			"display_name": "The Wizards - Dark Times",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001669_489731828881866_5152039745434726761_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=p7SCkycjjnEAX-FLA_G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=766615273848031ef57f1529db5d988e&oe=6099CC97"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_748862935787698_5549668843926295399_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=TSNSevewq4cAX_pWi9G&_nc_ht=scontent.oculuscdn.com&oh=ef0cda6bcbf4965c19c1305ba3ea7870&oe=609A7905"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 0,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 4,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 3,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 19,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Your body is frail, but your power is immense. Discover and master 11 individually designed spells with distinct abilities and effects. Forget about button combinations, command the arcane forces with nothing but hand gestures - as a true Wizard does!\n\nA mysterious dark plague has fallen on the realm of Meliora, twisting its inhabitants into beings of hatred and madness. Forbidden powers and rogue wizards are involved, leaving only you to face the apocalypse head-on. Dare to journey through the Forsaken Wood, wade through the poisonous swamps of Meliora, descend into the ruinous Necropolis, and more - with no magical barriers to stop you in place!\n\nMany fantastic creatures have fallen to the plague, becoming beings of destruction and death. Face new challenging enemies with unique abilities and individual behavior. Expect severe resistance - the world is ending, and it wants you dead too!",
+			"developer_privacy_policy_url": "https://darktimesgame.com/wp-content/uploads/2021/04/DT-Privacy-Policy.pdf",
+			"developer_terms_of_service_url": null,
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING"
+			],
+			"publisher_name": "Carbon Studio",
+			"supported_in_app_languages": [
+				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "俄语"
+				},
+				{
+					"name": "德语"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
+					"name": "英语"
+				},
+				{
+					"name": "西班牙语（西班牙）"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY",
+				"HOLLYWOOD"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Carbon Studio",
+			"genre_names": [
+				"动作",
+				"冒险"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.07",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY",
+					"HOLLYWOOD"
+				],
+				"total_installed_space": "4601277511",
+				"id": "3747985025314909",
+				"required_space_adjusted": "8313586518",
+				"storeAddOns": null,
+				"firstIapItems": null
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1620320399,
+			"supported_tracking_modes": [],
+			"website_url": "https://darktimesgame.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "158736046103545",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "476252536432585"
+			},
+			"live_release_channel": {
+				"id": "476252536432585",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "3747985025314909"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "476252536432585",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.07",
+							"id": "3747985025314909"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "3005521366339643",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "NOT_REQUIRED",
+			"internet_connection_name": "无需联网",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "carbon-studio-the-wizards-dark-times-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "2499"
+				},
+				"id": "158736046103545"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "The Wizards - Dark Times",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "158736046103545"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.5769230769231,
+			"support_website_url": "https://www.carbonstudio.pl/contact/",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 10,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 10,
+				"page_info": {
+					"end_cursor": "AQHR7mL3Aw_1t5j0WvnalykjC9xCl44fxmwdU1YGFey6FI8_rxpIShf9MMso8YF_u42MorkOOGI4R3ZnvlJEVX6r_A",
+					"start_cursor": "AQHR7mL3Aw_1t5j0WvnalykjC9xCl44fxmwdU1YGFey6FI8_rxpIShf9MMso8YF_u42MorkOOGI4R3ZnvlJEVX6r_A"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "898613227372264",
+							"author": {
+								"id": "152613065305621",
+								"display_name": "TheVRRealm",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974714_458538154713109_508409426449793024_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HfTQDxZPDRcAX9mhMay&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d00e472bfc42b2e7d16b15675fbbae5&oe=609A81EF"
+								}
+							},
+							"score": 4,
+							"reviewDescription": "The Wizards: Dark Times has brought a great sequel to the original, with a refined spell-casting system – which was already great in the original. The ease of doing the spells leaves you feeling like an almighty spell-caster. Although the game has had to make visual downgrades to run on the stand-alone device, with reduction is texture quality and the occasional pop-in, it still looks great and keeps you immersed in Meliora. Again, you are not going to get a game in VR with such a well implemented spell-casting system, that will let you live your childhood dreams of being a wizard.\n\nCheck out the full review at https://youtu.be/EXnU5izKdSI",
+							"reviewTitle": "Feel like an almighty wizard",
+							"review_helpful_count": 5,
+							"review_rank_by_viewer": null,
+							"date": 1620344068,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Face the end of the world in the sequel to The Wizards. The critically-acclaimed VR spellcaster returns with a gesture-based system, challenging enemies, grand adventure, and the ever-witty narrator.",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75375087_2940755812833369_6071733254392787462_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qnTHEPv93SUAX-MsBxZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=79d81b089fdf9950f1ec7138e84067b0&oe=609A4452",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/2441213515992073/",
+				"site_name": "Oculus",
+				"title": "The Wizards - Dark Times · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}
