@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4eJ8c5qPV0oAX-R-KqN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a01a2e2bb03d587a3dc59250f74d664b&oe=609AE2D8"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9Z6C1Nn0LIMAX-5yEZD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8296e5970142d63609809eac75ae2ece&oe=609AE2D8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=yWV7eF6QbHkAX8TqTCn&_nc_ht=scontent.oculuscdn.com&oh=efeadf3f626eb518e208978f38bf9fb8&oe=6098FB3A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=yWV7eF6QbHkAX-tQPxO&_nc_ht=scontent.oculuscdn.com&oh=9dc8ee0367a1ec3de34b891e92db1fce&oe=609AF57A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 679,
+					"count": 680,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 175,
+					"count": 176,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 431,
+					"count": 432,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 1106,
+					"count": 1110,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 8030,
+					"count": 8055,
 					"starRating": 5
 				}
 			],
@@ -83,15 +83,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "20210422",
-				"change_log": "Rec Room UPDATE - the \"Circuits V2\" edition\n\n## New Circuits System\nThis release is the debut of a brand new Circuits system (known as \"Circuits V2\" to differentiate from the existing Circuits). Circuits V2 is a powerful new system for creating interactive stuff in your rooms! Check out resources here for more info:\n\nhttp://recroom.com/cv2\n\nThings to know:\n\n- This is the first of many Circuits V2 releases. You can expect us to regularly release updates, improvements, and new functionality now that the system is live.\n- Circuits V1 isn't going anywhere. It will stay around to power existing creations, and you're welcome to keep using it - especially since there are still some things that V1 can do that V2 can't do yet (e.g., animation). Eventually we'll put Circuits V1 into \"legacy\" mode, meaning it will still work and receive bug fixes, but it'll be hidden by default in the palette. At that point, V2 will just be \"Circuits\" =]\n\nWe can't wait to see what you build with the new Circuits system!\n\n## New Room Settings\nThe Room Settings pages have a whole new look and even more features creators can use to customize their rooms! Following the style of the new store and play pages, the room settings have been updated and improved with new UI.\nFeature improvements include:\n\n- Easily change your room name, cover image and description from inside the game (Thanks for waiting on this!)\n- Customize your room's loading screen\n- Choose any photo from your room's photo roll to use as a cover or loading screen image\n- Rooms may now have one main category tag (#pvp, #hangout, #game, #quest or #art) and up to 5 custom tags to help players find your room\n- Room creators may now designate a different player as the room creator or delete the room (Careful, only the room creator has full control over the room settings, and deleted rooms are gone forever!)\n- The new subroom management page allows you to add, clone, and delete subrooms from a room\n- Quickly move a subroom to any other room you own\n- Max player count for a room can be set to either the size of the smallest _entry_ subroom, or the size of the smallest subroom (great for #game and #quest rooms that have a tutorial subroom)\n\n## New Party Menu\n\n- Added a dedicated Party tab to the People menu.\n- This lets you see who is currently in your party.\n- \"Invite to Party\" button lets you select and invite multiple friends or nearby players to party up.\n\n## General Improvements\n\n- Fixes a bug where UI buttons could drift if clicked too fast.\n- Fixes a bug where UI buttons played multiple click sounds for a single click.\n- Fixed a bug that occasionally prevented users from undoing a deletion of an object, or redoing creation of an object that was recently undone.\n- Fixed ears turning on unintentionally for old saved outfits.\n- Lowered the chance of having a beard when randomizing the avatar.\n- New setting \"Show Voice Lines\" so players on all platforms can turn this off and take cleaner screen recordings. Find it in the watch settings, advanced tab, next to Show Names.\n- Fixed an issue where hitboxes could be missing on players.\n- Fixed an exploit where spamming pickup would prevent hit detection.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
+				"version": "20210504",
+				"change_log": "Rec Room PATCH  - the \"Circuits V2\" edition\n\n## Party System Improvements!\n\n- A Fist Bump icon is now displayed next to the names of players who are in your party.\n- When you are in a party, there is now an \"In Party\" button that shows on your watch menu. The button has the same color as your current party color and links to the new Party tab on the People menu.\n- You can now restrict \"Voices I can hear\" to just party members.\n- The Go To button now detects existing party / game invites and consumes those if you have an existing one. Clicking Go To will just consume the invite and take you to whoever invited you instead of sending a new Go To request.\n\n## General Improvements\n\n- New watch menu UI is much more responsive and consistent on all platforms, even when running/falling/moving.\n- Lots more screens in the new UI style including RR+, keys, and token purchasing screens. In addition, we have a new and improved \"check out\" experience when you buy items.\n- Small buttons are more reliable to press.\n- Menu laser is more visible over light themed backgrounds.\n- Scrolling starts easier on screens when clicking and dragging.\n- Tool menus are partially improved with these changes (on screens, and VR while the menu is detached). We will make the menus better while attached to the tool soon!\n- Avatar customization menu is larger in VR.\n- We now preserve returning players mic settings through orientation.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1263481692",
-				"id": "4036079466438189",
-				"required_space_adjusted": "2056477970",
+				"total_installed_space": "1380704724",
+				"id": "4070218226357646",
+				"required_space_adjusted": "2289972147",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -129,7 +129,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4036079466438189"
+					"id": "4070218226357646"
 				}
 			},
 			"release_channels": {
@@ -140,8 +140,8 @@
 						"id": "2159376657710378",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "20210422",
-							"id": "4036079466438189"
+							"version": "20210504",
+							"id": "4070218226357646"
 						}
 					}
 				]
@@ -157,7 +157,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRYU8WpuKzPlNKI3qm22fjPndDIH4O5wd0aRxoBUGw0_6pLkbl50eAmxnbmWH0hsTQJEkc9WSj68mu-Z_E9CsvLQ"
+							"cursor": "AQHRGCKWTjCY1_5Z1XHAddxWyTRti78U1kEllw6iSDYgmyxlLbXpe7rdapSmGf4SUVVS_mYPQFADkiJj0hnoQlrNRg"
 						}
 					]
 				}
@@ -204,11 +204,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5001439401209,
+			"quality_rating_aggregate": 4.5004304984215,
 			"support_website_url": "https://recroom.happyfox.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2171,
+				"count": 2175,
 				"orderings": [
 					{
 						"key": "top",
@@ -221,10 +221,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2171,
+				"count": 2175,
 				"page_info": {
-					"end_cursor": "AQHRCMYEVF0FChcEvc7P6_KTYtCTb-kPVXVitnXAAe3lCAUmhVwFaq2SBQEU1V0tAGZE8dE0v1zlmLMZ1wmhzum4OA",
-					"start_cursor": "AQHRCMYEVF0FChcEvc7P6_KTYtCTb-kPVXVitnXAAe3lCAUmhVwFaq2SBQEU1V0tAGZE8dE0v1zlmLMZ1wmhzum4OA"
+					"end_cursor": "AQHR9jOHLcPQPU2M9R8QEQRqXx4qYmScPsYdaYt73uIE-g-04vTmJNky_FmZbys06sb57E8P8eVd-AfrfdG_i8LcpA",
+					"start_cursor": "AQHR9jOHLcPQPU2M9R8QEQRqXx4qYmScPsYdaYt73uIE-g-04vTmJNky_FmZbys06sb57E8P8eVd-AfrfdG_i8LcpA"
 				},
 				"edges": [
 					{
@@ -234,13 +234,13 @@
 								"id": "877980645721707",
 								"display_name": "Wuffles_in_Blue",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=I2ZmDG8RJaEAX_Xl3V-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=19099e825da083185fcac37be30cbf47&oe=609A7DAB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PSdkWoq3NtYAX9FcZHR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c43d948eb6ef65fabd5f1ded7080bac5&oe=609A7DAB"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "______________________________________________\n\nI suppose that yes, there are toxic kids, racist kids, or just straight up garbage kids. It comes with the Voice Chat. Roblox has the SAME kids, just... no mic! If you are looking for a child friendly, completely fun and games and happiness, this is not the game for you. This game is for people who enjoy having social experiences with amazing people who are supportive, and can deal with the occasional (mostly occasional) kids who don’t want you to have fun. \n\nPAY ATTENTION TO THIS: \n\nRec Room is not a game for the easily offended. It’s not a game for your precious child who you want to keep pure until they are teenagers. This IS a game for people looking for new experiences and are able to deal with the jerks and toxic kids in exchange for finding friends, having fun, and playing games.\n\nTo be honest, this game is my favorite game in Vr, and I am used to the good and bad. Ultimately you should get this game to play with friends, meet new ones, and to become more knowledgeable in what VR can be.\n\n______________________________________________",
 							"reviewTitle": "Not bad, just too much exposure",
-							"review_helpful_count": 449,
+							"review_helpful_count": 476,
 							"review_rank_by_viewer": null,
 							"date": 1616350220,
 							"developerResponse": null
@@ -255,7 +255,7 @@
 				"description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game! Rec Room is a fun and welcoming place for people from all walks of life. Let us help you find people you’ll LOVE to hang out with. Join the club!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RGtXxGBfVmgAX9G7Lx1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ce7f0216a825a6090c12fa05d98e82a9&oe=609900C1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RGtXxGBfVmgAX-3MMMn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d0c3549fd8e5317ccb9218a549c5ab3c&oe=609AFB01",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

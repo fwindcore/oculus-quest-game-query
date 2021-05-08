@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031616_657053088498994_527614489425262525_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QBNV2tTj02YAX8RLmOF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0324b5919c8366cb669ab61752cf6047&oe=609957C2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031616_657053088498994_527614489425262525_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=QBNV2tTj02YAX91uNZn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46ab4e54f63131eb2bfcf01d30bce105&oe=609B5202"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_326080648540429_1792396273022812818_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=M_wdxdMQAi8AX-2lftR&_nc_ht=scontent.oculuscdn.com&oh=b8b3490801169c8c4499c9f515785f3b&oe=609989E5"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_326080648540429_1792396273022812818_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=CGAJXIie0V4AX91Hm6n&_nc_ht=scontent.oculuscdn.com&oh=05a7cac088f5647921b6a38fcfb7b825&oe=609B8425"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -128,17 +128,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "344188943514544",
+				"id": "971580563645146",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "799",
+					"formatted": "$7.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1620543540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -225,7 +230,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "344188943514544"
+				"id": "971580563645146"
 			},
 			"externalReviews": {
 				"count": 0
@@ -260,7 +265,7 @@
 								"id": "110624717403013",
 								"display_name": "WookieCat",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.453.453a/s160x160/39031598_253456609786489_2398082912601871581_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Czjwbuw7rZMAX-7oBMn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d5cee3fcebd8a3592610519d6d48b86d&oe=609A0594"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.453.453a/s160x160/39031598_253456609786489_2398082912601871581_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VAjzPU5_vUIAX91hBlw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ed3a3919aa6886f8c23f730dfc04cca&oe=609BFFD4"
 								}
 							},
 							"score": 4,
@@ -285,7 +290,7 @@
 				"description": "屡获大奖的桌面策略游戏，现已支持 Oculus Quest。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982547_321896378931799_7647516834442059358_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g0g8aHO6Q9wAX_VIhRK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c99a35153ac0c41434116bfb08ff872a&oe=609AE330",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75289917_875851619665008_3776982053125275340_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UpWwgUaw8q0AX99JXif&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59f1785ade6c4be393beac8bff93f0e7&oe=609A78D3",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

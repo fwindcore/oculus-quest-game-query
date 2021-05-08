@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/86615890_562980487984801_1590634747162263552_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6Wt0DxHAHWcAX9Onyui&_nc_ht=scontent.oculuscdn.com&tp=28&oh=22d1b38a271875c2d413c7d6abdc0565&oe=6099E11F"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/86615890_562980487984801_1590634747162263552_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6Wt0DxHAHWcAX9TL_zY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=57e12ff0a5be94df54424f7b9d623593&oe=609BDB5F"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_4348553791825108_2136961489225908224_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=hUtxZq8a6hYAX8LzN1Q&_nc_ht=scontent.oculuscdn.com&oh=7a248fb9433281d82f487d7cbc7bd7d0&oe=609ACC36"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_4348553791825108_2136961489225908224_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=hUtxZq8a6hYAX-Yb-Sn&_nc_ht=scontent.oculuscdn.com&oh=e0ff33432e9e8eb36d8a507d2c16a674&oe=609ACC36"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -83,14 +83,14 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "1.0",
-				"change_log": "Lifetime Achievement Awards! – #3875 \n\nCosmic greetings! In this update we have several quality-of-life improvements and bug fixes to make your intergalactic journey more enjoyable. \n\nSome of our in-game achievements had been sucked into a black hole. Through a scientific process that’s too complex to type out on a human keyboard, we’ve managed to recover them.\n\nWhen you first log into Spaceteam VR after this update, any achievements owed to you will be unlocked – the spam is one time only! \n \nGeneral \n•\tGeneral improvements to VOIP stability and quality \n•\tIt is now possible to report other players \n•\tPrefixes to usernames can now be enabled to indicate a player’s platform \n•\tThe console will now be hidden when spawning the pause menu \n  \nBug fixes \n•\tFixed an issue where earned achievements would not be unlocked (prepare for some achievement spam after logging in) \n•\tFixed issue where a player leaving could cause a crash when the game started \n•\tFixed a bug where some Vive users’ refresh rate wasn't detected as 90hz \n•\tFixed an issue where objects remained grabbed when pausing \n \nThanks for playing and please leave a review if you're enjoying the game and if not please get in touch with us! \n \nAlso please remember to join us on Thursdays and Saturdays for our regular events! ",
+				"change_log": "General\n•\tImproved performance on Quest/Quest2\n•\tGeneral improvements made to positioning of hands when grabbing objects\n•\tImprovements to the grip accuracy for dials\n•\tImproved accuracy for collisions of Robot hands\n•\tImproved positioning of objects grabbed by Robot hands\n•\tChair model added for users using seated mode\n•\tIncreased the threshold needed to be reached by all players for the pump anomaly\n\nBug Fixes\n•\tFixed a bug where settings were set as save before the save occurred\n•\tFixed a bug where you could spawn outside of the lobby\n•\tFixed a bug where avatar wrists would either appear disconnected or broken\n•\tFixed a bug where Robots would either read instructions wrong or not at all with more complex instructions\n•\tFixed a bug where a Robot’s speech could stop all together\n•\tFixed a bug where the Robot would continue reading redundant instructions, even if a new instruction is ready\n•\tFixed a bug where a Robot would not finish its current instruction on the end of a sector\n•\tFixed a bug where the height calibration screen was grabbable\n•\tFixed a bug with the report menu, where it’s buttons where not usable\n•\tFixed a bug where incorrect LOD groups were being used for some avatar textures\n•\tFixed a bug with the pump anomaly where the game would not progress, even if completed\n•\tFixed a server crash caused by internal checks in the game’s logic",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1286135990",
-				"id": "3714026438688103",
-				"required_space_adjusted": "2218850565",
+				"total_installed_space": "779795597",
+				"id": "3976989385725139",
+				"required_space_adjusted": "1205735756",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3714026438688103"
+					"id": "3976989385725139"
 				}
 			},
 			"release_channels": {
@@ -136,7 +136,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "1.0",
-							"id": "3714026438688103"
+							"id": "3976989385725139"
 						}
 					}
 				]
@@ -154,7 +154,7 @@
 							"created_time": 1610155413,
 							"body_text": "Oculus Quest\n- Added an option for selecting refresh rate on Quest 2\n\nGeneral\n- Keep an eye out for ‘News Available’ notifications about our upcoming updates!\n\nBug Fixes\n- Fixed a bug that caused joining via code to place players in the wrong game\n- Fixed a bug that would allow players to join a game after it had started\n- Fixed a bug where the user could be pushed back by the in-game menu\n- Fixed a bug that caused the “public game” notification to appear for private games\n\n\nThank you for playing and please leave a review if you're enjoying the game and if not please get in touch with us!\n\nAlso please remember to join us on Thursday and Saturday's for our regular events!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38984461_1110425932742643_6577452589980977506_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kGe77bbupJMAX8O4M3H&_nc_ht=scontent.oculuscdn.com&oh=882bc1abfa6d0296d6d5095d749e0528&oe=609A571A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38984461_1110425932742643_6577452589980977506_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kGe77bbupJMAX-j-xkU&_nc_ht=scontent.oculuscdn.com&oh=862bac7069a31a7be8dfe4a0600694a6&oe=609A571A"
 							}
 						},
 						{
@@ -163,7 +163,7 @@
 							"created_time": 1608023554,
 							"body_text": "Festive Greetings, Space Cadets!\n\nJust before we wrap things up for Christmas, we’re excited to announce the latest update for Spaceteam VR across all supported platforms.\n\nThis update contains several tweaks and quality of life improvements, and for the first time ever, you can now play as our iconic robots! The robots are now selectable as the player avatar in the customisation options.\n\nGeneral\n\n- VOIP quality improvements, fixes for some cut-outs and non-working voice that could occur!\n- Improved Quest performance\n- Smoothed out the movement of our UFOs\n- Added “player has joined” notifications\n- Incorrect player names sometimes being shown has been fixed up\n- Threw away the pumpkins left over from Halloween! (they were starting to go a little funky)\n\nNetworking\n\n- Game lobbies now show if open or in progress\n- Fixed incorrect region selection\n- Improved networking of thrown objects, fixes up debris issues\n\nQuest Specific\n\n- Fixed up colour space on Quest 1 + 2\n- Increased FX visual quality on Quest 2\n\nControls\n\n- Fixed sponge collisions with some controls\n- Fixes to the pump thresholds and added notifications to it, pumping should\nnow be 42% more fun!\n\nSymbol mode\n\n- Improved the readability of multi-glyph controls\n- Fixed up incidental instructions breaking symbols appearing for all the panel\n\nRobots\n\n- You can now play as one of our three robots! \n(CRT-3000, Cylindrake and Priscilla)\n- Should now be friendlier and wave at you properly!\n- Gave them a few tweaks and upgraded their OS\n\nDifficulty\n\n- Tweaked hard mode to make the difficulty increase between sectors a little smoother\n\nWe also have further updates coming in the new year offering more ways to play with your friends, new types of anomalies and reducing the wait time on multiplayer games!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974677_965081350565249_5899525578516662329_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GSWbAR0zuk0AX_BqNqH&_nc_ht=scontent.oculuscdn.com&oh=ad1232f33ddda5db205b6d5b4af30f09&oe=6099C8BB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974677_965081350565249_5899525578516662329_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rAJNnnw8PLkAX9XmifR&_nc_ht=scontent.oculuscdn.com&oh=49d9c36910873178b8649f3af1ca72d8&oe=609BC2FB"
 							}
 						}
 					]
@@ -239,8 +239,8 @@
 			"firstQualityRatings": {
 				"count": 59,
 				"page_info": {
-					"end_cursor": "AQHR-07vrRNwNO2MYYFLfnlIEIKxBs9FNxks8aWhWg9ddAWuk3M0-_3hZr8QSBAsJVgbZ9EPnhlLxLUNcrOW_9zBbA",
-					"start_cursor": "AQHR-07vrRNwNO2MYYFLfnlIEIKxBs9FNxks8aWhWg9ddAWuk3M0-_3hZr8QSBAsJVgbZ9EPnhlLxLUNcrOW_9zBbA"
+					"end_cursor": "AQHRMGZBp4Sz-0Q7-LuJOLdF8aE3aH38ZhBfuqRAh3HGEvb0UpA7QNHQlAYDKQaoe8ghzD07rXPdJifFmfehbJS7-A",
+					"start_cursor": "AQHRMGZBp4Sz-0Q7-LuJOLdF8aE3aH38ZhBfuqRAh3HGEvb0UpA7QNHQlAYDKQaoe8ghzD07rXPdJifFmfehbJS7-A"
 				},
 				"edges": [
 					{
@@ -250,7 +250,7 @@
 								"id": "100168804678153",
 								"display_name": "msgeek",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1192.1192a/s160x160/38982591_100168934678140_2497914882993684480_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XMrHhFX3hYYAX8cTwLj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9d7c9be78009b6b2e888bfd92c6ca132&oe=6099CAED"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1192.1192a/s160x160/38982591_100168934678140_2497914882993684480_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XMrHhFX3hYYAX8HLg5e&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a1e359642827311ec39cdbe7fc0b61c4&oe=609BC52D"
 								}
 							},
 							"score": 4,
@@ -275,7 +275,7 @@
 				"description": "A cooperative and chaotic party game that requires you to shout technobabble at your friends! You need to work together… as a Spaceteam!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_411746466806119_2872617851179397197_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Qy86q5WkmzYAX9OfjLt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ca6ae3f65273299957b75b478bd82ce7&oe=609A6DC2",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974705_411746466806119_2872617851179397197_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xVMrsoZogMgAX8tebOT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=704d5dfdb9bcb13c84718cf83561e787&oe=609A6DC2",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
