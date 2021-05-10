@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031399_270889964059095_1801547555515149045_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fFWT2PyU8LoAX-XHaVl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c08fa0a52fc7c49b2130bf7bf59e136a&oe=609C0568"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031399_270889964059095_1801547555515149045_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fFWT2PyU8LoAX-L5r3H&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ad2d1b2645bc38b02c2c8bced85699f3&oe=609DFFA8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_668112323909051_8698669230012796472_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=swDthj6cmOMAX8Ioslb&_nc_ht=scontent.oculuscdn.com&oh=66caa9e0fa12f7cba07c678fc2ce2ce0&oe=609BD001"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_668112323909051_8698669230012796472_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=H46CVAvPNigAX_9ZRax&_nc_ht=scontent.oculuscdn.com&oh=1da9a6214c501679e8d51ec87ddd1819&oe=609DCA41"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 17,
+					"count": 18,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 10,
+					"count": 11,
 					"starRating": 2
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 112,
+					"count": 114,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1081,
+					"count": 1088,
 					"starRating": 5
 				}
 			],
@@ -155,22 +155,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "128267319255138",
+				"id": "368072897669349",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99",
-					"offset": 100
+					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1620629940,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -211,7 +206,7 @@
 							"created_time": 1617207898,
 							"body_text": "Do you have what it takes to rise the ranks and be this season’s champion in Resolution Games’ fiercely competitive VR dueling game?\n \nThe Blaston World Expansion Update is now live! Enter the arena to complete missions, hang out in the newly expanded Ozo Lounge, enter into tournaments, spectate other matches, check out new weapons and avatars, and so much more!\n \nMajor Additions/Changes\n \nNew weapon: Vector - Bullets bounce on surfaces. The trick is now to remember that other guns don't!\nMission System (Unlocked at level 5)\nMissions reward upgrades (Tier 2 and Legendary)\nMute/block function is added to prevent bad behavior in the Ozo Lounge\nArcade machines on both floors of the Ozo Lounge are back online!\n \nCheck out the full patch notes in-game and make sure to join the Blaston Community on Discord and Twitter!\n \nSee you in the Ozo Lounge!\n \nThe Blaston Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974497_468900704257703_5522043315815613294_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-smp6tfKVVsAX_T-a7I&_nc_ht=scontent.oculuscdn.com&oh=480da8b45acea6a42c982092d39f985c&oe=609C6573"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974497_468900704257703_5522043315815613294_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-smp6tfKVVsAX8B9HDV&_nc_ht=scontent.oculuscdn.com&oh=85bd5a202234767d184032498575fa10&oe=609E5FB3"
 							}
 						},
 						{
@@ -220,7 +215,7 @@
 							"created_time": 1615810695,
 							"body_text": "Hey Duelists,\n\nWe just released a patch with some fixes. Thank you everyone for being patient this past week. We’ve seen you having a little too much fun with the Noxa Helix and are introducing a new, revitalized version. We’ve also fixed some issues with the Ozo Lounge connecting to Discord and are happy to announce that the photo feature is back, as well as the in-game chat monitor.\n\nCheck out the full patch notes in-game.\n\nEnjoy! \nThe Blaston Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974705_281211000034519_4603919850245421298_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2fWOlPBks0IAX92zaK6&_nc_ht=scontent.oculuscdn.com&oh=ebc64d45c30558499f0777faecc9915e&oe=609CEC08"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974705_281211000034519_4603919850245421298_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2fWOlPBks0IAX92dDKU&_nc_ht=scontent.oculuscdn.com&oh=8baf443c438a5c14ac53b4ddc869da67&oe=609CEC08"
 							}
 						}
 					]
@@ -228,7 +223,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRdbBiVW4tcZcak3AAQ21HlDh_jUbXFzTx3fz-7mLHOtLM8aHlxrD26EmcpL4MOyIN2fqShpUVhEacKjrnvtlVeQ"
+							"cursor": "AQHRjavB0LBVJlgu2SK1-0752ba3Pvi0-wxdEp0uaSnAIN7QZaBzz5z5uvB3WiUVGLuiT4QMNz7fddUGp_D_W7rkHQ"
 						}
 					]
 				}
@@ -276,16 +271,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "128267319255138"
+				"id": "368072897669349"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7940466613033,
+			"quality_rating_aggregate": 4.7886762360447,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 776,
+				"count": 785,
 				"orderings": [
 					{
 						"key": "top",
@@ -298,10 +293,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 776,
+				"count": 785,
 				"page_info": {
-					"end_cursor": "AQHRguUdtOfKLI_OLI7P4OeRarX1w5ItDmy4Nc64FJiLuq0zQ3ROThets4gpFvnJlU-rTOWvxYgE_ElTTqfrlN43hg",
-					"start_cursor": "AQHRguUdtOfKLI_OLI7P4OeRarX1w5ItDmy4Nc64FJiLuq0zQ3ROThets4gpFvnJlU-rTOWvxYgE_ElTTqfrlN43hg"
+					"end_cursor": "AQHRi8Mn80-eGZSq9sRGRv6v_A-l8_imnBO92lcZX9YTvGhYMNWOsvB_ZMSlz93UELVnrTla9uX8cOB1Y3hZKRr5RA",
+					"start_cursor": "AQHRi8Mn80-eGZSq9sRGRv6v_A-l8_imnBO92lcZX9YTvGhYMNWOsvB_ZMSlz93UELVnrTla9uX8cOB1Y3hZKRr5RA"
 				},
 				"edges": [
 					{
@@ -311,13 +306,13 @@
 								"id": "102310525205857",
 								"display_name": "Prestige82",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/39035450_102311948539048_654499086457663702_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=A24gFGhH-X4AX-fQYs5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=57258bd270bbfbb131eeebbcb5b21ffd&oe=609CFBBD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/39035450_102311948539048_654499086457663702_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=A24gFGhH-X4AX85solb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=286dba5e37544993cd9014634971fddc&oe=609CFBBD"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "The game itself and the concept is very fun to play and exhilarating it can become addictive and very competitive the reason why I’m rating it one star is because of the toxic people that play the game has ruined it for me.. I’m tired of the jacking off gestures and other sexual gestures I’m tired of the loser sign being implemented after the round is over and I have lost and they have one it’s poor sportsmanship like that that ruins the game for me and that’s why I much prefer just to play single player games that are off-line because people nowadays are sick and it really ruins the experience if I was the creator I would remove the hands completely to minimize the toxicity that this game has in it..Remove the hands ... don’t give people the option to do the gestures in the first place and it won’t be a problem....\n\nUPDATE.... I have changed my rating from one star to five star.. The reason being is because the developers reached out to me and are looking into the problem to better serve the game and create a better atmosphere for all players and all age levels... it’s not the developers fault for the poor sportsmanship or the misconduct or the toxic players that play the game... \n\nI love the competition of this game I love the strategy that is involved to be good at this game but come on people because we really are all playing on the same team we’re all playing the game to win we’re all playing the game because we enjoy it let’s not take that away from other players😊 play on!",
 							"reviewTitle": "Sick of the inappropriate gestures",
-							"review_helpful_count": 96,
+							"review_helpful_count": 162,
 							"review_rank_by_viewer": null,
 							"date": 1618331647,
 							"developerResponse": {
@@ -336,7 +331,7 @@
 				"description": "Do you have what it takes to climb the ranks and be this season’s champion in Resolution Games’ fiercely competitive bullet-hell dueling game?\n \nJoin the community & compete within the slow motion VR action of Blaston, which The Gamer calls “utterly addicting.” Prepare to dodge, duck & weave to evade incoming attacks from your opponent in this FPS PvP combat game that combines skill, strategy & speed with an incredible arsenal of futuristic high-tech weapons.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75392876_801138427503615_8645484298861368472_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eBLuu-IKfFkAX-zLCL1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=152b0ed755c0691f2e1fc7a3ffd7e853&oe=609D6437",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974730_4424331897583199_2891788788991502665_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4v4qGpfQYtgAX8O0Q8P&_nc_oc=AQkVJgfaakLPeP_0O-Kxrw_miTSFuoPEu9Ff_tKe_vzpAA2pj8YSvjKa6krO0e2EWFA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7b114785d40104f383f4ae4bbb185a5&oe=609E2E18",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
