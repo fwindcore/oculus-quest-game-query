@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75580066_2873939082885804_49444015256017434_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-LZdcIuwQ_cAX8FHXLi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f712b71aac42bb419df85097a1859e21&oe=609D936C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75580066_2873939082885804_49444015256017434_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-LZdcIuwQ_cAX_pm0RS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b083736257583f0d8b49747aacd033fc&oe=609F8DAC"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75251816_799490583994323_6242033177405054644_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=0VdTkO0elHYAX_3ZT-R&_nc_ht=scontent.oculuscdn.com&oh=19dafd74e91b0bf89063733803c3a090&oe=609ECC80"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75251816_799490583994323_6242033177405054644_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=IaI8FC300fkAX82XjHz&_nc_ht=scontent.oculuscdn.com&oh=526398a9143f6ab2b16259bde1ff5442&oe=609ECC80"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.6",
-				"change_log": "",
+				"version": "1.2.7",
+				"change_log": "- fixed an issue where only one song would play in continuous music mode\n- fixed an issue where the game would lock up if the player variables save file was corrupted\n- small performance improvements to the menu",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "233828248",
-				"id": "5387357101336122",
-				"required_space_adjusted": "218873302",
+				"total_installed_space": "234299332",
+				"id": "5454849547920210",
+				"required_space_adjusted": "218977852",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5387357101336122"
+					"id": "5454849547920210"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "2681946568697290",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.6",
-							"id": "5387357101336122"
+							"version": "1.2.7",
+							"id": "5454849547920210"
 						}
 					},
 					{
@@ -144,8 +144,8 @@
 						"id": "541499552957870",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.6",
-							"id": "5387357101336122"
+							"version": "1.2.7",
+							"id": "5454849547920210"
 						}
 					}
 				]
@@ -163,7 +163,7 @@
 							"created_time": 1615896710,
 							"body_text": "This latest update to Cubism adds experimental hand tracking support to the full game on Quest 1 and Quest 2. \nSo put your controllers down, and get hands-on with some mind-bending puzzles!\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=M_qMFxmtL1oAX-cVsHW&_nc_ht=scontent.oculuscdn.com&oh=52648f145f1f154713bb63184081a6fb&oe=609D326F"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=M_qMFxmtL1oAX-5MDvt&_nc_ht=scontent.oculuscdn.com&oh=8eb0223d9f884b03430f6a7d0589cade&oe=609F2CAF"
 							}
 						}
 					]
@@ -243,8 +243,8 @@
 			"firstQualityRatings": {
 				"count": 150,
 				"page_info": {
-					"end_cursor": "AQHRcnxECaiykTbFAQsYTD61LZnkrzz5fZz_BUz92QFdVTVlgrbZq2cLemGfu9xTvr_zm_2MHslKN6DXjBo-cGFImA",
-					"start_cursor": "AQHRcnxECaiykTbFAQsYTD61LZnkrzz5fZz_BUz92QFdVTVlgrbZq2cLemGfu9xTvr_zm_2MHslKN6DXjBo-cGFImA"
+					"end_cursor": "AQHRjva3dc8FNuATfCqX6WuHbcb1RwQLSF_NIzOEgS26FueH2_hVx_aOusj7n9Br8ViXNtM6iYg6SwK8wgERxpj_TA",
+					"start_cursor": "AQHRjva3dc8FNuATfCqX6WuHbcb1RwQLSF_NIzOEgS26FueH2_hVx_aOusj7n9Br8ViXNtM6iYg6SwK8wgERxpj_TA"
 				},
 				"edges": [
 					{
@@ -254,7 +254,7 @@
 								"id": "106760571517925",
 								"display_name": "natchaniel",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.600.600a/s160x160/38982680_112110024316313_4564962847619734992_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=u99b0kkEFpgAX-qVpf8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=98ef07639a80271e7474c48065d544cb&oe=609D996E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.600.600a/s160x160/38982680_112110024316313_4564962847619734992_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=do0H47D94GEAX8fQqKR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6f8fd2c3c44adde7ff3f2efc79948083&oe=609F93AE"
 								}
 							},
 							"score": 5,
@@ -275,7 +275,7 @@
 				"description": "Challenge your mind in Cubism, a deceptively simple puzzle game where you assemble increasingly complex shapes out of colorful blocks.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75476593_2943619195862852_4706184706282195978_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GV4AJstdm6cAX-HTsR5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d3e0e3503dce166c2e8712666dfc322&oe=609DDD66",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75476593_2943619195862852_4706184706282195978_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GV4AJstdm6cAX-5an5-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f945edc7198255196b87a94d78dcb32&oe=609FD7A6",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

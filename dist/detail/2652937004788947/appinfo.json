@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974476_182238996322398_817147923547553792_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K5E_Sn6P-CUAX-cKSU6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=01ef18a4e502ea71e52e3399a19fcd8f&oe=609E4603"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974476_182238996322398_817147923547553792_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K5E_Sn6P-CUAX-YSANe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=28ccc8b3d29b1c88c2a943e5e1acbf16&oe=609E4603"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_182238452989119_5058866571494031360_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=n5JeJTZIbHsAX_qf0lT&_nc_oc=AQlqgJ4zU_syvl6kPsyD8oqep2NWRfZiclQdWbQCq7TfKwcJ4c2NFKTXUEySi0PUELA&_nc_ht=scontent.oculuscdn.com&oh=e04b624b5fe692158bfa0c4fee4dcd9d&oe=609D6E31"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_182238452989119_5058866571494031360_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=n5JeJTZIbHsAX9-Qb5p&_nc_oc=AQnKADzvtGWSsUv-0K3P6QXGyaFOE6QyeS199YCL0c6-VTwwacGlphb8QbzGdWNpylI&_nc_ht=scontent.oculuscdn.com&oh=e20e1278b9a0b5b889138c8408d27933&oe=609F6871"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 30,
+					"count": 31,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 36,
+					"count": 37,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 74,
+					"count": 77,
 					"starRating": 5
 				}
 			],
@@ -126,22 +126,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "296002792012323",
+				"id": "202687091016031",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99",
-					"offset": 100
+					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%",
-				"end_time": 1620716340,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -233,16 +228,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "296002792012323"
+				"id": "202687091016031"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.5425531914894,
+			"quality_rating_aggregate": 3.5544041450777,
 			"support_website_url": "https://forms.gle/6oxbRBkXqZ26p9gM8",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 103,
+				"count": 105,
 				"orderings": [
 					{
 						"key": "top",
@@ -255,10 +250,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 103,
+				"count": 105,
 				"page_info": {
-					"end_cursor": "AQHROx4DoFuJVFmcnLZEIVuvxdPdW_k6g9DlAHxVh5Qh2HHLsbWmkKK0FYCUZavfgMHeDsCZjmx1eOEMFQDeCQqg1w",
-					"start_cursor": "AQHROx4DoFuJVFmcnLZEIVuvxdPdW_k6g9DlAHxVh5Qh2HHLsbWmkKK0FYCUZavfgMHeDsCZjmx1eOEMFQDeCQqg1w"
+					"end_cursor": "AQHRn2UZkVvU4klFbfDvLju61xOCDXEETuJYeYBAii_JJwgVZqH4nEUuaMy5ttMlbIddE2LTWMNec8Usft3x5BYbVg",
+					"start_cursor": "AQHRn2UZkVvU4klFbfDvLju61xOCDXEETuJYeYBAii_JJwgVZqH4nEUuaMy5ttMlbIddE2LTWMNec8Usft3x5BYbVg"
 				},
 				"edges": [
 					{
@@ -268,13 +263,13 @@
 								"id": "102828447815682",
 								"display_name": "KylesterWAR",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001685_358045602293964_4454989286307629690_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KX9CenH-bzwAX8vyj8X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcf7f4662aff4eb94542f33c7d88a2bc&oe=609E93AD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001685_358045602293964_4454989286307629690_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KX9CenH-bzwAX-CvDQZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c82d98b425f187ded845442e43aaf817&oe=609E93AD"
 								}
 							},
 							"score": 1,
 							"reviewDescription": "The aiming on this game is just terrible,,, you be shooting two guns at your target and all the bullets miss like really silly like, this game is a total joke !. Play it on PSVR only, it works correctly on PSVR... but does not play no way good on Oculus, the game need removing from the store !.",
 							"reviewTitle": "JUST PLAIN AWFUL, DONT WASTE YOUR MONEY",
-							"review_helpful_count": 15,
+							"review_helpful_count": 52,
 							"review_rank_by_viewer": null,
 							"date": 1617416875,
 							"developerResponse": null
@@ -289,7 +284,7 @@
 				"description": "Guns’n’Stories: Bulletproof VR is a dynamic VR western shooter that fully immerses players into the ambiance of weird Wild West.\nStepping the tangled storyline, you will encounter many intimidating but comical enemies and fight Big Bosses.\n\nYou will have to shoot aptly and a lot using both hands as well as to use various covers and move actively, avoiding bullets of enemies.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75269597_526577491684648_4690809580724132035_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ObbOhd2KUwQAX-e5rmU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d8914da18f3f7582dbbdd901f2678f8f&oe=609D8678",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75297582_819941155138548_8161095181374849024_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NzbciaEZTxEAX_ZD9YI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3395f946ae1eac6bc8d0fd9d5c62a641&oe=609F407A",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
