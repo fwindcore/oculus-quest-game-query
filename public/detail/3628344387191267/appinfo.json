@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75280979_1306209729721902_3246985326262933872_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=efbrDZVh8HEAX8lnvo_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3f5c56d2733e608e04b9099048354ea4&oe=609E6F46"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035381_501247037688208_2318596231741807112_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YfwL-zMga0AAX85ZGaa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c7c7a3b90c735747815a50e40d9bf2e7&oe=60A10E4B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1517145208487524_4455361392901566491_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=xGRmrQgNG_YAX8h2pAp&_nc_ht=scontent.oculuscdn.com&oh=104aa6c7af87982cf0309d7ba1b1cc5d&oe=609F601E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1517145208487524_4455361392901566491_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=zpHvKUXWfEwAX-lA79H&_nc_ht=scontent.oculuscdn.com&oh=8f6c60116277df5331a516c8cfd147bf&oe=60A15A5E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -53,6 +53,9 @@
 			],
 			"publisher_name": "ARVORE Immersive Experiences",
 			"supported_in_app_languages": [
+				{
+					"name": "中文（简体）"
+				},
 				{
 					"name": "德语"
 				},
@@ -100,15 +103,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "107",
-				"change_log": "v103:\n- Pixel Ripped 1989 DLC purchase and game trailer available whithin 1995 main menu\n- Main menu visual polishes (gearkid!)\n- Fixed minor progression issue in Player Setup adding skip feature pressing A button\n- Fixed minor system issue removing exit game option from main and pause menus\n\nv106:\n- Fixed the DLC achievements \"Teacher's Pet\" and \"Teacher's Worse Nightmare\";\n- Fixed crashes on DLC levels 2 and 3, when Dot dies for the first time;\n- Visual improvements on several DLC levels;\n- Several DLC bug fixes.\n\nv107:\n- Fixed bug that made impossible to collect pixels at the table on final boss\n- Fixed bug where VR future headset poster were stuck during level 1 boss fight",
+				"version": "108",
+				"change_log": "- Quest 2 frame rate and resolution optimizations: Game now runs at 90fps and 1.2x native resolution on this device.\n- Added Chinese localization",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1637338211",
-				"id": "5205984422760581",
-				"required_space_adjusted": "1219734204",
+				"total_installed_space": "1694109174",
+				"id": "6063601956998819",
+				"required_space_adjusted": "1265072170",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 1
@@ -143,7 +146,7 @@
 								"display_short_description": "Play the VR classic that started the Pixel Ripped Series, NOW ON OCULUS QUEST in this FULL GAME DLC.Pixel Ripped 1989 is a multi-dimensional homage to the early days of gaming. Set in the era of portable 8-bit consoles, this game-within-a-game started the adventures of the videogame hero Dot. In 1989, the player inhabits Nicola, a second-grade student who must help Dot defeat the Cyblin Lord by facing 2D retro challenges while distracting the cranky teacher in her own 3D world.",
 								"is_viewer_entitled": false,
 								"latest_supported_asset_file": {
-									"id": "5450865528272468"
+									"id": "6063601773665504"
 								},
 								"parentApplication": {
 									"canonicalName": "arvore-immersive-experiences-pixel-ripped-1995-android6d0f",
@@ -194,7 +197,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5205984422760581"
+					"id": "6063601956998819"
 				}
 			},
 			"release_channels": {
@@ -205,8 +208,8 @@
 						"id": "2982837931941539",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "107",
-							"id": "5205984422760581"
+							"version": "108",
+							"id": "6063601956998819"
 						}
 					}
 				]
@@ -224,7 +227,7 @@
 							"created_time": 1601587458,
 							"body_text": "We are SO EXCITED to have found a way to bring our VR classic to the\nOculus Quest so that more people can go back in time and enjoy the adventure that started it all!\n\nAbout the game: Pixel Ripped 1989 is a wacky multi-dimensional homage to the early days of gaming. The player embarks on a journey into the screen of a classic videogame and beyond. Set in the era of portable 8-bit consoles, this game-within- a-game follows the adventures of Dot, an in-game character who sees her world torn apart by the Cyblin Lord, a villain able to break through the video game screen and invade the real world. In the game, the player inhabits Nicola, a second-grade student who must help Dot save both realities from this menace by facing challenges in the retro-gaming 2D world, all while distracting the cranky teacher and escaping from the furious headmaster in her own 3D world.\n\nDownload & Play Today!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75221320_350284082759487_7508355240256281828_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=n2qZyrb4IL4AX9zD4FP&_nc_ht=scontent.oculuscdn.com&oh=999c743324d10dbf0f28bec910f3525d&oe=609F1E44"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75221320_350284082759487_7508355240256281828_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=n2qZyrb4IL4AX-DDK_r&_nc_ht=scontent.oculuscdn.com&oh=dbde3a1ea1efdaf26e477a108ab29a32&oe=60A11884"
 							}
 						},
 						{
@@ -233,7 +236,7 @@
 							"created_time": 1600283057,
 							"body_text": "BIG thanks to all of our players and fans who have continued to support us with this game! 🎼 This is a great achievement for us all and we couldn't have done it without the help of Moon Sailor Music and Radio Ativa Pro! These talented people helped us create some insanely awesome retro vibes that fans will enjoy for years to come! 🙌",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001673_630988460895763_7534850902839372399_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dE3-Dv_1XuUAX8sSYWM&_nc_ht=scontent.oculuscdn.com&oh=1e701ae349ce50a4aa2d0f2192ce82a1&oe=609F94B3"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001673_630988460895763_7534850902839372399_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Uv44gcMQZKMAX9x2eav&_nc_ht=scontent.oculuscdn.com&oh=3743f0eda08d4216b0b4f8316fe5bcef&oe=609F94B3"
 							}
 						}
 					]
@@ -241,7 +244,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRkTQwbopXbxV4xVp2J8esU84u3poiPHZWAtQecGrrwwCeBWOSYU2rCA9wLp1UwIoX5J0uc4iMWZ5L8hFmZDnprA"
+							"cursor": "AQHR05fO2qfhiHtYD56tfyazY0i0Qpb28_VRLZY-XBZ_wclVQo60K1RhZWgakeRTXXJAMkUOr6LS1c7y6kuWX-qAAQ"
 						}
 					]
 				}
@@ -313,8 +316,8 @@
 			"firstQualityRatings": {
 				"count": 427,
 				"page_info": {
-					"end_cursor": "AQHRIOpHBGt2r9b--Q_3s5zL6TugmA6cRw6PhOuWU52WjIsPhAQShGEP4x_pkT1j7ZJ24ymT5EfdYbLuaxrUVa3POA",
-					"start_cursor": "AQHRIOpHBGt2r9b--Q_3s5zL6TugmA6cRw6PhOuWU52WjIsPhAQShGEP4x_pkT1j7ZJ24ymT5EfdYbLuaxrUVa3POA"
+					"end_cursor": "AQHRdmbGNtrFxTHEKleRMwlivzVujclNaMqbId3sFdLSSOvugZ8gATsOpip2EGhlvL01PmkAPnDkObJRL8ZMuz75zw",
+					"start_cursor": "AQHRdmbGNtrFxTHEKleRMwlivzVujclNaMqbId3sFdLSSOvugZ8gATsOpip2EGhlvL01PmkAPnDkObJRL8ZMuz75zw"
 				},
 				"edges": [
 					{
@@ -324,7 +327,7 @@
 								"id": "107118167433800",
 								"display_name": "Cdberschauer08",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39031344_157408515738098_3396722607423225856_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=di_lxa3wnVsAX8sfwQ0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7de0008cb974177b600d28fb638682cd&oe=609FBE79"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39031344_157408515738098_3396722607423225856_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=di_lxa3wnVsAX-I31NV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=315b53be3bd235b57bc92cbf01c03450&oe=609FBE79"
 								}
 							},
 							"score": 5,
@@ -345,7 +348,7 @@
 				"description": "Pixel Ripped 回来了，这次是在 1995 年，以全新的怀旧虚拟现实游戏的形式在游戏中回归！ 为了恢复多个维度的平衡，我们的电子游戏英雄 Dot 招募了 1995 年最优秀的玩家，一个叫 David 的不起眼 9 岁男孩。 加入这个不太靠谱的二人组，在虚拟现实世界中挑战您喜欢的所有来自 16 位机后期和 32 位机早期的经典游戏。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974708_490867942335052_3901367767085169391_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FqD487bnwNMAX8DlahE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3012c11c14f16cb16b43212104092b23&oe=609FA0D7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75282164_152917026790703_1259211002994433459_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AzjL2OLOX3sAX_h0vnG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2340896fb3698540405682b15b786f59&oe=60A0EC54",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
