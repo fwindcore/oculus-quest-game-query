@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035470_399949987970247_1201746845219325831_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lIZ5j0Pp_nIAX-Bk1Te&_nc_ht=scontent.oculuscdn.com&tp=28&oh=69f74380c163961232e74704967b4283&oe=60A0342E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035470_399949987970247_1201746845219325831_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=JlWEB5JvcCIAX-AW1jc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2cf0e4cacb65eef86dfe78b963a521ef&oe=60A22E6E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_252829219592293_8506458637280909043_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=OAwokn0Oy7EAX9gw3et&_nc_ht=scontent.oculuscdn.com&oh=07adb389fd8c7228c28cd9ac946f875e&oe=60A0F448"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_252829219592293_8506458637280909043_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=OAwokn0Oy7EAX83GTOh&_nc_ht=scontent.oculuscdn.com&oh=4fe2fbc17959919d492192ebd9a24536&oe=60A0F448"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 44,
+					"count": 45,
 					"starRating": 3
 				},
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "3.0.0",
-				"change_log": "Patch 3.0.0 Release Notes\n[Features]\nNew Training mode\n2 Brand new tracks:\nZ Enterprises\nWar of Fame(Extreme track) \n6-8 multiplayer online support\nNew item: Rich Man’s Toy!\nAdventure Zeitaku mission\nMain menu on kart console\nCustomization 3d shortcut in garage\nCharacter creation in offline mode\nSteam version ghost controller\n\n[Bug Fixes]\n[Crashes and serious issues]\nCrash when entering Character creation scene in Offline mode.\nOffline: Player's POV is below the kart in the Garage room.\nRace Again button with a party - countdown timer causes another player to return back to the Garage.\nQuest 1 FPS drop in Los Muertos track.\nDragon Realms track FPS drop.\nAcademy - stuck in loading scene after completing a match.\nOffline mode Adventure 5 - progression is not updated when switching back to online mode.\n\n[Gameplay]\nComfort mode for new players in New Training stage is missing.\nThere is a slight frame freeze when Carbo is appearing in License 2.\nY Calibrate button cannot be used in both License 1 & 2.\n(Oculus)Pointer is incorrect in Steam.\nObstacles are not spawning on certain tracks.\nReceived Token count is wrong in Grand Prix mode.\nHand position is wrong when snapping to the glider during flying.\nMatchmaking: Error when trying to enter Practice mode as a Party.\nTraining License 2 - Confetti does not appear at the same time with text box.\n\n[Graphics & VFX]\nAssets from older tracks are missing.\nLicense 1 and 2 the edge of the screen has abnormal blue brightness effect\nLicense 2: Item Machine glitch.\nLos Muertos track : culling issue when approaching some objects in the track, they will disappear.\nGhost controller in the game introduction scene changes material to unlit.\nMissing Stun kart effect when engine overheats during boost start.\nIdeon Grotto track in Rift: Wrecking ball glitches.\n\n[UX/UI]\nClaim All button in Achievement UI is not working properly.\nScore in reward room for DNF player position ranking is incorrect.\nLeaderboard tag name is appearing as None.\nCan't delete the last mail in the Mail List.\nWeapons usage - sometimes weapons size is too small.\nCockpit's item AWAKENTOAST is showing an incorrect image.\n\n[Sound]\nLicense 1 - Sam’s voice-over does not have a dialog.\n\n[Hardware]\nUser report : Logitech G29 steering wheel is unable to use with G Hub application.\n\n[Known Issues]\nParty Menu - Pop-up Notification Friends name is appearing as none after getting kicked or leaving the party.\nWeapons will slide down to the side of the kart after disconnect/reconnecting.\nAI is holding PUBP incorrectly.\nLicense 2: Crashcrodile and Denturous explosion animation is missing.\nSticky bomb no animation when grabbing it from the weapons feeder box.\nWar of Fame track(Online) Gun Tower Leg location is inconsistent.\nWar of Fame track Gun Tower is not moving or aiming at players.\nGarage lighting is very dim.\nOffline mode: Reconnect button is blinking.\n",
+				"version": "3.0.1",
+				"change_log": "Patch version 3.0.1 release notes\n[Features]\nNew virtual steering preset 3.0.1 (this becomes the new default settings).\nNew virtual steering enabled in License tutorial.\nUX/UI\n- Exit confirmation dialog for shortcut in the garage.\n- Immersive mode : Indicator for telling player when steering wheel angle is exceeded.\n\n[Bug Fixes]\n[Crashes and serious issues]\nCrash - when checking out items in the customization menu.\nCrash - when using Rich Man's Toy.\nCrash - when switching between offline and online mode.\nPop-up Notification Friends name is appearing as none after getting kicked or leaving party.\nPop-up Notification Friends name is appearing as none when getting invite from other players.\n\n[Gameplay]\nAI's animation had been missing.\nParty Play - Reward room when racing again, the find matchmaking icon disappears when a party member exits the room.\n\n[Graphics & VFX]\nWhen changing an Appeal, the sample will overlap with other menus.\n\n[UX/UI]\nWhen pressing claim and delete buttons quickly, it will delete mail that has not been claimed yet.\nKart console selection gets stuck when selecting customize 3D shortcut.\n(Quest)Meta scene has Oculus Touch controllers below the player.\n\n[Known Issues]\nImmersive controls Preset 5 \"Full Grip Legacy\" auto-turns when pressing the Look back button.\n(Quest)Textures for some buildings in License track is missing.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "4554899178",
-				"id": "3828206990617629",
-				"required_space_adjusted": "6768421962",
+				"total_installed_space": "4551968656",
+				"id": "3846225088815819",
+				"required_space_adjusted": "6764386802",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3828206990617629"
+					"id": "3846225088815819"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "316503405917151",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "3.0.0",
-							"id": "3828206990617629"
+							"version": "3.0.1",
+							"id": "3846225088815819"
 						}
 					}
 				]
@@ -154,7 +154,7 @@
 							"created_time": 1620296324,
 							"body_text": "\n\nOur team have been working hard to bring you the biggest update yet!\n\nDash Dash World 3.0 features include:\n \n🗺 2 New tracks\n👪 8 Player Matchmaking\n🔫 New weapon\n🏆 New singleplayer campaigns\n\nComing soon features\n\n🚘 New Virtual Steering\n🔗 Full offline mode\n🎮 More game mode difficulty\n\n\n\nView Update trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=_6AN-iRkUaQ\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974446_2562833794023222_3723477334098197810_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rD_wiRfQK1cAX_gmtFb&_nc_ht=scontent.oculuscdn.com&oh=682899e25a0cca7a7923d7e011f9025a&oe=60A06C84"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974446_2562833794023222_3723477334098197810_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rD_wiRfQK1cAX-fMyKP&_nc_ht=scontent.oculuscdn.com&oh=9ad8ac830da86d0fde90e95efa103fb8&oe=60A266C4"
 							}
 						},
 						{
@@ -163,7 +163,7 @@
 							"created_time": 1609269203,
 							"body_text": "\n\nChallenge yourself during this winter in FROSTY SEASON ☃️❄️\n\nComplete 30 new challenges throughout this season with 3 competitive events. 🏎💦\n\nYour chance to unlock all-new 26 limited exclusive items during this season ONLY!\n\n\n\nFull Throttle (LIVE NOW)\n\n\n\nBecome a Drift King in Dash Dash and show that you own the race by completing 10 new challenging drifting quests.\n\nJump in the Full Throttle event from 28th ( 00.00 am PDT) January - 10th (11.59 pm PDT) February 2021\n\nHere are 10 new challenging quests to complete 😎\n\n- Victory Hunting I/II/III/IV - Sustain the drift for at least 4/5/6/7 seconds.\n- Drift Maniac I/II/III - Fill the Nitro gauge with a single drift 40/80/120 times.\n- Initial Dash Dash - Collect 200 secs or more drift time in any mode.\n- Initial Dash Rush - Collect 50 secs or more drift time in single race mode.\n- Initial Dash GP - Collect 150 secs or more drift time in any mode.\n- Secret Dasher I - Collect 555 secs or more drift time in any mode.\n- Secret Dasher II - Sustain the drift for at least 9 secs\n\nCircuit Wonder\n\n\n\nRace in 6 wonderful circuits with 10 new quests and meet Dash Dash Academy members during the Circuits Wonder event. 🏎  🗺\n\nWho knows you might face some Top Racers from Dash Dash Academy. So watch out cause they won’t go easy on you!\n\nCircuits Wonder event starting TODAY until 27 January 2021\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV -  Tier 90%/70%/30%/10% on Seasonal Leaderboard.\n- Alpaca Brawl - Beat Special Character in Monte Alpaca 2 times.\n- Mad Liberty - Beat Special Character in Liberty Circuit 5 times.\n- Kabo Dojo Havoc - Beat Special Character in Kabo Dojo 2 times.\n- The Witness Meddy - Beat Special Character in Ideon Grotto 2 times.\n- Mariachi Smash Down - Beat Special Character in Los Muertos 5 times.\n- Evopolis Era - Best Special Character in Evopolis 5 times.\n\nImmersive Festa (Ended)\n\n\n\nNow it’s your chance to improve your immersive driving skills with new 10 immersive quests to complete.  💪\n\nImmersive Festa event starts TODAY until  12th January 2021 (11.59 pm PDT)\n\nHere are 10 new challenging quests to complete:\n\n- Victory Hunting I/II/III/IV - Top 90/70/30/10% on Seasonal Leaderboard.\n- The Showdown - Win 3 race while playing using the Immersive control.\n- Triple Xtreme -  Place top 3 in extreme track while using super immersive control 3 times (any track)\n- Nitro Dash - Nitro 10 times in a single race while using super immersive control.\n- The Survivor - Wipe egg, dino carbo, and carbo cracker off-screen while using super immersive control.\n- Dash Store - Consume all Dash Products in a single race while using super immersive control (Bar, Bull, and Max).\n- Shoot and Drive - Hit 3 racers with a single Terminator Jr. while using super immersive control.\n\n\n\nView the Tournament trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=UWcdmi6XzoI\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982587_1078006156000430_1178325515187292999_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_aid=0&_nc_ohc=x-fbiZMcULgAX-l_oV0&_nc_ht=scontent.oculuscdn.com&oh=45dca3fcc129ce3fbcb01b8f8de70fe2&oe=60A02D68"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982587_1078006156000430_1178325515187292999_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_aid=0&_nc_ohc=x-fbiZMcULgAX9cwuiW&_nc_ht=scontent.oculuscdn.com&oh=aa3676d36fc9c3529a975d9d3b1b617e&oe=60A227A8"
 							}
 						}
 					]
@@ -220,7 +220,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.9466403162055,
+			"quality_rating_aggregate": 3.9447731755424,
 			"support_website_url": "https://www.DashDashRacing.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -239,8 +239,8 @@
 			"firstQualityRatings": {
 				"count": 271,
 				"page_info": {
-					"end_cursor": "AQHRLq-JIHjfkxyiqPdcHGxFKn8g7csDWxVdNroB7asykGxGcTnkSjflmYbdtOPO38YYN50SNSn4vc5s52kTQkC_ZQ",
-					"start_cursor": "AQHRLq-JIHjfkxyiqPdcHGxFKn8g7csDWxVdNroB7asykGxGcTnkSjflmYbdtOPO38YYN50SNSn4vc5s52kTQkC_ZQ"
+					"end_cursor": "AQHRMIjmJJge8mGATAKFXIk_B5qeFdue0rfRX6RTjyLnr70LJ3OgD9XEyoRhI5tusYktqavc9yucciOdpdmNK9Tvtw",
+					"start_cursor": "AQHRMIjmJJge8mGATAKFXIk_B5qeFdue0rfRX6RTjyLnr70LJ3OgD9XEyoRhI5tusYktqavc9yucciOdpdmNK9Tvtw"
 				},
 				"edges": [
 					{
@@ -250,13 +250,13 @@
 								"id": "102577285011914",
 								"display_name": "Godreilm",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_118137626789213_4320816946605434883_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g8Madmuph5gAX8TyclF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c50eb40c7419eeb9e051818b7aab1083&oe=60A0DD93"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_118137626789213_4320816946605434883_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g8Madmuph5gAX99KvRt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cc8817a548467cf8e8c2893c1a9647c4&oe=60A0DD93"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I dropped a good 10 hours into this game and wanted to play it with my children.  We get them a quest and link the account to mine since I don’t allow them to have Facebook.  We go to play together and the game kicks off the first user.  I’m not going to go into a long sob story on this, but I will try and frame it for the developer.  When we have guests over and their kids want to play games with mine they turn on Mario kart and you know what happens we get a call from them sometimes asking for Nintendo user name so they can play online with my boys.  Imagine all the other people this happens too.  Too often VR is seen as puzzles or shooting games or gory games.  Games like this are easily overlooked when honestly after playing this Mario cart can’t compare.  I hope you guys fix this really soon.  I understand the appeal of one user one headset only, but when a game like this blocks themselves from being easily accessible to groups it’s really sad.  It doesn’t even have to be online gameplay just local multiple headsets.  This game is better than Mario cart, but with a limiting set up like this it may never take off.  The four star is proof that I truly believe this game is good, but until you allow for multiple headsets per account I cannot go higher.  If you want a great racing game that is not bad on motion sickness this is it.  The game is solid minus that one gripe about local multiple headsets.",
 							"reviewTitle": "Closest thing to Mario cart",
-							"review_helpful_count": 61,
+							"review_helpful_count": 65,
 							"review_rank_by_viewer": null,
 							"date": 1616289514,
 							"developerResponse": {
@@ -275,7 +275,7 @@
 				"description": "Dash Dash is a cross-platform VR racing game with full hand driving and weapons controls.\n\nOver 100 hours of gameplay contents including story mode, regular online tournaments, 100s of achievements and over 1,000,000,000,000 customizable parts.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974454_1206977136404633_4853448756525586600_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zOfSkcUIu4AAX9zwwW0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=168fc537da416f8830422c937e8683a9&oe=60A04362",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974454_1206977136404633_4853448756525586600_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cDMMJe_9juAAX_dwqx9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c3be9dc8e048fd992bbac8113dae9457&oe=60A23DA2",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
