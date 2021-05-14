@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XEDeIaDTuLUAX9aug-B&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2be9446cfd2efa6d46e063b741823af4&oe=60A2CBD8"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CjoFiE7jUogAX-quvXY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d5c3831412d17643f66a1f4ab17fc18&oe=60A2CBD8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=EyE-hq5TxhwAX9saNTI&_nc_ht=scontent.oculuscdn.com&oh=b929af6632738d6e33837ad710fbcc7a&oe=60A0E43A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=EyE-hq5TxhwAX9cFyIy&_nc_ht=scontent.oculuscdn.com&oh=7fbe333cc462ea7fa56218a12132f80a&oe=60A2DE7A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 687,
+					"count": 688,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 180,
+					"count": 182,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 435,
+					"count": 436,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 1124,
+					"count": 1126,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 8094,
+					"count": 8106,
 					"starRating": 5
 				}
 			],
@@ -84,14 +84,14 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "20210510",
-				"change_log": "Rec Room PATCH  - the \"Circuits V2\" edition\n\n## General Improvements\n\n- Friend requests now show [mutual friends](https://imgur.com/a/HtZgZYN)! Now you'll know if that request is coming from a friend-of-a-friend, or that random person you met in \\^Paintball!\n- Oh snap! We fixed the bug where snap rotate sometimes [wouldn't snap at all](https://imgur.com/a/5weY3JI) if you were set to \"world-space\" mode.\n- We changed how single-axis world-space snap rotate works. (You might say we... pivoted.) Previously, if you were using grid snap in world-space mode, and dragged on one of the colored rotate handles, objects would sometimes [snap along several axes at once](https://imgur.com/a/UcOeBVK). Now, we _really_ restrict the rotation to the axis you've chosen, and your maker pen will figure out how to get you on the global rotate grid for that axis. [We think it feels pretty snappy](https://imgur.com/a/T6BiVmO).\n- We fixed a bug where, if you managed to let go of the rotate handle while an object was snap rotating, it would get left part-way between the snap angles. You needed to be really quick on the trigger to find that one!\n- We fixed the bug which prevented \"tap rotate\" (when you click on a rotation handle to quickly rotate 90 degrees) from respecting the \"rotate around pivot\" setting. We talked to it about the value of respecting that setting, and it assured us that it has turned over a new leaf.\n- Updated Orientation Settings Menu to prompt players to use both controllers for a better experience.\n- A bunch of the gadget volumes (invisible collision, trigger volumes, checkpoints, etc.) had developed a reputation for [drifting when being scaled](https://imgur.com/a/RHGu7RH). This isn't a road race, so we're now [anchoring them properly](https://imgur.com/a/meh2pma). (Shapes would sometimes do the same thing, and we fixed it for them too.)\n- Fixed a bug where the \"My Subscriptions\" section of the play menu wouldn't update when you subscribed to a new creator. Now you'll see their rooms right away!\n- Fixed a bug where players could host events in \\^Orientation - we know this was fun, but facilities kept having to clean up before the new folks came through!\n- Fixed a bug where the \"Join Room\" button would be disabled if you tried to leave a room, were prompted to save, and backed out.\n\n## New Download Page on rec.net!\n\n- Check out our brand new download page at rec.net/download! It has links to all the platforms Rec Room is available on.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
+				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1384109583",
-				"id": "4089337744445694",
-				"required_space_adjusted": "2293816164",
+				"total_installed_space": "1384173730",
+				"id": "4098533766859425",
+				"required_space_adjusted": "2293816174",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -129,7 +129,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4089337744445694"
+					"id": "4098533766859425"
 				}
 			},
 			"release_channels": {
@@ -141,7 +141,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "20210510",
-							"id": "4089337744445694"
+							"id": "4098533766859425"
 						}
 					}
 				]
@@ -157,7 +157,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRV5f5L2SqyxZVJC2krucaeBE0-Lqgq7itQWTk-XV1SXPtj-_YFiRe8f1hErwdWDdxmQ8gYCHmSUTOvxDo5a06HA"
+							"cursor": "AQHRDqel_jpoznbJbIamxg_7594Lxctq7PnE5z-CJ5gh_6GElYWcFpQ6J7o-2Egk0n708-DqQ0-nZBl3PZg4jk4hrA"
 						}
 					]
 				}
@@ -204,11 +204,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4979087452471,
+			"quality_rating_aggregate": 4.4974378439932,
 			"support_website_url": "https://recroom.happyfox.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2191,
+				"count": 2193,
 				"orderings": [
 					{
 						"key": "top",
@@ -221,10 +221,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2191,
+				"count": 2193,
 				"page_info": {
-					"end_cursor": "AQHR_800LvjGUpjpivGuZ2J8N-7IDfTPfccI_y5pKXxUtspv5aAYMMWFQ5sRAkUcOtec2qphnu5g-L8WbVM3HJNvkA",
-					"start_cursor": "AQHR_800LvjGUpjpivGuZ2J8N-7IDfTPfccI_y5pKXxUtspv5aAYMMWFQ5sRAkUcOtec2qphnu5g-L8WbVM3HJNvkA"
+					"end_cursor": "AQHRZc-35_CycXyi5k9qRRW0yYtCjpldzAgzU-4VQVbLjs1-xHh1MJeArxMgyUdFmfUvQ-9b4XpMWDGgqGNEbxUdBg",
+					"start_cursor": "AQHRZc-35_CycXyi5k9qRRW0yYtCjpldzAgzU-4VQVbLjs1-xHh1MJeArxMgyUdFmfUvQ-9b4XpMWDGgqGNEbxUdBg"
 				},
 				"edges": [
 					{
@@ -234,13 +234,13 @@
 								"id": "877980645721707",
 								"display_name": "Wuffles_in_Blue",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pNuhSGQSv2MAX__-XeR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ac584cbc321806426bc05cdeb22316aa&oe=60A266AB"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Kp11w1Qw-QcAX_Jjb4X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7a1edee799a12b3f3c7b2161264b53f1&oe=60A266AB"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "______________________________________________\n\nI suppose that yes, there are toxic kids, racist kids, or just straight up garbage kids. It comes with the Voice Chat. Roblox has the SAME kids, just... no mic! If you are looking for a child friendly, completely fun and games and happiness, this is not the game for you. This game is for people who enjoy having social experiences with amazing people who are supportive, and can deal with the occasional (mostly occasional) kids who don’t want you to have fun. \n\nPAY ATTENTION TO THIS: \n\nRec Room is not a game for the easily offended. It’s not a game for your precious child who you want to keep pure until they are teenagers. This IS a game for people looking for new experiences and are able to deal with the jerks and toxic kids in exchange for finding friends, having fun, and playing games.\n\nTo be honest, this game is my favorite game in Vr, and I am used to the good and bad. Ultimately you should get this game to play with friends, meet new ones, and to become more knowledgeable in what VR can be.\n\n______________________________________________",
 							"reviewTitle": "Not bad, just too much exposure",
-							"review_helpful_count": 534,
+							"review_helpful_count": 554,
 							"review_rank_by_viewer": null,
 							"date": 1616350220,
 							"developerResponse": null
@@ -255,7 +255,7 @@
 				"description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game! Rec Room is a fun and welcoming place for people from all walks of life. Let us help you find people you’ll LOVE to hang out with. Join the club!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dtQzXAmzRlMAX8TAeaW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2a19ae31de24f6fde5bdbe7baf2376c3&oe=60A0E9C1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dtQzXAmzRlMAX9crQQd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8efc0df4e74eebc473bf64ce6b9d2a5b&oe=60A2E401",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

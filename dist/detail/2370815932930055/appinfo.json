@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NYhJtbfWpSQAX8RKtKw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=55e952916c61429854f8fb2e28991d31&oe=60A0DC8B"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NYhJtbfWpSQAX_obkyJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=594868f1bf5a671c6802d5fdf1a47d25&oe=60A2D6CB"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=priE-aW-vzYAX_SRGBZ&_nc_ht=scontent.oculuscdn.com&oh=5811d78d86e4a36e83a25ef70d0affba&oe=60A15B0A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=priE-aW-vzYAX9UEVDV&_nc_ht=scontent.oculuscdn.com&oh=6a2ea9472e47fc355f1d6bf2256800b6&oe=60A3554A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 824,
+					"count": 826,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 431,
+					"count": 432,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 830,
+					"count": 831,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2242,
+					"count": 2245,
 					"starRating": 5
 				}
 			],
@@ -79,15 +79,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.18.2.1_HF2",
+				"version": "0.18.3.5",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "4239359561",
-				"id": "4336085329736429",
-				"required_space_adjusted": "8034665848",
+				"total_installed_space": "4295360820",
+				"id": "4360056620672633",
+				"required_space_adjusted": "8145167162",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -125,7 +125,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4336085329736429"
+					"id": "4360056620672633"
 				}
 			},
 			"release_channels": {
@@ -136,8 +136,8 @@
 						"id": "297349780982051",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.18.2.1_HF2",
-							"id": "4336085329736429"
+							"version": "0.18.3.5",
+							"id": "4360056620672633"
 						}
 					}
 				]
@@ -155,7 +155,7 @@
 							"created_time": 1618606453,
 							"body_text": "Hey everyone we have a major update for you here with [Patch 66] The Disconnection Protection Update!\n\nThis is a major technical upgrade to the game that allows players to rejoin a Sit & Go or Spin & Go tournament if they get disconnected.\n\nThis is a large scale change to the game if you encounter some initial bugs please report them on our Discord.gg/PokerStarsVR\n\nNew Features\n-Disconnection Protection\n-All in Percentages \n-Server Authoritative Poker [Major technical upgrade to the core game]",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57568679_1324038767978729_7712711526475467450_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mGpJ5HI1socAX9ptzBA&_nc_ht=scontent.oculuscdn.com&oh=8f94dd2a22ebc6099f1e9ead94277283&oe=60A1691D"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57568679_1324038767978729_7712711526475467450_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mGpJ5HI1socAX-zryCI&_nc_ht=scontent.oculuscdn.com&oh=44eb5e6aa662f46a6d75fc7be819a07f&oe=60A3635D"
 							}
 						},
 						{
@@ -164,7 +164,7 @@
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qBBGUIap7E8AX_cdzUs&_nc_ht=scontent.oculuscdn.com&oh=b130b3cb817ba3ea9488dc12d13754d0&oe=60A13131"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jvV9PiXM9LMAX9JbeDg&_nc_ht=scontent.oculuscdn.com&oh=b7afb1664d859a94102c60b61e008d6a&oe=60A32B71"
 							}
 						}
 					]
@@ -172,7 +172,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRZrzpI7-ZNlJwVhA7ZYCcgh9dl8cVzYE0WI8I0h2dCVAmo3faegyKC34AHVCYTxrJoh-P-WjEORZQz3pTc5CATA"
+							"cursor": "AQHRpn9AJunnuTU4S3uwGzTuf_trtrBAIAbDVCwTu-K0U97OaiqoGVdzBZqpPvaL6diK3KykICwoosT7_1V9VryN-g"
 						}
 					]
 				}
@@ -219,11 +219,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.7207750269107,
+			"quality_rating_aggregate": 3.7203353396389,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1637,
+				"count": 1638,
 				"orderings": [
 					{
 						"key": "top",
@@ -236,10 +236,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1637,
+				"count": 1638,
 				"page_info": {
-					"end_cursor": "AQHR8VlSyZKn1wbTHIyedUrb-N6Dmxdzd10ktrqPkjjA3Vntfdj_l0XYtpYN7NZdAFktMn08z9J6Oc-U13bz-Afjow",
-					"start_cursor": "AQHR8VlSyZKn1wbTHIyedUrb-N6Dmxdzd10ktrqPkjjA3Vntfdj_l0XYtpYN7NZdAFktMn08z9J6Oc-U13bz-Afjow"
+					"end_cursor": "AQHR50J-q06zoDwBdxVzsNzRZi2IX27ThP9PTnnBh_YN-cul4LCXLzpXCSxqTgb0a_GDdbLVpMiEUyXxsrlz9B95ig",
+					"start_cursor": "AQHR50J-q06zoDwBdxVzsNzRZi2IX27ThP9PTnnBh_YN-cul4LCXLzpXCSxqTgb0a_GDdbLVpMiEUyXxsrlz9B95ig"
 				},
 				"edges": [
 					{
@@ -249,13 +249,13 @@
 								"id": "112228060682524",
 								"display_name": "ItsZuluu",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.113.563.563a/s160x160/38974809_144558354116161_3034782994913701797_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aAQJbKfdV_oAX-7V7YS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3aa42ee149b31184befc7764912560e1&oe=60A12D0F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.113.563.563a/s160x160/38974809_144558354116161_3034782994913701797_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aAQJbKfdV_oAX_7YBNb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7965db7b15a2f5fb4c309983c857794&oe=60A3274F"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "I have hundreds of hours in this game. Maybe thousands haha. It’s a great social experience! Unfortunately the new update is pretty bad with weird looking new avatars (subjective) and an ABUNDANT amount of bugs. I’ve always enjoyed the table talk but that’s about it. \n\nAs far as poker goes, there’s clearly a system or algorithm in place that is designed to promote action at the table. This may make for some fun, but in turn it makes for very unrealistic poker hands to occur very consistently in regards to real poker. So be prepared for a LOT of bad beats! That being said there’s still room to bluff and make real poker plays, but don’t expect the statistics to be that anywhere near the real deal. \n\nThe game crashes frequently on the quest 2. \nAlmost every time I launch the game I have to quit and restart (sometimes I’m lucky enough to get the game running on the first try). When I finally do get the game to launch, it’s troublesome to connect to tables. The game menu is generally blank or it fails to connect to the servers. But after a few refreshes it will eventually work. \n\nOverall the game is fun and is worth the free download but can be frustrating at times. If you want a great social experience I would highly suggest! But If you’re a poker player looking to expand your skills or get some practice in, maybe just stick to the real poker tables.",
 							"reviewTitle": "Fun! but buggy and rigged!",
-							"review_helpful_count": 35,
+							"review_helpful_count": 36,
 							"review_rank_by_viewer": null,
 							"date": 1619251599,
 							"developerResponse": {
@@ -274,7 +274,7 @@
 				"description": "THE NEW OCULUS AVATARS UPDATE IS NOW LIVE! \n\nStep into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035306_214584513760291_9182231143976528492_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GNBEq25P1pkAX_8qBKF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=77f78f5350488ddc71f522c7e824d739&oe=60A27D73",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035306_214584513760291_9182231143976528492_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GNBEq25P1pkAX8Lm6jT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dae8c00c2a2062bc727abe24b2c1a9b0&oe=60A27D73",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

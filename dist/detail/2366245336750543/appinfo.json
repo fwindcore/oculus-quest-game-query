@@ -14,38 +14,38 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75608431_325080682054605_4547515059344834543_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tlnHNdxWNiUAX-nvVLi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e9ad590a5939dd2be981563d8d181847&oe=60A2A858"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982660_514374436249200_5628265633765868997_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=haG7uK5o9wQAX_HuG8P&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4336f19785632215e164f70c757a6dff&oe=60A34C66"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_3421120371322514_3508347960802121910_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=BiuceANtXt0AX8O18Qf&_nc_ht=scontent.oculuscdn.com&oh=f95e7124c223013efaca0c44d9a0f687&oe=60A0DED7"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_306100581121581_2070359000706120164_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=qv3V0Ffwg8EAX9rY-Tx&_nc_ht=scontent.oculuscdn.com&oh=6f17a17a8c0431626a6e840a70b1b0fc&oe=60A2D5C9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 157,
+					"count": 158,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 123,
+					"count": 122,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 202,
+					"count": 204,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 429,
+					"count": 431,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1031,
+					"count": 1035,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "• Live Your Legacy: Challenge both your body and mind as you experience the ascent of Adonis Creed from undiscovered underdog to world-class fighter, all within an immersive universe inspired by the Creed™ films.\n\n• Multiple Game Modes: Choose your path to glory in multiple game modes: story-driven Career, customizable Freeplay, or online PvP.\n\n• Feel the Impact: Phantom Melee Technology mimics the real-life effects of throwing and taking punches in the ring, such as the out-of-body sensation of getting knocked out or the strain of fatigue during a long, frantic bout.\n\n• Break Them―or Become Them: Play or fight the most iconic figures from the Creed™ and Rocky™ universe in Freeplay or PvP, including classic Rocky Balboa, Ivan and Viktor Drago, and more!\n\n• Oculus Cross-Buy: Got CREED: Rise to Glory in your Rift library? Let the punches fly on Quest at no additional cost with complimentary cross-buy.",
+			"display_long_description": "Live Your Legacy: Challenge your body and mind as you experience the ascent of Adonis Creed from undiscovered underdog to world-class fighter, all within an immersive universe inspired by the Creed™ films.\n\nMultiple Game Modes: Choose your path to glory in story-driven Career, customizable Freeplay, or online PvP.\n\nFeel the Impact: Phantom Melee Technology mimics the real-life effects of throwing and taking punches in the ring, such as the out-of-body sensation of getting knocked out or the strain of fatigue during a long, frantic bout.\n\nGo the Distance: Increase your cardiovascular strength with Endurance Mode, which removes the Virtual Stamina system and allows you to scale opponent difficulty through Fight Settings. Use it with Quest’s Oculus Move! to track burned calories and workout time. \n\nBreak Them―or Become Them: Play or fight the most iconic figures from the Creed™ and Rocky™ universe in Freeplay or PvP, including Rocky Balboa, Ivan and Viktor Drago, and more!",
 			"developer_privacy_policy_url": "https://survios.com/studio/privacy/",
 			"developer_terms_of_service_url": null,
 			"supported_player_modes": [
@@ -122,14 +122,14 @@
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
 				"version": "1",
-				"change_log": "Shipping build 247055",
+				"change_log": "Shipping build 247262",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1001585601",
-				"id": "5480755385299507",
-				"required_space_adjusted": "1805767705",
+				"total_installed_space": "1520584209",
+				"id": "5500332776675101",
+				"required_space_adjusted": "2843687749",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -142,22 +142,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "324765225891248",
+				"id": "371074933503925",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99",
-					"offset": 100
+					"formatted": "$29.99"
 				},
-				"promo_benefit": "-33%",
-				"end_time": 1620975540,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -168,7 +163,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5480755385299507"
+					"id": "5500332776675101"
 				}
 			},
 			"release_channels": {
@@ -180,7 +175,7 @@
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
 							"version": "1",
-							"id": "5480755385299507"
+							"id": "5500332776675101"
 						}
 					}
 				]
@@ -191,11 +186,44 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
+								"current_end_timestamp": 1621144800,
+								"current_start_timestamp": 1621105200,
+								"temporal_info": {
+									"seconds_until_end_time": 163606,
+									"seconds_until_start_time": 124006
+								},
+								"vr_app_and_destination_string": "Creed: Rise to Glory",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2366245336750543",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Creed: Rise to Glory"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "825249741677697",
+								"is_vr_viewer_interested": false,
+								"name": "New Endurance Mode - Oculus Move Challenge! ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031554_984436032330601_5355192299207879978_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SDd32yWJFD0AX9g2dK5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=62a754bab0ae1ab36bf1d9acab80b57d&oe=60A3662F"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
 								"current_end_timestamp": 1622314800,
 								"current_start_timestamp": 1622307600,
 								"temporal_info": {
-									"seconds_until_end_time": 1420133,
-									"seconds_until_start_time": 1412933
+									"seconds_until_end_time": 1333606,
+									"seconds_until_start_time": 1326406
 								},
 								"vr_app_and_destination_string": "Creed: Rise to Glory",
 								"vr_applications": {
@@ -217,7 +245,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Creed PvP Happy Hour!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75221313_1072375453250319_4776614847175145871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7Ydzj6kGNLUAX8XT2HP&_nc_oc=AQm3V44fniDA-hGiXQyS_CbYNuSEMM81RuvEiifOiKb9UUU-CSaxEDlKNGgH_VuKhNI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d3bf3d83686449fae9853e7d50a02abf&oe=60A18E35"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75221313_1072375453250319_4776614847175145871_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7Ydzj6kGNLUAX-s82Hl&_nc_oc=AQmB1T9U-FmLWVGaj_pfRm0ShZiaTRTgrnbM5fXQlL_hSvlWNDsgg8CHdmyBHKfqw14&_nc_ht=scontent.oculuscdn.com&tp=28&oh=de8bfe0237ea7a282441cd9c2ae303bc&oe=60A38875"
 								}
 							}
 						}
@@ -225,7 +253,17 @@
 				},
 				"id": "265085481027462",
 				"posts": {
-					"nodes": []
+					"nodes": [
+						{
+							"id": "457355838664043",
+							"title": "*NEW* Endurance Mode Update for Oculus Quest!",
+							"created_time": 1620928042,
+							"body_text": "Pull no Punches! Training as Adonis Creed, Rocky Balboa, and other Creed & Rocky legends, fitness and boxing enthusiasts can step into the ring within an amplified experience with a new update designed for a more hardcore boxing experience.\n\nIn the new Endurance Mode we've removed the Virtual Stamina System so your character only gets tired when you do.\n\nDesigned to be used with Quest’s Oculus Move! function, players can track burned calories and the duration of physical activity while they set daily fitness goals. Virtually Healthy, also ran a test comparing Creed's normal mode vs the new Endurance Mode and found the removal of Virtual Stamina resulted in players exerting a higher MAX Heart Rate! Now that's a workout! You can read the full report here\n\nPlayers can further tailor boxing matches by scaling opponent difficulty through Fight Settings. The update also includes visual enhancements for Quest 2 users with improved textures, render resolution, and shadows.\n\nThis update is free to players who have purchased the game for Oculus Quest and is live now! Happy boxing!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982456_378029863517737_6633651172734291274_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1cQlT4i-GaYAX9T3D02&_nc_ht=scontent.oculuscdn.com&oh=d2201a44f09285c6aa106df80f7bd92f&oe=60A32479"
+							}
+						}
+					]
 				},
 				"iap_items_2": {
 					"edges": []
@@ -274,16 +312,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "324765225891248"
+				"id": "371074933503925"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0576725025747,
+			"quality_rating_aggregate": 4.0579487179487,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1122,
+				"count": 1129,
 				"orderings": [
 					{
 						"key": "top",
@@ -296,10 +334,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1122,
+				"count": 1129,
 				"page_info": {
-					"end_cursor": "AQHRMN2B8wa8x3exOYSdrIRTPRPQNNSXP3uA44XMHcoooJ9pcD8nPwirFuCmI80PSxAPEsQTBZ7Z7f4sh8VRNiSEsg",
-					"start_cursor": "AQHRMN2B8wa8x3exOYSdrIRTPRPQNNSXP3uA44XMHcoooJ9pcD8nPwirFuCmI80PSxAPEsQTBZ7Z7f4sh8VRNiSEsg"
+					"end_cursor": "AQHRGEpROYoo5TqVREiCBU19FcSvarFAF95le6T7I2aNVhfFbs1O_D_ja8VWT__nTgVoLtzpPyRGG9jGrqFdHykH6g",
+					"start_cursor": "AQHRGEpROYoo5TqVREiCBU19FcSvarFAF95le6T7I2aNVhfFbs1O_D_ja8VWT__nTgVoLtzpPyRGG9jGrqFdHykH6g"
 				},
 				"edges": [
 					{
@@ -309,13 +347,13 @@
 								"id": "104022288459429",
 								"display_name": "1ACapone",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974853_104022465126078_7850294787425370526_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mdEAcZFHDZ0AX8g6Cz1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7f34f5b57a7248aa7e97a6733be94dbe&oe=60A230B7"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974853_104022465126078_7850294787425370526_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NrNE7aYODUYAX9vI0kc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=40b8668354bb2140064e55462e09178c&oe=60A230B7"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "This game is decent enough. Purchased and played it hard once. Fought a some random kid 8 times in a row and thought I was going to pass out. Definitely gets you sweating. I told him I will die before he wins and I almost did. Then he got some stomach cramps and I knocked him out for the 8th time. I haven’t played it since I got it mostly because I am fat and lazy. Hmmmmm maybe I should play more and get skinny? Naaa going to play some poker instead.",
 							"reviewTitle": "Creed",
-							"review_helpful_count": 159,
+							"review_helpful_count": 215,
 							"review_rank_by_viewer": null,
 							"date": 1618764971,
 							"developerResponse": null
@@ -327,10 +365,10 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Do you have what it takes to become a champion? Follow the ascent of boxer Adonis Creed as you go toe-to-toe with the world’s top opponents in this intense, cinematic boxing experience. Featuring new Phantom Melee Technology for impactful VR melee combat, you’ll train, fight, and win like Creed.",
+				"description": "Do you have what it takes to become a champion? Experience the pulse-pounding excitement of boxing with the cinematic thrill of a blockbuster movie as you become Adonis Creed, fighting to establish your legacy in the ring and beyond. Featuring new Phantom Melee Technology for impactful VR melee combat and the brand new Endurance Mode for hardcore boxing simulation, you’ll train, fight, and win like Creed. ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75371508_654922069241549_4451721668310988997_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=hspehrN7P4UAX_M9VOu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f40d23fd76a4fc8ac2dbeee29c1ea95e&oe=60A193AF",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75443240_216149409954761_4226492998624759097_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MV0tUdcrjoUAX8LMyxe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6e78a246779cb2c8585d57b0ecb988f4&oe=60A23FBD",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

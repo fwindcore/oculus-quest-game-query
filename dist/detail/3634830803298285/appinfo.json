@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982701_2755632411403372_1433407816910889392_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v2wh5ybplN4AX8UlRo2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f65556c8310eb4fbf9804ddf453ee42&oe=60A253B8"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982701_2755632411403372_1433407816910889392_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v2wh5ybplN4AX_lqZPI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6dd04cf57ada07f2e3c0d206266c2f13&oe=60A253B8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_523160945352811_6474800128861820433_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=JrqZ96-og4gAX_8tdSJ&_nc_ht=scontent.oculuscdn.com&oh=163ec1ee87fb79c7d82de93cf3d4d239&oe=60A25B4A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_523160945352811_6474800128861820433_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=JrqZ96-og4gAX_CK2Eq&_nc_ht=scontent.oculuscdn.com&oh=91640f471c044492e98d5569cc09dfb1&oe=60A25B4A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 13,
+					"count": 17,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 14,
+					"count": 15,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 34,
+					"count": 40,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 87,
+					"count": 102,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 942,
+					"count": 1013,
 					"starRating": 5
 				}
 			],
@@ -176,21 +176,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "524878132219484",
+							"title": "New game patch - bug fixes",
+							"created_time": 1620830813,
+							"body_text": "Update: It has come to our attention that some Oculus Quest users are unable to start the game after the latest update. Please make sure to update your Oculus device to the latest version to resolve this issue.\n\nHey adventurers,\n\nThank you so much for all the support and love that Demeo has received since the launch last week. We’re thrilled to keep working on the game and bring out new awesome content. But first, some bug fixes!\n\nImportant: please make sure to update your game to the latest version (v 1.2) and do not uninstall your current game since this will cause your saved data to be erased.\n\nWe just updated the game with the following fixes:\n\n- Fixed a bug where the game state could desync when joining or reconnecting to a game, causing several issues such as the key getting lost, black screen when joining, pieces on top of each other and doors appearing as closed for one player when open for the rest.\n\n- Fixed issue where going into the Oculus menu or removing the headset would trigger the hosting of the game to transfer to another player.\n\n\n- Updated to the latest Oculus plugin for the Oculus Quest build, which we hope will solve bugs related to the flickering light and constant snapping to the edge of the table. If the game detects too many recenter-calls, they will now be ignored.\n \n- Fixed an issue where the enemy ability ‘charge’ would not always deal damage as expected. Also made sure that it now properly respects its max range.\n\n- Prevented the possibility of negative balance in the shop. Cleepto can breathe out!\n\n- Added resetting of the downed counter at the start of a new level, so you now have 3 chances when progressing throughout the campaign.\n\nWe will continue to closely monitor the state of the game and continue to improve any areas we can.\n\nEnjoy! \nThe Demeo Team",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031318_827821348113555_5803522159982756358_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sXI_9pQjwzQAX8q4RXi&_nc_ht=scontent.oculuscdn.com&oh=2b745e391cd3fba51bb38fd5519d788e&oe=60A375E4"
+							}
+						},
+						{
 							"id": "516346942873068",
 							"title": "New Module Coming Summer 2021 - Realm of the Rat King",
 							"created_time": 1620404696,
 							"body_text": "Demeo will be updated regularly with new, free content such as environments, enemies, cards and much more. If you're as excited for more content as we are, check out this sneak peek of the next module, Realm of the Rat King, coming summer 2021. More details will be shared soon!\n\nMake sure to join our Discord to find more adventurers to play with!\n\nFollow us on Twitter for the latest news about Demeo.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982450_216290819959603_828194564144335684_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fmFq7FzEqugAX-G24Xu&_nc_ht=scontent.oculuscdn.com&oh=2a1a9d8da94474c2f81f18b6ac1a50ba&oe=60A2AD0D"
-							}
-						},
-						{
-							"id": "1121146408383818",
-							"title": "Demeo is now available on Oculus Quest!",
-							"created_time": 1620215941,
-							"body_text": "Do you have the mettle to survive the monster-infested dungeons of Demeo? Your time has come! Demeo is now available on Oculus Quest.\n\nPLAY NOW!\n\nJoin our Discord to find more players, discuss tactics or just hang out!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982483_297893828497092_5298477630806889775_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HkQKpQb3EeEAX_2mh91&_nc_ht=scontent.oculuscdn.com&oh=e7ff2cd89a3ccf6ff36fdda8551d8f68&oe=60A14E95"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982450_216290819959603_828194564144335684_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PXGA7vEfFREAX_6Cb8v&_nc_ht=scontent.oculuscdn.com&oh=179532e56dfe4fb53857a9a5a5086663&oe=60A2AD0D"
 							}
 						}
 					]
@@ -247,11 +247,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7715596330275,
+			"quality_rating_aggregate": 4.7514743049705,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 567,
+				"count": 613,
 				"orderings": [
 					{
 						"key": "top",
@@ -264,28 +264,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 567,
+				"count": 613,
 				"page_info": {
-					"end_cursor": "AQHRDYKtsMTHHGXU2MWzEaUWeLu6e_XjJU0RM_hrT6DYJw1w4EVJn1jIYKKN_e1JvrfpoN-nvJYdTFOa7yKHRjQAEw",
-					"start_cursor": "AQHRDYKtsMTHHGXU2MWzEaUWeLu6e_XjJU0RM_hrT6DYJw1w4EVJn1jIYKKN_e1JvrfpoN-nvJYdTFOa7yKHRjQAEw"
+					"end_cursor": "AQHRHeOKjnJY8paKpv6uMkPnbZpT8ICPhhOpGFyY1lyF0BZI9HO2kqzNlZm96sKG4yFo9AZ5Ho7kCeVq6YNUeAiy7A",
+					"start_cursor": "AQHRHeOKjnJY8paKpv6uMkPnbZpT8ICPhhOpGFyY1lyF0BZI9HO2kqzNlZm96sKG4yFo9AZ5Ho7kCeVq6YNUeAiy7A"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "462058711573994",
+							"id": "156823879709942",
 							"author": {
-								"id": "106497043796831",
-								"display_name": "Gamertag_VR",
+								"id": "106822448043419",
+								"display_name": "Punchram",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/39031313_346659109780622_101721817207374497_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YdTG8CtreNcAX8vlbBB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1261d21616aeb5a249864348cb6b4205&oe=60A218F5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c270.0.900.900a/s160x160/38974469_107160924676238_6749388935056669150_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bvHCkBJ6VS0AX-vBcP0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a1c2d445134dbef73189232207bc49a0&oe=60A2AF94"
 								}
 							},
 							"score": 5,
-							"reviewDescription": "🧙‍♂️ This feels like a true dungeon crawler set in a 80s basement that sees you sitting down with 4 friends to roll the dice! \n\nI’ve posted gameplay with all 4 players cameras edited into each corner to give you that true round the table board game multiplayer experience and reactions! Listen to the use of strategy and beat the darkness \nJust search  ‘Gamertag VR Demeo’ on YouTube🤌",
-							"reviewTitle": "An absolute must for table top RPG fans!",
-							"review_helpful_count": 220,
+							"reviewDescription": "First off, this is an amazing game. It’s fun and challenging and more content Is on the way. Other reviews hit on the many positives. \n\nRegarding single player, these are the few suggestions I have after several hours of gameplay:\n\n- A save game feature would be useful for solo play for those who can only play in short bursts. \n- Being able to pick the classes of the other two team members would be useful to create some replay variety. \n- Currently there doesn’t seem to be a way to get back to the main menu once you pick single player without restarting, but maybe I’m just not finding it. \n\nOnce again, this is a fantastic game and I plan on spending many more hours playing.",
+							"reviewTitle": "Some minor single player suggestions",
+							"review_helpful_count": 119,
 							"review_rank_by_viewer": null,
-							"date": 1620382616,
+							"date": 1620509452,
 							"developerResponse": null
 						}
 					}
@@ -298,7 +298,7 @@
 				"description": "Gather your friends and brave the unhallowed catacombs of Resolution Games’ RPG dungeon crawler, Demeo. \nTerrors and treasure await as you and up to three friends unite in this cooperative turn-based game to combat the forces of evil and vanquish the armies of The Mad Elven King. \nBut choose your champions wisely in this virtual tabletop game; once you have ventured into the necropolis, you and your band of warriors must conquer the nether floors... or die trying.  Download now!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75367595_751672978855147_3318681935840785525_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ytwNvw_ly5cAX8dlVML&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bc1f9a8b2e895b38db8bead960d6e3df&oe=60A2B2CB",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75367595_751672978855147_3318681935840785525_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ytwNvw_ly5cAX9voHiJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4c596a6d805aa4d5d17c572b91de9deb&oe=60A2B2CB",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
