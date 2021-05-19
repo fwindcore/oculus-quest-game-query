@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974840_486575775700913_3781458670282844239_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UIWeGUS0rPIAX8GQoj2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5a470df25f18bd185ac8d34eadbb8499&oe=60A7C1DB"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974840_486575775700913_3781458670282844239_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UIWeGUS0rPIAX-PAjGE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=30caa7c91f4711c7276866e6f3ad7ea2&oe=60A9BC1B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_273370610908414_3692177474064353825_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=XLzV8OKKEQ0AX8NyCqD&_nc_ht=scontent.oculuscdn.com&oh=7fad415f0b6dfbacf79341955db005e1&oe=60A772EE"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_273370610908414_3692177474064353825_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=XLzV8OKKEQ0AX-Pmyhj&_nc_ht=scontent.oculuscdn.com&oh=3c1c20b54522e7038270d0cfb1c94bc3&oe=60A96D2E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -26,12 +26,12 @@
 				},
 				{
 					"star_rating": 2,
-					"count": 36,
+					"count": 37,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 20,
+					"count": 19,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 86,
+					"count": 88,
 					"starRating": 5
 				}
 			],
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.1.3",
-				"change_log": "New Achievement System! In game, on web, and in Oculus dashboard\n\"Read_external_files\" permission no longer asked or required (this is the request for Storage permissions when launching)\n72 frame per second City Mode on Quest 2\nSlightly longer peaks for HIIT workouts\nFixed stuck ride case\nFixed mute voice after leaving/rejoining same leader\nPossible fix to missing coins after long jumps forward in rides\nOption for No Socks and No Gloves in avatar customization\nCharacter model improvements\nTutorial tracking\nComfort mode improvements",
+				"version": "1.1.4",
+				"change_log": "New Achievement System! In game, on web, and in Oculus dashboard\n\"Read_external_files\" permission no longer asked or required (this is the request for Storage permissions when launching)\n72 frame per second City Mode on Quest 2\nSlightly longer peaks for HIIT workouts\nFixed stuck ride case\nFixed mute voice after leaving/rejoining same leader\nPossible fix to missing coins after long jumps forward in rides\nOption for No Socks and No Gloves in avatar customization\nCharacter model improvements\nTutorial tracking\nComfort mode improvements\nAnimation fixes\nAdded support for a Zcycle trainer",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "528580664",
-				"id": "4038422789514527",
-				"required_space_adjusted": "806071436",
+				"total_installed_space": "528475389",
+				"id": "4055714631118676",
+				"required_space_adjusted": "805866352",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -108,7 +108,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "US$ 0.00"
+					"formatted": "$0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -128,7 +128,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4038422789514527"
+					"id": "4055714631118676"
 				}
 			},
 			"release_channels": {
@@ -139,8 +139,8 @@
 						"id": "654328514987554",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.1.3",
-							"id": "4038422789514527"
+							"version": "1.1.4",
+							"id": "4055714631118676"
 						}
 					}
 				]
@@ -158,7 +158,7 @@
 							"created_time": 1619056989,
 							"body_text": "Wow!  What a week!?\n\nWe have been working on this release of VZfit for many months and it’s so exciting to have it out in the world and available for everyone to easily try. With the new standing mode feature and the ability to play the tutorial without an account we have had more people try VZfit in one week than we have had in the last 2 years!\n\nFrom new users to our long time veterans the response to the experience has been amazing. It’s truly inspiring to the team to know that we have helped you achieve your goals or provided a fun way to get more fit.\n\nFor us, it’s back to work though!  VZfit is a living, breathing product and we know that there is so much more that we can do to make it a better experience.\n\nFirst Update\nWhile overall the launch went smoothly we did find a couple of bugs that will be fixed in our first update. The most major of which is new users are currently not defaulting to auto-steering. This should be the default for standing mode and we want to make sure we get it fixed as soon as possible. In addition to that we do have one major feature that didn’t make launch and that is our achievement system.\n\nWe will be adding achievements to both VZfit.com and the Oculus system that will have some great long term and short term goals for you to shoot for.\n\nOur plan is to get this update released at the start of May and it should be going into testing next week!\n\n\n\nBeyond\nAs far as what comes after that?  We have some customization updates and avatar updates in the works and we should have more information on that once this first update goes out.  We will keep an eye on the feedback from new users and hope to hear from you all on what you love as well as what you think needs a little polish!\n\nOur team also wants to specifically thank our Facebook community for helping out with questions and support this week. The help has been invaluable for new users. If you are not a member of the VZfit community on Facebook we highly encourage it. They are a great group for inspiration, encouragement, and ideas. https://www.facebook.com/groups/vzfit\n\nThanks again to everyone who tried VZfit and be sure to keep checking in for regular updates.\n\nCheers and Happy Exploring!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974497_569704771086831_4783429260604783316_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fzAUSSizgyMAX-NqafP&_nc_ht=scontent.oculuscdn.com&oh=379f8a2f056d387d831c8e92dd56be84&oe=60A7E0EA"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974497_569704771086831_4783429260604783316_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wpjFO_Wgmb4AX_9KCfZ&_nc_ht=scontent.oculuscdn.com&oh=91828514672012b1c17a66bffb8178bd&oe=60A9DB2A"
 							}
 						},
 						{
@@ -167,7 +167,7 @@
 							"created_time": 1612822651,
 							"body_text": "January has been a great month for all of us with our VZfit users burning almost 3 Million VZcals!  How's that for nailing your resolutions!  With so many new users and coming on we put our focus on the new user experience for this update.\n\nNew Tutorials\nNew users will now begin their journey with a tutorial on the exerboard. From rendering modes to steering, this tutorial features everything you need to learn to get started in VZfit.  Additionally, we added video tutorials for some of the more advanced options in the game.\n\n\nNew Voice Over\nBoth the male and female coaches have had a voiceover update. We have also added multiple levels of voice over to suit your needs. Coaching mode is on by default and will offer you the most feedback on your ride.\n\nNew Continents Filter\nIn addition to the filters in last update we have now added a quick filter for toggling on and off specific continents. This can help you find a ride in a specific region and get you exploring faster!\n\n\nNew Store Items\nWe have added some more items to the store with a pretty great road warrior style jersey!\n\n\nIf you want to check out all the details be sure to visit our Updates page https://www.virzoom.com/2021/01/03/vzfit-update-january-2021/. We are off to a great start of the year and hope you are to!\n\nCheers and Happy Exploring!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75280979_691647738196047_205018326827229057_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KUI1UuZJiYUAX_1WVRm&_nc_ht=scontent.oculuscdn.com&oh=9e39a2d6ab22fc4d5aec866dce41d9ba&oe=60A95B01"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75280979_691647738196047_205018326827229057_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KUI1UuZJiYUAX_mmFTS&_nc_ht=scontent.oculuscdn.com&oh=c0905bcf17761e980fc1fce52af9f967&oe=60A95B01"
 							}
 						}
 					]
@@ -175,7 +175,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRWwb_clS7MmXLrsBqgFjGSQIV1sxoVZWcGH2W157LJicCS-ihSdN65IPFehXw-0fUUJ9OecZGaxRbQx0YfAnB1Q"
+							"cursor": "AQHRsYGUWkVP0rCxxC0-qTQZrux0YO0jDlbggVEAxno87CKmidfYael-glhuBr7gNnYXrOUDtaSkp8I4TOfP837-eA"
 						}
 					]
 				}
@@ -222,11 +222,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 2.7158671586716,
+			"quality_rating_aggregate": 2.7289377289377,
 			"support_website_url": "https://vzfit.com/help",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 148,
+				"count": 150,
 				"orderings": [
 					{
 						"key": "top",
@@ -239,10 +239,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 148,
+				"count": 150,
 				"page_info": {
-					"end_cursor": "AQHR7oabGj-m-swjP78dScvEx0-HIC4tNIrPyyf-3ldGd40nBJEZQATqv4-6UxHRtjX-P9JKjK_VojGdmUDBrmLZqw",
-					"start_cursor": "AQHR7oabGj-m-swjP78dScvEx0-HIC4tNIrPyyf-3ldGd40nBJEZQATqv4-6UxHRtjX-P9JKjK_VojGdmUDBrmLZqw"
+					"end_cursor": "AQHROcnixxzTfTV7LF2ij77T_Qg6Lxse-t0kjDe7dAuOh_p2BYb9TW8I57qZJfIMp9PoLN5yoJD6rrY1-pePWI9nzw",
+					"start_cursor": "AQHROcnixxzTfTV7LF2ij77T_Qg6Lxse-t0kjDe7dAuOh_p2BYb9TW8I57qZJfIMp9PoLN5yoJD6rrY1-pePWI9nzw"
 				},
 				"edges": [
 					{
@@ -252,7 +252,7 @@
 								"id": "102692354533674",
 								"display_name": "death2you5",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982671_102693227866920_8612182432398966784_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rtju3JapDkYAX-LZVLn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ad64932c76dca0d8f5a6c52953e4f4e6&oe=60A7F0A1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982671_102693227866920_8612182432398966784_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rtju3JapDkYAX_348ID&_nc_ht=scontent.oculuscdn.com&tp=28&oh=44a65e6219a3ff8deb13afd01caee42e&oe=60A9EAE1"
 								}
 							},
 							"score": 2,
@@ -277,7 +277,7 @@
 				"description": "Have Fun. Explore the World. Get Fit.\n\nFull-body cardio workouts you will actually enjoy!\n\nFrom the snow capped Italian Alps to the coast of Oahu, workout virtually anywhere.\n\nOptionally use a bike or an elliptical with the addition of a cadence sensor.\n\nStart your journey today with a 7 day free trial!*\n\n*$0 for duration of free trial, $9.99/month thereafter. Cancel any time. Terms apply. Go to vzfit.com for more detail.\nVZfit uses Google Street View data but is not an official Google product.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974698_964079377332189_5975739684513108179_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mMB32qS3qyIAX8hT_YB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8e718e8dc5861f863ec31ef6707627ff&oe=60A7F937",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974698_964079377332189_5975739684513108179_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HGjvyERxuZMAX-LAGXM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0f19c79acb2b8274d0f00fb8e32cc25c&oe=60A9F377",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
