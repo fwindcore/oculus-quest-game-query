@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035353_650925575417939_6598223119993798656_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IerNdNrFvr4AX_oUwvU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6c9f98cecd704cedf810ef4987e39419&oe=60A9F447"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035353_650925575417939_6598223119993798656_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IerNdNrFvr4AX_wh_GT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e200533fbfaf53961d15a5baac69da4&oe=60ABEE87"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39036643_650924435418053_3688134102642327552_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lvuBiC59fD4AX-h0yw8&_nc_ht=scontent.oculuscdn.com&oh=d42be22c27561deb10067ceb69eb381e&oe=60AA580E"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39036643_650924435418053_3688134102642327552_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lvuBiC59fD4AX8e7yAj&_nc_ht=scontent.oculuscdn.com&oh=bd543d9f35b7aa8954b64a6e74bb795b&oe=60AA580E"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -113,17 +113,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "945005472515160",
+				"id": "501484261270198",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "US$ 9.99"
+					"offset_amount": "899",
+					"formatted": "US$ 8.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "US$ 9.99",
+					"offset": 100
+				},
+				"promo_benefit": "-10%",
+				"end_time": 1621580340,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -206,7 +211,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "945005472515160"
+				"id": "501484261270198"
 			},
 			"externalReviews": {
 				"count": 0
@@ -230,8 +235,8 @@
 			"firstQualityRatings": {
 				"count": 379,
 				"page_info": {
-					"end_cursor": "AQHR4-PpHg5-Ouq4h_yGPmwnl5Vu--OYqd_g5YQWO9v10v5hO_Diz3I1POUWe85YK8xEuIASeUSvmpgY22XXzKPSxw",
-					"start_cursor": "AQHR4-PpHg5-Ouq4h_yGPmwnl5Vu--OYqd_g5YQWO9v10v5hO_Diz3I1POUWe85YK8xEuIASeUSvmpgY22XXzKPSxw"
+					"end_cursor": "AQHRvafWppRC0tR7kTfJtRUBJgNOsZYnFDCr0RT2yVnIAflTy7p_IjC8ebBb7wHhQxwp4lhRww1U1jkwBLn8W8eTTA",
+					"start_cursor": "AQHRvafWppRC0tR7kTfJtRUBJgNOsZYnFDCr0RT2yVnIAflTy7p_IjC8ebBb7wHhQxwp4lhRww1U1jkwBLn8W8eTTA"
 				},
 				"edges": [
 					{
@@ -241,13 +246,13 @@
 								"id": "104932778323807",
 								"display_name": "Al_Gore_Rhythm",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c18.0.1045.1045a/s160x160/38974530_129443779206040_2281194680717740640_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=W-uBh2JeotUAX8pynq9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7884f0fc432ecb0166c115ac2245f142&oe=60AAA060"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c18.0.1045.1045a/s160x160/38974530_129443779206040_2281194680717740640_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZUizYwQD0JsAX_pn5IW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=242d89559003e44cd9a14001f6c2534b&oe=60AAA060"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "If you're reading this then just stop and buy the game. You're here. Its peaked your interest and for the price I promise it'll be well worth it. Whether trying to get through it yourself or watching your friends and family buckle under fear, it'll be so worth it! Buy this game. You will NOT regret it.",
 							"reviewTitle": "I Dare You!",
-							"review_helpful_count": 5,
+							"review_helpful_count": 7,
 							"review_rank_by_viewer": null,
 							"date": 1619331063,
 							"developerResponse": null
@@ -262,7 +267,7 @@
 				"description": "Experience a new kind of immersive horror in Dreadhalls!\n\nYou are trapped deep inside a massive dungeon. Explore it, survive it, and find a way to escape. Your only weapons will be stealth, your own courage, and a faint light.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974712_343544689601753_1620906754701262848_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FU_N0otrcDoAX-_NKPY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9da60066f5ace87dc6e32a92d95f35e4&oe=60A95345",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031603_296595061947141_1431079190488731844_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=C6dRgnS-JaAAX9pvZM6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d3ea8fdf4f42525c083b3e4a069506b&oe=60ABA457",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
