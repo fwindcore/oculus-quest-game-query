@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974603_1240628822791920_5956410888343781376_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TAUGLivZKrcAX_b7WTj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c6937b079a710133feb084447e983a2&oe=60AB39FE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974603_1240628822791920_5956410888343781376_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sw6sSfUC7-IAX-VV33Z&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d775ab4c41fc4953987a2f1988e56f6a&oe=60AD343E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1240628392791963_2019644126823186432_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wS9aJZs6UqAAX95qwin&_nc_ht=scontent.oculuscdn.com&oh=16f1158db16fc2e71e19965de1f596c8&oe=60AB6056"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1240628392791963_2019644126823186432_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wS9aJZs6UqAAX9vuMBT&_nc_ht=scontent.oculuscdn.com&oh=45419b29b6989ec9205737bf1406be90&oe=60AD5A96"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -168,7 +168,7 @@
 							"created_time": 1616324233,
 							"body_text": "We're excited to reveal Espire 1.8 \"Spectre\" - our 8th major content update since the game first launched. This free update adds 2 new challenges to Espire 1: VR Operative, both built around the \"Militaris\" environment. Players that complete the SMG and Shotgun weapon challenges can now also use the Spectre silenced SMG and Sawn Off Shotgun in the Espire 1 campaign.\n\nThis update also includes a host of fixes including and quality of life improvements. \nWe’ve fixed the 2 major issues that were causing the game to crash. We've also addressed the top 5 user reported bugs on our Discord, all centred around achievements and Espire trials.\n\nEnjoy Espire 1.8\nWe hope you enjoy the Spectre update. Thanks to all that have supported the game! We welcome any suggestions and ideas for future updates in our discord - https://Discord.gg/Espire1\n\nFull Release Notes\nEspire 1 v1.8 \"Spectre\" update. Full Release Notes for build 1.8.47:\n\nNew Features\n- 2 new virtual challenges added to the game: 1) Furcata Hostage Rescue challenge 2) Mangua Takedown challenge\n- New Weapons: Spectre SMG + Sawn off Shotgun are now playable in the campaign\n- If players complete all of the SMG weapon challenges + all of the Sawn-Off shotgun weapon challenges, these 2 guns will be unlocked for the campaign.\n- Players will find the weapons sitting on a weapon rack close to the starting point for each mission.\n- These weapons are only available when playing a campaign mission on the Espire Agent (Normal) difficulty level\n- Updated the \"All weapons\" cheat to include the Spectre SMG and Sawn-off shotgun\n\nUI Updates\n- New \"Latest News\" UI panel added to the main menu to highlight new content to players. This will be updated with every feature update going forward.\n- The game’s end-credits have been updated to credit the team members and testers who have worked on Espire 1 since its initial release.\n\nBug Fixes and Enhancements\n- AI Fixes/enhancements\n- Fixed an issue where enemy Soldiers no longer reacted to the player's hands. Now, guards will correctly spot the player’s hands if you’re using the hand-cams around a corner at close range to a guard!\n- Fixed an issue where enemy guards would not update their ‘perception component’ correctly. This reduces situations where enemies may spot the player at a glancing angle when they should not have\n- Fixed an issue where Enemies would say an incorrect voice line when discovering a knocked out ally, reporting the incident to their unit commander, and then waking up the ally.\n- Fixed an issue where dead/stunned hostages would appear to stand back up again after a period of time.\n- Fixed an issue where players could fall on the Jacobson (Destroyer) drone and ‘knock’ it out!\n\nCrash Fixes\n- Crash Fix: Fixed an issue where the game would become unresponsive if the player possessed an Espire unit while holding a weapon in their non-dominant hand. Thanks to the users who reported this issue and allowed us to narrow down the repro-steps.\n- Crash Fix: Fixed an issue where rarely, the game would crash during a ‘loading’ sequence in an airlock.\n\nAchievements, Espire Trials, Completion-related\n- Fixed an issue where an achievement related to collecting badges and trials will not be unlocked correctly. The player would have to replay a mission a 2nd time for the badge-count/trial-count achievement unlock to be reflected.\n- Fixed an issue where if the player completes every trial, the associated achievement would not unlock correctly.\n- Increased the time limit requirement for the \"Feet don't fail me now” Espire Trial in mission 1.6 to reflect recent changes to the map that made it very, very difficult to complete under the original time limit.\n- Fixed an issue in Mission 1.5 where an E1FS Pistol was missing in the level, making the ‘weapon procurement’ badge for that mission unobtainable.\n- Fixed an issue where rarely, In one of the takedown challenges (Cinnamon), a particular enemy would spawn inside a wall, and the player would be unable to shoot them, making the challenge impossible to complete.\n- Fixed an issue where In mission 1.5 “Ventilation System”, there was a case where a major cinematic will not play and the player would have to restart the mission.\n\nGeneral Bug Fixes and changes\n- Added plenty of ammo for the 2 secret cheat weapons \"Golden gun\" and \"Silver Serpent\", ensuring that if you use them in a campaign mission, there will be enough bullets.\n- Fixed in issue in mission 1.4 Data Centre where a weapon rack right near the start of the mission incorrectly had 3 copies of every pistol placed on it.\n- Fixed an issue in the game's first mission where, under certain circumstances, an area of the environment appeared jet black (not loading in).\n- Fixed an issue in the campaign where some weapons would sit at an incorrect orientation on the weapon racks found in airlocks\n- Fixed an issue where players would not correctly possess a new Espire unit if they happened to possess the unit while in the middle of climbing with their old Espire unit\n- Bullet logic (fired by the player and by enemies) was rewritten, improving performance\n\nUpdates to the Militaris Environment\nThe “Militaris” environment has been updated for the 2 new challenges added in this 1.8 update. As part of this work, the following bugs were fixed:\n- Fixed an issue where tripmines in the Militaris Intel challenge were not being activated correctly\n- Fixed an issue where a corpse in the Militaris environment did not render correctly\n- Fixed an issue in the Militaris challenges where a player could ‘throw themselves’ out of bounds.\n- Fixed an issue in the Militaris environment where players could climb so high that they could see’ out of world’",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003252_476312376840520_3968486563190046120_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=anuSVi_2AK8AX_KXrIi&_nc_ht=scontent.oculuscdn.com&oh=e98900c74802d925307234a5dac3858e&oe=60AB5E01"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003252_476312376840520_3968486563190046120_n.png?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=anuSVi_2AK8AX_OLTk9&_nc_ht=scontent.oculuscdn.com&oh=8a7691fc7aae25d723302904865e07ef&oe=60AD5841"
 							}
 						},
 						{
@@ -177,7 +177,7 @@
 							"created_time": 1590458666,
 							"body_text": "Militaris is one of 4 all new \"Intel\" levels included in our free 1.6 Assimilation update. In Militaris, you must infiltrate a Copperhead outpost, hacking data from 4 workstations hidden throughout the environment. Militaris is our biggest challenge environment yet, with plenty of ways to approach each objective. Whether you want to play completely stealthy, or storm the outpost all guns blazing, we hope you enjoy Militaris and the rest of the Assimilation update!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982708_2572212006367953_53490312978366464_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XJR3rt_wZVAAX-N9NPy&_nc_ht=scontent.oculuscdn.com&oh=73301777d50a4bd5aa35bbb5afc4697c&oe=60AA2774"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982708_2572212006367953_53490312978366464_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XJR3rt_wZVAAX_uixMI&_nc_ht=scontent.oculuscdn.com&oh=2c7f6a0403061834048ebaab15bf0759&oe=60AC21B4"
 							}
 						}
 					]
@@ -238,7 +238,7 @@
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1331,
+				"count": 1332,
 				"orderings": [
 					{
 						"key": "top",
@@ -251,7 +251,7 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1331,
+				"count": 1332,
 				"page_info": {
 					"end_cursor": "AQHR145mpVgf3p0tm-DWXwrec8Ivakq65na9nw6y9hYWn9pR6ilYt5T7qJIykQRxQMv6si6Wb6t7oBDMDBT_Yckb9Q",
 					"start_cursor": "AQHR145mpVgf3p0tm-DWXwrec8Ivakq65na9nw6y9hYWn9pR6ilYt5T7qJIykQRxQMv6si6Wb6t7oBDMDBT_Yckb9Q"
@@ -264,7 +264,7 @@
 								"id": "103658411344398",
 								"display_name": "knucklepuck907",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269596_132953401748232_3563278322030909553_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=T7JvCgDxA5cAX_kBowY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8cebba0d6d8d91f3ec9a34925ea50599&oe=60AAA6FD"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75269596_132953401748232_3563278322030909553_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=T7JvCgDxA5cAX-1IB3t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=75a162e2ad8bf69d0eaea5307772a023&oe=60ACA13D"
 								}
 							},
 							"score": 4,
@@ -289,7 +289,7 @@
 				"description": "Espire 1: VR Operative is an ambitious new virtual reality game and IP with its sights firmly set on the single-player ‘stealth’ genre. We pitch this as \"Goldeneye 007\"meets \"Metal Gear Solid\" in an immersive VR world.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330717_2813068888905902_7034913126652012895_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gSDBEMsKFw0AX_uXD7s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9449009d59fae2729d28cac21a460bcc&oe=60AA30EA",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75330717_2813068888905902_7034913126652012895_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gSDBEMsKFw0AX9TbIWE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f3f19b273f90484ab1093e57f0b168bb&oe=60AC2B2A",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

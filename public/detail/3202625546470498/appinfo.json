@@ -1,0 +1,289 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "3202625546470498",
+			"display_name": "Puzzle Bobble VR: Vacation Odyssey",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974634_985133048686325_4543074880317405944_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cDN08fYH9WcAX-n3JTT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4d104e4864af326757e57316d7d7f16a&oe=60ABB6D0"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75210893_500517841393861_6092306422004954330_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=VXJA1VpX3b4AX-ukxja&_nc_ht=scontent.oculuscdn.com&oh=8fc977760c9aed104d99e5c3e396fdea&oe=60AD2242"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 1,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 3,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 5,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 4,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 15,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Aim, Shoot & Pop in VR! \nBub and Bob are in for a surprise when their island vacation takes an unexpected turn for an epic, bubble-popping adventure! \n\nBursting with the same cheerful design, adorable characters, and timeless gameplay as its predecessors, Puzzle Bobble VR: Vacation Odyssey is the next evolution of the classic Japanese action puzzle game franchise—with the immersive  fun  of virtual reality! \n\n- 100 New Puzzles: Brand new, 3D puzzles with special bubbles and brain-teasing challenges\n- Fun for Everyone: Intuitive controls and limited movement offers a welcoming VR experience for all\n- Special Items: Activate fun power-ups with clever VR interactions to maximize your popping power\n- Story Mode: Solve progressively challenging levels to clear with 3-star rankings. \n- Infinite Mode: Shoot and match your way to a high score popping never-ending slew of bubbles\n- Online Duel Mode: Fast-paced, 1v1 versus mode! Pop big clusters to send jammer bubbles to your opponent",
+			"developer_privacy_policy_url": "https://survios.com/studio/privacy/",
+			"developer_terms_of_service_url": "https://survios.com/studio/terms/",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING"
+			],
+			"publisher_name": "Survios, Taito Corporation",
+			"supported_in_app_languages": [
+				{
+					"name": "日语"
+				},
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY",
+				"HOLLYWOOD"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人",
+				"单人"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Survios",
+			"genre_names": [
+				"街机",
+				"休闲",
+				"益智"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.0",
+				"change_log": "Shipping build 247407",
+				"supported_hmd_types": [
+					"MONTEREY",
+					"HOLLYWOOD"
+				],
+				"total_installed_space": "1288927173",
+				"id": "4062272310505813",
+				"required_space_adjusted": "2294205035",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1621530049,
+			"supported_tracking_modes": [],
+			"website_url": "http://www.puzzlebobblevr.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "285011343303735",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": []
+			},
+			"viewer_release_channel": {
+				"id": "1157183847995436"
+			},
+			"live_release_channel": {
+				"id": "1157183847995436",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4062272310505813"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "1157183847995436",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.0",
+							"id": "4062272310505813"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "788239891958003",
+				"posts": {
+					"nodes": [
+						{
+							"id": "966744884081623",
+							"title": "Puzzle Bobble VR: Vacation Odyssey Launch Day! ",
+							"created_time": 1621493077,
+							"body_text": "Puzzle lovers Rejoice!\n\nSurvios here, and we’re bubbling with excitement because Puzzle Bobble VR: Vacation Odyssey has officially launched! In collaboration with Taito, we’re celebrating Bub’s 35th Anniversary, bringing everyone's favorite bubble dragons into virtual reality for the first time ever. The game is available to download as of right now to start your bubble-popping adventure!\n\nLove Puzzle Bobble and want to celebrate Bub's 35th with us? Please share your PBVR screenshots, home videos, gameplay highlights, fan art and everything in between using the hashtag #PuzzleBobbleVR, and our social team will be resharing content all week long! This has been a delightful project to work on, and we're thrilled to finally share this game with all of you!\n\nHappy popping!\n\nThe Survios and Taito team\n",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974454_555534152095114_8298206421684843836_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4L_DSf3PiHwAX-myMAG&_nc_ht=scontent.oculuscdn.com&oh=6d190e2b694d75a5cbef23e2c200a0b3&oe=60ACADDB"
+							}
+						}
+					]
+				},
+				"iap_items_2": {
+					"edges": []
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "NOT_REQUIRED",
+			"internet_connection_name": "无需联网",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "survios-bam-quest-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "1999"
+				},
+				"id": "285011343303735"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Puzzle Bobble VR: Vacation Odyssey",
+			"platformOffer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "285011343303735"
+			},
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 4.0357142857143,
+			"support_website_url": "https://survios.zendesk.com/hc/en-us/categories/1500001389701-PUZZLE-BOBBLE-VR-VACATION-ODYSSEY",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 17,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 17,
+				"page_info": {
+					"end_cursor": "AQHRq8DdAZz9QcNUNuXUCPfqExfO3z5GzARUctL277409jZab80D1rjgTSyhTWUH18TvJ6w9U8ZVfawOpjtW3Cw0Yw",
+					"start_cursor": "AQHRq8DdAZz9QcNUNuXUCPfqExfO3z5GzARUctL277409jZab80D1rjgTSyhTWUH18TvJ6w9U8ZVfawOpjtW3Cw0Yw"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "4003767906324926",
+							"author": {
+								"id": "1053413188027094",
+								"display_name": "thearecade",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.7.368.368a/s160x160/39031565_3484873288214393_8801491327161010257_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gQTqeQBXwYMAX-MvZuj&_nc_oc=AQnDDEjKosjlT2XBJogcB0rMvYQUmNPPuYLgvYHm42LEEnZUM8FMkjOfXppLWWPU2x4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e5ab26c948e22449682d7a6e585954e&oe=60AB8D67"
+								}
+							},
+							"score": 5,
+							"reviewDescription": "I am totally new to the Puzzle Bobble franchise, but lots of my friends were going nostalgia crazy over this title.  I mostly do rhythm games and more adventure type games in VR, but when I want to zen out I like a good puzzle game. This and tetris effect are one of my favorite puzzle type games for that reason.  When you play for a bit, time melts away and in VR its a cute and immersive island.  I played for much longer than I expected till the sun went down in real life! \n\nPLUS, this is the type of game I would show to newcomers to VR. Its so super easy to pick up and go.  Its perfect if you have someone that does not like shooters or might even struggle with Beat Saber, but needs an easy intro to VR-  I would recommend Puzzle Bobble.  I can't want to have my nieces and nephews play this!",
+							"reviewTitle": "Puzzle Flow State & family friendly!",
+							"review_helpful_count": 9,
+							"review_rank_by_viewer": null,
+							"date": 1621559727,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Bursting with the same cheerful energy, adorable characters, and timeless gameplay as its predecessors, Puzzle Bobble VR: Vacation Odyssey is the next evolution of the classic Japanese action puzzle game franchise—with the immersive  fun  of virtual reality! ",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982635_365866427974556_593184586310583382_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oid6k5wtO-cAX-P96u0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=54966c4bda2c8ebeec9c78720f642636&oe=60ACDC5D",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/3202625546470498/",
+				"site_name": "Oculus",
+				"title": "Puzzle Bobble VR: Vacation Odyssey · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75593947_309357976871568_6317619465364719192_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vRu2KgievH8AX_HcmVx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a6db7e91e7117b7b505a110cc75f8f78&oe=60AB35FD"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75593947_309357976871568_6317619465364719192_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=o6QifvVWzagAX9tjpiR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0c7f05201a0467ebbb970de076e4885a&oe=60AD303D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031341_268290334596554_1061535743284667661_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cILTSwUPykoAX8XA_eX&_nc_ht=scontent.oculuscdn.com&oh=87f48add3031b987fe103acfce689045&oe=60ABE3BB"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031341_268290334596554_1061535743284667661_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=cILTSwUPykoAX9bj2Ta&_nc_ht=scontent.oculuscdn.com&oh=39ee597c96bcfc663b21b743de16bd21&oe=60ABE3BB"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -135,17 +135,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "775062389696605",
+				"id": "4640006609349707",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1399",
+					"formatted": "$13.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-30%",
+				"end_time": 1621666740,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -228,7 +233,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "775062389696605"
+				"id": "4640006609349707"
 			},
 			"externalReviews": {
 				"count": 0
@@ -252,8 +257,8 @@
 			"firstQualityRatings": {
 				"count": 112,
 				"page_info": {
-					"end_cursor": "AQHR5q_JpR7IbFwjXelIJwvswVy96r8KTwTt77D_tGlNWfjtKa43QioJuX820lDQzj_1q4ViZFvMOcftkYBAq9K_yw",
-					"start_cursor": "AQHR5q_JpR7IbFwjXelIJwvswVy96r8KTwTt77D_tGlNWfjtKa43QioJuX820lDQzj_1q4ViZFvMOcftkYBAq9K_yw"
+					"end_cursor": "AQHRDyLhhgygX3kOp7wT63aTxHq9fX22pWnDXKmUlR8IfZ8LP3lIXibZCJuzZfYYspZRkfhqm_jlfx7Xi3MYImRGyA",
+					"start_cursor": "AQHRDyLhhgygX3kOp7wT63aTxHq9fX22pWnDXKmUlR8IfZ8LP3lIXibZCJuzZfYYspZRkfhqm_jlfx7Xi3MYImRGyA"
 				},
 				"edges": [
 					{
@@ -267,7 +272,7 @@
 							"score": 4,
 							"reviewDescription": "It can feel slightly slow paced at first as this isn't the kinda game you have your friends try for a quick scare. It's very immersive with good jump scares but my biggest complaint is how outdated it felt. The few objects you can touch don't have any physics which kills immersion pretty hard. The graphics are decent and it runs great on the quest 2.",
 							"reviewTitle": "Scary but outdated",
-							"review_helpful_count": 75,
+							"review_helpful_count": 76,
 							"review_rank_by_viewer": null,
 							"date": 1613062458,
 							"developerResponse": null
@@ -282,7 +287,7 @@
 				"description": "《层层恐惧VR》带来的心理恐惧会让你质疑自己的双眼和心智。你有勇气帮助主人公画出充满恐惧的艺术巨作吗？快戴上Quest来试试胆量吧……",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974884_3063797673657812_1460053998709008108_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DDVupdTnwl0AX8mWXn8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9930efd7d9bab09712a490c3b07d6334&oe=60ABBA8B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974640_1570220176497204_4998533176757572135_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZJwiv5hAfkAAX_AxzfE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=184dd8a0e4d2342403f007397f71ad18&oe=60AC93CD",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
