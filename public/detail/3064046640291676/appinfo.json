@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_3889008311220742_8204493105093470472_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rKm7FKWaSosAX_a3pyt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b8c5fdc97b91875d723e107c494f07dd&oe=60B0E4E7"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_3889008311220742_8204493105093470472_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rKm7FKWaSosAX_6RHvR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1068dbc47c2f2947b24bb1cd24694981&oe=60B0E4E7"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_454889175755022_2856569253161280229_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=eyKJLS7KLaYAX_VghWC&_nc_ht=scontent.oculuscdn.com&oh=5cdf9725cef785493af7a50dec46f3d7&oe=60B138B8"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_454889175755022_2856569253161280229_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=lU9ZTlDDkZgAX97U8xd&_nc_ht=scontent.oculuscdn.com&oh=95eacf82f18f528f3aaee7a34019833c&oe=60B138B8"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 209,
+					"count": 210,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 600,
+					"count": 602,
 					"starRating": 5
 				}
 			],
@@ -115,16 +115,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "4509128709129262",
+				"id": "495300208553061",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1899",
+					"formatted": "$18.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-24%",
+				"end_time": 1622530740,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -166,7 +171,7 @@
 							"created_time": 1620795428,
 							"body_text": "Click on the Event button on the main menu and select \"[Join Fight] Grudges Withdraw\" to start the event. \nWhen your personal score reach one of the goals during the event period, you will obtain the \"Dark Sword\".\n\nメニュー内にあるイベントボタンをクリックし「【共闘】怨敵退散」を選択。\nイベントをプレイしたユーザー全員で獲得したポイントの合計が目標数に到達すると、イベント終了後に「ダークソード」を報酬として受け取ることができます。\n\n\n\nClick on the Event button on the main menu and select \"[Challenge] Rei Tsumugine Birthday Party!\" to start the event. \nWhen the total number of Small-One enemies defeated during the event period reaches the target goal, you will obtain the \"Rei Tsumugine Sword\".\n\nメニュー内にあるイベントボタンをクリックし「【挑戦】紡音れい誕生祭！」を選択。\nイベントをプレイしたユーザーがSmall-Oneを倒した数の合計が目標数に到達すると、「紡音れいソード」を報酬として受け取ることができます。\n\n\n\nRunning from Thursday, 13th of May (01:00PDT) to Wednesday, 26th of May (08:00PDT)\n\nDiscord\nTwitter US\nTwitter JP",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974781_124831092951971_3417307903115853252_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KOHbIMMfSPQAX8HanEP&_nc_ht=scontent.oculuscdn.com&oh=c61a8caa31a27ba73345e8728333a8c6&oe=60B0B173"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974781_124831092951971_3417307903115853252_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KOHbIMMfSPQAX_n04SO&_nc_ht=scontent.oculuscdn.com&oh=7c3a6817170c2aba2971fcbde58e98fb&oe=60B0B173"
 							}
 						},
 						{
@@ -175,7 +180,7 @@
 							"created_time": 1616572503,
 							"body_text": "Click on the Event button on the main menu and select \"[Challenge] Musubime Yui Enthusiastic Live Performance\" to start the event. \nWhen the total number of Small One enemies defeated during the event period reaches one of the target goals, you will obtain the \"Musubime Yui Shield\".\n\nClick on the Event button on the main menu and select \"[Challenge] Minase Shia Human Extinction Operation\" to start the event. \nWhen the total number of Tank-Veteran enemies defeated during the event period reaches one of the target goals, you will obtain the \"Minase Shia Sword\".\n\nClick on the Event button on the main menu and select \"[Challenge] Makino Monaka's Introduction to Astrophotography\" to start the event. \nWhen the total number of Swordsman-Veteran enemies defeated during the event period reaches one of the target goals, you will obtain the \"Makino Monaka Sword\".\n\nEvent Period\nFrom Thursday, 25th of March (03:00PST) to Thursday, 22th of April (08:00PST)\n\n\n\nメニュー内にあるイベントボタンをクリックし「【挑戦】結目ユイの熱狂ライブ」を選択。\nイベントをプレイしたユーザーがSmall-Oneを討伐した数の合計が目標数に到達すると、「結目ユイシールド」を報酬として受け取ることができます。\n\nメニュー内にあるイベントボタンをクリックし「【挑戦】水瀬しあの人類滅亡計画」を選択。\nイベントをプレイしたユーザーがTank-Veteranを討伐した数の合計が目標数に到達すると、「水瀬しあソード」を報酬として受け取ることができます。\n\nメニュー内にあるイベントボタンをクリックし「【挑戦】巻乃もなかの天体写真入門」を選択。\nイベントをプレイしたユーザーがSwordsman-Veteranを討伐した数の合計が目標数に到達すると、「巻乃もなかソード」を報酬として受け取ることができます。\n\nイベント期間\n2021年3月25日（木）19:00～2021年4月22日（木）24:00（2021年4月23日（金）0:00）\n\nDiscord\nTwitter US\nTwitter JP",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031340_2816081908634004_8097186071249915414_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=OnMT1BoWDuYAX8uz7Dh&_nc_ht=scontent.oculuscdn.com&oh=dac129cced857d765d19aff953c7206d&oe=60B07AD8"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031340_2816081908634004_8097186071249915414_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=m-QvORz0A2oAX80jwL6&_nc_ht=scontent.oculuscdn.com&oh=f95647504c42d83e8cc7e87f715fcb0e&oe=60B27518"
 							}
 						}
 					]
@@ -227,16 +232,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "4509128709129262"
+				"id": "495300208553061"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.1694094869313,
+			"quality_rating_aggregate": 4.1708494208494,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 430,
+				"count": 433,
 				"orderings": [
 					{
 						"key": "top",
@@ -249,10 +254,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 430,
+				"count": 433,
 				"page_info": {
-					"end_cursor": "AQHRNXzosza5sUduo34RVNeV2TERnlLq5zMTMyKQ3J7kUKtTp0nFB9icsOnyWgGrvuRCgUX9_hYxTMcfMIuRFDOZEg",
-					"start_cursor": "AQHRNXzosza5sUduo34RVNeV2TERnlLq5zMTMyKQ3J7kUKtTp0nFB9icsOnyWgGrvuRCgUX9_hYxTMcfMIuRFDOZEg"
+					"end_cursor": "AQHRo8CpDc4-BQ8Ha_qeQHW6L1KJqH3Zn_FBIAnuWrPI0NGovqefVw5oTSjsUF0iTKe3-UfS6tdp59cI4B2I-lGJbw",
+					"start_cursor": "AQHRo8CpDc4-BQ8Ha_qeQHW6L1KJqH3Zn_FBIAnuWrPI0NGovqefVw5oTSjsUF0iTKe3-UfS6tdp59cI4B2I-lGJbw"
 				},
 				"edges": [
 					{
@@ -262,13 +267,13 @@
 								"id": "107885500723657",
 								"display_name": "PhantomThieves",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c111.0.497.497a/s160x160/39031585_285732519605620_5811121792118777169_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PCJ34LEmWpAAX-7otp3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e6c2321b4ee84b3b6946cd4d41ae711c&oe=60B04DC6"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c111.0.497.497a/s160x160/39031585_285732519605620_5811121792118777169_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PCJ34LEmWpAAX_srQuu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=22a28bfb232b41f199e5eb323eea1def&oe=60B24806"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I bought this game a couple of weeks ago and have to say this is one of my favorite sword fighting games. Not only do they update this game quite often but they always bring new stuff to the game and that is much appreciated. However the comments I do have for this is more of one being a suggestion and the second being a problem that has some minor fixes that just need to be applied. The one thing I suggest is trading. I keep hearing people getting items that others need and they each wish they could trade with each other, this isn't a major problem but I would love to see it. Also one more thing is that in single player mode I see the same amount of enemies as multiplayer, if you could get it to where less spawn in the single adventure that would be fantastic as well. Now time for the bug. I believe it only occurs on Oculus Quest but I'm not for sure but there is a bug from time to time where you can't pick up a weapon or do anything, this I believe is a serious issue that needs to be fixed. While it isn't that bad in multiplayer, since it resets itself when you go to the next level, but when you do it in single player you can see why it can be a issue. However seeing past all of that, it is a really fun game and I do love it a lot, KEEP UP THE GOOD WORK!\n\nI am willing to give more details or suggestions if need be because this is an amazing game indeed. A must have.",
 							"reviewTitle": "Amazing with some minor problems",
-							"review_helpful_count": 20,
+							"review_helpful_count": 24,
 							"review_rank_by_viewer": null,
 							"date": 1619822644,
 							"developerResponse": {
@@ -287,7 +292,7 @@
 				"description": "Swords of Gargantua is a VR sword-action game you can experience in single-player mode or online co-op with up to 3 other players.\n\nAdventure through the Tesseract Abyss floors to beat the giant Gargantua lying in its deepest layer, Floor 101. ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_4406063159422163_6098070024904548559_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rSJBke72MP4AX-cZhCK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d9f1f98f53b3143ceb9b220405973f43&oe=60B0CA7B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569425_4406063159422163_6098070024904548559_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rSJBke72MP4AX-nLWnu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a2b79b34d89516002354900e1a65c0ae&oe=60B0CA7B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

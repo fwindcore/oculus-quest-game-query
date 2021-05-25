@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035369_799763904183022_5099026291675893489_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=E4UzpOVHXnsAX8Ey35F&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e51e365ef4af6be7a0b179769902a6eb&oe=60B076F0"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035369_799763904183022_5099026291675893489_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=E4UzpOVHXnsAX-VqqMl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dec37655f06545b9188f20acff561290&oe=60B27130"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1335905463407138_5048649205770099637_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=kQOMUMyvjVUAX95qgS8&_nc_ht=scontent.oculuscdn.com&oh=d8378602279b130fc77a450b75419275&oe=60B0F9D4"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1335905463407138_5048649205770099637_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=IaNJ4pOxCAUAX9AlURh&_nc_ht=scontent.oculuscdn.com&oh=dc056ae1ed2a58b0dc3d3a94b340bac2&oe=60B0F9D4"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,12 +31,12 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 131,
+					"count": 132,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 165,
+					"count": 164,
 					"starRating": 4
 				},
 				{
@@ -120,16 +120,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "791123715058444",
+				"id": "792660164977746",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1599",
+					"formatted": "$15.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-36%",
+				"end_time": 1622530740,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -171,7 +176,7 @@
 							"created_time": 1614112464,
 							"body_text": "Hello Athlons!\n\nShabs here, hope everyone is doing well and staying safe. I’m happy to announce that our latest update is now live.\n\nSquad up and hop in the all new Pre-Match Warm Up Lobby, where you can explore the map, chat with your teammates, pick up weapons, and practice ejecting your opponents. In addition to that, we’ve also implemented a system underneath that will start matches a few minutes after 4 players join. This means you won't be waiting too long to start a match, even if the player count happens to be less than 8. Now don’t forget, this is just the first iteration and you will continue to see updates and improvements as we evolve with your feedback.\n\nOn top of that, you will also be able to communicate with your squadmates while in the squad menu thanks to the addition of Vivox communications (another area where you will see more improvements over time). We’ve also removed Vortex Prime from map rotation and we tuned the Shotgun so it still packs quite the punch at close to medium range, but is no longer as effective at long range encounters. We believe it feels a lot better as a CQB weapon now, but as always, we’ll be listening and watching for your feedback.\n\n1.06 Update:\n￭ Pre-Match Social Lobby\n￭ Minimum player requirement for starting matches reduced to 4\n￭ Shotgun balance adjustments\n￭ Vortex Prime removed from map rotation\n￭ Improved VOIP System\n￭ Bug Fixes & General Improvements\n\nThanks for playing, and if you run into any issues please send us a support Ticket. If you want to stay in the know on everything Solaris, make sure to subscribe to our YouTube. If you really wanna get involved, feel free to join our Discord or Facebook group. Lastly, if you just want live updates, follow us on Twitter!\n\nSee you all online!\nShabs\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38984462_149056047127573_2728250870643060941_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s0JeCSA92csAX9hiPiF&_nc_ht=scontent.oculuscdn.com&oh=08af42b70c6d850e619bc40c8fdb9cbb&oe=60B01DCD"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38984462_149056047127573_2728250870643060941_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s0JeCSA92csAX9FcwPP&_nc_ht=scontent.oculuscdn.com&oh=c55408baf76e4282a840fb76de179472&oe=60B2180D"
 							}
 						}
 					]
@@ -179,7 +184,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHROHYTorHqkA5ERQnJWHrf6SaeXgSScSTxKL8035Y3RahrArEizk6ZJsyIORMWrKuEUOyiSP7RXg875knubDuTKQ"
+							"cursor": "AQHR_1nUyL1ItRfDc-HDZZGzTC4eN_etNMAYBb5EZ__I7GM9uoPVYJWCnQLsiQEybIv8w7FhTHaqRMzK-wtLta5CTQ"
 						}
 					]
 				}
@@ -227,12 +232,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "791123715058444"
+				"id": "792660164977746"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6922126081582,
+			"quality_rating_aggregate": 3.6909765142151,
 			"support_website_url": "https://www.firstcontactent.com/soc",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -251,31 +256,27 @@
 			"firstQualityRatings": {
 				"count": 544,
 				"page_info": {
-					"end_cursor": "AQHRuCXZaH0c3-NhniH3kruDc81YIt2DKYT7MKz5vxpV1gyGK1Uw3DneME4Oql8tS1-TaIOwvi5ZMJwBZ_Hc2ck1IQ",
-					"start_cursor": "AQHRuCXZaH0c3-NhniH3kruDc81YIt2DKYT7MKz5vxpV1gyGK1Uw3DneME4Oql8tS1-TaIOwvi5ZMJwBZ_Hc2ck1IQ"
+					"end_cursor": "AQHRkyjnT7pSZefQ8Ni37u2Y9d6vKdpTzawe-Ef3rahDVJu15giBHy_dTh9cTKYDCkO38SoPLnaUolSBgdnu29JHtA",
+					"start_cursor": "AQHRkyjnT7pSZefQ8Ni37u2Y9d6vKdpTzawe-Ef3rahDVJu15giBHy_dTh9cTKYDCkO38SoPLnaUolSBgdnu29JHtA"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "484135159440173",
+							"id": "296216552089048",
 							"author": {
-								"id": "100646551122371",
-								"display_name": "SlipSlot",
+								"id": "113054950405210",
+								"display_name": "Slayer_Shifys",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c28.0.403.403a/s160x160/38982522_163286004858425_958314126948433920_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YzglStsHAV8AX98mlWu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=928e743b03a448b636f3da63c2296e87&oe=60B13EA4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/75223472_127139348996770_192079374529482136_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bjYsvgt7e9kAX9xVKfS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=76573b3978970ae5d7604bb6ad5db796&oe=60B12CD6"
 								}
 							},
-							"score": 4,
-							"reviewDescription": "Solaris: Offworld Combat is a 4v4 futuristic FPS that aims to deliver fast-paced, adrenaline-fueled action between two teams of Athlons, with an assortment of weapon and power-ups to collect across each of six available maps. The gameplay is tight and well-polished and the graphics are sharp and high-resolution. Having communication with your teammates, knowing the advantages of each gun, having map awareness and good placement of power-ups will help give you the advantage over your competition as blind running and gunning will only get you so far.\n\nSolaris seems to be trying to bring more fluid locomotion to the genre, by allowing sliding into a crouch mid-sprint but this could do with some improvements, such as keeping sprint active even when you snap turn. We also think jumping and wall running would give this game some unique movement to separate it from the competition and make the firefights more intense and exciting. While there is room for improvement, the base gameplay included so far is solid and makes for an exciting shooter, especially when the lobbies are full and everyone is engaging and communicating with each other.\n\nThis brings us to an unfortunate note about Solaris, the population at the time of this review is still disappointingly low and not what we expected when competition in the genre is still relatively slim (unless you prefer military-themed shooters). While this isn’t the fault of the developer, we think it is much more obviously a problem due to the fact the game does not yet support bots, this is so painfully needed to bridge the gap while the community grows that we’re surprised it isn’t the number one priority for future updates. For that it, unfortunately, losses some points. We also think the more premium price and lack of Steam release isn’t doing the active player-base any favours either. Outside of this, Solaris is on its way to becoming a killer app for VR shooters.\n\nRead the full review: https://www.opiumpulses.com/article/425/",
-							"reviewTitle": "Opium Pulses Review",
-							"review_helpful_count": 12,
+							"score": 3,
+							"reviewDescription": "Don’t get me wrong, this game’s mechanics and gameplay are really great overall. The only thing that troubles me in the game is the amount of players in the game. The game takes so long to actually find a game. When it actually finds one, the lobby is so empty. Once more people play, I’m pretty sure it’ll make the game more fun. One thing to fix this for now is for the game developers to add game AIs. This would make the load times slower and instead play against bots instead of waiting 5 years. Also if you guys do decide to make Ais, make a singleplayer/co-op mode vs AI. Would be super helpful if you guys added this.",
+							"reviewTitle": "Pretty good game,   but.....",
+							"review_helpful_count": 11,
 							"review_rank_by_viewer": null,
-							"date": 1618160010,
-							"developerResponse": {
-								"date": 1618339555,
-								"body": "Thanks for the awesome review! I shared it with our time! We have a lot more to come so stay tuned!",
-								"id": "485420392644983"
-							}
+							"date": 1621641458,
+							"developerResponse": null
 						}
 					}
 				]
@@ -287,7 +288,7 @@
 				"description": "Welcome to Solaris Offworld Combat--a fast-paced, multiplayer shooter that drops you straight into intense action. Suit up, log in & game on--you’re about to jump into 4v4 match-ups, where you’ll run, sprint & slide your way across arenas, picking up weapons & items to eliminate your opponents. Coordinate with your team to defeat your rivals & take over the Control Point to win the match! ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974493_961291021344603_4028427496822005678_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dGd7RKw6uCQAX-4eROX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f766697b6da255feb5edd8b9a1c5e674&oe=60AFFD18",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974493_961291021344603_4028427496822005678_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dGd7RKw6uCQAX9zx1_E&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0416ce62bbcce84b7543ab3ceae13455&oe=60B1F758",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
