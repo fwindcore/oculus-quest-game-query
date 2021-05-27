@@ -14,24 +14,24 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974601_600611087744978_4702385448969670306_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SF_fTvMU5NQAX_kjWx5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b05a06d39e96f33e45de7ae9ffac531&oe=60B35530"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974601_600611087744978_4702385448969670306_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SF_fTvMU5NQAX8g2Xh-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=40c8fd8e4738833437c2590501d3116b&oe=60B35530"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1309034749493137_3046799162229166282_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=bnUb8agNaX0AX-gvr26&_nc_ht=scontent.oculuscdn.com&oh=fa03d44d21ded726c258eae45a6d6154&oe=60B2A157"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1309034749493137_3046799162229166282_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=bnUb8agNaX0AX_DXiGq&_nc_ht=scontent.oculuscdn.com&oh=ce8c5df44180e1bd65e1bc695bce63fa&oe=60B49B97"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 1928,
+					"count": 1937,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 347,
+					"count": 351,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 460,
+					"count": 459,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2119,
+					"count": 2138,
 					"starRating": 5
 				}
 			],
@@ -94,15 +94,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.0",
+				"version": "2.1",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2320836246",
-				"id": "4313592528673524",
-				"required_space_adjusted": "4372183723",
+				"total_installed_space": "2320900645",
+				"id": "4316284988404278",
+				"required_space_adjusted": "4372189416",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -151,19 +151,28 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4313592528673524"
+					"id": "4316284988404278"
 				}
 			},
 			"release_channels": {
-				"count": 1,
+				"count": 2,
 				"nodes": [
 					{
 						"channel_name": "LIVE",
 						"id": "362886484299969",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.0",
-							"id": "4313592528673524"
+							"version": "2.1",
+							"id": "4316284988404278"
+						}
+					},
+					{
+						"channel_name": "Internal QA test",
+						"id": "4249596021799947",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "2.1",
+							"id": "4316284988404278"
 						}
 					}
 				]
@@ -181,7 +190,7 @@
 							"created_time": 1621867122,
 							"body_text": "Our new HIIT studio is here! Jump into a HIIT class and test your agility, endurance and reaction speed through guided workouts that will challenge you like no other home workout!\n\nBuilt from the ground up based on sports science, it takes inspiration from a fitness device used to help train F1 drivers, yet caters to all abilities and fitness levels.\n\nIn the same way that a HIIT class involves short bursts of intense activity to get your heart rate pumping, the HIIT studio will push you to your limit through a series of fast-paced cues that you smash as they light up around you.\n\nThink whack-a-mole, but on a totally different level: way more engaging, challenging and fun!\n\nBENEFITS\nApart from feeling amazing from the rush of endorphins that you’ll get post-workout, a HIIT class will help achieve a higher calorie burn, increased metabolic rate and improved oxygen consumption.\n\nOvertime, the health benefits include greater strength, speed and reaction times leading to an overall improved athletic performance.\n\nAVAILABLE AT LAUNCH\nHIIT is launching with 3 intro classes available to all regardless of whether or not you're a member.\n\nWe will then release new HIIT classes every week as part of our weekly schedule for those who have signed up for membership.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974538_1419018785142359_5224867010905544406_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bAyp5UVnmh8AX-4-7-I&_nc_ht=scontent.oculuscdn.com&oh=b570bd960f706e48035bc628afe80002&oe=60B29736"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974538_1419018785142359_5224867010905544406_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bAyp5UVnmh8AX_HxDcU&_nc_ht=scontent.oculuscdn.com&oh=1ab9f956b2371021c7a2310da7633ff9&oe=60B49176"
 							}
 						},
 						{
@@ -190,7 +199,7 @@
 							"created_time": 1618657871,
 							"body_text": "PREVIOUS FITXR OWNERS\nTry membership for free for 90-days. Following your trial, you'll receive a prompt asking if you'd like to renew for $9.99/month.\n\nYou won't pay for membership unless you choose to.\n\nIf you decide membership isn't for you, you'll keep all the workouts you had before membership, including any DLC packs bought, forever.\n\nAnd you'll continue to have the new multiplayer feature and environments — plus, you'll still receive future updates, including access to the intro classes of our new HIIT studio.\n\nNEW TO FITXR\nYour trial will be for 7 days. If you choose to cancel your membership, you'll keep access to three short intro classes for each studio.\n\nPlease contact us at support@fitxr.com if you experience any issues.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974899_1464810890528960_7206704739941707447_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=V9p6W48j6nYAX8FsRCc&_nc_ht=scontent.oculuscdn.com&oh=ee0e8c08bd7062ab8ca4f65b320971ce&oe=60B38930"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974899_1464810890528960_7206704739941707447_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=V9p6W48j6nYAX_KmOA2&_nc_ht=scontent.oculuscdn.com&oh=865bf0f888cf87813c8f514783b4d50b&oe=60B38930"
 							}
 						}
 					]
@@ -198,7 +207,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRKLEsWWG4MzjX6gAJTQgWGroqbv03v2VPFnLCi7-HuT6siwr6CJf4X5yt9u7Yo9LnlX_m1r2X0v3fDD_ke4kU2A"
+							"cursor": "AQHRl7KxoSVtt1OXb_qTsK-wf8UzBU9IRZRwtCjVG7lSNkQQHxDXTAca7vr56fKSKWqYOos3ipgKwdYYSaATNKNJ7A"
 						}
 					]
 				}
@@ -245,11 +254,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.14783377542,
+			"quality_rating_aggregate": 3.1498417164967,
 			"support_website_url": "https://fitxr.zendesk.com/hc/en-gb",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 3625,
+				"count": 3644,
 				"orderings": [
 					{
 						"key": "top",
@@ -262,10 +271,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 3625,
+				"count": 3644,
 				"page_info": {
-					"end_cursor": "AQHRQjUI7iIDNR13urQOqW82Ol1YSZGjbavNS9xpn-XpQAaR2ep9huCPRkeNbxRyolTaA4zYJRz3C1G7wVJOPPgpmA",
-					"start_cursor": "AQHRQjUI7iIDNR13urQOqW82Ol1YSZGjbavNS9xpn-XpQAaR2ep9huCPRkeNbxRyolTaA4zYJRz3C1G7wVJOPPgpmA"
+					"end_cursor": "AQHR4htMvjVVn1QVBUqZPyJ13lJdx23h1Geu0dO1CwLF3CXlqe4BpBoGHsUXOAi7ZA51i9CAy2nblpWuCvKKWnI8Dg",
+					"start_cursor": "AQHR4htMvjVVn1QVBUqZPyJ13lJdx23h1Geu0dO1CwLF3CXlqe4BpBoGHsUXOAi7ZA51i9CAy2nblpWuCvKKWnI8Dg"
 				},
 				"edges": [
 					{
@@ -275,13 +284,13 @@
 								"id": "105685520808910",
 								"display_name": "GleebToo",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/38984458_105686167475512_7384983866454310912_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=74MfD1z7W94AX98qQLt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46de7034c08bccdea28cd05b79f60265&oe=60B36D4D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.200.200a/s160x160/38984458_105686167475512_7384983866454310912_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=74MfD1z7W94AX9k_wYu&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a2667de5d29e8462ea8c9c9998d2d378&oe=60B36D4D"
 								}
 							},
 							"score": 3,
 							"reviewDescription": "Ok, before the update it was kinda nice  .... some features missing (like any interaction with other players or playing with friends) buyt overall pretty nice app. I even bought one of the packs and enjoyed it during covid lockdown to keep some basic exercise. After new update they changed to monthly subscription, my PAID app have only a few 3min workouts available for free and the songs I bought via pack are not available to me anymore. HUGE LET DOWN and basically a SCAM.\n\nEDIT OK Support helped me with the issue. I would give 4 stars before the update. Now I give 3 stars at most (and I actually feel generous by giving you 3 stars, should be 2,5). \nNew UI has better visuals but it is really REALLY pain to use. There is no sorting or filtering of classes (you could filter by intensity, music genre, and other options easily before the update and classes were sorted according to their length so it was easy to find the class you wanted to try). Now you have to go through the list of classes 1 by 1 ... means you have to click 26 times to get to class number 25, classes are sorted by some weird random (?) order, not by name, not by instructor, intensity or length, so it is really pain to find the one you remember from before ... or when you want to try some other boxing class of intermediate difficulty and length about 15 minutes, you have to scroll through all 46 classes to see them all and ofc you forget the ones you noticed in the beginning. On the plus side new night class environment is nice. I wish you would work on this update more before you roll it out. \nFunny thing is that there are new classes with the update I think. And that is very nice in theory ... but it makes it even more difficult to find the right one.\n\nThe game itself remains good. If you think about buying the game and read this some time after this review you can add 1 star (assuming the devs improve UI).",
 							"reviewTitle": "New Massive Update just sucks",
-							"review_helpful_count": 480,
+							"review_helpful_count": 485,
 							"review_rank_by_viewer": null,
 							"date": 1618517131,
 							"developerResponse": {
@@ -300,7 +309,7 @@
 				"description": "FitXR brings fitness club vibes to your home. \n\nFun workouts designed to burn calories, improve strength and get you high on endorphins.\n\nWorkout with friends in real-time multiplayer.\n\nWith a new workout released every day, we’ve got a class for every goal and fitness level. \n\nDownload now for your 7-day free trial. $9.99/month. Cancel at any time. Terms apply.\n\nVoted Oculus’s best fitness VR game of 2020!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974573_2098183490322939_3103366789284388405_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4PyPGseuxvMAX_z4H96&_nc_ht=scontent.oculuscdn.com&tp=28&oh=76b49e3bd405716aa495c969ffe10e10&oe=60B206F7",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974573_2098183490322939_3103366789284388405_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4PyPGseuxvMAX-rad0C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5d188976df7c204e9437e7a3329fb241&oe=60B40137",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982471_212685886990189_6400560352930122199_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nkGZjupSF9wAX_eLTZM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0a46d84d03a725b665013317bf04f40d&oe=60B21DEB"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982471_212685886990189_6400560352930122199_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nkGZjupSF9wAX9GgV8e&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5f241d01638265236175dc52d84d3cd0&oe=60B4182B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_429389331536757_2375521184608831942_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vUTuARHekAcAX_MNkIQ&_nc_ht=scontent.oculuscdn.com&oh=608c92a8ae40e67e2ff8e5fca77d6e4b&oe=60B28D4C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_429389331536757_2375521184608831942_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=msioHBRZNqsAX9Fq-Ye&_nc_ht=scontent.oculuscdn.com&oh=1455e00fb66fdb86d27fb0d4c1a07df4&oe=60B4878C"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 42,
+					"count": 43,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 163,
+					"count": 167,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 310,
+					"count": 314,
 					"starRating": 5
 				}
 			],
@@ -158,22 +158,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "789003461802469",
+				"id": "251571362850123",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1622098740,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -256,16 +251,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "789003461802469"
+				"id": "251571362850123"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0878048780488,
+			"quality_rating_aggregate": 4.088141025641,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 402,
+				"count": 406,
 				"orderings": [
 					{
 						"key": "top",
@@ -278,33 +273,27 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 402,
+				"count": 406,
 				"page_info": {
-					"end_cursor": "AQHRlmu1crqm1A0n1uYrmh4mo-VAbyPG8GMlFJpBCOZfcUhAwnHVrdmTM38sf-Oy2hNI4-es4brqoNGtirCEIbTV9g",
-					"start_cursor": "AQHRlmu1crqm1A0n1uYrmh4mo-VAbyPG8GMlFJpBCOZfcUhAwnHVrdmTM38sf-Oy2hNI4-es4brqoNGtirCEIbTV9g"
+					"end_cursor": "AQHR_SnBeD8P3Im7zafRL6vaBwNAx13wDew5TLQMjhby29ZFMaX2mDDwFsRNARxDQJonDClqtfDoEOZ4h9g-uZ5oVQ",
+					"start_cursor": "AQHR_SnBeD8P3Im7zafRL6vaBwNAx13wDew5TLQMjhby29ZFMaX2mDDwFsRNARxDQJonDClqtfDoEOZ4h9g-uZ5oVQ"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "141389164584522",
+							"id": "323569479165901",
 							"author": {
-								"id": "101304935259612",
-								"display_name": "Memagonewild",
-								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.5.950.950a/s160x160/39035340_101311708592268_156927283125077202_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MJ3pFOUFqnwAX9LyF9R&_nc_ht=scontent.oculuscdn.com&tp=28&oh=51e6e5beddc15b7b778f2652bdbb8195&oe=60B3A695"
-								}
+								"id": "111445080378343",
+								"display_name": "DMFine",
+								"profile_photo": null
 							},
 							"score": 4,
-							"reviewDescription": "This is fun.  I play almost every day.  I wish there weren't any characters in the alley when I'm playing though.  They are creepy looking.  I find myself looking at them, wondering \"why they would wear that to a bowling alley?\"   I think of hookers or homeless people who came inside because there's nowhere for them to go out there.  But my friends say that's what I look like, too.  So hopefully the developers will work on the characters, but other than that, I really like this game!",
-							"reviewTitle": "I really like this Game!",
-							"review_helpful_count": 142,
+							"reviewDescription": "I use to Bowl a lot when I was younger.  I actually won a tournament.  I had a major injury and hurt my back fourteen years ago. That was my end to bowling weekly league. I bought the quest specifically in hopes on getting some exercise without hurting my back. I have missed bowling very much\n\nThanks to the developers the game has gotten better.   It’s getting close to what I remember  playing bowling. I still remember having fun doing midnight bowling at parties where the lights were dim and the lanes had the cool lights on the gutters. It was so much fun. Maybe the developers can add this to their game.",
+							"reviewTitle": "It’s getting better!",
+							"review_helpful_count": 31,
 							"review_rank_by_viewer": null,
-							"date": 1617538869,
-							"developerResponse": {
-								"date": 1621494562,
-								"body": "Thanks for the feedback! We are working on new avatars. In the current version you can disable avatars from settings.",
-								"id": "168932801830158"
-							}
+							"date": 1621545475,
+							"developerResponse": null
 						}
 					}
 				]
@@ -316,7 +305,7 @@
 				"description": "Premium Bowling是一款真實的而又易於上手的保齡球遊戲，支援線上和線下諸多好玩的模式。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/43997710_502063704580512_1204059604209864720_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Vuw3Hi43klcAX_RRgkb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b110195e394db2a716c665462f6950f5&oe=60B37710",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974480_248406549483372_8756371377948196864_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=A82znJFKikkAX8gg7DR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bd4be3eb60e6ebc44dfaa1611e02f0fc&oe=60B3BEF8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
