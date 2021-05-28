@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035470_399949987970247_1201746845219325831_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=b6c_KuZyq38AX9B-IOt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ebda3b783b7887f490c75d2e889c486a&oe=60B3FAAE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035470_399949987970247_1201746845219325831_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SNsB_M_mslIAX99t2ZY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d6a0dcaa498ea56e6ac3050386a685a3&oe=60B5F4EE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_252829219592293_8506458637280909043_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=SOGkvHnDTiwAX9JeSPt&_nc_ht=scontent.oculuscdn.com&oh=f842494fe1f7039f2046489a474c51cc&oe=60B4BAC8"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_252829219592293_8506458637280909043_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=SOGkvHnDTiwAX9yw2Mw&_nc_ht=scontent.oculuscdn.com&oh=d0c51f0102b3bdd5dc56ef6cc6cb6cf3&oe=60B4BAC8"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "3.0.1",
-				"change_log": "Patch version 3.0.1 release notes\n[Features]\nNew virtual steering preset 3.0.1 (this becomes the new default settings).\nNew virtual steering enabled in License tutorial.\nUX/UI\n- Exit confirmation dialog for shortcut in the garage.\n- Immersive mode : Indicator for telling player when steering wheel angle is exceeded.\n\n[Bug Fixes]\n[Crashes and serious issues]\nCrash - when checking out items in the customization menu.\nCrash - when using Rich Man's Toy.\nCrash - when switching between offline and online mode.\nPop-up Notification Friends name is appearing as none after getting kicked or leaving party.\nPop-up Notification Friends name is appearing as none when getting invite from other players.\n\n[Gameplay]\nAI's animation had been missing.\nParty Play - Reward room when racing again, the find matchmaking icon disappears when a party member exits the room.\n\n[Graphics & VFX]\nWhen changing an Appeal, the sample will overlap with other menus.\n\n[UX/UI]\nWhen pressing claim and delete buttons quickly, it will delete mail that has not been claimed yet.\nKart console selection gets stuck when selecting customize 3D shortcut.\n(Quest)Meta scene has Oculus Touch controllers below the player.\n\n[Known Issues]\nImmersive controls Preset 5 \"Full Grip Legacy\" auto-turns when pressing the Look back button.\n(Quest)Textures for some buildings in License track is missing.",
+				"version": "3.0.2",
+				"change_log": "- Fix crash when checking out items in the customization menu.\n- Fix random crash when searching friends in the friends menu.\n- Mail - when pressing the claim button quickly, it will delete mail that has not been claimed yet.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "4551968656",
-				"id": "3846225088815819",
-				"required_space_adjusted": "6764386802",
+				"total_installed_space": "4551988611",
+				"id": "3890066204431707",
+				"required_space_adjusted": "6764416372",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3846225088815819"
+					"id": "3890066204431707"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "316503405917151",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "3.0.1",
-							"id": "3846225088815819"
+							"version": "3.0.2",
+							"id": "3890066204431707"
 						}
 					}
 				]
@@ -154,7 +154,7 @@
 							"created_time": 1620840139,
 							"body_text": "We just revamped the Virtual Steering and it is better than ever.\n\nYou can now freely steer, grab items, accelerate, brake, or boost virtually and separately!\n\nVirtual steering is also improved become much easier to control and less prone to fast movement.\n\n\n\nView Update trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=L-sflzgA2BQ\n\nDownload the free update today to enjoy an all-new experience along with the big 3.0 UPDATE last week including:\n\n\n\n🗺 2 New tracks\n👪 8 Player Matchmaking\n🔫 New weapon\n🏆 New singleplayer campaigns\n🚘 New Virtual Steering\n\n\n\nComing soon features\n\n🔗 Full offline mode\n🎮 More game mode difficulty\n\n\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57575369_300608871711056_6521935243480838579_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VHTWbdOHNC0AX_BiFOI&_nc_oc=AQnqo4p0kEyNKydvGWpTzS-Lk8WqlFnmksAGxhjBq6J-3oU39xeHsvqb6lRa65rOOBQ&_nc_ht=scontent.oculuscdn.com&oh=79d6049189cad6f53e4f4432314147b0&oe=60B38A73"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57575369_300608871711056_6521935243480838579_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CsvjpZeZTlIAX9xVT2b&_nc_oc=AQkxBCSwTLL3at2f5WfxW4mij4n9-rqhk4-LTkrUHihIM8ehUEFOVtHZiV8EpSS7o2Y&_nc_ht=scontent.oculuscdn.com&oh=9426bfb0b624e6e49e60f80cd4ac0b16&oe=60B584B3"
 							}
 						},
 						{
@@ -163,7 +163,7 @@
 							"created_time": 1620296324,
 							"body_text": "\n\nOur team have been working hard to bring you the biggest update yet!\n\nDash Dash World 3.0 features include:\n \n🗺 2 New tracks\n👪 8 Player Matchmaking\n🔫 New weapon\n🏆 New singleplayer campaigns\n\nComing soon features\n\n🚘 New Virtual Steering\n🔗 Full offline mode\n🎮 More game mode difficulty\n\n\n\nView Update trailer on Youtube here. And as always, there is a Redeem code hidden in our video ;)\nhttps://www.youtube.com/watch?v=_6AN-iRkUaQ\n\nLet's connect👇\n🙌 Discord \n💁🏻‍♀️ FB Group\n🤖 Reddit\n\n💁🏻‍♂️ Facebook\n🐦 Twitter\n📸 Instagram\n📽️ Youtube\n\nSee you on the race track 🚗 DashDashRacing.com\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974446_2562833794023222_3723477334098197810_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DTRIly7AYi0AX99IWPn&_nc_ht=scontent.oculuscdn.com&oh=8e48c672589ba5fe486f506c58ab7f13&oe=60B43304"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974446_2562833794023222_3723477334098197810_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DTRIly7AYi0AX_fMt7v&_nc_ht=scontent.oculuscdn.com&oh=3c38ab711e681bb64f27acab493f9440&oe=60B62D44"
 							}
 						}
 					]
@@ -239,8 +239,8 @@
 			"firstQualityRatings": {
 				"count": 279,
 				"page_info": {
-					"end_cursor": "AQHRyF9sZEEJCPhJTZC0C8M0EBOmqjh1tpGlbeNlrChmf4Z140AETnAsdf4Sf1P7AglTlW1-OVfisTOd-LP0pRDipA",
-					"start_cursor": "AQHRyF9sZEEJCPhJTZC0C8M0EBOmqjh1tpGlbeNlrChmf4Z140AETnAsdf4Sf1P7AglTlW1-OVfisTOd-LP0pRDipA"
+					"end_cursor": "AQHRPai8wqxeD8-6unwyNYxFPaeifmwLgQYHF5G_UVbjZJMGH5xPrqweClDtZAE26Ag-lzriEhaZ3l-iI3kR-rQEXg",
+					"start_cursor": "AQHRPai8wqxeD8-6unwyNYxFPaeifmwLgQYHF5G_UVbjZJMGH5xPrqweClDtZAE26Ag-lzriEhaZ3l-iI3kR-rQEXg"
 				},
 				"edges": [
 					{
@@ -250,13 +250,13 @@
 								"id": "102577285011914",
 								"display_name": "Godreilm",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_118137626789213_4320816946605434883_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FwxUHf28oUIAX-_cqRR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=37327342ddabea0674fe5fa6ead521b5&oe=60B4A413"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c180.0.1080.1080a/s160x160/38974864_118137626789213_4320816946605434883_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=FwxUHf28oUIAX_4ZmMI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=31e688e6695a7a7ebfbf7c3c9888a64f&oe=60B69E53"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I dropped a good 10 hours into this game and wanted to play it with my children.  We get them a quest and link the account to mine since I don’t allow them to have Facebook.  We go to play together and the game kicks off the first user.  I’m not going to go into a long sob story on this, but I will try and frame it for the developer.  When we have guests over and their kids want to play games with mine they turn on Mario kart and you know what happens we get a call from them sometimes asking for Nintendo user name so they can play online with my boys.  Imagine all the other people this happens too.  Too often VR is seen as puzzles or shooting games or gory games.  Games like this are easily overlooked when honestly after playing this Mario cart can’t compare.  I hope you guys fix this really soon.  I understand the appeal of one user one headset only, but when a game like this blocks themselves from being easily accessible to groups it’s really sad.  It doesn’t even have to be online gameplay just local multiple headsets.  This game is better than Mario cart, but with a limiting set up like this it may never take off.  The four star is proof that I truly believe this game is good, but until you allow for multiple headsets per account I cannot go higher.  If you want a great racing game that is not bad on motion sickness this is it.  The game is solid minus that one gripe about local multiple headsets.",
 							"reviewTitle": "Closest thing to Mario cart",
-							"review_helpful_count": 82,
+							"review_helpful_count": 83,
 							"review_rank_by_viewer": null,
 							"date": 1616289514,
 							"developerResponse": {
@@ -275,7 +275,7 @@
 				"description": "Dash Dash is a cross-platform VR racing game with full hand driving and weapons controls.\n\nOver 100 hours of gameplay contents including story mode, regular online tournaments, 100s of achievements and over 1,000,000,000,000 customizable parts.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974454_1206977136404633_4853448756525586600_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BsbsQrRvgMYAX88m2dn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d0eb22001b06e89eb1834ed6787e6f23&oe=60B409E2",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974454_1206977136404633_4853448756525586600_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6eNQxNwsvcUAX-0_zuz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5b7b90dc51ac0549d4c69a083ee415d7&oe=60B60422",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
