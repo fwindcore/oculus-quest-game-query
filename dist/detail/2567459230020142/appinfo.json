@@ -10,13 +10,38 @@
 			"display_name": "Until You Fall",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "500828051262531",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "发现 Roguelike 游戏",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "US$ 40.99"
+						},
+						"strikethrough_price": {
+							"formatted": "US$ 54.98"
+						},
+						"id": "226889772222983"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/75289917_543089860027696_5267037380133606262_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=w1-TdQRHgG0AX_NAnqk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5345e122070074b9d8bb6b1041189712&oe=60B79601"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031376_1410560309140416_1131387466216546176_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RObxKjD6Lb0AX9lA_do&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ddc12e814aab62db39f3fced4a659caf&oe=60B53448"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031376_1410560309140416_1131387466216546176_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RObxKjD6Lb0AX_Rmmz_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b47a642a0f00940abf205a571ebf3f10&oe=60B72E88"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_324819305392302_4484775244299607313_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=24hkVY4htvIAX_aOaWg&_nc_ht=scontent.oculuscdn.com&oh=673c5c1eaef0b41adb6cb776bf130f58&oe=60B678FE"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_324819305392302_4484775244299607313_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=AvbIuf-nxZUAX_PVm53&_nc_ht=scontent.oculuscdn.com&oh=81fca179b7c37cee64fd79561fe3c07f&oe=60B678FE"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +66,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 958,
+					"count": 960,
 					"starRating": 5
 				}
 			],
@@ -106,7 +131,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -199,7 +224,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.71143847487,
+			"quality_rating_aggregate": 4.711937716263,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -218,8 +243,8 @@
 			"firstQualityRatings": {
 				"count": 676,
 				"page_info": {
-					"end_cursor": "AQHRAPAiu1OjUp21o9mRJQFJRlkF3O1A7oT5kq5xm6S8-0NDsBjBOmTHVejvL22AJp6B2UzqJwQed3ArDK0XhRbqLA",
-					"start_cursor": "AQHRAPAiu1OjUp21o9mRJQFJRlkF3O1A7oT5kq5xm6S8-0NDsBjBOmTHVejvL22AJp6B2UzqJwQed3ArDK0XhRbqLA"
+					"end_cursor": "AQHRrDuTY5UEGMOKvPomL0y-Jq4bzkEPccP837L1e9EBo8dVymZ1X697O8DAyoTtj6ppcz1qhqKK4U1zTdJRIUbYGg",
+					"start_cursor": "AQHRrDuTY5UEGMOKvPomL0y-Jq4bzkEPccP837L1e9EBo8dVymZ1X697O8DAyoTtj6ppcz1qhqKK4U1zTdJRIUbYGg"
 				},
 				"edges": [
 					{
@@ -229,13 +254,13 @@
 								"id": "100511345448926",
 								"display_name": "GameCatTodd",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.2.1436.1436a/s160x160/39031379_100511828782211_2949174459910331079_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=moafLW-ld7QAX-H3hSP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bba8d8556c6b93651f4f7cfd2bc9d151&oe=60B54569"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.2.1436.1436a/s160x160/39031379_100511828782211_2949174459910331079_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=HGdy7SkOwPoAX-iZzPa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=65aed5cbdf7ac04067580ac56355f2ce&oe=60B73FA9"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "It is important to know that my personal PSVR library contains 448 VR titles, I also have a YouTube chan \"Todd the Futha Muckin Came Gat\" where I review VR titles and do \"Let's Play\"s. With that out of the way I want all who read this to know I dont rate a title my personal #1 title without a dam good reason.\nUntil You Fall is the benchmark of VR gaming for many reasons. Not many games have managed to get it THIS right.\nEngaging combat? Check.\nNatural feeling controls? Check.\nGreat graphics? Check.\nHigh polish? Check.\nAmazing soundtrack and overall sound design? Check.\nUnique and interesting weaponry? Check.\nThe ability to get a workout without it feeling like a chore? Check.\nEngaging story? Check.\nAwesome powerups? Check.\nThe ability to feel like a total bad a*s? Double Check.\nThe addictive nature that makes you just want to play \"one more round\" endlessly? Check.\nSchell Games gave us something uniquely special in Until you Fall. This game caught me completely off gaurd..I went into it thinking I may enjoy it a bit but not at all my typical type of game so i didnt expect to like it much.\nI couldnt have been more wrong. It literally took 15 mins of playing and it just blew my mind on so many levels leaving me impressed beyond belief and became my #1 all time favorite title. Between the music pumping you up, the satisfying melee combat and just the feeling of being some near god like warrior destroying all that gets in your way I've never had more fun with any other title. There is one downfall however. It set a benchmark of expectation that I now notice how many other similar and even AAA titles fall short in comparison now. I think this title came too early into VR, its ahead of it's time and makes most titles feel lacking now and at same time I wish I had it day 1 of entering VR gaming. \nIf you are reading this and on the fence about purchasing it..dont be..this game is visual eye candy to the max on PSVR and Schell Games amazingly somehow made it look even better on the Quest 2. And the gameplay is so much better untethered on the Q2. Just jump in..once that music is pumping you up you'll soon be ready to unleash your inner warrior like never before.",
 							"reviewTitle": "#1 Game @ \"PSVR Game Reviews ONLY\" on FB",
-							"review_helpful_count": 118,
+							"review_helpful_count": 123,
 							"review_rank_by_viewer": null,
 							"date": 1618284563,
 							"developerResponse": null
@@ -250,7 +275,7 @@
 				"description": "Fantasy and synthwave collide in this physically active VR sword fighting game. Grow stronger as you battle through an awesome neon environment and strike down magic-infused monstrosities in this hack-and-slash roguelite. Fight. Fall. Rise Again.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982664_699428520908267_2230358571810266920_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nObOy36Vrc0AX9yxeZz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1b1c0d5e1d0f1301e12e077060cc0958&oe=60B6590B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982664_699428520908267_2230358571810266920_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nObOy36Vrc0AX9S_BNs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1adb505e6255070ad446c53fb93c8d19&oe=60B6590B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
