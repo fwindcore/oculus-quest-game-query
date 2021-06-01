@@ -27,10 +27,10 @@
 						"id": "379634205997791"
 					},
 					"cover_landscape_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974596_323669061887304_7215924573475176448_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GCXzmvdlkUMAX87Ncyn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=bcf22501262cab69fccb7edace2fa774&oe=60BA926C"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974596_323669061887304_7215924573475176448_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GCXzmvdlkUMAX-7zL4n&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96c288bb348df1dd18a29b1b55e40791&oe=60BA926C"
 					},
 					"cover_square_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974827_400711780531518_4403156280940691456_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=q59eKQ4c6EMAX9wfCWl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0df0f9c7088ce7e35c1a857a26ce42f5&oe=60B97113"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974827_400711780531518_4403156280940691456_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=YgnjyXK1e5UAX9_p8oY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=71e1738ab345bec54f777a0ee18b3bdf&oe=60BB6B53"
 					},
 					"is_viewer_entitled": false,
 					"bundle_items": {
@@ -41,34 +41,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974626_399266171191442_3987942551379193835_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1up2neUZBIQAX_oMs2F&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3b9383c26e89754f9ac6c428c2209974&oe=60B9DA97"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974626_399266171191442_3987942551379193835_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1up2neUZBIQAX_Rb6xU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cf4ec214e4d0f69a8dfb51040efda95e&oe=60BBD4D7"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75286675_2840126076249580_7597186055004933363_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=ATQ4cKpe3hwAX-NcfGS&_nc_ht=scontent.oculuscdn.com&oh=d7be945c8b1f239380499c9b484830f9&oe=60B9F989"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75286675_2840126076249580_7597186055004933363_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Iw-18xPdCCcAX_kH1Vf&_nc_ht=scontent.oculuscdn.com&oh=6a9d763e9fdf496d026bc048063de4ad&oe=60B9F989"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 1092,
+					"count": 1099,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 501,
+					"count": 503,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 1096,
+					"count": 1099,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 3867,
+					"count": 3872,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 29652,
+					"count": 29681,
 					"starRating": 5
 				}
 			],
@@ -141,15 +141,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.16.0",
-				"change_log": "- Interscope Mixtape is here! It comes with 7 new songs which are now available for purchase as additional content to the game.\n- Materials with lightmaps support in environments.\n- Mirror reflections on Quest.\n- Music loudness correction.\n- Visual tweaks and fixes.\n",
+				"version": "1.16.1",
+				"change_log": "- Improved startup times.\n- Performance tweaks.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1167879610",
-				"id": "5561020843971832",
-				"required_space_adjusted": "1372164686",
+				"total_installed_space": "1066115898",
+				"id": "5571299309610652",
+				"required_space_adjusted": "1350429812",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 80
@@ -279,7 +279,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5561020843971832"
+					"id": "5571299309610652"
 				}
 			},
 			"release_channels": {
@@ -290,8 +290,8 @@
 						"id": "703449633385683",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.16.0",
-							"id": "5561020843971832"
+							"version": "1.16.1",
+							"id": "5571299309610652"
 						}
 					},
 					{
@@ -318,7 +318,7 @@
 							"created_time": 1622114538,
 							"body_text": "Hey players, go grab your sabers because the Interscope Mixtape just launched in Beat Saber! Check out our first cross-genre collection featuring 7 music hits from some of the biggest artists brought to you by Interscope Records!\n\nWe selected a truly incredible list of famous beats:\n\n- OneRepublic - Counting Stars\n- Kendrick Lamar - DNA.\n- The Pussycat Dolls - Don't Cha\n- LMFAO ft. Lauren Bennett, GoonRock - Party Rock Anthem\n- Limp Bizkit - Rollin’ (Air Raid Vehicle)\n- Maroon 5 - Sugar\n- Gwen Stefani - The Sweet Escape ft. Akon\n\nWhich one will you play first?\n\nExcept for a new music pack, we also added:\n- Materials with lightmaps support in environments.\n- Mirror reflections on Quest.\n- Music loudness correction.\n- Visual tweaks and fixes.\n\n\nHave fun everyone!\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001717_857954861498673_3239522124744427996_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ERyG78IdgboAX9N2LgV&_nc_ht=scontent.oculuscdn.com&oh=03b5c6199987584914c65410c7daf602&oe=60B9A04B"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39001717_857954861498673_3239522124744427996_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ERyG78IdgboAX_ybrpF&_nc_ht=scontent.oculuscdn.com&oh=6633ef67d6db61037f08144c1d1a6f11&oe=60BB9A8B"
 							}
 						},
 						{
@@ -327,7 +327,7 @@
 							"created_time": 1619701526,
 							"body_text": "Hi! Salut! Hallo! ¡Hola! こんにちは！ 안녕하세요! \nWe just released a localization update v1.15.0 with 5 new languages in Beat Saber:\n- French\n- German\n- Spanish\n- Japanese\n- Korean\n\nIf you want to change the language, go to Settings –> Others –> and select the language you prefer.\n\nExcept for localization, we also made minor tweaks in visuals and fixed few bugs.\n\nPS: There is little something in the main menu to celebrate our 3rd anniversary with y'all! <3",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/86594851_3004189289810680_5053423444344022509_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ryi9Lfshy2cAX-QIube&_nc_ht=scontent.oculuscdn.com&oh=c0a0c808e9893968ca13518c175113a0&oe=60B8A00A"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/86594851_3004189289810680_5053423444344022509_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ryi9Lfshy2cAX-q6nrd&_nc_ht=scontent.oculuscdn.com&oh=6f6fba49ea6b8e0e9221ccd9f4f25fab&oe=60BA9A4A"
 							}
 						}
 					]
@@ -335,7 +335,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRfdyouY0C24UzkZid4BNZ64p6HQKD4ln2i_WM4sl3t-k_Co1_pHzUw11pqgOA0ysOESwk_B8JsaK7SRIOrI1r7w"
+							"cursor": "AQHRVN6g-gB0zujoII0auQKPxg3dl3WJE3pGwmWCHRqd0V8lQQzmUWctBPW3UAoKgXqDiwEyCHCVusS_zQOXdeFTQQ"
 						}
 					]
 				}
@@ -388,7 +388,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6705148033584,
+			"quality_rating_aggregate": 4.669691620235,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -407,8 +407,8 @@
 			"firstQualityRatings": {
 				"count": 9119,
 				"page_info": {
-					"end_cursor": "AQHRRXoBVdhlE8GR9Jv2NN1gXfmxX62nFG-29Cy7eqaUFJSPwomPLlicsaFJWrg2H7B_FMAuAqTATcqVeA4wQgNp4A",
-					"start_cursor": "AQHRRXoBVdhlE8GR9Jv2NN1gXfmxX62nFG-29Cy7eqaUFJSPwomPLlicsaFJWrg2H7B_FMAuAqTATcqVeA4wQgNp4A"
+					"end_cursor": "AQHRn6OZtEZ4fvZyqYjV2LBRR7FmiIwY8AOutSgrjZFa9f0ZTaBdEYM6hlxczPLzVG2E9RwB0ui49g9lj5s3OrZXvg",
+					"start_cursor": "AQHRn6OZtEZ4fvZyqYjV2LBRR7FmiIwY8AOutSgrjZFa9f0ZTaBdEYM6hlxczPLzVG2E9RwB0ui49g9lj5s3OrZXvg"
 				},
 				"edges": [
 					{
@@ -418,13 +418,13 @@
 								"id": "106051148187075",
 								"display_name": "Akira_13",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39003229_181442340647955_8145528479174418666_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tYAkGZWf19QAX_o0jSf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8f6ceab56b5c2b24893189516e7e7fe4&oe=60B97BD4"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39003229_181442340647955_8145528479174418666_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X7l9-yU26TEAX_gJTIm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=279bf14014ef2279359053ad3c541598&oe=60BB7614"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This game is truly amazing, and I imagine that people with the Quest 2 are super excited to play on 1.16.0 However, if you had the same problem I did I bet your panicking. To be specific I wasn’t able to load beatsaber after updating it. No fear a solution is here. Here’s what I did. If you click on the settings icon and scroll down to where it says about. It will say software updates. Proceed to update your Quest 2 and it should work like a charm. This is what I did. I hope it works for everyone else.",
 							"reviewTitle": "For anyone having a problem",
-							"review_helpful_count": 154,
+							"review_helpful_count": 301,
 							"review_rank_by_viewer": null,
 							"date": 1622327274,
 							"developerResponse": null
@@ -439,7 +439,7 @@
 				"description": "Beat Saber is a VR rhythm game where your goal is to slash the beats which perfectly fit into precisely handcrafted music.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036664_5496447633758516_8895928761960933013_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7kKypi9F29cAX-d_QAS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9ed34e288138e7ee6ec245f27cbb073a&oe=60B9CE3B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036664_5496447633758516_8895928761960933013_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7kKypi9F29cAX8jxcFt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=daa4f98984e08b91df0f1eb5fcc7c4bd&oe=60BBC87B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
