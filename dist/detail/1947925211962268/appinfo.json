@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035379_491267648710298_6717069292400252953_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=afOpQCTPaIUAX__j4t6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3339a88cf406dcb88af002c1e315ba2d&oe=60BBA5EE"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035379_491267648710298_6717069292400252953_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=afOpQCTPaIUAX91q5TT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=019ce5853da7d7036e4665975d1b492c&oe=60BBA5EE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75236134_276017877382356_9049987741878607713_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3RPPq7byzqsAX9s-dii&_nc_ht=scontent.oculuscdn.com&oh=a86435669dab340d113a120272045491&oe=60BBBB33"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75236134_276017877382356_9049987741878607713_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FToKSyF5ZvMAX9MZBHW&_nc_ht=scontent.oculuscdn.com&oh=b86fe33486a29151c7a4bd31844d08c9&oe=60BBBB33"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 248,
+					"count": 249,
 					"starRating": 5
 				}
 			],
@@ -140,17 +140,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "340092353357409",
+				"id": "959082864926026",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1899",
+					"formatted": "$18.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-24%",
+				"end_time": 1622703540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -191,7 +196,7 @@
 							"created_time": 1616425026,
 							"body_text": "Quest 2 Update\n\n- Massive texture update, improved resolution, shaders and lighting\n- 90hz update\n- New animations, texture effects and scaled resolution on all demons\n- Improved physics interactions and ported in the PC version of the Torch in Chapter 5\n- Out of bounds now resets position after countdown\n- Various bug fixes and quality of life updates",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_3959415327450563_6230835952286345627_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sdAac0YEyPYAX9ZJ5Za&_nc_ht=scontent.oculuscdn.com&oh=d876f169df4efc52e21e2a3f38ebaf7b&oe=60BA401E"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_3959415327450563_6230835952286345627_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SLGcdKsTkasAX-I-6c9&_nc_ht=scontent.oculuscdn.com&oh=14a335324a448cd4c7b04b10e2414f27&oe=60BC3A5E"
 							}
 						}
 					]
@@ -243,16 +248,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "340092353357409"
+				"id": "959082864926026"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0808988764045,
+			"quality_rating_aggregate": 4.0829596412556,
 			"support_website_url": "http://exorcistvr.com/bugs",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 275,
+				"count": 276,
 				"orderings": [
 					{
 						"key": "top",
@@ -265,10 +270,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 275,
+				"count": 276,
 				"page_info": {
-					"end_cursor": "AQHRyjqvGnP1b9_LMeQJulYWs_VB5ZYaV-bRmT5RKSMLo5t-3bZmja0D1qBCMqjfcOmqOt1XaW8BEJPG2XMypL87dQ",
-					"start_cursor": "AQHRyjqvGnP1b9_LMeQJulYWs_VB5ZYaV-bRmT5RKSMLo5t-3bZmja0D1qBCMqjfcOmqOt1XaW8BEJPG2XMypL87dQ"
+					"end_cursor": "AQHRVjC5ANYDgXEsKHxDj4yrYFvQ8BvNw0vMMwtb4P1xCo-04gHmsJLNbWBqb1x51GTDQIsAb5t8MgjJy03H6-qCLg",
+					"start_cursor": "AQHRVjC5ANYDgXEsKHxDj4yrYFvQ8BvNw0vMMwtb4P1xCo-04gHmsJLNbWBqb1x51GTDQIsAb5t8MgjJy03H6-qCLg"
 				},
 				"edges": [
 					{
@@ -278,13 +283,13 @@
 								"id": "102809271429059",
 								"display_name": "theBlackcat79",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974450_214638130246172_8494891674495879483_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5hSiQNANjREAX-PdQjZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8c8eafb7633e3a90aaba7087eb410a3c&oe=60BAFDEA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974450_214638130246172_8494891674495879483_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5hSiQNANjREAX8H8ybp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=eba542351279221f659e72f52c1f1d36&oe=60BCF82A"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This game compared to PC or even PSVR had a huge graphics downgrade, even though it keep the same atmosphere, the graphics on Oculus Quest 2 deserves better...the texture are bright, flat-rendered,  with NO lighting (no shading) no reflection, the 3d models are super low-poly...the whole experience , made exception for the first chapter (that is almost close to the original one) is really terrible such as the last chapter , that one in the cave, where this game is at its worst, graphically speaking, the rocks are really low poly and the textures are basically inexistent, the whole terrain and cave walls are mono-color without no shades, and you even removed the torch fire, the little fireplace at the beginning and be able to interact with natural elements... \n\nFor developers: i LOVE this game and the gameplay is super ok...PLEASE update texture , 3d models and illumination light for Oculus Quest 2 and you gonna get 5 stars...\n\nUpdate march 2021: forget everything i said above...after a massive 1.46Gb update , The Exorcist for Quest 2  is at its best!! now can compete with PC and PSVR version!! for me it's now the best VR version ever...5 stars without any doubt!!",
 							"reviewTitle": "Not Optimized for Quest 2(Updated 2021)",
-							"review_helpful_count": 173,
+							"review_helpful_count": 177,
 							"review_rank_by_viewer": null,
 							"date": 1616524626,
 							"developerResponse": {
@@ -303,7 +308,7 @@
 				"description": "The Exorcist: Legion is an acclaimed horror game set in the Academy Award-winning franchise of The Exorcist. Delve deep into the heart of the supernatural as you learn the ancient trade of demonic exorcism and uncover a supernatural conspiracy.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031480_1056295751559371_7200957902302590380_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7NuxkpvARIEAX_JlCkx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=13c923c622d551029a157db5932bfff8&oe=60BAB700",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984471_298432155154357_3827581251858007938_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Gi-rnik2OnkAX8oduLf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d70685d0564fca0793a718b3db3ce82e&oe=60BC4A57",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
