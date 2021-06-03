@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982724_290855441845626_2162662775388635136_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ryf70ylZtrYAX9H7XEo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1bb5a20a10ebd4330b3531edaa132216&oe=60BC6F1E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982724_290855441845626_2162662775388635136_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cpkqbQhLreoAX_JLJfP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e6dd1b6061a8e2a871e0991507dc2a81&oe=60BE695E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_290793148518522_6876080235297636352_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FSXSjx6qA8gAX-37b17&_nc_ht=scontent.oculuscdn.com&oh=954afeaddfa66d690861d90b3b186363&oe=60BCE14A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_290793148518522_6876080235297636352_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FSXSjx6qA8gAX8ef_PZ&_nc_ht=scontent.oculuscdn.com&oh=d9b21004a7f0d99bdb3c241d1621aa7f&oe=60BCE14A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 265,
+					"count": 266,
 					"starRating": 5
 				}
 			],
@@ -119,17 +119,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2198993876862582",
+				"id": "514691869658547",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"offset_amount": "1749",
+					"formatted": "$17.49"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99",
+					"offset": 100
+				},
+				"promo_benefit": "-30%",
+				"end_time": 1622789940,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -212,12 +217,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2198993876862582"
+				"id": "514691869658547"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.136,
+			"quality_rating_aggregate": 4.1377245508982,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -236,8 +241,8 @@
 			"firstQualityRatings": {
 				"count": 223,
 				"page_info": {
-					"end_cursor": "AQHRDSMoLxkeOakY_9htWNBHqejmz2BeJw9TmvIY8kUK6HU2Jz5roP0jbVblXMIh6-hDXVlx-YdEeEfP1IqYEj1k5w",
-					"start_cursor": "AQHRDSMoLxkeOakY_9htWNBHqejmz2BeJw9TmvIY8kUK6HU2Jz5roP0jbVblXMIh6-hDXVlx-YdEeEfP1IqYEj1k5w"
+					"end_cursor": "AQHR0ePtlRWFvjgzZ7sp1UI6pulFrFnnJN0LDnSBsyJkOo7EnglBKFYMyszUO9P9WdJAlfH8575rI7hOR-I-dSMnaA",
+					"start_cursor": "AQHR0ePtlRWFvjgzZ7sp1UI6pulFrFnnJN0LDnSBsyJkOo7EnglBKFYMyszUO9P9WdJAlfH8575rI7hOR-I-dSMnaA"
 				},
 				"edges": [
 					{
@@ -247,13 +252,13 @@
 								"id": "102899367979074",
 								"display_name": "Sedui",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974550_102910074644670_2827097643463737344_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZdhOcCdiY48AX9SkDog&_nc_ht=scontent.oculuscdn.com&tp=28&oh=238c183c8bdab3d8b0f103b018a023a4&oe=60BCE8E3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974550_102910074644670_2827097643463737344_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZdhOcCdiY48AX8DVdGv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=507edef8e393c9ec9af5eaa55e2fc6f9&oe=60BCE8E3"
 								}
 							},
 							"score": 2,
 							"reviewDescription": "Pro:\nOne of my favorite games, you really feel like a wizard!\nIf you buy the Quest version, you get the PC version for free\n\nCon:\nThe Quest version only includes around half of the levels of the Steam version... This is a DEMO, not an entire game for the FULL PRICE!\nNo Arena mode",
 							"reviewTitle": "DEMO version for the FULL PRICE",
-							"review_helpful_count": 105,
+							"review_helpful_count": 115,
 							"review_rank_by_viewer": null,
 							"date": 1618159556,
 							"developerResponse": null
@@ -268,7 +273,7 @@
 				"description": "The Wizards support Oculus Store Cross-Buy!\n\nBecome a powerful Wizard and take fate into your own hands! Immerse yourself in a beautiful fantasy world and destroy your enemies by casting spells with hand gestures!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974573_2203148233331695_93400115460440064_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-2LsOYVoNsUAX-2UHtT&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f699a8e33c3b551d10e94745df7152cc&oe=60BBEB5D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984445_146973047488205_3321301507522568994_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=fR8sjcljPJcAX-dzjOm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=52f1015fed9a896ee5ebd507c73dd1a8&oe=60BD8AFD",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
