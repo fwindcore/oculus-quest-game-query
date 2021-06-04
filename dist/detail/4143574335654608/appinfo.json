@@ -14,38 +14,38 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75210897_179411477365748_7837065724769627031_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SB0la1dCZRoAX-q228K&_nc_ht=scontent.oculuscdn.com&tp=28&oh=32e31ee5638d137d48db2fc3747f8e02&oe=60BDB7E7"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75210897_179411477365748_7837065724769627031_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lMRdRLZQg8wAX-JbP6h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=98ecbee9dd89e6cf7d95efbc048e6fbf&oe=60BFB227"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_823772838570308_7519027015595449911_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=UMtgynP83jkAX8SovQ2&_nc_ht=scontent.oculuscdn.com&oh=ee67f6ace5511a2c4e39cd665acaf3c3&oe=60BD1E99"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_823772838570308_7519027015595449911_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=UMtgynP83jkAX-e6PRd&_nc_ht=scontent.oculuscdn.com&oh=0ad76a83c16a68c6fcd269e647e7b558&oe=60BF18D9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 0,
+					"count": 1,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 0,
+					"count": 1,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 0,
+					"count": 4,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 0,
+					"count": 6,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 0,
+					"count": 12,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "Shipwrecked on the small island of Harlath, players will adventure through a mysterious Island and multiple dungeons, battling foes, solving puzzles, and ultimately discovering the nature of the curse that looms over the island.\n\nStones of Harlath is a VR first person adventure game. Players will play as a powerful battle mage, explore a mysterious island, adventure in many dungeons, wield swords & shields and cast powerful magic by drawing runes with their controller.\n\n- Now available for Pre-order : limited time discount -",
+			"display_long_description": "Shipwrecked on the small island of Harlath, players will adventure through a mysterious Island and multiple dungeons, battling foes, solving puzzles, and ultimately discovering the nature of the curse that looms over the island.\n\nStones of Harlath is a VR first person adventure game. Players will play as a powerful battle mage, explore a mysterious island, adventure in many dungeons, wield swords & shields and cast powerful magic by drawing runes with their controller.",
 			"developer_privacy_policy_url": "https://www.privacypolicies.com/live/145b5c9e-5bd8-4f9f-95e0-88452d6e9695",
 			"developer_terms_of_service_url": null,
 			"supported_player_modes": [
@@ -112,22 +112,17 @@
 			"website_url": "https://www.facebook.com/gaming/stonesOfHarlath",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
-				"id": "469533660802393",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "195840535741220",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "899",
-					"formatted": "$8.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99",
-					"offset": 100
+					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-10%",
-				"end_time": 1622739300,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -201,23 +196,26 @@
 				"price": {
 					"offset_amount": "999"
 				},
-				"id": "602289404496890"
+				"id": "195840535741220"
 			},
 			"__isWishlistableItem": "Application",
 			"entry": null,
 			"is_demo_of": null,
 			"appName": "Stones Of Harlath",
 			"platformOffer": null,
-			"is_giftable": false,
-			"current_gift_offer": null,
+			"is_giftable": true,
+			"current_gift_offer": {
+				"__typename": "AppStoreOffer",
+				"id": "195840535741220"
+			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 0,
+			"quality_rating_aggregate": 4.125,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 0,
+				"count": 18,
 				"orderings": [
 					{
 						"key": "top",
@@ -230,21 +228,41 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 0,
+				"count": 18,
 				"page_info": {
-					"end_cursor": null,
-					"start_cursor": null
+					"end_cursor": "AQHRetC2xP4nSgLGmA_OFy67eiqD5tbLy2o5UEWt69Qim7buHqgr33ygYi_ewTkCKc6b4SCz1KTSLl7_Wv-3rdUMlA",
+					"start_cursor": "AQHRetC2xP4nSgLGmA_OFy67eiqD5tbLy2o5UEWt69Qim7buHqgr33ygYi_ewTkCKc6b4SCz1KTSLl7_Wv-3rdUMlA"
 				},
-				"edges": []
+				"edges": [
+					{
+						"node": {
+							"id": "323081825887414",
+							"author": {
+								"id": "107326420796290",
+								"display_name": "VR-Dynamite",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c387.0.665.665a/s160x160/39001654_287250849470512_2497479089334725678_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-IebFemIaj8AX9hAQJ0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d88052fedac4b1236cdda2ef16784eb2&oe=60BE9082"
+								}
+							},
+							"score": 4,
+							"reviewDescription": "Watch gameplay and first impressions at: YouTube.com/vrdynamite\n\nOfficial Dynamite Score at www.vrdynamite.com\n\nWell, I’ll say I went into this game with low expectations and came out the other side a big fan!\n\nYou can feel the love and care that went into making this fantasy game a reality. \n\nThere’s a perfect balance of verity in this game from different level designs to different enemy types to battle!\n\nMechanics are skillfully developed and one of the nicest motion comfort controls I’ve seen. \n\nStones of Harlath is priced perfectly snd you’ll get lots of enjoyment out of every dollar spent\n\nThere are two things however that would have granted this title an even higher price tag…\n\n1) voice acting: sounds amateur and even mic quality felt inconsistent. It broke immersion\n\n2) characters where too flat and too pixelated. Broke immersion. I feel like if they just went back and doubled the pixel count on characters, it would better achieve the style they are going for. \n\nIf you’re even slightly on the fence about this game… I say buy it and thank me after!",
+							"reviewTitle": "A lot of fantasy game for the price!!",
+							"review_helpful_count": 28,
+							"review_rank_by_viewer": null,
+							"date": 1622744011,
+							"developerResponse": null
+						}
+					}
+				]
 			},
 			"can_viewer_review": false,
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "- Now available for Pre-order : limited time discount -\n\nStones of Harlath is a VR first person adventure game. Players will play as a powerful battle mage, explore a mysterious island, adventure in many dungeons, wield swords & shields and cast powerful magic by drawing runes with their controller.",
+				"description": "Stones of Harlath is a VR first person adventure game. Players will play as a powerful battle mage, explore a mysterious island, adventure in many dungeons, wield swords & shields and cast powerful magic by drawing runes with their controller.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39036664_226148478946452_3229351672460551206_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oxLXmWiycaEAX_khH-s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d7b131b45871727cc44c19eb23ad715f&oe=60BCBB90",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974608_538810060615535_6587825874466538318_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AoYy9IFrewwAX9sjKpX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=349685bbb44cb51ffc6bdcde4a2f3e0a&oe=60BE18F1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

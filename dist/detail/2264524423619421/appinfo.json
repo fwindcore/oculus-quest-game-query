@@ -7,16 +7,16 @@
 			"__typename": "Application",
 			"__isAppStoreItem": "Application",
 			"id": "2264524423619421",
-			"display_name": "Cubism",
+			"display_name": "方块主义",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
 			"item_bundles": [],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75580066_2873939082885804_49444015256017434_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oa9lHwoWKmYAX8zT63a&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9ef8083cf04f216c0cb2f118ad5d4260&oe=60BD376C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75549077_319718532878717_3946616039833981777_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=eSPDVtnbs5wAX_9DEkC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=99bbdd73eb212eb15c120da980b031ed&oe=60BEB63B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75251816_799490583994323_6242033177405054644_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=fxoWH8gSGxoAX88Qe5n&_nc_ht=scontent.oculuscdn.com&oh=462ecb835e60ab2f5155765a6d23de68&oe=60BE7080"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75251816_799490583994323_6242033177405054644_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Da5cNWjTRysAX9SjszT&_nc_ht=scontent.oculuscdn.com&oh=608642ebd1b26b66629f4366e6606823&oe=60BE7080"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,11 +41,11 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 341,
+					"count": 344,
 					"starRating": 5
 				}
 			],
-			"display_long_description": "*NEW UPDATE* Put your controllers down and get hands-on with some challenging puzzles: Cubism now has experimental hand tracking support!\n\nSit back. Relax. Solve puzzles.\n\nChallenge your mind in Cubism, a deceptively simple puzzle game where you assemble increasingly complex shapes out of colorful blocks.\n\nImmerse yourself in a zen environment as you reason your way through 60 puzzles which will put your spatial thinking skills to the test. ",
+			"display_long_description": "*新更新* 放下你的游戏手柄，用手解开一些颇具挑战的谜题：《方块主义》现已实验性地采用手部追踪技术！\n\n坐好。放松。开始解题。\n\n《方块主义》是一款看似简单但无时无刻不在考验玩家思维的益智游戏。你需要用各种彩色方块拼出越来越复杂的立体形状。\n\n随着你边推理边试解 60 道谜题，你将逐渐沉浸于禅思的意境，把自己的空间思维能力推至极限。",
 			"developer_privacy_policy_url": "https://www.cubism-vr.com/privacypolicy",
 			"developer_terms_of_service_url": "https://www.cubism-vr.com/termsandconditions",
 			"supported_player_modes": [
@@ -56,7 +56,52 @@
 			"publisher_name": "Vanbo",
 			"supported_in_app_languages": [
 				{
+					"name": "中文（简体）"
+				},
+				{
+					"name": "德语"
+				},
+				{
+					"name": "日语"
+				},
+				{
+					"name": "法语（加拿大）"
+				},
+				{
+					"name": "法语（比利时）"
+				},
+				{
+					"name": "法语（法国）"
+				},
+				{
 					"name": "英语"
+				},
+				{
+					"name": "西班牙语（哥伦比亚）"
+				},
+				{
+					"name": "西班牙语（墨西哥）"
+				},
+				{
+					"name": "西班牙语（委内瑞拉）"
+				},
+				{
+					"name": "西班牙语（智利）"
+				},
+				{
+					"name": "西班牙语（波多黎各）"
+				},
+				{
+					"name": "西班牙语（秘鲁）"
+				},
+				{
+					"name": "西班牙语（西班牙）"
+				},
+				{
+					"name": "西班牙语（阿根廷）"
+				},
+				{
+					"name": "韩语"
 				}
 			],
 			"supported_hmd_platforms": [
@@ -82,15 +127,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.7",
-				"change_log": "- fixed an issue where only one song would play in continuous music mode\n- fixed an issue where the game would lock up if the player variables save file was corrupted\n- small performance improvements to the menu",
+				"version": "1.3.0",
+				"change_log": "- added localization in English, French, Spanish, German, Japanese, Korean and Simplified Chinese.\n- added custom title puzzles for Japanese, Korean and Simplified Chinese",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "234299332",
-				"id": "5454849547920210",
-				"required_space_adjusted": "218977852",
+				"total_installed_space": "238492852",
+				"id": "5576597572412073",
+				"required_space_adjusted": "221642174",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -108,7 +153,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -124,7 +169,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5454849547920210"
+					"id": "5576597572412073"
 				}
 			},
 			"release_channels": {
@@ -135,8 +180,8 @@
 						"id": "2681946568697290",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.7",
-							"id": "5454849547920210"
+							"version": "1.3.0",
+							"id": "5576597572412073"
 						}
 					},
 					{
@@ -158,12 +203,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "4112139468841551",
+							"title": "The Localization Update",
+							"created_time": 1622214862,
+							"body_text": "Cubism is now fully playable in English, French, German, Spanish, Japanese, Korean and Simplified Chinese.\n\nFor the polyglots among you, be sure to check out the custom playable title puzzle in Japanese, Korean and Simplified Chinese!\n\n\n",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974613_493898938527865_3375558038031341662_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=iKQfUZbAZRkAX8kWpeb&_nc_ht=scontent.oculuscdn.com&oh=cba012d0cd81bf1e7ced822f7fd4b108&oe=60BEE7A5"
+							}
+						},
+						{
 							"id": "491246455241046",
 							"title": "The Hand Tracking Update",
 							"created_time": 1615896710,
 							"body_text": "This latest update to Cubism adds experimental hand tracking support to the full game on Quest 1 and Quest 2. \nSo put your controllers down, and get hands-on with some mind-bending puzzles!\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-7apb0g4LTsAX81FRkz&_nc_ht=scontent.oculuscdn.com&oh=0aa811dc88760093bcc2011aed5953b6&oe=60BCD66F"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-7apb0g4LTsAX9XF7pw&_nc_ht=scontent.oculuscdn.com&oh=2ca18bb6583bd82925c4b83759fd3827&oe=60BED0AF"
 							}
 						}
 					]
@@ -214,7 +268,7 @@
 			"__isWishlistableItem": "Application",
 			"entry": null,
 			"is_demo_of": null,
-			"appName": "Cubism",
+			"appName": "方块主义",
 			"platformOffer": null,
 			"is_giftable": true,
 			"current_gift_offer": {
@@ -224,7 +278,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8469656992084,
+			"quality_rating_aggregate": 4.848167539267,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -243,8 +297,8 @@
 			"firstQualityRatings": {
 				"count": 159,
 				"page_info": {
-					"end_cursor": "AQHR1ZslhS-4fDkvPauBBZ-ZBbaUwUvVoIU8tWj66hz1IXAcitedqvulIuuIS1-e4YCm0mO5IUu9k_dz5Y7vvc1iDg",
-					"start_cursor": "AQHR1ZslhS-4fDkvPauBBZ-ZBbaUwUvVoIU8tWj66hz1IXAcitedqvulIuuIS1-e4YCm0mO5IUu9k_dz5Y7vvc1iDg"
+					"end_cursor": "AQHRdAUwFtmLrenwQClCtmFAqgacQKMcinkbo4oI_Yb42SwsVCNrl5sKF6h84imimNf0kogx4Pf4hN-C0gw9_rOqqA",
+					"start_cursor": "AQHRdAUwFtmLrenwQClCtmFAqgacQKMcinkbo4oI_Yb42SwsVCNrl5sKF6h84imimNf0kogx4Pf4hN-C0gw9_rOqqA"
 				},
 				"edges": [
 					{
@@ -254,7 +308,7 @@
 								"id": "106760571517925",
 								"display_name": "natchaniel",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.600.600a/s160x160/38982680_112110024316313_4564962847619734992_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PpttvQedwvAAX-k5Rg3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=caf272ad40ff0d0cf853176edd45c4f7&oe=60BD3D6E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.600.600a/s160x160/38982680_112110024316313_4564962847619734992_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0E7CdDedfk4AX_NXQFl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=53a14de5a9c3200ed00ae09bd2f91880&oe=60BF37AE"
 								}
 							},
 							"score": 5,
@@ -272,16 +326,16 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Challenge your mind in Cubism, a deceptively simple puzzle game where you assemble increasingly complex shapes out of colorful blocks.",
+				"description": "《方块主义》是一款看似简单但无时无刻不在考验玩家思维的益智游戏。你需要用各种彩色方块拼出越来越复杂的立体形状。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75476593_2943619195862852_4706184706282195978_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9HWKLBWAJecAX-Nskoh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e8b6b71d08c4d6ff7ad1b6e89aa6f135&oe=60BD8166",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75388621_810735676228743_899742465691422547_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WxQLO_gfQDgAX-GMYEB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=03004601e12a09edb4b54ebecc2da8cb&oe=60BF9AE4",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
 				"page_url": "https://www.oculus.com/experiences/quest/2264524423619421/",
 				"site_name": "Oculus",
-				"title": "Cubism · Oculus Quest"
+				"title": "方块主义 · Oculus Quest"
 			},
 			"fallback_ranking_trace": ""
 		}

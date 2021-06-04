@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001654_499706961024276_8577671594931469618_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lfVt4yS1aqMAX_K0-An&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e5dc24931461c22dee464f6d3b1d77c5&oe=60BD49B0"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39001654_499706961024276_8577671594931469618_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lfVt4yS1aqMAX9brGKJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5a3e57dbca3b859b4e7e4fa8404cf088&oe=60BF43F0"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974841_256078615988715_2081387771810249242_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=uneCdrn3sPQAX-FXlX8&_nc_ht=scontent.oculuscdn.com&oh=a3753a44fbb345f6f97018ad09af75ed&oe=60BD639D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974841_256078615988715_2081387771810249242_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=uneCdrn3sPQAX8RZ3bx&_nc_ht=scontent.oculuscdn.com&oh=7973b866f4801ba8f7fd3a14660c5104&oe=60BF5DDD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 25,
+					"count": 24,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 36,
+					"count": 37,
 					"starRating": 5
 				}
 			],
@@ -138,7 +138,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null,
@@ -184,7 +184,7 @@
 							"created_time": 1619039417,
 							"body_text": "We are excited to announce one of our biggest updates yet! In our previous 2 patches, we prioritized bugs that could potentially block players from progressing. Now that those have been addressed we were able to devote more time to ‘quality of life’ and visual enhancements. Most of these changes may not be noticeable to you all as the bugs were situational and didn’t appear for all players, but they will improve the overall consistency in gameplay experience.\n\nLastly, a big change that we worked hard to implement is the enabling of casting to your phone/TV. For those of you who enjoy playing games together as a household and use the Oculus’ casting feature to share what you see with others on another screen, well now you can enlist the help of your family/friends to solve the puzzles in Flow Weaver!\n\nUpdates in this patch include:\n- Casting feature in Oculus is now enabled for Flow Weaver\n- Fixed glitch where it was possible for a player to duplicate runestones and prematurely trigger the end game phase\n- Fixed the rare occurrence of the Shadow Dragon’s eye going missing\n- Ectoplasm will spawn back in the bowl now if you are reloading the game\n- Acorn will grow consistently no matter which order of Flows the player travels to after watering it\n- The animation loop for floating islands in Skybridge has been edited to be smoother\n- Acorn in Shadow Realm can not be lost if accidentally thrown far away\n- Increased the speed at which portal keys and runestones travel to the player when grabbed by Shadow Hand\n- Fixed rare glitch where runestone in Feyland was unobtainable after growing the acorn\n- Fixed an issue where the rune stone in the Underworld could possibly become unobtainable if you smashed the rough stone, but did not collect the runestone immediately\n- The Shadow Dragon’s Eye can not be accidentally lost if the player chooses to throw it away\n- The pulley in the Underworld can now only be interacted with using your physical hand and not Shadow Hand to remain consistent with the other mechanical gadgets in the player’s proximity\n- Changes made to how the Planar Compass and Meditation ability interact so there is less overlap and less chance for triggering a glitch where a player becomes stuck in between the 2 states\n- Changed the backend behavior of the Flowing ability to prevent situations where the Planar Compass becomes inoperable\n- Bowl of ectoplasm will disappear once put into the special Faerie’s brew to avoid confusion\n- Revised the timing of voice clip triggers in the Underworld to better clarify how to solve the gear puzzle\n- Additional save checkpoint created for the acquisition of Commune spell\n- Fixed issue some players had with alternating which hand is holding a runestone\n\nKnown issues that we are still working on:\n- Items from the quantum chest can be summoned multiple times if you enter the code multiple times",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031588_180458843935064_5832902166936368976_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nFvL4-tk9UcAX_7eZr0&_nc_ht=scontent.oculuscdn.com&oh=517310ce01836f5395d67145e57b6bf5&oe=60BDE010"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031588_180458843935064_5832902166936368976_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nFvL4-tk9UcAX_u1Jqs&_nc_ht=scontent.oculuscdn.com&oh=c862c8f24eaef088be68b077a7197524&oe=60BFDA50"
 							}
 						},
 						{
@@ -193,7 +193,7 @@
 							"created_time": 1618516125,
 							"body_text": "Meditation\nWe've listened to your feedback that the hints in the game could be clearer, so in our previous patches, we made the effort to improve the visual clarity of the Meditation ability. For anyone who isn't sure about what to interact with in a room, or what to pay attention to, activating Meditation by holding down the B or Y button will summon blue streaks of light to help you focus. \n\n\n\nWalkthrough\nWith the Meditation ability, narrative dialogue clues, and your own observation of the environment around you, we have confidence that you can play through Flow Weaver and solve the magical laws of Kelemspar.\n\nWe did not design a hint system in Flow Weaver that would eventually give players the answer since we want you all to feel rewarded and satisfied with solving the challenges on your own.\n\nHowever if you want to verify that what you're doing is on the right track, we created a video walkthrough series you can use as reference.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_876633739563341_229098442715057882_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=G7OK_pxOWtEAX9KyxfB&_nc_oc=AQmTzg6XXpPVaqH1WdCv_a0AUSb3su3ujw8ULWlJvIKQSwqy4hFW_wmUj37gYegkDh0&_nc_ht=scontent.oculuscdn.com&oh=5fc7e264c0aae8c1430afddc2f1bc0ba&oe=60BD3650"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974827_876633739563341_229098442715057882_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0D3Wotez-TwAX_CKinf&_nc_oc=AQmMWchfue1oVccMlgmwkCj6vmtOD5DOrkUGdws65UAJoMh0YCLYS-rKlbNOmJoR_ao&_nc_ht=scontent.oculuscdn.com&oh=714913fe323921b2ea10fc357f5c2b4a&oe=60BF3090"
 							}
 						}
 					]
@@ -250,7 +250,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.5816326530612,
+			"quality_rating_aggregate": 3.5918367346939,
 			"support_website_url": "https://flow-weaver.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -269,8 +269,8 @@
 			"firstQualityRatings": {
 				"count": 41,
 				"page_info": {
-					"end_cursor": "AQHRpnJBNesW4bwxdMRP14EgK9Rv9bfDNHzq9WSID9WcUfTPvaJmr4c4lUnJCPzGHMHb3yaA4SrMyYNtYrPG1BHxpg",
-					"start_cursor": "AQHRpnJBNesW4bwxdMRP14EgK9Rv9bfDNHzq9WSID9WcUfTPvaJmr4c4lUnJCPzGHMHb3yaA4SrMyYNtYrPG1BHxpg"
+					"end_cursor": "AQHRj435Ns9nMqIhYfJwNs3qAJ38l2RmVzuJtyUXElsP6kWKlRuicoLuJScXyrP5GEfnY5wTciGpuZN2HAksZEDfSA",
+					"start_cursor": "AQHRj435Ns9nMqIhYfJwNs3qAJ38l2RmVzuJtyUXElsP6kWKlRuicoLuJScXyrP5GEfnY5wTciGpuZN2HAksZEDfSA"
 				},
 				"edges": [
 					{
@@ -280,7 +280,7 @@
 								"id": "102903264966471",
 								"display_name": "Zachzul",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39035400_102945971628867_6150288940907110893_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aLd_NrABXZ4AX8_Qe3O&_nc_ht=scontent.oculuscdn.com&tp=28&oh=13dd1fbbbff772543f418b86a3c48aed&oe=60BE838F"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39035400_102945971628867_6150288940907110893_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aLd_NrABXZ4AX-6Cncc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=834dea203cb44ac7bafcfbe51dbfc72a&oe=60BE838F"
 								}
 							},
 							"score": 4,
@@ -301,7 +301,7 @@
 				"description": "You are trapped. Bound by magic by unknown captors. But you are a Flow Weaver and can move between dimensions. Travel amongst them, learn new spells, and uncover the secrets of this strange world to orchestrate your escape.\n\nFlow Weaver is a narrative escape room game. The player explores and experiments with their environment, moving between different magical dimensions to solve intuitive puzzles towards the goal of escape.\n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001728_269710267923355_1379448384128825476_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yDsqSVhB0NsAX_a12ES&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f9876483d139d17100bd228e3ee749a1&oe=60BD8242",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001728_269710267923355_1379448384128825476_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=A-iYo51g6akAX96f23C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=aa7d9fae150bff14700291964fbf2191&oe=60BF7C82",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
