@@ -10,18 +10,43 @@
 			"display_name": "Crashland",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "1704035773115769",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "Venture Into the Unknown",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "US$ 38.99"
+						},
+						"strikethrough_price": {
+							"formatted": "US$ 49.98"
+						},
+						"id": "190353799632863"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974800_496268265048737_1744799492507905386_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yO9usPIk-ngAX_obqSx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c5c4dacc1d7b3079e202d26d6cb6a7f1&oe=60BF631E"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982545_435412961115358_1195377053426836600_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=lswZ8JaiAOYAX-yaYRs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=21aef975fb878c92fd34fa2def535a00&oe=60BE777C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982545_435412961115358_1195377053426836600_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4JAPbwRJuEYAX_67iHk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b125ff7b78d9cfcf9fecb12656b3a1e5&oe=60C071BC"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1394513367556147_4670296902617340522_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wSLKrvjG628AX-qE9Ez&_nc_ht=scontent.oculuscdn.com&oh=44c4450ce83c40c91dbefba1b2cc93ec&oe=60BFD70D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1394513367556147_4670296902617340522_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=YM6nmakp8eUAX9YIGN8&_nc_ht=scontent.oculuscdn.com&oh=02f011e2d16442e4026bf0d62e044637&oe=60BFD70D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 22,
+					"count": 23,
 					"starRating": 1
 				},
 				{
@@ -31,7 +56,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 30,
+					"count": 31,
 					"starRating": 3
 				},
 				{
@@ -41,7 +66,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 308,
+					"count": 309,
 					"starRating": 5
 				}
 			],
@@ -209,11 +234,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3807439824945,
+			"quality_rating_aggregate": 4.3717391304348,
 			"support_website_url": "http://www.crashlandvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 325,
+				"count": 327,
 				"orderings": [
 					{
 						"key": "top",
@@ -226,10 +251,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 325,
+				"count": 327,
 				"page_info": {
-					"end_cursor": "AQHRA_MxEooVTP8nNYnFioK_32qL-sLK9rwIuIryz--tltlWdbk4Uz0U5ZesmGgCfm084T6lZH2uncE9zHvHQ5iZAQ",
-					"start_cursor": "AQHRA_MxEooVTP8nNYnFioK_32qL-sLK9rwIuIryz--tltlWdbk4Uz0U5ZesmGgCfm084T6lZH2uncE9zHvHQ5iZAQ"
+					"end_cursor": "AQHRm7GDy8CtvOlAyRmaNe9-GTbLZr1nPBblxOHZ1mGajpBW7nKdIHmn2eVob_IWRhOJnAR0e6YPJ72IIktJ9RyFKQ",
+					"start_cursor": "AQHRm7GDy8CtvOlAyRmaNe9-GTbLZr1nPBblxOHZ1mGajpBW7nKdIHmn2eVob_IWRhOJnAR0e6YPJ72IIktJ9RyFKQ"
 				},
 				"edges": [
 					{
@@ -239,13 +264,13 @@
 								"id": "211017552961266",
 								"display_name": "rodgerramjet85",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/86625137_761057187957297_7181330065072428595_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=94Jf3CsvERAAX8-F25n&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3c06926618b2767dcff65dc373a37d83&oe=60BF9923"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/86625137_761057187957297_7181330065072428595_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=94Jf3CsvERAAX-syQYv&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e3d74c59908f67ec07ab3e562f538a8&oe=60BF9923"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Awesome  game but shares an ongoing problem.\nListen up all developers you need to make your games accessible to all levels of players\nNot just die hard. It's just that simple you can still have impossible mode.\nAt the same time  throw us true casual gamers a bone.\nEspecially those of us that may have disabilities \nThis hobby that I love needs to address these issues sooner rather than later \n\nTrue casual and gamers with disabilities deserve to see the end of the game we paid the same amount of money.",
 							"reviewTitle": "Great but come on man",
-							"review_helpful_count": 32,
+							"review_helpful_count": 50,
 							"review_rank_by_viewer": null,
 							"date": 1621431077,
 							"developerResponse": null
@@ -260,7 +285,7 @@
 				"description": "CRASHLAND is a VR action horror game set on a hostile alien planet. You play as an intergalactic gladiator who is crashlanding and trying to survive until rescue. Combat in CRASHLAND is fast, vicious, and brutal. You will fight giant hellworms in the desert, terror birds in the forest, scorpions in the mist and spiders in the dark. There is nowhere to hide.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_455702652234026_665567428301902815_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rvyjNczLL0cAX-giaDM&_nc_oc=AQlNfg9uqqNgRFP4ibpeZBgatKRfXdmruJil69mCZKsHwRRnj2Ah47v72I9B7pG5L4o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=328dead021563c5e2567e11be71566bf&oe=60BFDA49",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_455702652234026_665567428301902815_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rvyjNczLL0cAX8OBGNY&_nc_oc=AQk7wS5yrB5beYKSmsA56IbBPNPWWCjnRedQlxikB2D-uceYn0lQnza_7VlKO7jjswk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7ce656fd0ada19bbf922021372fba255&oe=60BFDA49",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
