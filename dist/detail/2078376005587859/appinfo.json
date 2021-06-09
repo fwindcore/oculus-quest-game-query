@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974744_278791059676338_8968335349809938432_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3jQUUx13Y9UAX9dltAy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=41f1d2078ac5384f5341ddf2c26a5c0a&oe=60C46FB6"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974744_278791059676338_8968335349809938432_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6R-SG9GGD1cAX9PdFkc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e7038bb7aa6e670933ad5e0b9193df9f&oe=60C669F6"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031315_278790186343092_8748549499472838656_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=fa8VY-DrDkkAX_ahFQu&_nc_oc=AQl3aI8BuhEjfMlSxC2K3dqDCkjlfiMItEbZ4k_n6trxr_VJk2M36claeMeWTmZPxTQ&_nc_ht=scontent.oculuscdn.com&oh=b515c796daa108a27e62abe811cabec3&oe=60C42842"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031315_278790186343092_8748549499472838656_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=fa8VY-DrDkkAX-NGaY6&_nc_oc=AQnwuBcxB026bSbwNjfaWUElmHY5OEOHQJcDft2guggeSvMvVU_0aYZLVGESZHj6khY&_nc_ht=scontent.oculuscdn.com&oh=3d3d6d94e94e6b4f7bdb0fbefd64f0c5&oe=60C62282"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 511,
+					"count": 512,
 					"starRating": 5
 				}
 			],
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.3410",
-				"change_log": "v0.3410\n• Minor hotfix correcting the position of the welcome screen on launch\n\nv0.3409\n• Improved ergonomics for the controller attached UI\n• Implemented one handed mode available through settings\n• Added a favorite/unfavorite button to the profile panel\n• Fixed a bug that prevented navigation arrows from being clickable\n• Fixed a bug where the controller attached UI could be visible when the application loses focus for the universal menu\n• Fixed a bug that could prevent the satellite map toggle from appearing before restarting the application on first launch\n\nv0.3407\n• Major UI/ease of use overhaul\n• New controller-attached minimap and tool set\n• Added random teleportation type toggles. You can now randomly teleport throughout the world, from within our collection of famous places, or within your favorites!\n• Added map navigation instructions on first launch.\n• Added a welcome/help panel\n• Simplified controls with an option to use advanced controls in settings\n• Fixed bug where the random location button would stop working after 4-5 attempts\n• Fixed a bug where audio in multiplayer could cut out\n• Fixed a bug that could cause unusual avatar positioning\n• Many other minor bug fixes\n\nv0.3394\n• Quest 2 support including Quest 2 controller models, optimizations and visual improvements\n• Improvements to voice communication including echo cancellation, automatic gain control, and audio codec changes\n• Lip sync for avatars\n• Fixes for Go/Quest multiplayer audio\n• Fixed connection back to Alcove for players starting Wander from Alcove\n• Minor UI improvements\n• Performance improvements\n• Potential fix for rare bug where some users who are unable to load locations\n\nv0.3392\n• Improved search and fixed a regression where search could place users too far from their intended destination\n• Fix for occasional frame drops when loading new locations\n• Updated speech recognition plugin. \n• Removed Exit to Oculus Home on the dock as it does not appear to work well with the new focus aware menu from Oculus\n\nv0.3381\n• Fixed a bug that could prevent application from loading for some users\n• Fixed a bug that could prevent player markers from showing up in multiplayer if the map was closed when a player joined\n• Improved messaging (and logging) when errors occur during startup\n• Controls improved when using a single controller\n\nv0.3376\n• Fixed issue where in some locations the teleportation marker would be excessively large\n• Fixed a bug that could prevent the renaming of favorites\n• Fixed a bug where some locations that did not have high resolution imagery could fail to load with max resolution set\n• Fixed laser appearing in center of vision when bringing up the new focus aware Oculus menu\n• Updated collections\n• Improved thumbnail loading in collections (should be faster when scrolling)\n• Map no longer registers drags as clicks when the map is dragged back to its original location\n• Improved reliability of random search\n• Improved reliability of search on map when zoomed out\n• Improved voice quality and reliability\n• Boosted voice volume\n• Minor UI improvements\n• Slightly improved application startup time\n\n\n",
+				"version": "0.3413",
+				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "183664692",
-				"id": "4269251056500332",
-				"required_space_adjusted": "235718446",
+				"total_installed_space": "252285422",
+				"id": "4446004975491605",
+				"required_space_adjusted": "354336594",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4269251056500332"
+					"id": "4446004975491605"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "377770446302091",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.3410",
-							"id": "4269251056500332"
+							"version": "0.3413",
+							"id": "4446004975491605"
 						}
 					}
 				]
@@ -201,11 +201,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.8158878504673,
+			"quality_rating_aggregate": 3.8169934640523,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 562,
+				"count": 563,
 				"orderings": [
 					{
 						"key": "top",
@@ -218,10 +218,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 562,
+				"count": 563,
 				"page_info": {
-					"end_cursor": "AQHRgLY_LPInrj1OA6F4mLOueViPIULQQwaoi6NxoALq0K5FjDcgNe_IXS_PhM5nZi2AOr4HAzAN5lH9lh-vBurCvw",
-					"start_cursor": "AQHRgLY_LPInrj1OA6F4mLOueViPIULQQwaoi6NxoALq0K5FjDcgNe_IXS_PhM5nZi2AOr4HAzAN5lH9lh-vBurCvw"
+					"end_cursor": "AQHRDNJwEiTzqIHLiB6Cm7VrHEOEQBPI0P5cokM5B2uxaf6bkD0armUI64mH_yFK6Hj9dWcdMB53rHzMlwoxLnr-gQ",
+					"start_cursor": "AQHRDNJwEiTzqIHLiB6Cm7VrHEOEQBPI0P5cokM5B2uxaf6bkD0armUI64mH_yFK6Hj9dWcdMB53rHzMlwoxLnr-gQ"
 				},
 				"edges": [
 					{
@@ -231,13 +231,13 @@
 								"id": "100743311829791",
 								"display_name": "ocuhyduh",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001674_100743638496425_4813609497711728554_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UqMLnGoWiY8AX8XoLXW&_nc_oc=AQlJFpuIJqiGFvzTlk1HeUZkFaOhMsu3kyTCXgUrDct4TgtnVNWMircZ_WWtnbNZRuM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3073ac98d331aeebbfb054e5453840e4&oe=60C42F42"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001674_100743638496425_4813609497711728554_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Q8CNhIB6akoAX9HDhQa&_nc_oc=AQnDCZE8rtnZfxDqDoVkDkZ2kizx8aNclYydKjBezyOy1APrYmp3WnlaCgyvmmXfLpQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=35d2433dac6867669293e6188354a48a&oe=60C62982"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Until the recent update, I'd use this app almost every time I put on my headset. The recent update removed the feature where you can move the map anywhere on your screen but keep it open. I'd lower the map so it wouldn't block my view but was easy to see and use at a glance. Now if I select a place on the map to visit, the first thing I see is the big map screen right in front of me, and I have to click to remove it before I can enjoy the surroundings. This really reduces the impact of a first impression of a place! Please bring back this feature! It seemed like a small thing at first but is becoming more and more frustrating.",
 							"reviewTitle": "Loved the app, recent update not so much",
-							"review_helpful_count": 300,
+							"review_helpful_count": 304,
 							"review_rank_by_viewer": null,
 							"date": 1618590032,
 							"developerResponse": null
@@ -252,7 +252,7 @@
 				"description": "Wander the world openly through the magic of VR. From the comfort of your living room you can teleport almost anywhere in the world - whether you wish to walk across the London Bridge, stroll the gardens of the Taj Mahal, or witness the enormity of the Great Pyramids of Egypt - unlimited exploration awaits!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974661_580808789094371_3228895235618635776_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aM1UGATPwX8AX83TGZC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c5ab4bd5eaa1a9042eb1ec5142396549&oe=60C43882",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974661_580808789094371_3228895235618635776_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aM1UGATPwX8AX9FcH1J&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8cd347b85d37763c09239123640fa53a&oe=60C632C2",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

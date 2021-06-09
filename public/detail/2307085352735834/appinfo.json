@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031399_270889964059095_1801547555515149045_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aaG-YdjADowAX_zrHNV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fbaa2309b1806e7222645515e2c21112&oe=60C39268"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031399_270889964059095_1801547555515149045_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aaG-YdjADowAX-_PGAA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f28e5b8587547778b73e47f29b7082b8&oe=60C58CA8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_668112323909051_8698669230012796472_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=FQNPcGEIcnMAX87xVPg&_nc_ht=scontent.oculuscdn.com&oh=f3c5ab3aa63831d07881f2bf34a8ea3c&oe=60C35D01"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_668112323909051_8698669230012796472_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=D_-O7HOs2MAAX-Ku3sz&_nc_ht=scontent.oculuscdn.com&oh=1bfb946920564e134b2afbce5679be2c&oe=60C55741"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 25,
+					"count": 26,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1164,
+					"count": 1166,
 					"starRating": 5
 				}
 			],
@@ -204,7 +204,41 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1623538800,
+								"current_start_timestamp": 1623535140,
+								"temporal_info": {
+									"seconds_until_end_time": 311522,
+									"seconds_until_start_time": 307862
+								},
+								"vr_app_and_destination_string": "Blaston",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2307085352735834",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Blaston"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "4373719752648770",
+								"is_vr_viewer_interested": false,
+								"name": "Blaston at UploadVR Summer Showcase",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974792_1196365784138433_9088046230376844582_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=swKQmdF7bHMAX9rG_I0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=15183e63b2397f86d7b478a734b10e23&oe=60C57D73"
+								}
+							}
+						}
+					]
 				},
 				"id": "2706841829336579",
 				"posts": {
@@ -215,7 +249,7 @@
 							"created_time": 1617207898,
 							"body_text": "Do you have what it takes to rise the ranks and be this season’s champion in Resolution Games’ fiercely competitive VR dueling game?\n \nThe Blaston World Expansion Update is now live! Enter the arena to complete missions, hang out in the newly expanded Ozo Lounge, enter into tournaments, spectate other matches, check out new weapons and avatars, and so much more!\n \nMajor Additions/Changes\n \nNew weapon: Vector - Bullets bounce on surfaces. The trick is now to remember that other guns don't!\nMission System (Unlocked at level 5)\nMissions reward upgrades (Tier 2 and Legendary)\nMute/block function is added to prevent bad behavior in the Ozo Lounge\nArcade machines on both floors of the Ozo Lounge are back online!\n \nCheck out the full patch notes in-game and make sure to join the Blaston Community on Discord and Twitter!\n \nSee you in the Ozo Lounge!\n \nThe Blaston Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974497_468900704257703_5522043315815613294_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vzbW1WGnTb0AX_Dj7GY&_nc_ht=scontent.oculuscdn.com&oh=feeea339a4bfbfd9562a679ea8c91da4&oe=60C3F273"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974497_468900704257703_5522043315815613294_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vzbW1WGnTb0AX8GIK9x&_nc_ht=scontent.oculuscdn.com&oh=8c6da79817c9145d251cbfec2a003b38&oe=60C5ECB3"
 							}
 						},
 						{
@@ -224,7 +258,7 @@
 							"created_time": 1615810695,
 							"body_text": "Hey Duelists,\n\nWe just released a patch with some fixes. Thank you everyone for being patient this past week. We’ve seen you having a little too much fun with the Noxa Helix and are introducing a new, revitalized version. We’ve also fixed some issues with the Ozo Lounge connecting to Discord and are happy to announce that the photo feature is back, as well as the in-game chat monitor.\n\nCheck out the full patch notes in-game.\n\nEnjoy! \nThe Blaston Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974705_281211000034519_4603919850245421298_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ty4uPRm4kV0AX-OSOKr&_nc_ht=scontent.oculuscdn.com&oh=6cc671d5b29b9cfbf730bcfaafeb00fe&oe=60C47908"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974705_281211000034519_4603919850245421298_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ty4uPRm4kV0AX8jSgRj&_nc_ht=scontent.oculuscdn.com&oh=ebc8fc4f107db02a347797de13489392&oe=60C47908"
 							}
 						}
 					]
@@ -232,7 +266,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR3MexNGv3WbIFUf5zEZWn37qjEoPLBXGR5d5m6M3SiRPd8iHyAaoHoqCgAgvz-Sl8f7QVxbB82E4ADi0HozME5Q"
+							"cursor": "AQHRPrJndtNJ0tbXk3y9tf4vwBnsCjMDW4ZJkRH9uOs_Ahy4wNBTqYCrE9Fp92pV5P5WR8hp4UcGBl43cKuPqjfukg"
 						}
 					]
 				}
@@ -285,11 +319,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7811572700297,
+			"quality_rating_aggregate": 4.780162842339,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 837,
+				"count": 838,
 				"orderings": [
 					{
 						"key": "top",
@@ -302,10 +336,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 837,
+				"count": 838,
 				"page_info": {
-					"end_cursor": "AQHRp4PCvUaYeGVWgV4YwlrHdUXIvbJyaw77EcklVLjizcwEtmzauldq2fpmbykYD0eH4GkleteUIiEnavfNYXstcw",
-					"start_cursor": "AQHRp4PCvUaYeGVWgV4YwlrHdUXIvbJyaw77EcklVLjizcwEtmzauldq2fpmbykYD0eH4GkleteUIiEnavfNYXstcw"
+					"end_cursor": "AQHRrhPORZh60RYgQJEh4ugCZ9MTV6OCToOC3_c-iwILGvObA9iMiWoxLle4Bq-_UeX8D0HjTl95AnFi7l3hp56PPA",
+					"start_cursor": "AQHRrhPORZh60RYgQJEh4ugCZ9MTV6OCToOC3_c-iwILGvObA9iMiWoxLle4Bq-_UeX8D0HjTl95AnFi7l3hp56PPA"
 				},
 				"edges": [
 					{
@@ -315,13 +349,13 @@
 								"id": "105191785048357",
 								"display_name": "WhiteWhales",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982688_105193768381492_6349304898950654687_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kMy21cx_SjIAX_n8v1c&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6290bf296e36ebed4a7b7c08f6e569ba&oe=60C4C911"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982688_105193768381492_6349304898950654687_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kMy21cx_SjIAX-aZC2T&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2efb3694775e224e93193a60e6ef3b6b&oe=60C4C911"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I got this game because a friend said it's much fun, I didn't really believe it looking at the presentation and even at other great reviews but I got it anyway just to play with my fr. \nAs soon as I started playing real ppl I was hooked, it's so great, it just feels so good, I am not in good physical shape and I have to stop and catch my breath after a few real games but I get right back in and only stop when I am completely exhausted  :)) it is amazing how much of a workout you can get without even realizing it cuz you are having too much fun, or at least I am (I have seen some players that get visibly upset when they loose :))\nThank you for this amazing game that also helps be healthier by getting fit !",
 							"reviewTitle": "Gr8",
-							"review_helpful_count": 39,
+							"review_helpful_count": 41,
 							"review_rank_by_viewer": null,
 							"date": 1619887340,
 							"developerResponse": null
@@ -336,7 +370,7 @@
 				"description": "Do you have what it takes to climb the ranks and be this season’s champion in Resolution Games’ fiercely competitive bullet-hell dueling game?\n \nJoin the community & compete within the slow motion VR action of Blaston, which The Gamer calls “utterly addicting.” Prepare to dodge, duck & weave to evade incoming attacks from your opponent in this FPS PvP combat game that combines skill, strategy & speed with an incredible arsenal of futuristic high-tech weapons.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001709_2994135740863655_8212847798465105405_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K_uaPEjUdN0AX8RpRmK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59252ec71ce697b7df3fdf892fd20674&oe=60C4A734",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001709_2994135740863655_8212847798465105405_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4m9-HldCV3cAX-efpS4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8475ef84b5fdacf4e778e1c7d17baa4b&oe=60C4A734",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
