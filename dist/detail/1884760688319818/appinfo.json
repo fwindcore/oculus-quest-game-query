@@ -22,14 +22,16 @@
 							"formatted": "$38.99"
 						},
 						"strikethrough_price": {
-							"formatted": "$49.98"
+							"formatted": "$47.98"
 						},
 						"id": "190353799632863"
 					},
 					"cover_landscape_image": {
-						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974800_496268265048737_1744799492507905386_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3At495f23soAX-OI4_H&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96af6add9844170988655b57dd14e973&oe=60C74C1E"
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38974800_496268265048737_1744799492507905386_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=URzRRFGI7RIAX_bdvoF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0362abc3903a3e89b174c5f9a139ce47&oe=60C74C1E"
 					},
-					"cover_square_image": null,
+					"cover_square_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/38984470_535237534170380_6314779192458013651_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ke2bH37dxyoAX8HeOGn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9b2ddf20d76b0e6abd5cda3897a04bfe&oe=60C8DC9B"
+					},
 					"is_viewer_entitled": false,
 					"bundle_items": {
 						"count": 2
@@ -39,9 +41,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982545_435412961115358_1195377053426836600_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1tgFQ8nyi5UAX9k4M6O&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0c6802321d18c0aeb218528a559b634d&oe=60C6607C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982545_435412961115358_1195377053426836600_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8KuoNjpI83YAX9-pNCD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d50c9f5b547399fe7f37b23950520776&oe=60C85ABC"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1394513367556147_4670296902617340522_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=pQR0k7JAJLoAX9zMUPn&_nc_ht=scontent.oculuscdn.com&oh=47c1eddf7cbce5b47565258891aeb33c&oe=60C5C5CD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1394513367556147_4670296902617340522_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=jkRyXXReVeEAX86BC3T&_nc_ht=scontent.oculuscdn.com&oh=85cf9dda5d53ee6d8f28001c4ac5f3ed&oe=60C7C00D"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -56,12 +58,12 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 34,
+					"count": 35,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 78,
+					"count": 80,
 					"starRating": 4
 				},
 				{
@@ -127,17 +129,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "346066483266261",
+				"id": "2989131191412885",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1799",
+					"formatted": "$17.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-10%",
+				"end_time": 1623481140,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -229,16 +236,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "346066483266261"
+				"id": "2989131191412885"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3423236514523,
+			"quality_rating_aggregate": 4.3381443298969,
 			"support_website_url": "http://www.crashlandvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 342,
+				"count": 344,
 				"orderings": [
 					{
 						"key": "top",
@@ -251,10 +258,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 342,
+				"count": 344,
 				"page_info": {
-					"end_cursor": "AQHRDT_4tSHTBoW6MK7vgbvb9_Tp1OcVrj5AOkFTiXAnimJml3owpNJYZn4F3G5mKTJSC6UJDQXOa2m4VaHK_IV6Zg",
-					"start_cursor": "AQHRDT_4tSHTBoW6MK7vgbvb9_Tp1OcVrj5AOkFTiXAnimJml3owpNJYZn4F3G5mKTJSC6UJDQXOa2m4VaHK_IV6Zg"
+					"end_cursor": "AQHRag1Luu9yvb5T3T8rP_J-xppRTZe0LewFB4kQoQtxk9t-Do6RfK62CRMZe8usmA-bJcZfsuoKnpxtpfmquGMZtQ",
+					"start_cursor": "AQHRag1Luu9yvb5T3T8rP_J-xppRTZe0LewFB4kQoQtxk9t-Do6RfK62CRMZe8usmA-bJcZfsuoKnpxtpfmquGMZtQ"
 				},
 				"edges": [
 					{
@@ -264,13 +271,13 @@
 								"id": "211017552961266",
 								"display_name": "rodgerramjet85",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/86625137_761057187957297_7181330065072428595_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cgaUI20usuEAX-HCcT8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c041a2dbe644e799595e1f2491de9f6e&oe=60C78223"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/86625137_761057187957297_7181330065072428595_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cgaUI20usuEAX9oMJmn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7c9efae4d8a84e49a3f4048f6bd9f65a&oe=60C78223"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Awesome  game but shares an ongoing problem.\nListen up all developers you need to make your games accessible to all levels of players\nNot just die hard. It's just that simple you can still have impossible mode.\nAt the same time  throw us true casual gamers a bone.\nEspecially those of us that may have disabilities \nThis hobby that I love needs to address these issues sooner rather than later \n\nTrue casual and gamers with disabilities deserve to see the end of the game we paid the same amount of money.",
 							"reviewTitle": "Great but come on man",
-							"review_helpful_count": 150,
+							"review_helpful_count": 162,
 							"review_rank_by_viewer": null,
 							"date": 1621431077,
 							"developerResponse": null
@@ -285,7 +292,7 @@
 				"description": "CRASHLAND is a VR action horror game set on a hostile alien planet. You play as an intergalactic gladiator who is crashlanding and trying to survive until rescue. Combat in CRASHLAND is fast, vicious, and brutal. You will fight giant hellworms in the desert, terror birds in the forest, scorpions in the mist and spiders in the dark. There is nowhere to hide.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982454_455702652234026_665567428301902815_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wfN_z16HPykAX8TSeE7&_nc_oc=AQnrDK0nlaiDSmyhbgtsaUXaxlhisW06IyZAyNI-Hmx3cn5GM41rEqSyh-kUVscekos&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a64cbb1983566e216298ddc50005776c&oe=60C5C909",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974522_330039545168077_8917807508620001563_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K-Ca5WFgKO8AX8Ki-IM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c860ec833e9e8a81ae63e1d5d27fc55f&oe=60C8E614",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

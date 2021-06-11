@@ -1,0 +1,278 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "4784171281624823",
+			"display_name": "Villa",
+			"platform": "ANDROID_6DOF",
+			"category": "APPS",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974499_942148433026158_7347930193473508401_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PEeQ5K9GbxsAX9YnTqz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=32d5c65df303ce7748e1179eae14828c&oe=60C74E71"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974782_930666240838417_6493622687606775185_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=3DC3D0T5R-IAX9_y3Qx&_nc_ht=scontent.oculuscdn.com&oh=967065fcd32133dfa39a792768b569ee&oe=60C7B24C"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 6,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 0,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 1,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "* Standups, roadmapping, happy hours, board meetings, design, 1:1s, and offsites that are out of this world and far better than IRL\n* A creativity platform, much like Zoom + Slack in 3D. Our focus is teams, giving tech professionals superpowers to be their best\n* The answer to ‘videoconference fatigue’ by putting you in thrilling immersive meeting experiences, giving you the tools to interact, co-invent and play\n* A meeting in VR is multiples more effective than IRL meetings with massive screens, and activities that defy physics like drawing in the air\n* Launched with multiple locations around the world. At the heart of each such micro-universe is your Villa, always the same, and always unique as you personalize it to reflect your team and org’s personality and identity\n* Boost in culture, the glue that holds everyone to a common mission which is tricky in remote\n* Improved camaraderie and positive workplace feelings\n* Big CapEx and OpEx savings to your company relative to IRL meetings",
+			"developer_privacy_policy_url": "https://app.villa.rocks/privacy",
+			"developer_terms_of_service_url": "https://app.villa.rocks/terms",
+			"supported_player_modes": [
+				"SITTING",
+				"STANDING",
+				"ROOM_SCALE"
+			],
+			"publisher_name": "RealVR",
+			"supported_in_app_languages": [
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY",
+				"HOLLYWOOD"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人"
+			],
+			"age_rating": null,
+			"category_name": "应用",
+			"developer_name": "realvr.ai",
+			"genre_names": [
+				"360 度全景体验（非游戏）",
+				"效率",
+				"社交"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "1.0",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY",
+					"HOLLYWOOD"
+				],
+				"total_installed_space": "859255383",
+				"id": "5650424084999534",
+				"required_space_adjusted": "1362508158",
+				"storeAddOns": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"count": 0
+				},
+				"firstIapItems": {
+					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
+					"page_info": {
+						"end_cursor": null,
+						"start_cursor": null
+					},
+					"count": 0,
+					"edges": []
+				}
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1623340238,
+			"supported_tracking_modes": [],
+			"website_url": "https://www.villa.rocks/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_OFFER",
+				"id": "984029689011022",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
+				"buy_button_captions": [
+					{
+						"text": "提供应用内购买"
+					}
+				]
+			},
+			"viewer_release_channel": {
+				"id": "814045579387954"
+			},
+			"live_release_channel": {
+				"id": "814045579387954",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "5650424084999534"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "814045579387954",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "1.0",
+							"id": "5650424084999534"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "314917692963774",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRklQ5hmhSJD5Cp43aAC57vTLp4q-LlapPXudTx3XumbGbfCnKpDjAJI_PsTXVBYZOmqhhAsmTkmPLj3wrF0qNfA"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_MOST",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "realvr-ai-villa-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": null,
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "0"
+				},
+				"id": "984029689011022"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "Villa",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 1.5714285714286,
+			"support_website_url": "https://www.villa.rocks/contact",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 5,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 5,
+				"page_info": {
+					"end_cursor": "AQHRSezvyq_2v8u1EMGX3Mi8sOVOkmDa7I9oqqq5EkeSYpRywmcbk24qTPudIxw_aolvkp6PyNNmZCHXviX2_GJk4A",
+					"start_cursor": "AQHRSezvyq_2v8u1EMGX3Mi8sOVOkmDa7I9oqqq5EkeSYpRywmcbk24qTPudIxw_aolvkp6PyNNmZCHXviX2_GJk4A"
+				},
+				"edges": [
+					{
+						"node": {
+							"id": "309824160678726",
+							"author": {
+								"id": "116157180045426",
+								"display_name": "LesterFreamon",
+								"profile_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.168.168a/s160x160/75388625_164840298510447_4375066517490735097_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6Gti1KXT89MAX8i_MKi&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e3c5de14daaecd75112fe4adc6a8557a&oe=60C74DCF"
+								}
+							},
+							"score": 1,
+							"reviewDescription": "If there are VR collaboration spaces that are free to $10/mo and offer a free trial, why pay $30+ a month for this one?  Who is going to give up bucks to some app claiming to be free, then after I download, you take my email address and photo, and you throw in the exorbitant costs without a way to proceed for free.\n\nTo anyone reading, this starts at $30 a month, and there’s nothing free.",
+							"reviewTitle": "Starts at $30 a month. Nope.",
+							"review_helpful_count": 68,
+							"review_rank_by_viewer": null,
+							"date": 1623354491,
+							"developerResponse": null
+						}
+					}
+				]
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Villa is a VR platform for team collaboration in thrilling immersive environments. For teams of up to 15 simultaneous members per villa. Villas interconnect (feature coming soon) for company wide simultaneous users, giving every team in an organization, from engineering, through product, finance, sales, marketing, partnerships C-Suite and Board professionals, a common space in VR. Come experience standups, strategy, design, roadmapping, 1:1s, offsites and board meetings that are better than IRL!",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982584_763655111196011_5747871649316648375_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Jx_p1Run8TMAX8XPazm&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2afcb1b56fa3a2f6b5035d73328f552e&oe=60C8F7F0",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/4784171281624823/",
+				"site_name": "Oculus",
+				"title": "Villa · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974766_1023608128170444_5037561264956897538_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PsGYs9IFiakAX98YvLb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8523db0df4c0f44117ef3d1fe73cee1d&oe=60C715C2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974766_1023608128170444_5037561264956897538_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PsGYs9IFiakAX8aYsqK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0d792ca052152fd4e713dbfb7d7d0d3e&oe=60C715C2"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_349065926559040_7179963815434197088_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Q42R-pVB0h0AX_DWONw&_nc_ht=scontent.oculuscdn.com&oh=96e8ada430523b6d4b057c1a2307bdbc&oe=60C70E1B"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_349065926559040_7179963815434197088_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=ZPwQ4TOoRNAAX_BSGrZ&_nc_ht=scontent.oculuscdn.com&oh=7d8aba28ce786f28cd739a4933d85fca&oe=60C9085B"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 240,
+					"count": 241,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 818,
+					"count": 821,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 6228,
+					"count": 6243,
 					"starRating": 5
 				}
 			],
@@ -97,15 +97,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2.19662",
+				"version": "1.2.19899",
 				"change_log": "The best version of POP: ONE to date!",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2550753439",
-				"id": "5901523316539531",
-				"required_space_adjusted": "3606784848",
+				"total_installed_space": "4103746142",
+				"id": "5936445779713951",
+				"required_space_adjusted": "5882666833",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -150,7 +150,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5901523316539531"
+					"id": "5936445779713951"
 				}
 			},
 			"release_channels": {
@@ -161,8 +161,8 @@
 						"id": "733026950405276",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2.19662",
-							"id": "5901523316539531"
+							"version": "1.2.19899",
+							"id": "5936445779713951"
 						}
 					}
 				]
@@ -176,7 +176,7 @@
 								"current_end_timestamp": 1623697200,
 								"current_start_timestamp": 1622746800,
 								"temporal_info": {
-									"seconds_until_end_time": 383501,
+									"seconds_until_end_time": 297232,
 									"seconds_until_start_time": 0
 								},
 								"vr_app_and_destination_string": "POPULATION: ONE",
@@ -199,7 +199,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Team Deathmatch coming to public lobbies June 3 for a LIMITED TIME!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974703_4197953140266329_8268610176885810656_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=s5IFtcL-2scAX8V4jok&_nc_ht=scontent.oculuscdn.com&tp=28&oh=da4cdfa138de00686d163af0380882ef&oe=60C7090B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974703_4197953140266329_8268610176885810656_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_mquUvDasWMAX-AznzZ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=190cbbf8642281a89b4f914fc7ec3c58&oe=60C9034B"
 								}
 							}
 						}
@@ -209,19 +209,21 @@
 				"posts": {
 					"nodes": [
 						{
-							"id": "181829147189051",
-							"title": "Weekly POP: ONE Update!",
-							"created_time": 1622700383,
-							"body_text": "New LIMITED TIME Deathmatch Game Mode!\n\nAvailable in Public Lobbies: 6/3 - 6/14 @ 12pm Pacific\nAvailable in Custom Rooms: 6/14 @ 12pm Pacific\n- 2 Teams of 6\n- 30 kills to win, 15 minutes max\n- Players respawn automatically to get back in the action quickly\n- Takes place in 1 of 3 randomly selected locations of the main POP: ONE map (The Frontier, The Tower, or Farms)\n- To start: On the Play Tab, press \"Change Mode\", then Select \"Team Deathmatch\"\n\nCustom Rooms\n- Star icon shows next to the room admin's name on the minimap player list\n- Randomize team button added to Room Settings\n- Team changing dropdown shows number of players on each team for easier team management\n- Fixed issue where Room Settings UI could display behind the environment and other players\n\nLoading\n- App Launch: Time to get to the main menu is now much faster when launching POP: ONE\n- Install: Greatly reduced install time & app size\n- A \"Loading PJ\" will be shown while character skins load in\n- The default gun skin will show as gun skins load in\n\nGeneral\n- PC VR: Fixed issue where flicking the Matadors was more difficult than intended\n- Firearms: Possible fixes for rare issue causing guns to get stuck (still investigating)\n- Friends List: Fixed issue where friend would not be removed immediately when deleting a friend\n\nSupport For support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- Zone Grenade: Looking away from the grenade's position turns the outer sphere invisible\n- PC VR: Cannot snap turn or smooth turn while in pods\n- PC VR: AWP scope lags when 1st scoping in\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data\n&#x200B;\n~ see you in game!\n\n",
-							"tile_landscape_image": null
-						},
-						{
 							"id": "148459277203457",
 							"title": "Weekly POP:ONE Update!",
 							"created_time": 1618505886,
 							"body_text": "April 15, 2021 Change List\n\nPrivate Rooms New Features\n- Once a team is manually set, teams no longer get shuffled when a new user joins or leaves (Changing Game Modes re-enables team number balancing)\n- Players can now join a room with a squad\n- A new room Leader will be automatically assigned if the current leader leaves\n- Added popup to inform the new leader they are the leader\n- Added a 1 hour countdown timer to force room closure and refresh the server - Prevents weird falling through world issues\n- Added popup toast for 10, 5, and 1 minute server closure countdowns\n- Disabled \"Start Match\" if you're the only one in the room\n\nPrivate Rooms Fixes\n- Fixed issue where the round would end if a player joined as a spectator / in the middle of the match\n- Fixed issue where the game continued after the player died in Solos\n- Fixed issue where the end of Match screen could appear underground\n- Player now receives a notification if they were kicked from the server\n\nGeneral Fixes\n- PC & Quest 2: Fixed issue where the level of detail could lower to Quest 1 level of detail\n- Calling Cards: Removed stats\n- Store: Fixed issue where bundles did not calculate correct funds\n\nSupport\nFor support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data\n&#x200B;\n~ see you in game!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974805_464878391426493_2389325237884804900_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=R2HIkuDTpGQAX-Bt2ut&_nc_ht=scontent.oculuscdn.com&oh=844e1d22380573ae8b1bb37d51798ce6&oe=60C782CE"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974805_464878391426493_2389325237884804900_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=R2HIkuDTpGQAX-PfBU1&_nc_ht=scontent.oculuscdn.com&oh=63cbfbd5d64d5bfb6a22380588393523&oe=60C782CE"
+							}
+						},
+						{
+							"id": "5779104848774284",
+							"title": "Weekly POP:ONE Update!",
+							"created_time": 1617856266,
+							"body_text": "April 8, 2021 Change List\n\nChanges\n- The tower is now open!\n\nSupport\nFor support visit http://support.bigboxvr.com to get access to self-help resources or file a ticket\n\nKnown Issues\n- PC VR: Cannot snap turn or smooth turn while in pods\n- Steam VR users playing on an Oculus headset: When Purchasing Bureau Gold, you will need to take off your headset to approve the purchase\n- If you see a notice that you need to \"update to play\" but don't see it in the store, uninstall and reinstall POP: ONE to force the upgrade to happen. You won't lose any progress or data.\n\n&#x200B;\n\n~ see you in game!",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974530_481985189911205_8161051285863754410_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cTh5iqYDv6IAX-Ze-e1&_nc_ht=scontent.oculuscdn.com&oh=d9910b01db83017afb91de19460c9836&oe=60C83F94"
 							}
 						}
 					]
@@ -229,7 +231,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR6lwiBdN-_OTpuqJGjqsy3pFuRozpi-4Rd3hIg6esDMUBFMobVAWqxyn0gM2KfkogRGdhIg9fyA6Oq4A_ai0mPw"
+							"cursor": "AQHRrJ1mi2ORHQL7ZyXqQvMA3UHOYRfMHYyN7xWtvUDGHeiLX6ITLdA3rnRRypdfrp26P_CAh49mySQ87_Fp11Dd3g"
 						}
 					]
 				}
@@ -282,11 +284,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5951188182402,
+			"quality_rating_aggregate": 4.5954638646848,
 			"support_website_url": "http://www.bigboxvr.com/contact/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 3840,
+				"count": 3843,
 				"orderings": [
 					{
 						"key": "top",
@@ -299,10 +301,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 3840,
+				"count": 3843,
 				"page_info": {
-					"end_cursor": "AQHRxAom_GRFj5gDUXMfOXEzj0Vni50lTGSUfhhsdq57bZMtWSRwvY5FaJClou5WFgNF0SUvah9Nfwz3OtFOccxh7g",
-					"start_cursor": "AQHRxAom_GRFj5gDUXMfOXEzj0Vni50lTGSUfhhsdq57bZMtWSRwvY5FaJClou5WFgNF0SUvah9Nfwz3OtFOccxh7g"
+					"end_cursor": "AQHRbxK1uvi54DpAlXCucfoIOgzvha42S3KxgEHZTuf5bq_z09MPC737ZB7GYvW8d1xjAwSthkC1f6bkZSwO2x4kHg",
+					"start_cursor": "AQHRbxK1uvi54DpAlXCucfoIOgzvha42S3KxgEHZTuf5bq_z09MPC737ZB7GYvW8d1xjAwSthkC1f6bkZSwO2x4kHg"
 				},
 				"edges": [
 					{
@@ -312,13 +314,13 @@
 								"id": "113891373808132",
 								"display_name": "ezqp3",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/39031440_113891737141429_6936801308659105561_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=APE-vUuvMLwAX_GsHXs&_nc_oc=AQksF7KHkeznh9MGNrQO2CWqx_MonhlU1DdMPJ2Z5kSU_NKsnLmJjHApUMrFaFxCtfQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dcdd8ab2ec2d7875bbbd84640380d224&oe=60C7346D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/39031440_113891737141429_6936801308659105561_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=APE-vUuvMLwAX9Gt86O&_nc_oc=AQkUejx4O_-tl2QdFopgVpiFXF9XIB8UT0C2IozJBovLVw4npu26FN-Dg-mfSVntY6k&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e17c4a4ff86358b515d04160d5a29184&oe=60C7346D"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I bought this game a few weeks ago, and its barely what i read from the one star reviews.\nBugs? I got two, but only one of them was affecting gameplay, and not by much.\nThe Comfort Vintage? You can turn that off. (Its the movement circle thing)\nApp Sharing? Multiplayer exclusive games usually don't game share.\nToxic Teammates? I haven't encountered them at all, but if you do, when you're in the lobby, go to settings and find the setting to lower or raise the volume of team chat, then set it to zero.\nPeople complaining about the microphone always being active? Just turn the microphone off in the settings.\n\nAnd to the people who may be complaining about no teleport movement option, teleport movement would ruin the game entirely.\n\nI will say though, there needs to be a way to change keybinds, I hate pressing the  right joystick to empty my gun, its really uncomfortable, and I think pressing X would be a lot better.\n\nOverall its a really good game, me and my friends have had a really good time on it!",
 							"reviewTitle": "One Star reviews are misleading",
-							"review_helpful_count": 278,
+							"review_helpful_count": 287,
 							"review_rank_by_viewer": null,
 							"date": 1620093272,
 							"developerResponse": null
@@ -333,7 +335,7 @@
 				"description": "BIGGEST FPS ON QUEST with 24 Player Matches!\n\nCLIMB, FLY, BUILD. Battle Royale only possible in VR.\n \nPOPULATION: ONE delivers unparalleled vertical freedom and mobility with its unique Vertical combat System. Fly through the map to rain down bullets from above. Climb anything you see to gain the high ground advantage. Build strategic cover to protect your squad. Use your environment to FIGHT ANYWHERE.\n\nCROSS-BUY - Buy for Rift or Quest and get the other free",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982450_489473505610878_1560630409145155976_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X2KDfNx-tV4AX9zfD9X&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3d2522f27c86a3d2d359d920f9ec10c8&oe=60C6A8DC",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982450_489473505610878_1560630409145155976_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X2KDfNx-tV4AX_7jCmI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f653355edaba880015af2f3679ba0f92&oe=60C8A31C",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
