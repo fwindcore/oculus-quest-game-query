@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031621_1179423302421815_448700920851009518_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EUF4JPuU_RUAX_yBhQ1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dbe2348c84bfd22943c679a18ace5f7b&oe=60C84E45"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031621_1179423302421815_448700920851009518_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DOmJxFyVrDsAX9EV52p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ad7436b9c837e65ad8317ee8a52c1ac4&oe=60CA4885"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982461_2769383316637915_1355674284751830124_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=sURT5rS-eGkAX_JW4t4&_nc_ht=scontent.oculuscdn.com&oh=4d56328f345f67104f78d5fbc61e940f&oe=60C84453"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982461_2769383316637915_1355674284751830124_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=sURT5rS-eGkAX-MW2wJ&_nc_ht=scontent.oculuscdn.com&oh=b4bb8299ee9d272424fa755ba25cfcfd&oe=60CA3E93"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -145,11 +145,44 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
+								"current_end_timestamp": 1623713400,
+								"current_start_timestamp": 1623709800,
+								"temporal_info": {
+									"seconds_until_end_time": 227090,
+									"seconds_until_start_time": 223490
+								},
+								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2532035600194083",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Facebook Horizon (Invite-only Beta)"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1483697345331495",
+								"is_vr_viewer_interested": false,
+								"name": "Meditation Monday",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974499_499616944823590_4194675919326461715_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xtNlve9giYsAX_HZqpB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c00c37830afb0dbfde4426375b6104a1&oe=60C8FFCE"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
 								"current_end_timestamp": 1623807000,
 								"current_start_timestamp": 1623803400,
 								"temporal_info": {
-									"seconds_until_end_time": 407028,
-									"seconds_until_start_time": 403428
+									"seconds_until_end_time": 320690,
+									"seconds_until_start_time": 317090
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -171,7 +204,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Scripting Office Hours with the Horizon Team ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222946_1145402655934132_8510341353170397174_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NAlbbu-3GtgAX-Rx8ol&_nc_oc=AQmHpU4X_a6Z3LJz4lnFxaOLEvOjZw5fhEJSn-f-ECAxQ0-VuKg8AKM_E7tSQggkM_o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b6f5d2263718244015a613522e7fd63d&oe=60C7DCEC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222946_1145402655934132_8510341353170397174_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NAlbbu-3GtgAX8Uuhpk&_nc_oc=AQkK35aRPfI-ftTamrr1m6i3SOu5fGJD4EFkIjH19-jeteBtLAZNnggfprFIMjLmg-s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d68bf5ff10ecf8a502ee740fd7d7de1d&oe=60C9D72C"
 								}
 							}
 						},
@@ -181,8 +214,8 @@
 								"current_end_timestamp": 1623893400,
 								"current_start_timestamp": 1623889800,
 								"temporal_info": {
-									"seconds_until_end_time": 493428,
-									"seconds_until_start_time": 489828
+									"seconds_until_end_time": 407090,
+									"seconds_until_start_time": 403490
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -204,7 +237,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Horizon World Tours ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974769_1937423273079267_9158959706303259136_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wQlg5Mn4WSsAX99LrlF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8d490aac0351f674f6e3d5c958e3b6d3&oe=60C79648"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974769_1937423273079267_9158959706303259136_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wQlg5Mn4WSsAX_-H5U1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d38acb0f345927f3ac1c33bc508781cb&oe=60C99088"
 								}
 							}
 						},
@@ -214,8 +247,8 @@
 								"current_end_timestamp": 1623898841,
 								"current_start_timestamp": 1623895200,
 								"temporal_info": {
-									"seconds_until_end_time": 498869,
-									"seconds_until_start_time": 495228
+									"seconds_until_end_time": 412531,
+									"seconds_until_start_time": 408890
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -237,7 +270,40 @@
 								"is_vr_viewer_interested": false,
 								"name": "Galaxy Game Show with Osebo",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974602_398808274551485_5174816856607647140_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=i2HaDWhgTpMAX8ZE0TE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0277738583d2b92e379f65ac13d4ba1e&oe=60C83099"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974602_398808274551485_5174816856607647140_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=i2HaDWhgTpMAX8pxXfW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0cdfb641958a380bb57ab9c41d9fdb39&oe=60CA2AD9"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1623972600,
+								"current_start_timestamp": 1623969000,
+								"temporal_info": {
+									"seconds_until_end_time": 486290,
+									"seconds_until_start_time": 482690
+								},
+								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2532035600194083",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Facebook Horizon (Invite-only Beta)"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1483699541997942",
+								"is_vr_viewer_interested": false,
+								"name": "LGBTQ Creator Panel",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974601_256082659648676_8586369133483114929_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VO1t8TBs8nYAX_UVBtD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d1c3c736d05762589937dbc8adff926a&oe=60C8B6A8"
 								}
 							}
 						},
@@ -247,8 +313,8 @@
 								"current_end_timestamp": 1624411800,
 								"current_start_timestamp": 1624408200,
 								"temporal_info": {
-									"seconds_until_end_time": 1011828,
-									"seconds_until_start_time": 1008228
+									"seconds_until_end_time": 925490,
+									"seconds_until_start_time": 921890
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -270,7 +336,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Scripting Office Hours with the Horizon Team ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569447_286774079828278_4457829442751662907_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3Pw8ZrhIKakAX9L4Uj_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d9197e02a6e2adad7cf89b8b0c2adec5&oe=60C81BFE"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569447_286774079828278_4457829442751662907_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=24CjzPUhBGcAX-jrOiw&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9fc361a854f71cc6d2af4764f02b3bb8&oe=60CA163E"
 								}
 							}
 						},
@@ -280,8 +346,8 @@
 								"current_end_timestamp": 1624415400,
 								"current_start_timestamp": 1624411800,
 								"temporal_info": {
-									"seconds_until_end_time": 1015428,
-									"seconds_until_start_time": 1011828
+									"seconds_until_end_time": 929090,
+									"seconds_until_start_time": 925490
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -303,7 +369,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Women in Horizon June Edition",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210893_582645182707384_7580304498058946761_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ff-wU6ld61IAX_yWMAU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=930561b5a9470655ddb2d585ebd92f82&oe=60C9042E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210893_582645182707384_7580304498058946761_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ff-wU6ld61IAX_0g6et&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ca2ca2d19a1a58386ee5daf75a75b5ce&oe=60C9042E"
 								}
 							}
 						},
@@ -313,8 +379,8 @@
 								"current_end_timestamp": 1624498200,
 								"current_start_timestamp": 1624494600,
 								"temporal_info": {
-									"seconds_until_end_time": 1098228,
-									"seconds_until_start_time": 1094628
+									"seconds_until_end_time": 1011890,
+									"seconds_until_start_time": 1008290
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -336,7 +402,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Horizon World Tours ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031544_897144104172477_5605198699565510314_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KU-zrcooTa8AX_L1Fks&_nc_ht=scontent.oculuscdn.com&tp=28&oh=502c4424e11dcda8923598873bf307d4&oe=60C87ECA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031544_897144104172477_5605198699565510314_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KU-zrcooTa8AX-u9rRQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=84cfba3b670f9d1a4613830060707eda&oe=60C87ECA"
 								}
 							}
 						},
@@ -346,8 +412,8 @@
 								"current_end_timestamp": 1624503641,
 								"current_start_timestamp": 1624500000,
 								"temporal_info": {
-									"seconds_until_end_time": 1103669,
-									"seconds_until_start_time": 1100028
+									"seconds_until_end_time": 1017331,
+									"seconds_until_start_time": 1013690
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -369,7 +435,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Galaxy Game Show with Osebo",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_182603353762436_3027621449560934058_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XnCm0M1LOa4AX8uWtAe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f427018ebb0ac345499b3b7267661763&oe=60C89234"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_182603353762436_3027621449560934058_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XnCm0M1LOa4AX9-Btx1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=42e7aec83d6c64abba8643c38468ffe8&oe=60C89234"
 								}
 							}
 						},
@@ -379,8 +445,8 @@
 								"current_end_timestamp": 1624584600,
 								"current_start_timestamp": 1624581000,
 								"temporal_info": {
-									"seconds_until_end_time": 1184628,
-									"seconds_until_start_time": 1181028
+									"seconds_until_end_time": 1098290,
+									"seconds_until_start_time": 1094690
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -402,7 +468,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "LGBTQ& Friends Meet up : Pride Edition ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974750_218052226347820_7809091398375534497_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XPDFXKLZ5cQAX_86iqo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dd1230defbcdb5acd98c2f5ef78ae809&oe=60C892C8"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974750_218052226347820_7809091398375534497_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XPDFXKLZ5cQAX8fFemN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a61de2e1178d0ea228df88941df121d8&oe=60C892C8"
 								}
 							}
 						},
@@ -412,8 +478,8 @@
 								"current_end_timestamp": 1625103000,
 								"current_start_timestamp": 1625099400,
 								"temporal_info": {
-									"seconds_until_end_time": 1703028,
-									"seconds_until_start_time": 1699428
+									"seconds_until_end_time": 1616690,
+									"seconds_until_start_time": 1613090
 								},
 								"vr_app_and_destination_string": "Facebook Horizon (Invite-only Beta)",
 								"vr_applications": {
@@ -435,7 +501,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Horizon World Tours ",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566692_506601700684412_3484474623089645894_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uCbx6vvQuHMAX_hGy7t&_nc_ht=scontent.oculuscdn.com&tp=28&oh=582418b7dea37e638355ae58316be089&oe=60C8E57D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57566692_506601700684412_3484474623089645894_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uCbx6vvQuHMAX8sKniG&_nc_ht=scontent.oculuscdn.com&tp=28&oh=612eb2015398bc4cd2c4cc1defa23469&oe=60C8E57D"
 								}
 							}
 						}
@@ -510,8 +576,8 @@
 			"firstQualityRatings": {
 				"count": 106,
 				"page_info": {
-					"end_cursor": "AQHRs5ty2jNj8R7WYnzZ5xzPpqOJkMlRVIoAlrX2_nQl7GbSbPSH95Q3CmRLOVQOOKdf8Cz1Q5cepwgj3jVgArg1Sw",
-					"start_cursor": "AQHRs5ty2jNj8R7WYnzZ5xzPpqOJkMlRVIoAlrX2_nQl7GbSbPSH95Q3CmRLOVQOOKdf8Cz1Q5cepwgj3jVgArg1Sw"
+					"end_cursor": "AQHRghWDEejgd1qPAjiSj7Ktu1cKvqjodx85OW_22YALIxYgbBW3c6Y6ve3IrwHZl3VlTmHaL93YseBK8VDiW4b2DQ",
+					"start_cursor": "AQHRghWDEejgd1qPAjiSj7Ktu1cKvqjodx85OW_22YALIxYgbBW3c6Y6ve3IrwHZl3VlTmHaL93YseBK8VDiW4b2DQ"
 				},
 				"edges": [
 					{
@@ -521,13 +587,13 @@
 								"id": "106767084614427",
 								"display_name": "LunaFern",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39031570_151111230180012_3112930746548581866_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LSZSw_JTQ74AX9Naxa4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=989dc2693d05aa25e35faa89ba41c8c5&oe=60C82E91"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/39031570_151111230180012_3112930746548581866_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=acT41pDA_28AX-G2PyV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f59cf10b3b1db9265584b724c287d959&oe=60CA28D1"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "First of all I just want to say that it's a great app overall. The creating tools are awesome and easy to use, the games/worlds transport you and I actually want to stay there.\n\nBut, there is too many kids running around trolling you and screaming in your ear. I would love to have an option to go in rooms for adult. For noelw, the option I was giving by the help on site is to block them. I just left because I felt uncomfortable around them.",
 							"reviewTitle": "Great start ! Needs improvement.",
-							"review_helpful_count": 43,
+							"review_helpful_count": 44,
 							"review_rank_by_viewer": null,
 							"date": 1618238530,
 							"developerResponse": null
@@ -542,7 +608,7 @@
 				"description": "Facebook Horizon is a social experience where you can explore, play and create. In Horizon, you’re not just a visitor. You're part of what makes it great.\n\nFacebook Horizon is in invite-only beta. To join the beta waitlist, please visit http://www.oculus.com/facebook-horizon",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003245_233387344635237_5651891797598879923_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Nzmdx3g2jJkAX9YZlXe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7f6ff20c845ad776b37706fdaa4a51fe&oe=60C8E3D5",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39003245_233387344635237_5651891797598879923_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Nzmdx3g2jJkAX8hlkdl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=197013d92e97a4505e02ef9b3e803890&oe=60C8E3D5",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

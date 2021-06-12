@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982691_2305335426401527_4626089126830014464_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3Qz8kJfuSiEAX-HBfkJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dba3de0f25fa55455aef0f93cc066251&oe=60C7CC00"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982691_2305335426401527_4626089126830014464_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3Qz8kJfuSiEAX--eQfl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7a6d1b1668a0aeb6bced4b1f777c8381&oe=60C9C640"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2305334346401635_5255374437821186048_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=iNXFtn2m93MAX9xlow7&_nc_ht=scontent.oculuscdn.com&oh=caae99b91aa672345e1e4ebd1aab108b&oe=60C8B122"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2305334346401635_5255374437821186048_n.mp4?_nc_cat=109&ccb=1-3&_nc_sid=0ed769&_nc_ohc=YiDFn2TR0ncAX_Vr43e&_nc_ht=scontent.oculuscdn.com&oh=50c304e337e0b8821fa033dfa667bd7c&oe=60C8B122"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 37,
+					"count": 38,
 					"starRating": 1
 				},
 				{
@@ -123,22 +123,17 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "542799270302661",
+				"id": "392143094707453",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-40%",
-				"end_time": 1623481140,
-				"show_timer": true,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
+				"show_timer": false,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -179,7 +174,7 @@
 							"created_time": 1602176402,
 							"body_text": "We have made an Enhancement Update for our single player action/adventure Apex Construct on Oculus Quest 2, automatically available for free for all owners of the game!\n\nThese are the major improvements you will be able to enjoy when exploring the shattered future & shooting Mothr's robots:\n\n-Higher Resolution\n-No Foveated Rendering\n-More Particle Effects\n-Ragdolls on NPCs\n-More Audio Effects\n\nAlso, our CTO Kristoffer has a personal message to share about the enhancements we are implementing:\n\n\"When we did the original Quest port of Apex Construct we ended up being CPU bound and had to disable both rendering features and CPU features to get the game to perform. Things such as removing rag dolls on NPCs and reducing both sound and visual effects were needed to hit performance. With the increased performance of the Quest 2 we are not only able to restore these features, we are also able to increase the rendering resolution and re-enable a lot of visual effects making Apex Construct both look and sound amazing! I hope you will like it too!\"",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75207243_269109517621050_847407177047251091_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cLXngpUs5ooAX9Q9VvV&_nc_ht=scontent.oculuscdn.com&oh=2388f504b5a5695b91a4430e032c39ca&oe=60C8AC0E"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75207243_269109517621050_847407177047251091_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cLXngpUs5ooAX9Cp-Dy&_nc_ht=scontent.oculuscdn.com&oh=e43d0992a2a9e5d8a13a5e96f720bb61&oe=60C8AC0E"
 							}
 						}
 					]
@@ -231,12 +226,12 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "542799270302661"
+				"id": "392143094707453"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0666666666667,
+			"quality_rating_aggregate": 4.0626631853786,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -255,8 +250,8 @@
 			"firstQualityRatings": {
 				"count": 378,
 				"page_info": {
-					"end_cursor": "AQHRZMrgxl5ye8OWngPFH7ZYo4Ubryg6ZR44Ta3gW81hIs9ogVcno0MpEleYXzhDfnp-k1OSwfMEejZAeI9MDrAbkA",
-					"start_cursor": "AQHRZMrgxl5ye8OWngPFH7ZYo4Ubryg6ZR44Ta3gW81hIs9ogVcno0MpEleYXzhDfnp-k1OSwfMEejZAeI9MDrAbkA"
+					"end_cursor": "AQHRNE5BOv9xafZHLuSLPp6-I3zyFITyTYN3waa1d4PtrkzU_oOciEDTGaMy2Kx_jJtBFR_TMUot4ORAdp4D-Tkpew",
+					"start_cursor": "AQHRNE5BOv9xafZHLuSLPp6-I3zyFITyTYN3waa1d4PtrkzU_oOciEDTGaMy2Kx_jJtBFR_TMUot4ORAdp4D-Tkpew"
 				},
 				"edges": [
 					{
@@ -266,13 +261,13 @@
 								"id": "231406677651843",
 								"display_name": "MattHS0616",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/12331252_231406844318493_1876969891685203968_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KRdZYmZGHrgAX8HLZdV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f791346a10584e231e5bd9d416940dc&oe=60C904C5"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/12331252_231406844318493_1876969891685203968_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1le8fEquQ9oAX-MuRor&_nc_ht=scontent.oculuscdn.com&tp=28&oh=81d9cf811a584aef3a8bd59788078ff3&oe=60C904C5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I absolutely loved this game, my only problem with it and I’m almost certain that I’m not the only one feeling like the ending was a massive failure MASSIVE. It’s so abrupt and does not explain a single thing. Through out the entire game you are made to believe that fathr is hiding something and then the game just ends. I had to go to YouTube to watch a video of the ending because of how abrupt it was, I was thinking maybe I missed something but nope that was the ending. I hope the explanation to this is that there will be a sequel to continue the story. I could easily accept this cliffhanger ending if it were for that but if not it would be a major disappointment. I totally would recommend this to friends and family, I’d warn them about the ending though.",
 							"reviewTitle": "Was that really the ending?",
-							"review_helpful_count": 126,
+							"review_helpful_count": 127,
 							"review_rank_by_viewer": null,
 							"date": 1614679032,
 							"developerResponse": {
@@ -291,7 +286,7 @@
 				"description": "*Enhanced for Oculus Quest 2!\n\nApex Construct is a story-driven, single player action/adventure made exclusively for VR. Wield an upgradable cyber bow & shield combination to battle enemy robots while exploring a shattered world, to understand what led to the extinction of mankind. Also includes Cygnia Cup Challenge, a competitive game mode where you take out shooting targets and enemies in a pre-apocalypse arena to dominate the global leaderboards.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982562_481962422864399_5820750790450741940_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=XlRLRcl-jigAX-VUeG9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=af56366337aee9233dd2abe15fb5636e&oe=60C76EF9",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984458_1046688119052889_6697358820680663040_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qMJ2eQfHoBsAX8F0dnr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=19d4ce3831135f2b0b201054b2f21b88&oe=60C9EE3F",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

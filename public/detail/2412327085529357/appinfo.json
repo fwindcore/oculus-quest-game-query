@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974555_133044044955119_2100898513387086081_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rhA40Tp-iB4AX98awjl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=382d8dd7ef982d0c4b62bd04360d06f1&oe=60C71BD7"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974555_133044044955119_2100898513387086081_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rhA40Tp-iB4AX_EEDZz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b4141447d1fb000f88f56b43e8adc931&oe=60C91617"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974512_173141357827196_7421409193149443751_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Wl8WzyNnBj0AX_8q_om&_nc_ht=scontent.oculuscdn.com&oh=117385b8b77ae93f44799e619b1382f3&oe=60C789C3"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974512_173141357827196_7421409193149443751_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Wl8WzyNnBj0AX_K9436&_nc_ht=scontent.oculuscdn.com&oh=87d5c2b2c81793827150f04db3601acf&oe=60C98403"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 34,
+					"count": 35,
 					"starRating": 1
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 186,
+					"count": 189,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1093,
+					"count": 1142,
 					"starRating": 5
 				}
 			],
@@ -81,15 +81,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "482",
-				"change_log": "Patch update:\n\n- Topgolf bug fix. Certain ball trails would cause a flash of light in hitting areas when ball was struck.\n- Other misc bug fixes.",
+				"version": "491",
+				"change_log": "Multiplayer Stroke Play Updates that will make it easier to stay together!\n\n- The first player on the tee box is now the ‘host’ of the round. The host can begin practicing the course while waiting for the other players to join.\n\n- Once the other players join, the Host can start the round over and everyone will play together.\n\n- Host can let the joining players spectate. Restarting the round or changing course will put all players back on tee box to play together.\n\n- You now have the  ability to restart the round, or play the course again.\n\n- You now have the ability to change courses during or after the round ends without having to go to the main menu.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "3808464460",
-				"id": "3891635867598464",
-				"required_space_adjusted": "1996850408",
+				"total_installed_space": "3809759116",
+				"id": "3972270792868304",
+				"required_space_adjusted": "1997298468",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -123,7 +123,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3891635867598464"
+					"id": "3972270792868304"
 				}
 			},
 			"release_channels": {
@@ -134,8 +134,8 @@
 						"id": "2309851355956647",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "482",
-							"id": "3891635867598464"
+							"version": "491",
+							"id": "3972270792868304"
 						}
 					}
 				]
@@ -153,7 +153,7 @@
 							"created_time": 1621378719,
 							"body_text": "Join today if you want to learn more about the game, find friends to play with, share feedback, and be the first to know about upcoming updates and early beta access opportunities! Join here!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974767_209953857416288_5322206778803025047_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IME82a4HtCIAX-_efiQ&_nc_ht=scontent.oculuscdn.com&oh=e23c6be4276b58e95444ec400f82a532&oe=60C85CC7"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974767_209953857416288_5322206778803025047_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-x8FErdMQWAAX-TLaYP&_nc_ht=scontent.oculuscdn.com&oh=9b66587fcb55a29fabf1c0ea67d15fc5&oe=60CA5707"
 							}
 						}
 					]
@@ -210,11 +210,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.6467195385725,
+			"quality_rating_aggregate": 4.6548611111111,
 			"support_website_url": "http://proputt.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 981,
+				"count": 1037,
 				"orderings": [
 					{
 						"key": "top",
@@ -227,10 +227,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 981,
+				"count": 1037,
 				"page_info": {
-					"end_cursor": "AQHRaZhx_fZ_GYNaAvqgSOCbt6Efm-4lMGCSSdRtBT58PXAZVc1o06vA4w3WQwi_uYXXHF_qU_R0C8BZeiiJblLe3A",
-					"start_cursor": "AQHRaZhx_fZ_GYNaAvqgSOCbt6Efm-4lMGCSSdRtBT58PXAZVc1o06vA4w3WQwi_uYXXHF_qU_R0C8BZeiiJblLe3A"
+					"end_cursor": "AQHR6GF8ngur1VSXAj06dIQJHZZ4_U4OrNJ1Q3o-NiWS2D083DAH7y5JN0U_UcVPvnHkDXuVMUMxdsrKi3yA8ONugQ",
+					"start_cursor": "AQHR6GF8ngur1VSXAj06dIQJHZZ4_U4OrNJ1Q3o-NiWS2D083DAH7y5JN0U_UcVPvnHkDXuVMUMxdsrKi3yA8ONugQ"
 				},
 				"edges": [
 					{
@@ -240,13 +240,13 @@
 								"id": "111990087274193",
 								"display_name": "Diecast628",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c370.0.700.700a/s160x160/75395597_142187980921070_5976302106360076719_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ynxSHVFJ1-4AX9FSBAB&_nc_ht=scontent.oculuscdn.com&tp=28&oh=af4032c896df048a81dcbf5f8644f613&oe=60C89CCF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c370.0.700.700a/s160x160/75395597_142187980921070_5976302106360076719_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ynxSHVFJ1-4AX8FoU52&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e1b826bbac1cdee288dc8d639fac62ff&oe=60C89CCF"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "OLD-This game is terrible and the courses suck the single player sucks its not fun and oculus would let me return it and I'm angry \n0 stars\n\n(UPDATED REVIEW)- so after playing the game for the first  time It was laggy, community was terrible just awful. As a golfer I enjoy this now. I say that because when I bought this and posted the review they were very calm. A few weeks ago I got an email saying they fixed the game. So their response team is amazing because there was a 3 month gap in between so they try and fit everyone's needs. I thank the team for being nice and understanding. This is where I go to let off steam. There is a driving range, beer pong with golf, and beanbags in this lounge room. The coolest thing is they are hooked up to YouTube so you can search for a video or music and it plays on a huge movie screen. Sound is also amazing. Putting and lag is fixed too!",
 							"reviewTitle": "(UPDATED) This is the best relaxing game",
-							"review_helpful_count": 120,
+							"review_helpful_count": 122,
 							"review_rank_by_viewer": null,
 							"date": 1618712099,
 							"developerResponse": {
@@ -265,7 +265,7 @@
 				"description": "Throw on some music and smash some drives in this one of a kind Topgolf venue that can only be experienced in VR. Join public games to meet and play with others, or create your own private lounge where you and 7 of your friends can hang out for hours. \n\n\nIf you’d prefer to get some sun, jump into Pro Putt for a solo round on our epic putting courses, or play with up to 4 players.\n\n\n- Full Swing Topgolf Range\n- Multiplayer\n- Custom Avatars\n- Realistic Physics\n- Media Player\n- Putting Courses",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_367245661026617_4679841475890339958_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=edR3Y-WzZwcAX9IM4BY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ecf422fccf8b69bedbf57ec20a06121e&oe=60C7A008",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974738_367245661026617_4679841475890339958_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=edR3Y-WzZwcAX8APPmY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ca2261b8b45eff7edde6c7429a079ca8&oe=60C99A48",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

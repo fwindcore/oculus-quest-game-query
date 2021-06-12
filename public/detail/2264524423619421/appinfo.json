@@ -10,13 +10,38 @@
 			"display_name": "方块主义",
 			"platform": "ANDROID_6DOF",
 			"category": "GAMES",
-			"item_bundles": [],
+			"item_bundles": [
+				{
+					"id": "1018738868532878",
+					"__isAppStoreItem": "AppItemBundle",
+					"__typename": "AppItemBundle",
+					"display_name": "超脱现实",
+					"current_offer": {
+						"__typename": "AppStoreOffer",
+						"price": {
+							"formatted": "$20.99"
+						},
+						"strikethrough_price": {
+							"formatted": "$29.98"
+						},
+						"id": "532717131215461"
+					},
+					"cover_landscape_image": {
+						"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s100x100/39036677_1932602716922112_8427937794464015588_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KkPn6hD3M-cAX8uxJV_&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0c04f764829de05e7774e993703f28de&oe=60C9CC41"
+					},
+					"cover_square_image": null,
+					"is_viewer_entitled": false,
+					"bundle_items": {
+						"count": 2
+					}
+				}
+			],
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": null,
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 4,
+					"count": 5,
 					"starRating": 1
 				},
 				{
@@ -36,7 +61,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 351,
+					"count": 352,
 					"starRating": 5
 				}
 			],
@@ -122,15 +147,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.3.0",
-				"change_log": "- added localization in English, French, Spanish, German, Japanese, Korean and Simplified Chinese.\n- added custom title puzzles for Japanese, Korean and Simplified Chinese",
+				"version": "1.3.1",
+				"change_log": "Fixed an issue with localization where text wouldn't display correctly if a user's Quest was set to a language not supported by the game.",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "238492852",
-				"id": "5576597572412073",
-				"required_space_adjusted": "221642174",
+				"total_installed_space": "239970954",
+				"id": "5616318265106670",
+				"required_space_adjusted": "223455040",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -164,7 +189,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "5576597572412073"
+					"id": "5616318265106670"
 				}
 			},
 			"release_channels": {
@@ -175,8 +200,8 @@
 						"id": "2681946568697290",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.3.0",
-							"id": "5576597572412073"
+							"version": "1.3.1",
+							"id": "5616318265106670"
 						}
 					},
 					{
@@ -203,7 +228,7 @@
 							"created_time": 1622214862,
 							"body_text": "Cubism is now fully playable in English, French, German, Spanish, Japanese, Korean and Simplified Chinese.\n\nFor the polyglots among you, be sure to check out the custom playable title puzzle in Japanese, Korean and Simplified Chinese!\n\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974613_493898938527865_3375558038031341662_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uMXcm3BxuzcAX8j3G1I&_nc_ht=scontent.oculuscdn.com&oh=c596d5dd3bd2439aa855d03471b52b30&oe=60C8CAE5"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974613_493898938527865_3375558038031341662_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uMXcm3BxuzcAX_s7VcV&_nc_ht=scontent.oculuscdn.com&oh=59fed486c794605e159a05f63c608076&oe=60C8CAE5"
 							}
 						},
 						{
@@ -212,7 +237,7 @@
 							"created_time": 1615896710,
 							"body_text": "This latest update to Cubism adds experimental hand tracking support to the full game on Quest 1 and Quest 2. \nSo put your controllers down, and get hands-on with some mind-bending puzzles!\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6wjdDrUbJJgAX_V3Efd&_nc_ht=scontent.oculuscdn.com&oh=468edecb1eca304042b0d5f120790334&oe=60C8B3EF"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75481470_1824391851071482_366007045861250574_n.png?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6wjdDrUbJJgAX-C_pYI&_nc_ht=scontent.oculuscdn.com&oh=fb465c2654487900ed502cc99c0b332d&oe=60C8B3EF"
 							}
 						}
 					]
@@ -273,11 +298,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.8487179487179,
+			"quality_rating_aggregate": 4.8392857142857,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 164,
+				"count": 165,
 				"orderings": [
 					{
 						"key": "top",
@@ -290,10 +315,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 164,
+				"count": 165,
 				"page_info": {
-					"end_cursor": "AQHRL9iQpNUcXIY-wsxCuxL10gR3pkKullkwlyfekcjHhAelQFqcrS7zTUiyDhFVE93M5IWcj-UQyY-t7bAtiyxncA",
-					"start_cursor": "AQHRL9iQpNUcXIY-wsxCuxL10gR3pkKullkwlyfekcjHhAelQFqcrS7zTUiyDhFVE93M5IWcj-UQyY-t7bAtiyxncA"
+					"end_cursor": "AQHR66mBMYmx5hNgtDJA5ZlW47mVtBgIO7csiAvKzqi92xtjIifGYENH2MjEWtDD3F7REoCfDE_lrnLHkn9BDsod3A",
+					"start_cursor": "AQHR66mBMYmx5hNgtDJA5ZlW47mVtBgIO7csiAvKzqi92xtjIifGYENH2MjEWtDD3F7REoCfDE_lrnLHkn9BDsod3A"
 				},
 				"edges": [
 					{
@@ -303,7 +328,7 @@
 								"id": "106760571517925",
 								"display_name": "natchaniel",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.600.600a/s160x160/38982680_112110024316313_4564962847619734992_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZrUOlg_xdCIAX8ioKXY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d05893306d7ada38a17475d701395409&oe=60C720AE"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.600.600a/s160x160/38982680_112110024316313_4564962847619734992_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ZrUOlg_xdCIAX_D5pb5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=115390cd52dada4e856896b176d7b3df&oe=60C91AEE"
 								}
 							},
 							"score": 5,
@@ -324,7 +349,7 @@
 				"description": "《方块主义》是一款看似简单但无时无刻不在考验玩家思维的益智游戏。你需要用各种彩色方块拼出越来越复杂的立体形状。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75388621_810735676228743_899742465691422547_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3LsZGVmlKngAX-OoePL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e76b5f663bef99668a190fd7262584f7&oe=60C783E4",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75388621_810735676228743_899742465691422547_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=71yl3gascigAX9Dqxlj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=323c40c3c9352d8cb17148f41475e097&oe=60C97E24",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
