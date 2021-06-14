@@ -31,12 +31,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 83,
+					"count": 84,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 201,
+					"count": 202,
 					"starRating": 5
 				}
 			],
@@ -112,16 +112,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2264692813785026",
+				"id": "2034286536722739",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1599",
+					"formatted": "$15.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-20%",
+				"end_time": 1623740340,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -205,16 +210,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2264692813785026"
+				"id": "2034286536722739"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6381578947368,
+			"quality_rating_aggregate": 3.6419213973799,
 			"support_website_url": "https://discordapp.com/invite/turtlerockstudios",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 258,
+				"count": 259,
 				"orderings": [
 					{
 						"key": "top",
@@ -227,10 +232,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 258,
+				"count": 259,
 				"page_info": {
-					"end_cursor": "AQHRrmn1AyWc_cOUgTrJcaDnaqE_A8qMPJDoob6lskoYHBqA2XmBtVD30reX5ncnYzeGL1Roveh1sKR_v4G3VOrTyg",
-					"start_cursor": "AQHRrmn1AyWc_cOUgTrJcaDnaqE_A8qMPJDoob6lskoYHBqA2XmBtVD30reX5ncnYzeGL1Roveh1sKR_v4G3VOrTyg"
+					"end_cursor": "AQHRpHwlnYTHJe_yotHJH9HotgdNVvFFRFvqrW9e1GNvuejvStPPE6vlZdhHBZuW9RbE8I23BpV03aLipFxmx3yKUw",
+					"start_cursor": "AQHRpHwlnYTHJe_yotHJH9HotgdNVvFFRFvqrW9e1GNvuejvStPPE6vlZdhHBZuW9RbE8I23BpV03aLipFxmx3yKUw"
 				},
 				"edges": [
 					{
@@ -240,13 +245,13 @@
 								"id": "1422772074688206",
 								"display_name": "Bryan82",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982454_2120345874930819_8697602859639120353_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-IeJlhSNCQgAX-ZwS6D&_nc_ht=scontent.oculuscdn.com&tp=28&oh=95460986c78af6fb6cd366dd845664ef&oe=60C95D90"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982454_2120345874930819_8697602859639120353_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qaRN1C17LUsAX9Udooa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1ce66e5781449067b86e0f33d9380a1e&oe=60CB57D0"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "After playing the first game on the gear vr, i just had to get this now i finaly own a quest 2. It is a completly different experiance now that you can walk and explore freely. It gave me some good jump scares, and at some points i thought i don't want to go in there (for whats waiting for me there). I liked both story's very much, and loved how certain details from one story come back in the other.\n\nPlease give us more story's for this game, or at least make all the chapters from part 1 availeble for this game. It should be not very hard to port them over, and you would make many people very happy.",
 							"reviewTitle": "Great game, but we need more",
-							"review_helpful_count": 36,
+							"review_helpful_count": 42,
 							"review_rank_by_viewer": null,
 							"date": 1620211478,
 							"developerResponse": null
@@ -261,7 +266,7 @@
 				"description": "You asked for it! Now you can jump right into the scares...try quickplay for shareable screams.\n\nFace your Fears in a new immersive and story-driven game. Learn the tragic history of the Harvest Family as you explore their long-abandoned home. Immerse yourself in two spine-tingling scenarios that unravel a tale of terror across the ages.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982631_328562821167171_6108775467349704704_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_cvI8i2PLVcAX8b8CsR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1607384089ce5cc485853d069c4cd230&oe=60C9E340",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75429295_3135794606745868_7993691249108207654_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IuobdqEeo9AAX8VDsU3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=85289b565674a90d9612d0cf28f58253&oe=60CC25C3",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

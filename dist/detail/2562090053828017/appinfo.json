@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38984461_460904458497581_3465066289689562940_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=utqLDuibdD0AX8DeY9X&_nc_oc=AQnvWLvB27M7vnMpPFLUDBAingC-SXy6p1nYvzEtUkrmmkmdPbDK0CqVCyyhYT-2GpY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=286bb21112b6f9de0dfabb8b41f66601&oe=60C93207"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38984461_460904458497581_3465066289689562940_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=utqLDuibdD0AX-D5Dpi&_nc_oc=AQleXMCNw4oGqM43vuE0nUrN-jxBJtsm5UzjlbSDuPz50zqybePfK2hGANTVTmW6Ab4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=37d1f8937705a2299e778415e4353c37&oe=60CB2C47"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974717_150737640220820_1824621345470635876_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vyxm_czOO7AAX-gH8do&_nc_ht=scontent.oculuscdn.com&oh=d154ec09055e94e7e6b5ba045395c0c7&oe=60C8B6A2"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974717_150737640220820_1824621345470635876_n.mp4?_nc_cat=108&ccb=1-3&_nc_sid=0ed769&_nc_ohc=vyxm_czOO7AAX_WDzIg&_nc_ht=scontent.oculuscdn.com&oh=9159303a85f5eee89e15b88138ab8cc0&oe=60CCAB22"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 180,
+					"count": 181,
 					"starRating": 5
 				}
 			],
@@ -183,7 +183,7 @@
 							"created_time": 1621323000,
 							"body_text": "NEW CONTENT!\n\nWe have added 10 new collectibles for you to find in the Barclay Mansion, allowing you to dig even deeper into Wraith: The Oblivion - Afterlife’s gruesome story and its characters...\n\nAlong with these collectibles, we have also implemented some improvements & bug fixes:\n\nGENERAL\n\n- Added Addendum as a new achievement for finding all new collectibles\n- Fixed issue where the doors wouldn't lock if the Player dies after entering the West Wing corridor for the first time in Chapter 7\n- Fixed issue where players that have placed the gas key in Chapter 7 and then left before placing the contract can't get the contract on return\n- Game completion rate now displayed when finishing the game\n- All languages now display correctly in the language selection menu\n- Lighting issue in one of the Guest House bathroom fixed\n- Fixed several issues with the valve handle in the wine cellar related to loading//going to the Memory Palace\n- Fixed bugs that caused inconsistencies when using or adding the valve to the wall a second time, after coming back from Memory Palace\n- Wraithgrasp tutorial voice over in Wine Cellar was missing second half of its subtitles\n- Alan's scripts can now be correctly viewed in Memory Palace after having been placed on the table in the Pool House\n- Moved a glass bottle slightly to avoid it breaking when trying to use Grab on it\n- Adjusted triggers for a chapter 7 event, so that the event and objectives triggers in the right order and at the right time\n- Fixed an issue that could disable Sharpened Senses after dying while using it\n- Fixed an issue so the dark fog of the BW encounter doesn't appear after the encounter has finished\n- Fixed so that the right Sharpened Senses target is activated when NOT picking up the time storm compass, save/quite and then load again\n- Fixed so that the Chapter 1 Hanged Man music doesn't linger for various reasons anymore\n- Making sure collectibles stop resetting outside of streamed in area\n- Fixed so that the Shadow is not shown in the wrong place when loading a save game during chapter 1 in the Seance Room\n- Shortened the time before memory palace tutorial appears, to make it easier for players to see it\n- PCVR Only: Added tab in Settings menu for Video Quality\n\nSPECTRES\n\n- Reduced the risk of Spectres getting stuck in walk-through-door animation loop\n- Spectres align better when they want to interact with something in the world\n- Spectres now win over Players when having a tug-of-war for door handles, which was always the intention.\n- Fixed issue with Spectres' peripheral vision, where they sometimes spotted the player when they shouldn't or vice versa.\n- The branches in the Garden did not provide enough cover for the Player. This is now fixed.\n- Spectres could continue rotating towards the Player while they're Stunned. They shouldn't do this, and won't anymore.\n- Fixed issue where navmesh would be generated in locations it wasn't supposed to, and the created problems for the AI\n- Fixed issue where the Sad Cinematographer would sometimes take a long walk around the garden gazebo\n- Fixed issue where the Sad Cinematographer would sometimes unlock doors she wasn't supposed to\n\nThe Wall Street Wiz Kid\n- Fixed issue where Wall Street Wiz Kid would sometimes move sideways through doors\n- Decreased chance of Wall Street Wiz Kid the closet where the player is hiding, unless he knows the player is there\n- Fixed so that Wall Street Wiz Kid properly plays the correct animation when stunned\n- Fixed several issues with Wall Street Wiz Kid in the chapter 6 encounter\n- Fixed issue where Wall Street Wiz Kid would sometimes spawn/unspawn in front of the player\n\nThe Sad Cinematographer\n- Fixed issue where the Sad Cinematographer would sometimes take a long walk around the garden gazebo\n- Fixed issue where the Sad Cinematographer would sometimes unlock doors she wasn't supposed to\n\nA big thanks to all you players who have helped us improve the game!\n\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982488_1098988673929355_3037310627531647319_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1DwwUyD8W0sAX9eVx7l&_nc_ht=scontent.oculuscdn.com&oh=a481422b35342aa0b80ef1be8796d9fc&oe=60C9982F"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982488_1098988673929355_3037310627531647319_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=1DwwUyD8W0sAX9_Ub2e&_nc_ht=scontent.oculuscdn.com&oh=982cfd47c9840b00477e0a6566efc037&oe=60CB926F"
 							}
 						}
 					]
@@ -240,7 +240,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3665338645418,
+			"quality_rating_aggregate": 4.3690476190476,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -259,8 +259,8 @@
 			"firstQualityRatings": {
 				"count": 155,
 				"page_info": {
-					"end_cursor": "AQHROUIVtSOImEOxLH6pkVhAIVFj4xOYrPsNy3Ip82dP_3NJhFqpRMkyUxVcH8MTDmbYK6eI708d16Lnd_a_RrVKEg",
-					"start_cursor": "AQHROUIVtSOImEOxLH6pkVhAIVFj4xOYrPsNy3Ip82dP_3NJhFqpRMkyUxVcH8MTDmbYK6eI708d16Lnd_a_RrVKEg"
+					"end_cursor": "AQHRaD2iwetVGWEjQ-bUVUgUZeB0HeN6QbLTzWH4JXdmHmeG7vT5PfjwcFYNUBzCtxPr6kGC5g6udbJVzyZkc34N4Q",
+					"start_cursor": "AQHRaD2iwetVGWEjQ-bUVUgUZeB0HeN6QbLTzWH4JXdmHmeG7vT5PfjwcFYNUBzCtxPr6kGC5g6udbJVzyZkc34N4Q"
 				},
 				"edges": [
 					{
@@ -270,13 +270,13 @@
 								"id": "100743661092519",
 								"display_name": "BeardoBenjo",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1000.1000a/s160x160/39031562_495691468264401_3055543889129691564_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bfOwb2fmzCwAX_BP6ik&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1c97992ffed072970f780ba28f93d0ab&oe=60C9A738"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1000.1000a/s160x160/39031562_495691468264401_3055543889129691564_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=X69ndB39nGwAX9yUoiD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4be3b1577089a912c047f68d79e7858f&oe=60CBA178"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "First impressions - https://youtu.be/PSHbGWBGqC0\n\nHeading into the world of horror I was prepared for jumpscares. Initial marketing materials & trailers set the scene for a game that was going to make me jump out of my skin but the truth is Wraith The Oblivion Afterlife VR is actually in it for the long haul; the lingering scares & the unsettled feeling of slowly making your way down a long dark corridor rather than monsters popping up every five minutes. During my first hour the game made it clear that cheap thrills & jump scares certainly aren't the aim here, instead we are given a healthy dose of slow burn tension, fantastic sound design, atmosphere building & cat and mouse stealth sections filled with dread. Wraith The Oblivion Afterlife is also centred around a deep compelling mystery, seeking out the pieces of the story & listening to previous inhabitants of the Barclay Mansion helps to set the scene & players are rewarded for searching every corner of the world with extra lore & information. What actually happened here & how did I wind up dead are the driving forces behind the game, in the early stages at least...\n\nThose who are looking for a slow burn, but at times incredibly intense, horror tale with a mystery to unravel at it's heart will find a lot to love here in Wraith The Oblivion Afterlife. Certainly one of the nicest looking games on the Quest 2 platform & one that is BEST experienced with a pair of decent headphones (honestly, the sound design is 75% of the terror & atmosphere building here) I think this will definitely resonate with fans of Outlast, Alien Isolation, Jurassic World Aftermath & any horror title that builds it's dread slowly rather than throwing it all into the players face at once. I'm very curious to see if the pace ratchets up as the campaign progresses onwards but so far Wraith is a downright creepy & intriguing tale that I can't wait to unravel.",
 							"reviewTitle": "A slow burn, cat & mouse terror",
-							"review_helpful_count": 634,
+							"review_helpful_count": 641,
 							"review_rank_by_viewer": null,
 							"date": 1619111067,
 							"developerResponse": {
@@ -295,7 +295,7 @@
 				"description": "甚至死人在Barclay Mansion里都会感到恐惧。作为Wraith，揭开它的秘密，躲避追踪你脚步的阴险的Spectres。Afterlife是一款以World of Darkness宇宙为背景的第一人称VR恐怖探索游戏。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001667_470512550899871_4606584255550721107_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rxOeXZ8jZpgAX8cqdi9&_nc_oc=AQktIwYk9BevmFORqKhv68bGWoGjS7KW0TNr3CithQG5VgPJPkoUdWlZ84MKal_7pgs&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b9106152358f5750acda9997ae1b6e72&oe=60C8840E",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001667_470512550899871_4606584255550721107_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=rxOeXZ8jZpgAX_p-nHE&_nc_oc=AQm7gfMCSCM0PaiZ189jK8J0CJE5H2L-iM7w4Wdb-25t4xyCq3KC7zdJb6t-AWPojtE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=559c4bcab81f90d7aa393f0411816738&oe=60CC788E",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
