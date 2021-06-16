@@ -112,21 +112,16 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "2034286536722739",
+				"id": "2264692813785026",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99",
-					"offset": 100
+					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%",
-				"end_time": 1623740340,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 0,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -210,7 +205,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "2034286536722739"
+				"id": "2264692813785026"
 			},
 			"externalReviews": {
 				"count": 0
@@ -234,8 +229,8 @@
 			"firstQualityRatings": {
 				"count": 259,
 				"page_info": {
-					"end_cursor": "AQHRpHwlnYTHJe_yotHJH9HotgdNVvFFRFvqrW9e1GNvuejvStPPE6vlZdhHBZuW9RbE8I23BpV03aLipFxmx3yKUw",
-					"start_cursor": "AQHRpHwlnYTHJe_yotHJH9HotgdNVvFFRFvqrW9e1GNvuejvStPPE6vlZdhHBZuW9RbE8I23BpV03aLipFxmx3yKUw"
+					"end_cursor": "AQHRpOCtI8_X2khigiwOIOHyGgXcoEkM9G1NZnt4aTproYJGk2sADeIA6pAqe5sRszRsEkeqnYoNdTLh98GaxtwStw",
+					"start_cursor": "AQHRpOCtI8_X2khigiwOIOHyGgXcoEkM9G1NZnt4aTproYJGk2sADeIA6pAqe5sRszRsEkeqnYoNdTLh98GaxtwStw"
 				},
 				"edges": [
 					{
@@ -245,13 +240,13 @@
 								"id": "1422772074688206",
 								"display_name": "Bryan82",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982454_2120345874930819_8697602859639120353_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qaRN1C17LUsAX9Udooa&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1ce66e5781449067b86e0f33d9380a1e&oe=60CB57D0"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38982454_2120345874930819_8697602859639120353_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=zZ2xYG3ax9sAX817xUN&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7e734a9e94c93e30723378f09bd221b3&oe=60CF4C50"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "After playing the first game on the gear vr, i just had to get this now i finaly own a quest 2. It is a completly different experiance now that you can walk and explore freely. It gave me some good jump scares, and at some points i thought i don't want to go in there (for whats waiting for me there). I liked both story's very much, and loved how certain details from one story come back in the other.\n\nPlease give us more story's for this game, or at least make all the chapters from part 1 availeble for this game. It should be not very hard to port them over, and you would make many people very happy.",
 							"reviewTitle": "Great game, but we need more",
-							"review_helpful_count": 42,
+							"review_helpful_count": 83,
 							"review_rank_by_viewer": null,
 							"date": 1620211478,
 							"developerResponse": null
@@ -266,7 +261,7 @@
 				"description": "You asked for it! Now you can jump right into the scares...try quickplay for shareable screams.\n\nFace your Fears in a new immersive and story-driven game. Learn the tragic history of the Harvest Family as you explore their long-abandoned home. Immerse yourself in two spine-tingling scenarios that unravel a tale of terror across the ages.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75429295_3135794606745868_7993691249108207654_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IuobdqEeo9AAX8VDsU3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=85289b565674a90d9612d0cf28f58253&oe=60CC25C3",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982631_328562821167171_6108775467349704704_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oXPayY1wD1QAX8F0hgf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2dedfa79f66b6d7b11540b06e3580800&oe=60CDD7C0",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

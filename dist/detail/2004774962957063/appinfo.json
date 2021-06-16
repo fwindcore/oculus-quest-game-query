@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974558_237922904423305_5691013572792923311_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xGOBODLTbToAX-eTN3C&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f8c40d584f1bb1fc6706b2260781c3bf&oe=60CCA46E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974558_237922904423305_5691013572792923311_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xo9PheNRM-0AX9nFQjf&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c9676a3cdd977f3491e85509dc69a884&oe=60CE9EAE"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031318_227628922220978_5999070867633939556_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=tOOXgg61BzQAX9FtcP2&_nc_ht=scontent.oculuscdn.com&oh=684e97b3068fe888e4599356310909b3&oe=60CC2F6C"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39031318_227628922220978_5999070867633939556_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=LWMe2QgQToUAX9wbdMw&_nc_ht=scontent.oculuscdn.com&oh=1a20585885fed50bf322eda9fd71d4fb&oe=60CE29AC"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 442,
+					"count": 444,
 					"starRating": 5
 				}
 			],
@@ -177,7 +177,41 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624737600,
+								"current_start_timestamp": 1624726800,
+								"temporal_info": {
+									"seconds_until_end_time": 905641,
+									"seconds_until_start_time": 894841
+								},
+								"vr_app_and_destination_string": "Cook-Out",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2004774962957063",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Cook-Out"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "2810411802544106",
+								"is_vr_viewer_interested": false,
+								"name": "Cook-Out Community Virtual Hangout",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974591_202736428389479_2916930104907379479_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=RIisanc0fU4AX8R7Gak&_nc_ht=scontent.oculuscdn.com&tp=28&oh=79b47ffdffeb56287b994630169b872e&oe=60CDB80C"
+								}
+							}
+						}
+					]
 				},
 				"id": "2171468469771779",
 				"posts": {
@@ -188,7 +222,7 @@
 							"created_time": 1622818850,
 							"body_text": "Upgrade your chef’s look with these egg-cellent options. We just released brand new customizations for your animal chef avatar. Choose your skin, outfit and hat to be the sharpest-looking chef in the kitchen.\n  \nWe’ve also added more than 40 achievements. Put your skills to the test to unlock special rewards including a new animal chef avatar.\n \nAdditional bug fixes and updates have also been made to the game. You can find the full patch-notes on our Discord. Follow us on Twitter and Facebook for more news.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974654_391730385501960_5094244286600913477_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KCgTmESccxsAX_L3AhX&_nc_ht=scontent.oculuscdn.com&oh=5ba68ef706ce346b11b07dbb309b6606&oe=60CBB451"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974654_391730385501960_5094244286600913477_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=S6k26-IBZBMAX9bdOeH&_nc_ht=scontent.oculuscdn.com&oh=31ffcd20f59d766a68027b4dcd869b5e&oe=60CDAE91"
 							}
 						},
 						{
@@ -197,7 +231,7 @@
 							"created_time": 1620830674,
 							"body_text": "We hope you’ve been enjoying the animal chef avatars. With our recent update, the animal avatars eyes are now animated.\n\nHere’s a few other updates:\n\nBug fixes:\n- Avatar hands now syncs better over network.\n- Fixed occasional infinite loading on Avatars menu preventing players from choosing different avatars\n- Fixed broken Splash Screen on Quest\n- Fixed several network bugs that could cause customers and plates to break\n- Fixed bug sometimes preventing use of Vive Cosmos controllers\n\nGame changes:\n- Valve Index controllers grip input has been tweaked to be more responsive.\n- Valve Index controllers now have haptics enabled.\n- Added another hand pose for animal avatars so it is not so easy to accidentally do an OK-sign.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974479_939718483490532_1722933681533205321_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=p5wH6Ya8BUAAX-IJLp_&_nc_ht=scontent.oculuscdn.com&oh=4d8121f190225ed54d56f6fb1ec5fe0c&oe=60CB4C8D"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974479_939718483490532_1722933681533205321_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-53psvEX_Z4AX_bgOHT&_nc_ht=scontent.oculuscdn.com&oh=14192b689cc74224fdb13ea1023a83d3&oe=60CF410D"
 							}
 						}
 					]
@@ -254,11 +288,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.613475177305,
+			"quality_rating_aggregate": 4.6148409893993,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 339,
+				"count": 341,
 				"orderings": [
 					{
 						"key": "top",
@@ -271,10 +305,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 339,
+				"count": 341,
 				"page_info": {
-					"end_cursor": "AQHRKs_cHYa0vgzrBLCge_ZCoIJeIIN3zBiZZLEHY0CQiRZ183DQyQO-XPzHIOqWe5H6945PnlYD9B9-5SC7WimVEw",
-					"start_cursor": "AQHRKs_cHYa0vgzrBLCge_ZCoIJeIIN3zBiZZLEHY0CQiRZ183DQyQO-XPzHIOqWe5H6945PnlYD9B9-5SC7WimVEw"
+					"end_cursor": "AQHRbtSZq65mGwUV3EdopdZsixC_S-5oeDeI2_L6squnpL0FE5wr4HF6DaWb9hcXAtFczMPMOR2D__6qfSF0vd2TpQ",
+					"start_cursor": "AQHRbtSZq65mGwUV3EdopdZsixC_S-5oeDeI2_L6squnpL0FE5wr4HF6DaWb9hcXAtFczMPMOR2D__6qfSF0vd2TpQ"
 				},
 				"edges": [
 					{
@@ -284,13 +318,13 @@
 								"id": "113599293715994",
 								"display_name": "ExtremeCactus",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974883_266579201751335_5989058852920998486_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Z5Zd-bnZMAMAX9Fp6g3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3ab384a7424d5201f067543a11b407e9&oe=60CB1599"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38974883_266579201751335_5989058852920998486_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gyolYULVWDIAX_V8itd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6eb71a7c6af12f869bcea418d38e3440&oe=60CF0A19"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "I bought this game because it was on sale. It looked fun and I didn’t think too much of it because it didn’t seem that good. But when I finally got into the game, I was impressed. First off, the visuals are unexpected. I didn’t think a game like this would look as good as it did on my headset, and I only have the quest 1. The visuals are clear and detailed, and it’s a pretty fun setting! Next, this game is insanely fun. If you’ve played Overcooked before, this is like that but better. You get to cook up orders for these fairy tale characters, each one having different twists to make it a little more challenging. It’s frantic and fast, but you’ll have a ton of fun. This is now one of my favorite games. Just wish there were more levels. Other than that, AMAZING game, 5 stars!",
 							"reviewTitle": "Wasn’t Expecting This...",
-							"review_helpful_count": 40,
+							"review_helpful_count": 41,
 							"review_rank_by_viewer": null,
 							"date": 1621387271,
 							"developerResponse": null
@@ -305,7 +339,7 @@
 				"description": "Get Your Aprons Ready… Things Are About To Get Messy!\n\nIn Cook-Out: A Sandwich Tale, players of Resolution Games’ multiplayer VR game work together to cook their way through a wacky and whimsical adventure to keep the customers happy and progress through increasingly hectic levels. But don’t dish it if you can’t take it, because these customers mean business.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_511068650324072_214367293662429231_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dhaGp5Pe4RQAX8kM0gR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d66cc136c56dfce58f468c18c2002306&oe=60CCA35D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39001723_511068650324072_214367293662429231_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dhaGp5Pe4RQAX-3BFHe&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96bfde979d8ab9f9d66a2e3d5deb95fb&oe=60CE9D9D",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

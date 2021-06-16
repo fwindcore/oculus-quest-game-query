@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oGIQCIaxAfIAX_Vqi3G&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9ead89e84f722266543f0eea9290e235&oe=60CC69E2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39035357_539200690181078_5142291805798137856_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oGIQCIaxAfIAX_Baqo3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=24b5ba79a6831d96a44ea30ee5af9d07&oe=60CE6422"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=H0JqOUyJWZQAX-0oRmm&_nc_ht=scontent.oculuscdn.com&oh=c7ca8d137d43384c3ba041213da1cad2&oe=60CC518D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39001680_539165940184553_2378608800409059328_n.mp4?_nc_cat=103&ccb=1-3&_nc_sid=0ed769&_nc_ohc=YMqYc3_uFkMAX_F5IXU&_nc_ht=scontent.oculuscdn.com&oh=8b291fae611ebe0dc11a2787f0269519&oe=60CE4BCD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 296,
+					"count": 297,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 335,
+					"count": 336,
 					"starRating": 5
 				}
 			],
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "4.2.23",
-				"change_log": "Various bug fixes on quest",
+				"version": "4.2.24",
+				"change_log": "• Adjusted the position of the captions\n• Terms of Service must now be accepted before the HUD becomes visible",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "686914404",
-				"id": "3892968084163302",
-				"required_space_adjusted": "313997780",
+				"total_installed_space": "682054073",
+				"id": "3907625346030909",
+				"required_space_adjusted": "309844806",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -128,7 +128,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3892968084163302"
+					"id": "3907625346030909"
 				}
 			},
 			"release_channels": {
@@ -139,8 +139,8 @@
 						"id": "2271077649772225",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "4.2.23",
-							"id": "3892968084163302"
+							"version": "4.2.24",
+							"id": "3907625346030909"
 						}
 					},
 					{
@@ -160,44 +160,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1623799800,
-								"current_start_timestamp": 1623798000,
-								"temporal_info": {
-									"seconds_until_end_time": 140630,
-									"seconds_until_start_time": 138830
-								},
-								"vr_app_and_destination_string": "AltspaceVR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2133027990157329",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "AltspaceVR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1725058449781293154",
-								"id": "813387359600722",
-								"is_vr_viewer_interested": false,
-								"name": "Building the Metaverse",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974602_192289196090935_7238756946258154542_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vtw6HGR4gRMAX_uJKbK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fb2c1d8d44df75a2ae00abaf191500e6&oe=60CC3A7E"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1624404600,
 								"current_start_timestamp": 1624402800,
 								"temporal_info": {
-									"seconds_until_end_time": 745430,
-									"seconds_until_start_time": 743630
+									"seconds_until_end_time": 572637,
+									"seconds_until_start_time": 570837
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -219,7 +186,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Building the Metaverse",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974786_526489798382578_5145304275696542749_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yJEhc5vGc3kAX_YOAC3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e9962061979645e85c94ec385d8bf1a&oe=60CC270D"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974786_526489798382578_5145304275696542749_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=DqaZeTcGgjYAX8Klp3v&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1f1570afdcc53cf781e51fb22764f488&oe=60CE214D"
 								}
 							}
 						},
@@ -229,8 +196,8 @@
 								"current_end_timestamp": 1624678200,
 								"current_start_timestamp": 1624672800,
 								"temporal_info": {
-									"seconds_until_end_time": 1019030,
-									"seconds_until_start_time": 1013630
+									"seconds_until_end_time": 846237,
+									"seconds_until_start_time": 840837
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -252,7 +219,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "Failed To Render Comedy Club - LIVE FROM VEGAS!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974479_515621926233853_8837784420301789236_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EZ3NLoBLpL4AX9gdABj&_nc_ht=scontent.oculuscdn.com&tp=28&oh=48df3e70b461add745750c4bcd5418b6&oe=60CCDBB8"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974479_515621926233853_8837784420301789236_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ta2-0l8l4E0AX_dxPHb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=71ee82b2b90dbfcdefee666a6d86f0e4&oe=60CED5F8"
 								}
 							}
 						},
@@ -262,8 +229,8 @@
 								"current_end_timestamp": 1625009400,
 								"current_start_timestamp": 1625007600,
 								"temporal_info": {
-									"seconds_until_end_time": 1350230,
-									"seconds_until_start_time": 1348430
+									"seconds_until_end_time": 1177437,
+									"seconds_until_start_time": 1175637
 								},
 								"vr_app_and_destination_string": "AltspaceVR",
 								"vr_applications": {
@@ -285,7 +252,139 @@
 								"is_vr_viewer_interested": false,
 								"name": "Building the Metaverse",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982580_2567822710178899_6585348322216035122_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yCuD70YfSY4AX-uTuaW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6ddcb336e75fa6bc6c9479abf717e182&oe=60CC710A"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982580_2567822710178899_6585348322216035122_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yCuD70YfSY4AX_OqT0K&_nc_ht=scontent.oculuscdn.com&tp=28&oh=36e2ed0a7ce66e1049b6822837430d55&oe=60CE6B4A"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1625700600,
+								"current_start_timestamp": 1625698800,
+								"temporal_info": {
+									"seconds_until_end_time": 1868637,
+									"seconds_until_start_time": 1866837
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1759879073389085216",
+								"id": "824888005117324",
+								"is_vr_viewer_interested": false,
+								"name": "Building the Metaverse",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57572930_518362589480128_7937335329295680603_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g59XTGf0EFEAX_VofVg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=96f182e441393733d81cd21b4de50337&oe=60CEEB24"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1626219000,
+								"current_start_timestamp": 1626217200,
+								"temporal_info": {
+									"seconds_until_end_time": 2387037,
+									"seconds_until_start_time": 2385237
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1759879179035214416",
+								"id": "824888191783972",
+								"is_vr_viewer_interested": false,
+								"name": "Building the Metaverse",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/65227603_389794819108493_8419529563755013281_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7WI-os0eBG4AX8vPhvd&_nc_ht=scontent.oculuscdn.com&tp=28&oh=682a37679c2f38952335ef1d8eba5fe1&oe=60CEF378"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1626823800,
+								"current_start_timestamp": 1626822000,
+								"temporal_info": {
+									"seconds_until_end_time": 2991837,
+									"seconds_until_start_time": 2990037
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1759881292863767143",
+								"id": "824888395117285",
+								"is_vr_viewer_interested": false,
+								"name": "Building the Metaverse",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031579_1033516460519167_7536961769853513860_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9_MPSqnBjRkAX_wixJV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=925fbf686a5a9e3b47b80d1743312032&oe=60CE5F59"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1627428600,
+								"current_start_timestamp": 1627426800,
+								"temporal_info": {
+									"seconds_until_end_time": 3596637,
+									"seconds_until_start_time": 3594837
+								},
+								"vr_app_and_destination_string": "AltspaceVR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2133027990157329",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "AltspaceVR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": "altspace://account.altvr.com/api/events/1759881366784180947",
+								"id": "824888605117264",
+								"is_vr_viewer_interested": false,
+								"name": "Building the Metaverse",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982506_377512347141840_7986808881072044251_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UpjvsgLDfq8AX_2GpnJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60990bd3f00c4030d57c5e39ab5adcaa&oe=60CEC023"
 								}
 							}
 						}
@@ -298,7 +397,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRdRQJ1jtIrmUdQfF1seizFxWlAoo03hFJ6EobfNlSGZyyf20JmvOvFyKMSEaRaLJZasas8gOa4mxul6-XMGvmiw"
+							"cursor": "AQHRXpLjeCl3_OA9mGcNf6uttkITUF-dyPdTTarTMFoW1d2RNpkuT7tfE0cM3UwJ1NAk5qKrGrBtiaHNqCWavtHgpg"
 						}
 					]
 				}
@@ -345,7 +444,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.1535626535627,
+			"quality_rating_aggregate": 3.1531862745098,
 			"support_website_url": "https://help.altvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -375,7 +474,7 @@
 								"id": "205913596680451",
 								"display_name": "Shaggy1479",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VybafZaTi9MAX8l9mYl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=690c1470071ed86d617aef0510ce0982&oe=60CB40BA"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.400.400a/s160x160/39031474_711982956073510_6159174231632299338_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VybafZaTi9MAX9m-mMF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=300295684f63651b3fe6e11ac62e5cb0&oe=60CF353A"
 								}
 							},
 							"score": 3,
@@ -400,7 +499,7 @@
 				"description": "AltspaceVR is the premier place to attend live shows, meetups, cool classes, and more with friendly people from around the world. Experience a spotlight event at 7pm PT every night where you can learn, laugh, and gather with people on every major VR headset. Attend hundreds of spotlight events every month like: Open Mic Night, Improv Comedy, Meditation, LGBTQ+ Meetups, VR Church and more. Easily start your own meetup, show or class and discover the next frontier of entertainment and community.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=a9-hdSqZK0sAX-y7-Vz&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5bfdefd57454267aa7ec5a2607173e14&oe=60CB3EEF",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75439594_277453630157826_8420262854634304134_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=klSneFXAi28AX-wnZNq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2cd2ab7e83770b0978551a94fd423eaf&oe=60CF336F",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

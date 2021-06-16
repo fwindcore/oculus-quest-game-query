@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=g6Wx3RPH-i4AX-ZPlWH&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dfc7ced631e5d3a6677d5c84d61d19e8&oe=60CC5E0B"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jafqAu6sK8QAX-cyJMx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0895b33ea4522b4faf6070ad8aede1ab&oe=60CE584B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=5QWLfsp4SWEAX8SD5Yn&_nc_ht=scontent.oculuscdn.com&oh=bb7f052be45ac6c16716d35453d9e36a&oe=60CCDC8A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=5QWLfsp4SWEAX9G49Cj&_nc_ht=scontent.oculuscdn.com&oh=f8c9e12de7b0ec2fe2de1a08f111267c&oe=60CED6CA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 1055,
+					"count": 1032,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 450,
+					"count": 451,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 871,
+					"count": 870,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2335,
+					"count": 2338,
 					"starRating": 5
 				}
 			],
@@ -144,27 +144,85 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1623888000,
+								"current_start_timestamp": 1623880800,
+								"temporal_info": {
+									"seconds_until_end_time": 56034,
+									"seconds_until_start_time": 48834
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "784606025570576",
+								"is_vr_viewer_interested": false,
+								"name": "PokerStars VR 2X Creds Power Hours",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974479_328893782189237_5376839519757709131_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nROekYEGN4oAX9grw6p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=50f853d7a2df7bb11b0e62d581a7c1f0&oe=60CE814C"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624230720,
+								"current_start_timestamp": 1624230000,
+								"temporal_info": {
+									"seconds_until_end_time": 398754,
+									"seconds_until_start_time": 398034
+								},
+								"vr_app_and_destination_string": "PokerStars VR",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2370815932930055",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "PokerStars VR"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "784606252237220",
+								"is_vr_viewer_interested": false,
+								"name": "The Sunday Spin!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974704_361552911985830_3569358785689556217_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rn2NCi_ZeF4AX9Ahwev&_nc_ht=scontent.oculuscdn.com&tp=28&oh=91a131f0e144e4396d969c99339141ac&oe=60CEBAAC"
+								}
+							}
+						}
+					]
 				},
 				"id": "177864522911399",
 				"posts": {
 					"nodes": [
-						{
-							"id": "947199912487361",
-							"title": "Slots Tournament Update!",
-							"created_time": 1621013339,
-							"body_text": "Hey everyone we have another great update for you here with [Patch 70] featuring all-new SLOTS TOURNAMENTS that we're launching with a limited-time chip sale going on now!\n\nCheck out the new Slots Tournaments sub-tab in the watch menu to register for and launch a tournament!\n\nWe're launching 2 new slots tournament Discord leader boards #slots-tlb-weekly #slots-tlb-monthly with exclusive items for the TLB winners.\n\nYou can check out the daily Slots Tournament schedule and payouts on our Discord in #slots-tournament-schedule\n\nNew Features\n- Slots Tournaments\n\nBug FIxes\n- Fix for spin and go mission win hands tracking as play hands\n- Fix for cash bust players mission not tracking\n- Fix for cash bet/raise chips mission not tracking when player all ins\n- Updated Maraca Audio & Removed Auto Spawning\n\nJoin us on Discord\n\n",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982473_165756918814065_3357120066494206565_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AeDjc80LwIQAX-i01Or&_nc_ht=scontent.oculuscdn.com&oh=cb056ac393400b3cee1b579faa55f809&oe=60CCC57E"
-							}
-						},
 						{
 							"id": "515896853139534",
 							"title": "The Big Game Update!",
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ldjilhODjC8AX_DZfvw&_nc_ht=scontent.oculuscdn.com&oh=b3aab9fdcf76dda13c873bfb123b3fbd&oe=60CCB2B1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CU9B-vF72QIAX_xtwjF&_nc_ht=scontent.oculuscdn.com&oh=6a993a8a5073f3978470a35b3dfffecd&oe=60CEACF1"
 							}
 						}
 					]
@@ -172,7 +230,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRD95BKs7WzFOO6v5Ss6zDS__cVrzeY1HBRFFmx7p0jz-Mp1KIhTCgeKZHuswxLyxl_hCBluRW9mYVSRczISE6gQ"
+							"cursor": "AQHR-jtuQ__hE2z8bFdnMbGPnKdUiIc1ktGO96yAIO27daPSIZgwgyeQmtdWm3LqPaqf1I4kOfeJm1DbohSfK43R_A"
 						}
 					]
 				}
@@ -219,11 +277,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6135552913199,
+			"quality_rating_aggregate": 3.6261440509351,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1732,
+				"count": 1734,
 				"orderings": [
 					{
 						"key": "top",
@@ -236,10 +294,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1732,
+				"count": 1734,
 				"page_info": {
-					"end_cursor": "AQHRsQSxCDZ3lU-fSmT6G8e5v8hdD-vt2fQ4HplFF4Ht0TS32t68Tk2pUvO6n6x0me5a85VD1MNvrUCuCMSj4YVfzA",
-					"start_cursor": "AQHRsQSxCDZ3lU-fSmT6G8e5v8hdD-vt2fQ4HplFF4Ht0TS32t68Tk2pUvO6n6x0me5a85VD1MNvrUCuCMSj4YVfzA"
+					"end_cursor": "AQHRCGcUlr1Upcel0hymehmdzaOE5aMrPi2MB9_XQLbVG_H29ANfVjPTVCf1NpMbdnXaGXHkK8pUsWQnWXGPfY6D7g",
+					"start_cursor": "AQHRCGcUlr1Upcel0hymehmdzaOE5aMrPi2MB9_XQLbVG_H29ANfVjPTVCf1NpMbdnXaGXHkK8pUsWQnWXGPfY6D7g"
 				},
 				"edges": [
 					{
@@ -249,13 +307,13 @@
 								"id": "111590037234852",
 								"display_name": "HorHeii",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c96.0.433.433a/s160x160/38974708_324385925955261_2814805901329318954_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PXIK29qXGvUAX-IifyD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9c9b2dff81006a33b318d09f2b58a36d&oe=60CCC533"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c96.0.433.433a/s160x160/38974708_324385925955261_2814805901329318954_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v-NS4kcnv_4AX9DPtsU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0def97d09742e3f85a8b282cd54f6e8d&oe=60CEBF73"
 								}
 							},
 							"score": 1,
 							"reviewDescription": "After everything I did to help you guys (Jordan, Jeff, Devs) and the game and then you go and  permaban me for NO REASON. You didn't want me anymore so you threw me out like an old dog by the side of the road.\n\nYou replied to another review saying \"If someone is banned, then it is always for violating a rule\" I haven't played the game in 2 months so how exactly did I \"violate\" any rules?? This seems to be more of a ban for personal reasons rather than a ban for violating any rules.",
 							"reviewTitle": "WOW!! REALLY GUYS!? PERMABAN!?",
-							"review_helpful_count": 322,
+							"review_helpful_count": 349,
 							"review_rank_by_viewer": null,
 							"date": 1623247782,
 							"developerResponse": null
@@ -270,7 +328,7 @@
 				"description": "NEW SLOTS TOURNAMENTS UPDATE!\n\nStep into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_165914242047064_4005957089872952787_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mCtUXHSFYGUAX_dmEYW&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e5970792d6abeeb9744f0fdb4deb6214&oe=60CBC3DB",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_165914242047064_4005957089872952787_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CfX5HvauEFMAX96-g-2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=010bed43a2e77fe70f4fbafd5ac001d6&oe=60CDBE1B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

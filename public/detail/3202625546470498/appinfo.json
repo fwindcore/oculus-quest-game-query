@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974703_219573786644645_1528622265972957796_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=96DuSPotNCQAX9bXH_4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=fe7f338978d25ccdb155000b834aec6a&oe=60CCB70E"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974703_219573786644645_1528622265972957796_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=96DuSPotNCQAX_HjD7J&_nc_ht=scontent.oculuscdn.com&tp=28&oh=089a13b23cda5cb0a57b4aaa37d3e91d&oe=60CEB14E"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75210893_500517841393861_6092306422004954330_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=VBdFibqqkCQAX9ECKDG&_nc_ht=scontent.oculuscdn.com&oh=37198e550051830480972b6cc40bec6b&oe=60CCC642"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75210893_500517841393861_6092306422004954330_n.mp4?_nc_cat=100&ccb=1-3&_nc_sid=0ed769&_nc_ohc=VBdFibqqkCQAX-U3mDz&_nc_ht=scontent.oculuscdn.com&oh=4eab17497d2b740dad8f65bd12340215&oe=60CEC082"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -156,7 +156,140 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624150800,
+								"current_start_timestamp": 1624140000,
+								"temporal_info": {
+									"seconds_until_end_time": 318843,
+									"seconds_until_start_time": 308043
+								},
+								"vr_app_and_destination_string": "Puzzle Bobble VR: Vacation Odyssey",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "3202625546470498",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Puzzle Bobble VR: Vacation Odyssey"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "912999019482089",
+								"is_vr_viewer_interested": false,
+								"name": "PvP Bubble Bash! | Happy Hour ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031484_2903114989930696_3906192055964514015_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dDPSgdu-HbEAX869AUU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b1d3f1433ef9b9d39b2d122b5bc2bb10&oe=60CE5ED1"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1624215600,
+								"current_start_timestamp": 1624208400,
+								"temporal_info": {
+									"seconds_until_end_time": 383643,
+									"seconds_until_start_time": 376443
+								},
+								"vr_app_and_destination_string": "Puzzle Bobble VR: Vacation Odyssey",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "3202625546470498",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Puzzle Bobble VR: Vacation Odyssey"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "912999352815389",
+								"is_vr_viewer_interested": false,
+								"name": "PvP Bubble Bash! | Happy Hour ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974549_2814112095379217_7172675345048406201_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=yDlyzsRuIDoAX-QQkb1&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9b62a54438e6a2063907104d41575f07&oe=60CEC511"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1625274000,
+								"current_start_timestamp": 1625266800,
+								"temporal_info": {
+									"seconds_until_end_time": 1442043,
+									"seconds_until_start_time": 1434843
+								},
+								"vr_app_and_destination_string": "Puzzle Bobble VR: Vacation Odyssey",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "3202625546470498",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Puzzle Bobble VR: Vacation Odyssey"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "913000236148634",
+								"is_vr_viewer_interested": false,
+								"name": "PBVR Happy Hour | Duel Mode PvP!  ",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031579_500978841156520_2387050422460347948_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Z9F1zuru_g0AX8bojpV&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d839ca3e05834c1e5d5b2fb1091fcc02&oe=60CF5150"
+								}
+							}
+						},
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1625360400,
+								"current_start_timestamp": 1625353200,
+								"temporal_info": {
+									"seconds_until_end_time": 1528443,
+									"seconds_until_start_time": 1521243
+								},
+								"vr_app_and_destination_string": "Puzzle Bobble VR: Vacation Odyssey",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "3202625546470498",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "Puzzle Bobble VR: Vacation Odyssey"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "912999896148668",
+								"is_vr_viewer_interested": false,
+								"name": "PBVR Happy Hour | Duel Mode PvP!",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75222945_692567188190991_6081752132892242553_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=sThpSjnXQHcAX-lakWS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8df74f88a05e2b00185cbfcbd06c7618&oe=60CEFEEC"
+								}
+							}
+						}
+					]
 				},
 				"id": "788239891958003",
 				"posts": {
@@ -167,7 +300,7 @@
 							"created_time": 1621493077,
 							"body_text": "Puzzle lovers Rejoice!\n\nSurvios here, and we’re bubbling with excitement because Puzzle Bobble VR: Vacation Odyssey has officially launched! In collaboration with Taito, we’re celebrating Bub’s 35th Anniversary, bringing everyone's favorite bubble dragons into virtual reality for the first time ever. The game is available to download as of right now to start your bubble-popping adventure!\n\nLove Puzzle Bobble and want to celebrate Bub's 35th with us? Please share your PBVR screenshots, home videos, gameplay highlights, fan art and everything in between using the hashtag #PuzzleBobbleVR, and our social team will be resharing content all week long! This has been a delightful project to work on, and we're thrilled to finally share this game with all of you!\n\nHappy popping!\n\nThe Survios and Taito team\n",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974454_555534152095114_8298206421684843836_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ef8aOH-je4sAX9416ru&_nc_ht=scontent.oculuscdn.com&oh=d41ce5fbc1cf8f2fd56ed80852a6ae33&oe=60CC51DB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974454_555534152095114_8298206421684843836_n.png?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mSXHSSJ2gwgAX-faLWA&_nc_ht=scontent.oculuscdn.com&oh=1c8d7b380a6ef9b90cf78651331a468a&oe=60CE4C1B"
 							}
 						}
 					]
@@ -243,8 +376,8 @@
 			"firstQualityRatings": {
 				"count": 29,
 				"page_info": {
-					"end_cursor": "AQHRq9CnhcHWdFGqWcOSsA88DTrpu-BcdJJzO_JXYbleZSzU9KkQK8lFAT0iQHr5RPnqf0zMhTyF7fIR8VoXQJG6Hw",
-					"start_cursor": "AQHRq9CnhcHWdFGqWcOSsA88DTrpu-BcdJJzO_JXYbleZSzU9KkQK8lFAT0iQHr5RPnqf0zMhTyF7fIR8VoXQJG6Hw"
+					"end_cursor": "AQHRa6JDm4tWXZiopuYnd9fLeLAZytGgsTFvr99NRmBv2B1hW4oiys1MnsQ5kR4O-15p8daUyQ5vbAm-eBCcEzdr1A",
+					"start_cursor": "AQHRa6JDm4tWXZiopuYnd9fLeLAZytGgsTFvr99NRmBv2B1hW4oiys1MnsQ5kR4O-15p8daUyQ5vbAm-eBCcEzdr1A"
 				},
 				"edges": [
 					{
@@ -254,13 +387,13 @@
 								"id": "106497043796831",
 								"display_name": "Gamertag_VR",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/39031313_346659109780622_101721817207374497_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0vlyNTsFP1EAX-xyuP8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7dd30e0bec6f43c62913626e79e08f0f&oe=60CBA035"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.1440.1440a/s160x160/39031313_346659109780622_101721817207374497_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0vlyNTsFP1EAX8QBCvD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d981df16094a26ba6296f4bdadac2aad&oe=60CF94B5"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "🔥 Live stream gameplay is now available 🔥\nJust search ‘Gamertag VR’ on YouTube 👌\n\nIf you have sweet memories of Bust-A-Move on Playstation then look no further! The more I played and kept unlocking extra items, bobbles, levels and increased challenges the more I wanted to keep playing. The only reason I stopped due to standing for 2 hours after leg day at the gym! \n\nFeaturing 100 levels! and has now been reimagined for virtual reality and  has 1v1 online mode. Why not 5 stars? Well there’s no voice in the online mode and the online mode isn’t really taken advantage of here. It’s could of been incredible to help the game stand the test of time instead of just being a little bit of fun. That’s not to say it won’t get updated but here we are today. I do recommend this ⭐️",
 							"reviewTitle": "The same game you love now in VR",
-							"review_helpful_count": 33,
+							"review_helpful_count": 34,
 							"review_rank_by_viewer": null,
 							"date": 1621542766,
 							"developerResponse": null
@@ -275,7 +408,7 @@
 				"description": "Bursting with the same cheerful energy, adorable characters, and timeless gameplay as its predecessors, Puzzle Bobble VR: Vacation Odyssey is the next evolution of the classic Japanese action puzzle game franchise—with the immersive  fun  of virtual reality! ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974601_324481162525519_1015285672692247948_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GwbOE_8MrSQAX_96yaS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=affa51dede2e2a3d9ad00c2cdaa4c847&oe=60CC46B3",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974601_324481162525519_1015285672692247948_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=GwbOE_8MrSQAX-25KIS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=27a126e45b6dcd17ea5908a5420f78b1&oe=60CE40F3",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

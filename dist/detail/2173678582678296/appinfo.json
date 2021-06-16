@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_nvv6VzMbb8AX8hlz5S&_nc_ht=scontent.oculuscdn.com&tp=28&oh=60d976330025a813d748178587a3d129&oe=60CC5318"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_Zbb1L4vQdAAX_Q7smO&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7fdc921f1cd8143b2787b3172ca2d617&oe=60CE4D58"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=yi9LfwRNVnYAX9bughP&_nc_ht=scontent.oculuscdn.com&oh=d24bc705eeb7b25c36128cae268e28ae&oe=60CC65BA"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=yi9LfwRNVnYAX-jRKfN&_nc_ht=scontent.oculuscdn.com&oh=1f4d3ffeeac64ca9899ebea8ef918200&oe=60CE5FFA"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 452,
+					"count": 455,
 					"starRating": 3
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 8385,
+					"count": 8419,
 					"starRating": 5
 				}
 			],
@@ -83,15 +83,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "20210603",
-				"change_log": "Rec Room UPDATE  - the \"Take a Seat\" edition\n\nWe've got an exciting one this week. You're gonna want to make sure you're sitting down for this...\n\nSince the dawn of gizmos ([and maybe even before](https://rec.net/room/roadtrip)), creators have been making rooms which put you in a vehicle and move you around. The classic trick, used [as far back as 2018](https://rec.net/room/coaster), was to keep the player in one place, and instead move the entire world around them. Things got a little easier once we added proper support for [moving platforms](https://www.reddit.com/r/RecRoom/comments/d04937/rec_room_update_the_stunt_runner_edition/), but it still hasn't quite been possible/easy to just sit the player down and move them around... until now!\n\n## Announcing Seats!\n\n- There's a new BETA Prop in the Maker Pen Pallette: The Seat. It's a small cushion that Players can interact with to be Seated onto stuff! It includes a CV2 Circuit Board that allows you to put players on or off of the Seat, as well as restrict them from manually getting on or off. Make sure to enable BETA objects in your room if you want to use the Seat prop!\n- Players can now \"sit\" on Seats on all platforms! This means:\n- When you grab a Seat cushion on chairs and couches, you'll be automatically transported to the Seat, at a reasonable height, and facing forward along the Seat's orientation.\n- While Seated, players' movements are restricted to stay within the Seat.\n- While Seated, players' bodies are rigidly attached to their Seat. If the Seat moves, rotates, tumbles, or goes upside-down, the seated player will go along for the ride!\n- All old chair-like Props (Chairs, Couches, Stools, etc.) have been upgraded to use the new Seated behavior. If you don't want that in your room, you can disable it through their Configuration menu with the Maker Pen.\n\n## General Improvements and Bug Fixes\n\n- We're working on giving creators the ability to create currencies inside their rooms. You may see some new beta chips/props related to currencies, but these are currently in closed beta while we work out the kinks - we're looking forward to making them available for everyone soon!\n- The following Circuits V2 chips have been moved out of beta:\n  - String Contains\n  - String Get Length\n  - String Split\n  - String Split at Index\n  - String Substring Index\n  - String To Lower\n  - String To Upper\n- The following Circuits V2 chips have been added to beta\n  - Angular Velocity Add\n  - Angular Velocity Set\n  - Player Left Hand Orientation\n  - Player Right Hand Orientation\n  - Quaternion Create Angle Axis\n  - Quaternion Create Euler Angles\n  - Quaternion Create From To\n  - Quaternion Create Look Rotation\n  - Quaternion Euler Angles\n  - Quaternion Inverse\n  - Quaternion Rotate Towards\n  - Quaternion Rotate Vector\n  - Quaternion Slerp\n- Fixed an issue where having too many CV2 wires in a room could cause them all to not render at all.\n- Club announcements now appear in the messages menu.\n- Fixed a rare crash with Sticky shapes.\n- Spatial audio now works correctly in SFX V2.\n- Fixed a bug where the UI would break in front of sparkle effects.\n- Fixed a bug on iOS where the number in the notification badge wasn't being reset properly.\n- Fixed default sorting for Play menu search results.\n- Fixed scrolling issues on the Play menu.\n- Fixed a bug where changing the sorting on some UI pages would cause a blank tile to appear.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
+				"version": "20210609",
+				"change_log": "Rec Room PATCH - the \"Take a Seat\" edition\n\n##Suggested Friend Invites\n\nTired of all the lame excuses your friends give you for not joining you in Rec Room? Well, we have now made it harder for them to resist! Now, iOS players can invite people from their contacts list and Steam / Xbox players can invite people from their platform friends list to join Rec Room with one click! [That's right, _just one click!_](https://imgur.com/a/RTawchR)\n\n- To access this feature, open your watch --> Home page --> Invite button on the top right corner.\n- The list will only show people who haven't played Rec Room yet. If your friend is not a Rec Room player but isn't on that list, you can still copy and share your link with them. We don't know why some don't show up, but hey, that's Rec Room for ya!\n- Friends who sign up for Rec Room using your invite will automatically get added as your Rec Room friend when they return to their Dorm after completing the tutorial. See? Their resistance was futile.\n\n\n## General Improvements and Bug Fixes\n\n- The Streaming Camera was previously only available for PC VR, but is now also available to Screens PC players with a second display -- no VR headset required! This was supposed to land with the streaming camera improvements, but a minor Unity upgrade broke it. Whoops! (At least Rec Room doesn't require focus again!)\n- AI from CV1 UGC Spawners will now properly despawn on Game End. No more zombie goblins _sad trombone_.\n- When objects manage to get below the ground in \\^RecCenter and Maker rooms, they will now return to their last spawn position instead of their last pickup position.\n- We fixed the bug in VR where doors wouldn't open if your hands were full, so now you don't have to put down your donuts to use a door. You're welcome! (who says we don't fix important bugs?)\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1392116404",
-				"id": "4162549883791146",
-				"required_space_adjusted": "2306110952",
+				"total_installed_space": "1389537196",
+				"id": "4179990358713765",
+				"required_space_adjusted": "2300888107",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -129,7 +129,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4162549883791146"
+					"id": "4179990358713765"
 				}
 			},
 			"release_channels": {
@@ -140,8 +140,8 @@
 						"id": "2159376657710378",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "20210603",
-							"id": "4162549883791146"
+							"version": "20210609",
+							"id": "4179990358713765"
 						}
 					}
 				]
@@ -157,7 +157,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRfaunVWgAQ3OJN-o4qfQ_ygkqVJ-AbagLLOFkxk51tJDe3DkFP18UB4CoPAuqoZRsZ55YKOvX80PxLs9P9y8qvw"
+							"cursor": "AQHREtuzCPX_yassRT1pH_T_C5Qs8uge6UtOeLERC0en2GqI1i1D9uWWM904XiqEswlFpAbPixRNdfl2KBzWK7riFA"
 						}
 					]
 				}
@@ -204,11 +204,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4933565472372,
+			"quality_rating_aggregate": 4.4945205479452,
 			"support_website_url": "https://recroom.happyfox.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2318,
+				"count": 2327,
 				"orderings": [
 					{
 						"key": "top",
@@ -221,10 +221,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2318,
+				"count": 2327,
 				"page_info": {
-					"end_cursor": "AQHRp3ZYXdQMQ2zye-0TgAeYr2em96kMC0ndbNhP8KSJxwSyOZWnSMz-s4qlZ-B3gxJqKEx3h3UV-8pE-KFTf_uemg",
-					"start_cursor": "AQHRp3ZYXdQMQ2zye-0TgAeYr2em96kMC0ndbNhP8KSJxwSyOZWnSMz-s4qlZ-B3gxJqKEx3h3UV-8pE-KFTf_uemg"
+					"end_cursor": "AQHRNOwuBzx7Dr49Th4r2Rxv82wr0L6x1q9XBl47WadfznVHfCIathsIBGM9BzolkO0YqEN2w-JVi-_0Ivp0D_vjqA",
+					"start_cursor": "AQHRNOwuBzx7Dr49Th4r2Rxv82wr0L6x1q9XBl47WadfznVHfCIathsIBGM9BzolkO0YqEN2w-JVi-_0Ivp0D_vjqA"
 				},
 				"edges": [
 					{
@@ -234,13 +234,13 @@
 								"id": "110050284518763",
 								"display_name": "NayaTH2012",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.4.379.379a/s160x160/38974726_147086474148477_7270867026773710525_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aRwAF-Ff79AAX8GO53q&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0b26c91af5dd96477d8f5035eee6576e&oe=60CB4EB3"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c247.0.945.945a/s160x160/38982450_147762564080868_9003107132709459916_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8644Qn-j9m0AX_yBGaK&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1ac6b97de835b24f3c9de16d3d07bcd9&oe=60CF81A2"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "As seen in the title,\nPlease Read.\n\nI know Rec Room is such a fun game to make friends on.\nBut there's kids using voice changers (A.K.A the voice pitch) pretending they are adults.\n\nAnd then they swear, most kids ive seen in the center roast eachother, not as a JOKE.\n\nMost of them they say, \"F**k you, Go die bi**h, Suffer in hell cancer boy.\"\n\nI mean- that's too far bro-\n\nI didn't wanna report it so I just write a review.\n\nMost adults TOO swear.\n\nThey kinda bully children.\n\nIn 20 May, I was in the Rec Center, then I found this boy with his girl-friend\n\nIn the cafeteria.\n\nI was holding the trash for no reason, then the boy grabbed the trash and said;\n\n\"Put it on yo head, because yo trash\",\n\nWITH A FRIKIN VOICE CHANGER ON-\n\nnah dude im out\n\nI talked back;\n\nHow about you put it on? Because your like literally a 7 year old using a f**king voice changer.\n\nHe was like- \"awkward silence\"\n\nThen the girl said:\n\nMan shes right how bout u put it on\n\nI was like-\n\n\"ok my job is done ill let this girl finish her sentence\"\n\nAnyways, that's all I gotta say! \n\nPlease stay safe and make sure to drink a lot of water.\n\nHave a good day/night! <3",
 							"reviewTitle": "Please Read.",
-							"review_helpful_count": 273,
+							"review_helpful_count": 317,
 							"review_rank_by_viewer": null,
 							"date": 1622033923,
 							"developerResponse": null
@@ -255,7 +255,7 @@
 				"description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game! Rec Room is a fun and welcoming place for people from all walks of life. Let us help you find people you’ll LOVE to hang out with. Join the club!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=miZsnZpzZVoAX8LXn-8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c544438982e6d6090caf5c1734fdcdb5&oe=60CC6B41",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dsswvan-1CsAX8IExIS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=77f8812d5e53ff09857907b90b413792&oe=60CE6581",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
