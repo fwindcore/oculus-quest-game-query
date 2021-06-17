@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974693_572409533294412_7428283179816976384_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PjCqKVAjTxMAX-WM6Um&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0fe01688d530b7c6e670bd53ff837fba&oe=60CF4763"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974693_572409533294412_7428283179816976384_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PjCqKVAjTxMAX9d7xew&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c7d5bcc54b3abe700eb8a8034de3667c&oe=60CF4763"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2338172843089211_5124132327588364288_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=JBipjepBArEAX-vb85M&_nc_ht=scontent.oculuscdn.com&oh=e43da58709c4205e844fc11103811d1f&oe=60CF4483"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_2338172843089211_5124132327588364288_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=zyWoT5GCKXUAX9a5z8u&_nc_ht=scontent.oculuscdn.com&oh=883e3b2b63646262dc14a0bd42c302df&oe=60CF4483"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -102,16 +102,21 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "601344693731687",
+				"id": "197318692220811",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "199",
+					"formatted": "$1.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-90%",
+				"end_time": 1625806800,
 				"show_timer": false,
 				"buy_button_captions": []
 			},
@@ -204,7 +209,7 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "601344693731687"
+				"id": "197318692220811"
 			},
 			"externalReviews": {
 				"count": 0
@@ -228,8 +233,8 @@
 			"firstQualityRatings": {
 				"count": 137,
 				"page_info": {
-					"end_cursor": "AQHRU4w0-PqcCSB4JYd1JbUS9918FtXZTaQD2TBwJWF1ew-uOch1GycFsn-oBX5D718boti_q5teNlUzlgNPsRxDOw",
-					"start_cursor": "AQHRU4w0-PqcCSB4JYd1JbUS9918FtXZTaQD2TBwJWF1ew-uOch1GycFsn-oBX5D718boti_q5teNlUzlgNPsRxDOw"
+					"end_cursor": "AQHRxzrPxXYVpgS0L0ZbhXHFdQfMhEW5PU7JPk0yBr98E2PN-c6wygag5Zusa4TRxwv8Dd2rPM_WuavzhR3TPg6-Kg",
+					"start_cursor": "AQHRxzrPxXYVpgS0L0ZbhXHFdQfMhEW5PU7JPk0yBr98E2PN-c6wygag5Zusa4TRxwv8Dd2rPM_WuavzhR3TPg6-Kg"
 				},
 				"edges": [
 					{
@@ -239,13 +244,13 @@
 								"id": "2473500049542788",
 								"display_name": "OfficerWalrus1",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/12410200_2473519846207475_7631492268867715072_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8TSuBNCsTagAX_Mtxs-&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ec6f29135c6e5682ddfcc87e06ab1182&oe=60CF7E08"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/12410200_2473519846207475_7631492268867715072_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8TSuBNCsTagAX_kp7gU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4d126f7497ae8c73d2b7d23bb4fb6af2&oe=60CF7E08"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "First off, let me say this is a very good game. It’s exactly as advertised, mining rocks. I do have a couple issues though, mainly with chompy, the pet chest you get. Normally chompy is fine, but my main issue is that you can’t walk through them. Whenever I’m mining through a wall for a chest, chompy likes to get in front of me and keep me from moving. Another thing is that he seems to just...leave every so often? I’m not exactly sure why. In general I think that they should change it so that instead of stopping you completely when you walk near a wall or something, let me keep moving, just not in that direction. I know a lot of this review is complaining, but don’t get me wrong. This is a very well made and fun game.",
 							"reviewTitle": "Fun game, a few flaws. (Mild Spoilers)",
-							"review_helpful_count": 34,
+							"review_helpful_count": 38,
 							"review_rank_by_viewer": null,
 							"date": 1617714455,
 							"developerResponse": null
@@ -260,7 +265,7 @@
 				"description": "Cave Digger is a mining adventure game, which takes place in a small town of an alternative Western universe full of mystery, dark humor and full of experimental tools for the brave miners!\n\nGear up to explore the town and the depths of the mountain. Excavate bedrock with your hard swings, reap the rewards of Mother Earth and trade mined valuables for new gadgets. Outside of the saloon, a town in ruin awaits it’s savior! Fix the train to enter the mines and dig deeper than any miner before you.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75272214_700938733768114_90314593775124480_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IOwI1Q7rafYAX_GH488&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b869f4bd91cc54db4a7c1cc3fd99fb83&oe=60CEDF37",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75272214_700938733768114_90314593775124480_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IOwI1Q7rafYAX85WRL3&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a17a1bd62c4e4a4b19e38a4176ab6c6b&oe=60D0D977",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

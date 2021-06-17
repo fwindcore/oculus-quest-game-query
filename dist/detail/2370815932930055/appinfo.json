@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jafqAu6sK8QAX-cyJMx&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0895b33ea4522b4faf6070ad8aede1ab&oe=60CE584B"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jafqAu6sK8QAX84crIg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=59477a84479158f1c233bb57c12c7ae7&oe=60D0528B"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=5QWLfsp4SWEAX9G49Cj&_nc_ht=scontent.oculuscdn.com&oh=f8c9e12de7b0ec2fe2de1a08f111267c&oe=60CED6CA"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=WjtborB9RTcAX98HKjY&_nc_ht=scontent.oculuscdn.com&oh=1723703819835e397f55313d3b62eb1a&oe=60D0D10A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 1032,
+					"count": 973,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 2338,
+					"count": 2343,
 					"starRating": 5
 				}
 			],
@@ -148,44 +148,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1623888000,
-								"current_start_timestamp": 1623880800,
-								"temporal_info": {
-									"seconds_until_end_time": 56034,
-									"seconds_until_start_time": 48834
-								},
-								"vr_app_and_destination_string": "PokerStars VR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2370815932930055",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "PokerStars VR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "784606025570576",
-								"is_vr_viewer_interested": false,
-								"name": "PokerStars VR 2X Creds Power Hours",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974479_328893782189237_5376839519757709131_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nROekYEGN4oAX9grw6p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=50f853d7a2df7bb11b0e62d581a7c1f0&oe=60CE814C"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1624230720,
 								"current_start_timestamp": 1624230000,
 								"temporal_info": {
-									"seconds_until_end_time": 398754,
-									"seconds_until_start_time": 398034
+									"seconds_until_end_time": 312326,
+									"seconds_until_start_time": 311606
 								},
 								"vr_app_and_destination_string": "PokerStars VR",
 								"vr_applications": {
@@ -207,7 +174,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "The Sunday Spin!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974704_361552911985830_3569358785689556217_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Rn2NCi_ZeF4AX9Ahwev&_nc_ht=scontent.oculuscdn.com&tp=28&oh=91a131f0e144e4396d969c99339141ac&oe=60CEBAAC"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974704_361552911985830_3569358785689556217_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NExMDROMTPkAX_FwVzF&_nc_ht=scontent.oculuscdn.com&tp=28&oh=751cbf25031ba1a0d1e9aadb2f5f006f&oe=60D0B4EC"
 								}
 							}
 						}
@@ -222,7 +189,7 @@
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CU9B-vF72QIAX_xtwjF&_nc_ht=scontent.oculuscdn.com&oh=6a993a8a5073f3978470a35b3dfffecd&oe=60CEACF1"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CU9B-vF72QIAX-TRsvX&_nc_ht=scontent.oculuscdn.com&oh=3caad5893c45a0cab77cc810fc6f856f&oe=60D0A731"
 							}
 						}
 					]
@@ -230,7 +197,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHR-jtuQ__hE2z8bFdnMbGPnKdUiIc1ktGO96yAIO27daPSIZgwgyeQmtdWm3LqPaqf1I4kOfeJm1DbohSfK43R_A"
+							"cursor": "AQHR5HRM7DzBH0NINBsaYfZsa9nQrP9-xd9uoQN0zqhcUL_KIOSEBDtB1ZzvQ4oTLgPeoVq-6cN2v-LsGeJxn1T5CQ"
 						}
 					]
 				}
@@ -277,11 +244,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6261440509351,
+			"quality_rating_aggregate": 3.6586886564763,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1734,
+				"count": 1738,
 				"orderings": [
 					{
 						"key": "top",
@@ -294,10 +261,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1734,
+				"count": 1738,
 				"page_info": {
-					"end_cursor": "AQHRCGcUlr1Upcel0hymehmdzaOE5aMrPi2MB9_XQLbVG_H29ANfVjPTVCf1NpMbdnXaGXHkK8pUsWQnWXGPfY6D7g",
-					"start_cursor": "AQHRCGcUlr1Upcel0hymehmdzaOE5aMrPi2MB9_XQLbVG_H29ANfVjPTVCf1NpMbdnXaGXHkK8pUsWQnWXGPfY6D7g"
+					"end_cursor": "AQHRyZs8oqE0s1RBiRrzfxF3hmY1CMVp3f-IND6OZ0euYOWRCY1_7Ikw2Vqkkp2aVV8af9fNem7hsMUU7KJVUjgGHQ",
+					"start_cursor": "AQHRyZs8oqE0s1RBiRrzfxF3hmY1CMVp3f-IND6OZ0euYOWRCY1_7Ikw2Vqkkp2aVV8af9fNem7hsMUU7KJVUjgGHQ"
 				},
 				"edges": [
 					{
@@ -307,13 +274,13 @@
 								"id": "111590037234852",
 								"display_name": "HorHeii",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c96.0.433.433a/s160x160/38974708_324385925955261_2814805901329318954_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v-NS4kcnv_4AX9DPtsU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0def97d09742e3f85a8b282cd54f6e8d&oe=60CEBF73"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c96.0.433.433a/s160x160/38974708_324385925955261_2814805901329318954_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=v-NS4kcnv_4AX8inqws&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c3f5967d85b58c0be2af61853adcc2a4&oe=60D0B9B3"
 								}
 							},
 							"score": 1,
 							"reviewDescription": "After everything I did to help you guys (Jordan, Jeff, Devs) and the game and then you go and  permaban me for NO REASON. You didn't want me anymore so you threw me out like an old dog by the side of the road.\n\nYou replied to another review saying \"If someone is banned, then it is always for violating a rule\" I haven't played the game in 2 months so how exactly did I \"violate\" any rules?? This seems to be more of a ban for personal reasons rather than a ban for violating any rules.",
 							"reviewTitle": "WOW!! REALLY GUYS!? PERMABAN!?",
-							"review_helpful_count": 349,
+							"review_helpful_count": 363,
 							"review_rank_by_viewer": null,
 							"date": 1623247782,
 							"developerResponse": null
@@ -328,7 +295,7 @@
 				"description": "NEW SLOTS TOURNAMENTS UPDATE!\n\nStep into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_165914242047064_4005957089872952787_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CfX5HvauEFMAX96-g-2&_nc_ht=scontent.oculuscdn.com&tp=28&oh=010bed43a2e77fe70f4fbafd5ac001d6&oe=60CDBE1B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_165914242047064_4005957089872952787_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CfX5HvauEFMAX80Cp9p&_nc_ht=scontent.oculuscdn.com&tp=28&oh=695e35802e905bacb616975c95c4f866&oe=60CFB85B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

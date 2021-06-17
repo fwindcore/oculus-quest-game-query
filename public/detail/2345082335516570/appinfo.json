@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39003255_1825078714302880_1561603594329784320_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=17bDn48XtVcAX-gxv2Q&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0e28828a685039ba4d52904844094d9d&oe=60CF3561"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39003255_1825078714302880_1561603594329784320_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=17bDn48XtVcAX8O1Sa5&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7f7bc37faeb7f8e255b4f493e637415f&oe=60CF3561"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1825078077636277_8265102440127266816_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=7BbFKz2o8jMAX9aqwQk&_nc_ht=scontent.oculuscdn.com&oh=3ae42d63af983c5b8abee26701115648&oe=60CE8743"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1825078077636277_8265102440127266816_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=7BbFKz2o8jMAX_8UwZN&_nc_ht=scontent.oculuscdn.com&oh=ac4bf6d4656296ae1a926a850edaf692&oe=60D08183"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 33,
+					"count": 34,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 762,
+					"count": 763,
 					"starRating": 5
 				}
 			],
@@ -116,17 +116,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "439796413544317",
+				"id": "821368525250984",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "1399",
+					"formatted": "$13.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99",
+					"offset": 100
+				},
+				"promo_benefit": "-30%",
+				"end_time": 1623999540,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -167,7 +172,7 @@
 							"created_time": 1603291070,
 							"body_text": "Your favorite squirrels are back with a terrifying update including the brand new Halloween themed map Sulky Swamp,  level selection and more!\n\nGame Updates:\n- New level: Sulky Swamp\n- One mobile player required to start game instead of two\n- Removed region visuals/simplified room code\n- Support emails include extra information\n- Notch on some phones is no longer obstructing the view of the game\n- Added official iPad support\n- A lot of networking fixes\n- Made it possible for AIs to have overlaying level structures (like bridges)\n- Added new UI for selecting maps and change number of bots\n- Added network message for when the tree leaves the match using the exit button which shows a message on the phones that the tree quit the match instead of disconnected\n- Made one skin set free (Haunting Horrors skins)\n- Gave name to all levels\n- Added possibility to adjust number of bots in-between levels\n- Changed how nametags look and behave, below squirrels and are hidden if you can't see the squirrel\n- Moved win screen UI on phones\n- AI can now throw acorn towards players\n- Changed wording on some places\n- Made the lobby include less info to make it feel lighter\n- Chunk can no longer carry the shield inside a tunnel\n\nBug Fixes:\n- Fixed Android crash (OBB)\n- Fixed iPhone 6 crash (RAM)\n- Fixed issue with Steam not being able to start match\n- Fixed bug with player names in the lobby\n- Players can no longer join a game without a name\n- Fixed bug with tunnels looping animation when hotjoining\n- Fixed bug where the acorn’s location switches between players\n- Fixed bug where squirrel name tags become visible when picked up by the tree\n- Fixed bug causing delay on continue button when switching between settings and match stats.\n- Fixed bug with Chunk animations when not carrying shield\n- Bots got stuck in a flickering movement if they were close to the acorn but on the wrong height - Fixed issue with bots getting stuck when close to an acorn\n- Fixed bug where knocked out squirrels could go through tunnels\n- Fixed bug where music starts over when exiting skin view on mobile\n- Fixed bug with adjust bots button being clickable when it wasn’t supposed to be",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031360_785151765365290_3311157848749018066_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=h63zozEnar0AX93ThVN&_nc_ht=scontent.oculuscdn.com&oh=3d88b106bdc54ab7c713bf85d1cb13c9&oe=60CEAB20"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031360_785151765365290_3311157848749018066_n.png?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=IIJwnVOY0HUAX-Pr_r0&_nc_ht=scontent.oculuscdn.com&oh=f2f2621d0e76a8235f7be77ba8f75087&oe=60D0A560"
 							}
 						}
 					]
@@ -219,16 +224,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "439796413544317"
+				"id": "821368525250984"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.5701923076923,
+			"quality_rating_aggregate": 4.5671785028791,
 			"support_website_url": "https://www.resolutiongames.com/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 706,
+				"count": 708,
 				"orderings": [
 					{
 						"key": "top",
@@ -241,10 +246,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 706,
+				"count": 708,
 				"page_info": {
-					"end_cursor": "AQHRw6E-oHZHI0kejkP_UcYyh2s9MIH10fbaJ5ik6Jmc55JoDYBdrioZxFTWDrI1DIsSCyGYu6MkH9oQ8dO3QEHZPw",
-					"start_cursor": "AQHRw6E-oHZHI0kejkP_UcYyh2s9MIH10fbaJ5ik6Jmc55JoDYBdrioZxFTWDrI1DIsSCyGYu6MkH9oQ8dO3QEHZPw"
+					"end_cursor": "AQHRoZLpYO_EAvRGRDZSUXME2va_CF50-DrTgaknhtOJDmG7HuaS9DeFbFoBnJvhVVPFnsQKlz7SCw1UgvLzIrDo0Q",
+					"start_cursor": "AQHRoZLpYO_EAvRGRDZSUXME2va_CF50-DrTgaknhtOJDmG7HuaS9DeFbFoBnJvhVVPFnsQKlz7SCw1UgvLzIrDo0Q"
 				},
 				"edges": [
 					{
@@ -254,7 +259,7 @@
 								"id": "103494248540532",
 								"display_name": "BlackFamily6",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75245824_103494475207176_827867733834001982_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=G4twLQK9_X0AX-llgCp&_nc_oc=AQnmWvU5XQtxIFilHBOYPR0X8p4MnY1vdOigypXAu56yAC08PV0exeykHLrmYeR7Tms&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c2c217793d753b2d4542f30be0805849&oe=60CE75EF"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/75245824_103494475207176_827867733834001982_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=G4twLQK9_X0AX9WOtCE&_nc_oc=AQmyzxXhsPEgkup6eeUocH2PmOdeDT3B4aez-fvVdHRLp5qU9_lZqjfLs8hLKBem_9w&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9f3b29049ff237299502201d5290dbd4&oe=60D0702F"
 								}
 							},
 							"score": 5,
@@ -275,7 +280,7 @@
 				"description": "WARNING: This is a highly addictive VR game and must be played with at least one other person who joins the game on a mobile device. The mobile game for iOS and Android is free.\n\nDo you have what it takes to protect the golden acorns in this new multiplayer party game from Resolution Games, or are you feeling a little squirrely?",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974888_1346868225705615_8449118168304735884_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7fuaf37cSnEAX8vL3lL&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5bca04d779a21a23838896c66e34fb64&oe=60CF2D1D",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75196219_335198641381740_6607712241750087508_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-3XyCTmemJkAX_PVkv7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5fa28641d15da0122547691c03ee5aa1&oe=60D0EBD0",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031656_3756929864429820_3927397700466437177_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Uz6sr92KchIAX9BRCy6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6adcedcb460e3d7edf572a311a193f32&oe=60CE6E18"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/39031656_3756929864429820_3927397700466437177_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Uz6sr92KchIAX_8y2XY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=072e87ea7c77406ffc4a31db6de547ce&oe=60D06858"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_875886126471554_9153366233826251712_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=8T9huqYzicgAX9qewYL&_nc_ht=scontent.oculuscdn.com&oh=bb8c95862839200154e4c2b25149b115&oe=60CDF6C6"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_875886126471554_9153366233826251712_n.mp4?_nc_cat=110&ccb=1-3&_nc_sid=0ed769&_nc_ohc=8T9huqYzicgAX9xB1_b&_nc_ht=scontent.oculuscdn.com&oh=24c712c140fe03e10e43fb9f82a06047&oe=60CFF106"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -153,41 +153,7 @@
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": [
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1623909600,
-								"current_start_timestamp": 1623866400,
-								"temporal_info": {
-									"seconds_until_end_time": 77642,
-									"seconds_until_start_time": 34442
-								},
-								"vr_app_and_destination_string": "Yupitergrad",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "3622969487764448",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Yupitergrad"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1151277485355489",
-								"is_vr_viewer_interested": false,
-								"name": "It's Wednesday already? Then it's party time!",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75245824_216155843666741_7340659758042232866_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6u8ZtQu7yj8AX_tisui&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b73a9204cc6e5f2a6a19c09e67cdf4da&oe=60CE0CF0"
-								}
-							}
-						}
-					]
+					"edges": []
 				},
 				"id": "1018428281973744",
 				"posts": {
@@ -198,7 +164,7 @@
 							"created_time": 1623233996,
 							"body_text": "Dear komrades, players, friends!\n\nWe are pleased to inform you that we implemented Cross-Buy  for Yupitergrad. This means that you need to purchase the game only once to play it both Oculus Quest and Oculus Rift.\n\nWe are very excited to announce it - as a studio, we are committed to deliver the most complete product possible. Moreover, we implement as many user-friendly solutions as possible, reading your request on social media channels and our Discord channel. Sometimes it takes us some time, but your feedback is always very important to us.\n\nWe wish all the owners of Quests and Rifts a lot of fun with the game :)\n\nWe would also like to remind you that you can always leave new suggestions or just talk to us and other players on GameDust Discord. There is a friendly atmosphere full of space flights and crazy acrobatics - everyone is welcome :)\n\nStay safe komrades!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982602_2903789006556315_3809274739831221025_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dxsjqtlnbVEAX9tpbLb&_nc_ht=scontent.oculuscdn.com&oh=5aa72b1a409768cdb7acf4d9ddb436da&oe=60CEA3EE"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38982602_2903789006556315_3809274739831221025_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=MKRQE7wzTE8AX8yWgzs&_nc_ht=scontent.oculuscdn.com&oh=782fdd25d49fee65013e4d5aeedcae37&oe=60D09E2E"
 							}
 						},
 						{
@@ -207,7 +173,7 @@
 							"created_time": 1617035775,
 							"body_text": "Dear Komrades, we have good news!\n\nEveryone can now update Yupitergrad to the 1.2 version and receive some quality of life improvements - i.a. UI tweaks, new leaderboard views (to check results of your Oculus Friends) and height adjustment.\n\nHere’s the full list of things we added:\n- New leaderboards where you can compare the results with your friends;\n- Height adjustment option;\n- Improved Time Attack UI which shows in real time if current result is better than your previous attempts;\n- Improved menu - easier to find the most necessary options;\n- Minor bug fixes.\n\nAlso, we want to thank you for your attention and such positive feedback! Our development team is really really moved by how you perceive the game. We can even reveal that some surprises are planned in the upcoming weeks!\n\nWe wish you all good health and stay safe!\n\nThank you,\n\nGamedust Team",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974805_290776569234855_249037135729908920_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vdyzYJev6wQAX_dtmyY&_nc_ht=scontent.oculuscdn.com&oh=b97b8aa7e04fd335361f482aa88a1aff&oe=60CE8EEB"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974805_290776569234855_249037135729908920_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=klZ9rz3sJd4AX8ef7GS&_nc_ht=scontent.oculuscdn.com&oh=0e33da140fd0b226e639dc9d69359f65&oe=60D0892B"
 							}
 						}
 					]
@@ -294,7 +260,7 @@
 								"id": "100141318664392",
 								"display_name": "oculussurfer2097",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982622_171702971508226_998717835283717843_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7TKuCyFbSR0AX977Z-o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3b332978dfd1b65c02c7c932bd4221cc&oe=60CDCC71"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/38982622_171702971508226_998717835283717843_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=7TKuCyFbSR0AX86lcbS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c417a04a14540fa0ff7d70c481b3aa56&oe=60CFC6B1"
 								}
 							},
 							"score": 5,
@@ -315,7 +281,7 @@
 				"description": "Yupitergrad is the plunger-driven kosmonaut game where you can swing through space station with style all in cell-shaded graphics. Can you believe that grappling hooks is the definitive way of locomotion in place like this? It's one of a kind experience, where VR platformer meets puzzles in a single player campaign. It also gives you arcade thrills with Time Attack mode. All of this is soaked in delicious dieselpunk sauce. \n",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75292490_859028154959801_1149834036295109345_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bC6hhTxdgrEAX-oMRrS&_nc_ht=scontent.oculuscdn.com&tp=28&oh=64085810f894e171a475dad3c3fd45d0&oe=60CE9B89",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75292490_859028154959801_1149834036295109345_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bC6hhTxdgrEAX9IFveb&_nc_ht=scontent.oculuscdn.com&tp=28&oh=348737612c66b8bc40baa3e345522936&oe=60D095C9",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
