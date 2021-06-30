@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982478_361629635205095_4602740080362387136_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=3ZM45NFGhOUAX-5YUEh&_nc_oc=AQmKDl4-FpLcnpD3nhj6fjPbP8GBlqdP0ZiW_eLn_sDt0z-IzPI0ATmwwUOFlz8Enec&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9e1037ce34746f0da64aec715bd755c8&oe=60CFBC66"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982478_361629635205095_4602740080362387136_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=NasSYM4jjn4AX9hgAPD&_nc_oc=AQncx80XzI5eKnGImhKwyQPDkDgyPNO6qZOgz460l99ERc9SVlvYFOhOKBUg4yPsfpo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=8ebf700d4453dba83667f6d4bf4d7d60&oe=60E188A6"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982515_3774154052639863_5189062116159879740_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=jLPocxwU4A4AX-SaAmy&_nc_ht=scontent.oculuscdn.com&oh=2408e7efa46aa3ed985305f8d547b158&oe=60CFE4AD"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38982515_3774154052639863_5189062116159879740_n.mp4?_nc_cat=106&ccb=1-3&_nc_sid=0ed769&_nc_ohc=JqbSMsVK5KgAX-UDUZ7&_nc_ht=scontent.oculuscdn.com&oh=d1f8d624f77a244b5f52f976a5a5c938&oe=60E1B0ED"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 14,
+					"count": 15,
 					"starRating": 1
 				},
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 257,
+					"count": 259,
 					"starRating": 5
 				}
 			],
@@ -120,17 +120,22 @@
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"offer_type": "APPSTORE_OFFER",
-				"id": "217985742735092",
+				"id": "922417211649719",
 				"__isPurchasableOfferWithApp": "AppStoreOffer",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "699",
+					"formatted": "$6.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null,
-				"end_time": 0,
-				"show_timer": false,
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99",
+					"offset": 100
+				},
+				"promo_benefit": "-30%",
+				"end_time": 1625122800,
+				"show_timer": true,
 				"buy_button_captions": []
 			},
 			"viewer_release_channel": {
@@ -171,7 +176,7 @@
 							"created_time": 1590683257,
 							"body_text": "Color Space's \"Another World\" update is the most immersive and ambitious yet. It takes you to a distant planet where flying robots tend to strange plants, extract massive jewels from mountain tops, and pay homage to interesting deities. This update has ethereal new music, and players can now use the 'dropper' to re-use colors from the scene, plus undo and redo for more granular control of your compositions. We hope you enjoy!",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031502_253724945712531_6402215003176304640_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tD2lvd5rB3sAX_oQFjG&_nc_ht=scontent.oculuscdn.com&oh=141d805ce18df300241c672f0d04c47a&oe=60CF5CB7"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031502_253724945712531_6402215003176304640_n.png?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Ahc1c7of5_kAX8I3rCa&_nc_ht=scontent.oculuscdn.com&oh=60fb38b77b06848fdf9a078372e5a0ec&oe=60E128F7"
 							}
 						}
 					]
@@ -223,16 +228,16 @@
 			"is_giftable": true,
 			"current_gift_offer": {
 				"__typename": "AppStoreOffer",
-				"id": "217985742735092"
+				"id": "922417211649719"
 			},
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.3879518072289,
+			"quality_rating_aggregate": 4.3827751196172,
 			"support_website_url": "http://lighthaus.us/contact",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 262,
+				"count": 263,
 				"orderings": [
 					{
 						"key": "top",
@@ -245,10 +250,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 262,
+				"count": 263,
 				"page_info": {
-					"end_cursor": "AQHRS4a6okJGSKobpZlxs3VtY8E7Wxt5RIqXvOJoEQOJMyzK3I4m_pQP7zEJCOpxy42IFTrvHWu0AZbpiMzfORIj8A",
-					"start_cursor": "AQHRS4a6okJGSKobpZlxs3VtY8E7Wxt5RIqXvOJoEQOJMyzK3I4m_pQP7zEJCOpxy42IFTrvHWu0AZbpiMzfORIj8A"
+					"end_cursor": "AQHRGZQhmDFVu8XbdofZuNEtBSbVrOmuTu6ZYuLLSGlqqOcMT12N3UHYrsOOsO6rivI-YIcKaPQ-2zEeblPNt3Fpmg",
+					"start_cursor": "AQHRGZQhmDFVu8XbdofZuNEtBSbVrOmuTu6ZYuLLSGlqqOcMT12N3UHYrsOOsO6rivI-YIcKaPQ-2zEeblPNt3Fpmg"
 				},
 				"edges": [
 					{
@@ -258,13 +263,13 @@
 								"id": "101072362003717",
 								"display_name": "MissedByAHair",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.720.720a/s160x160/38974469_106315794812707_7352834609735787348_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=xnU-WAi3T4wAX9SqCZl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f91ad79036de567ad2d1535bcbeba71b&oe=60CF6F03"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.959.959a/s160x160/39031533_167762025334750_8667120259150599156_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8BT8oP_AOZwAX8h1qKq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=462b62d6adb0b38ac84f191b6df8f306&oe=60E097BF"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "This is my first review for a game on VR. This game is so pleasing to me. I have autism and ADHD. I love to see the worlds unfold and it keeps me engaged and focused. Which my worlds usually start out fairly generic and end up a colorful playground. I love the color wheel! This game is so fun to me that I have to pace myself otherwise I would’ve finished it when I picked it up a few days ago. Since picking it up there has been two new books added and they’re fantastic! I’ve only looked at two of them because right when it loaded I couldn’t help myself! \n\nHonestly I wish there was a way to contact the devs and ask them for a beta or something of their throw aways. I’d love more pages to color even if they aren’t 10/10. 26 is a lot though.  I’m impressed! \n\nIf I had to make one complaint it’d be that some things are not as intricate as I wish they were. Like I loved coloring in the chameleon with the deer. I wish the dragons at the castle were as intricate. I’d want to do like a blue faded dragon with maybe a smoky gray underside. But I guess my dragon will be green until I can make it more colors. :) I’d love super intricate ones even if it had to be like $1-5 dlc. I can finish most of these pages ~15-20 minutes each. I’d love to spend 45-60 minutes doing some beautiful fairy work or a mushroom field or some really beautiful butterflies! \n\nThank you for this app and please continue to put out awesome content! I tried to find a discord for y’all because I wanted to thank the devs more personally. I love this game. It’s my current happy place.",
 							"reviewTitle": "Pure bliss",
-							"review_helpful_count": 73,
+							"review_helpful_count": 82,
 							"review_rank_by_viewer": null,
 							"date": 1618602507,
 							"developerResponse": {
@@ -283,7 +288,7 @@
 				"description": "Color Space is the first virtual reality coloring book. Immerse yourself in beautiful, fully animated worlds, where you can color the world piece by piece and watch it come to life.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75195910_477730770084623_9074284551044097271_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=oMcz4bEHNE8AX_4kwQ6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f6e368f342ed60b12fab94402daca951&oe=60D09283",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982663_316186146812392_5314222045384752765_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=vVF_f-J92pIAX-LbOol&_nc_ht=scontent.oculuscdn.com&tp=28&oh=a3e89bf892c072a011cef735b8ff1629&oe=60E0A0A8",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

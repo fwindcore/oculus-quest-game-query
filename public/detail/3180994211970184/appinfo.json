@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_3952853951496295_690541236126936005_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=KyE2fNsL1pYAX8TN3ur&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4dfd8352a66dbe4fc8480dcc0c1b6765&oe=60D0E55C"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974450_3952853951496295_690541236126936005_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=82cHXv4GcjwAX8-xm92&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ab04a3996b144249c66b9ecf8215df42&oe=60E0B75C"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035469_1130178697464874_7912021907042290482_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=CfUg3j9c6TgAX98e7EX&_nc_ht=scontent.oculuscdn.com&oh=8d1654b8d94f18d3c21b1f810804c97a&oe=60D0487D"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/39035469_1130178697464874_7912021907042290482_n.mp4?_nc_cat=107&ccb=1-3&_nc_sid=0ed769&_nc_ohc=w2FEmtRame4AX_nsQIA&_nc_ht=scontent.oculuscdn.com&oh=0168037d3425066dc267b75047d67e16&oe=60E214BD"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 20,
+					"count": 21,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 36,
+					"count": 31,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 54,
+					"count": 53,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 121,
+					"count": 128,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 219,
+					"count": 231,
 					"starRating": 5
 				}
 			],
@@ -71,6 +71,9 @@
 				},
 				{
 					"name": "西班牙语（西班牙）"
+				},
+				{
+					"name": "韩语"
 				}
 			],
 			"supported_hmd_platforms": [
@@ -94,15 +97,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.2",
+				"version": "1.3",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "2617936225",
-				"id": "4129841437085452",
-				"required_space_adjusted": "4923248087",
+				"total_installed_space": "2618193604",
+				"id": "4202734526462809",
+				"required_space_adjusted": "4923709161",
 				"storeAddOns": {
 					"__typename": "AndroidBinaryStoreAddonsIncludingBundlesConnection",
 					"count": 0
@@ -147,7 +150,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4129841437085452"
+					"id": "4202734526462809"
 				}
 			},
 			"release_channels": {
@@ -158,8 +161,8 @@
 						"id": "2649425371999900",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.2",
-							"id": "4129841437085452"
+							"version": "1.3",
+							"id": "4202734526462809"
 						}
 					}
 				]
@@ -170,7 +173,17 @@
 				},
 				"id": "897030704130578",
 				"posts": {
-					"nodes": []
+					"nodes": [
+						{
+							"id": "495782038354607",
+							"title": "New free table - Droids! Play Star Wars™ Pinball VR now with 10 tables total!",
+							"created_time": 1624367670,
+							"body_text": "Now with 10 pinball tables – Droids joins Star Wars™ Pinball VR for free!\n\nHaving narrowly evaded the clutches of Darth Vader and the Galactic Empire, our two hapless Droids find themselves scavenged by the Jawas on the planet of Tatooine. Carrying Leia's message for Obi-Wan Kenobi and the vital plans to the Death Star, R2-D2 must escape with the assistance of C-3PO in order to continue his mission.\n\nTable features:\n- Help R2-D2 and C-3PO escape the Jawa's Sandcrawler as they join the fun right next to your pinball machine. But watch out for the Jawas!\n- Assist other captured Droids to give you perks in the Wizard Mode.\n- Use the Sandcrawler's Ore Processor and Magnet Crane mechanisms as playfield toys to start multiball.\n- Unlock new Fan Cave customization items - don’t worry, the possibility of navigating through the pinball challenges is not 3720 to 1.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974666_338457377650930_8531204703338740536_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=uxwlxusU9LEAX8Do_wr&_nc_ht=scontent.oculuscdn.com&oh=e2ab7ad7152812b21f7ca859f5d43f50&oe=60E17DEF"
+							}
+						}
+					]
 				},
 				"iap_items_2": {
 					"edges": []
@@ -228,11 +241,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0733333333333,
+			"quality_rating_aggregate": 4.114224137931,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 292,
+				"count": 301,
 				"orderings": [
 					{
 						"key": "top",
@@ -245,10 +258,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 292,
+				"count": 301,
 				"page_info": {
-					"end_cursor": "AQHRwgMEf8-PFnGcm9pemIaEmOXGod0YEbNYm_HT73reROXSdtjVcB5ZVIl6olNCu9P6Sn67rOTIqF8kP3raKhlGPQ",
-					"start_cursor": "AQHRwgMEf8-PFnGcm9pemIaEmOXGod0YEbNYm_HT73reROXSdtjVcB5ZVIl6olNCu9P6Sn67rOTIqF8kP3raKhlGPQ"
+					"end_cursor": "AQHR0bw2wdYlUGuGRKLOV_ycTznITzhQd8qtjTrIAc9kTgNiLM03u7HWhqyo4VS9-Qqgb-P_-I94ZyfGd_6jvKctwA",
+					"start_cursor": "AQHR0bw2wdYlUGuGRKLOV_ycTznITzhQd8qtjTrIAc9kTgNiLM03u7HWhqyo4VS9-Qqgb-P_-I94ZyfGd_6jvKctwA"
 				},
 				"edges": [
 					{
@@ -258,19 +271,19 @@
 								"id": "100102881971737",
 								"display_name": "cyberATX",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001662_108112971170728_4364118089364502101_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=cZwuHTawV7oAX-YfGsn&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c2d095a8f5812183b4baa6cc50757ba5&oe=60D07C01"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.304.304a/s160x160/39001662_108112971170728_4364118089364502101_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=P7sRjuICzq0AX-jwc3P&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6b01269cfba773c14796242b765741a9&oe=60E04E01"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "I am a Quest 2 user and I am a bit disappointed about the graphics resolution. It seems, that the game doesn't use the native Quest 2 render resolution, but a lower one, making it a bit pixelated. Other than that, the game is great. I am playing the tables (beside the new ones of course) since many years on my Android device. There, the tables where already a lot of fun. But in VR, this is even more fascinating and very immersive. Absolutely nice game play, fantastic level of detail of each table and the Star Wars fan cave is a nice idea. All in all a good game and I hope, that they will increase the render resolution for Quest 2 users in an update.",
 							"reviewTitle": "Great game, bad graphics resolution",
-							"review_helpful_count": 286,
+							"review_helpful_count": 303,
 							"review_rank_by_viewer": null,
 							"date": 1619727194,
 							"developerResponse": {
-								"date": 1619776568,
-								"body": "Hi! Glad to hear that you are enjoying the game, and thanks for the constructive criticism! We are looking into this! Have a nice day!",
-								"id": "177849350863756"
+								"date": 1624616768,
+								"body": "Hi! Thanks for the constructive criticism! I hope you will enjoy the new update's added graphical option! We hope this bump in resolution will bump up the immersion as well! Thank you very much for playing!",
+								"id": "209951877653503"
 							}
 						}
 					}
@@ -280,10 +293,10 @@
 			"is_offer_region_restricted": false,
 			"__isWithWebsitePageMeta": "Application",
 			"website_page_meta": {
-				"description": "Play the new free table - Han Solo! Relive the adventures of Han and Chewbacca and prove that hokey religions and ancient weapons are no match for a good blaster!",
+				"description": "Play the latest  tables for free! Han Solo and Droids are now available in the Star Wars™ Pinball VR library! Relive the adventures of Solo and Chewbacca and help R2 & C-3PO in their quest to save the galaxy. ",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031318_132509852037857_9011120570206190213_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=G-u5GsVIyaYAX8R1i0I&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5e770f9587c515919eb8b4e10e61f3a8&oe=60CF84BB",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031318_132509852037857_9011120570206190213_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4TQRuWW9v1AAX_gsoVh&_nc_ht=scontent.oculuscdn.com&tp=28&oh=e912815fc0c27be1d939c8484973b389&oe=60E150FB",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

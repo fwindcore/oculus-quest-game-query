@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_Zbb1L4vQdAAX_hj0W6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9b365d03223b5ecdcd6e298a9bbc54ae&oe=60D04798"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/57568680_4393178260755838_6065264603962655025_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=9oMekZbjpuMAX_3U4Yg&_nc_ht=scontent.oculuscdn.com&tp=28&oh=92e39f3af3805c52a7b248be610028e8&oe=60E213D8"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=gAlZV_QFxUsAX91Rs-E&_nc_ht=scontent.oculuscdn.com&oh=98b0bc209b15a8c8be0fb360b244829d&oe=60D05A3A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75294241_1264480403905163_3448175190294399208_n.mp4?_nc_cat=102&ccb=1-3&_nc_sid=0ed769&_nc_ohc=wLVg0QY5nEkAX_1d2Tf&_nc_ht=scontent.oculuscdn.com&oh=ed1309981076757ac1be5c649bca51e8&oe=60E02C3A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 723,
+					"count": 738,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 193,
+					"count": 195,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 455,
+					"count": 465,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 1163,
+					"count": 1184,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 8429,
+					"count": 8544,
 					"starRating": 5
 				}
 			],
@@ -83,15 +83,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "20210609",
-				"change_log": "Rec Room PATCH - the \"Take a Seat\" edition\n\n##Suggested Friend Invites\n\nTired of all the lame excuses your friends give you for not joining you in Rec Room? Well, we have now made it harder for them to resist! Now, iOS players can invite people from their contacts list and Steam / Xbox players can invite people from their platform friends list to join Rec Room with one click! [That's right, _just one click!_](https://imgur.com/a/RTawchR)\n\n- To access this feature, open your watch --> Home page --> Invite button on the top right corner.\n- The list will only show people who haven't played Rec Room yet. If your friend is not a Rec Room player but isn't on that list, you can still copy and share your link with them. We don't know why some don't show up, but hey, that's Rec Room for ya!\n- Friends who sign up for Rec Room using your invite will automatically get added as your Rec Room friend when they return to their Dorm after completing the tutorial. See? Their resistance was futile.\n\n\n## General Improvements and Bug Fixes\n\n- The Streaming Camera was previously only available for PC VR, but is now also available to Screens PC players with a second display -- no VR headset required! This was supposed to land with the streaming camera improvements, but a minor Unity upgrade broke it. Whoops! (At least Rec Room doesn't require focus again!)\n- AI from CV1 UGC Spawners will now properly despawn on Game End. No more zombie goblins _sad trombone_.\n- When objects manage to get below the ground in \\^RecCenter and Maker rooms, they will now return to their last spawn position instead of their last pickup position.\n- We fixed the bug in VR where doors wouldn't open if your hands were full, so now you don't have to put down your donuts to use a door. You're welcome! (who says we don't fix important bugs?)\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
+				"version": "20210622",
+				"change_log": "Rec Room PATCH - the \"Take a Seat\" edition\n\n## Introducing Creator Announcements v2\n\n- We're introducing some new announcement types! If you're a creator or a club owner you can send messages to your members/subscribers about rooms, events and inventions as usual, but you can also send links to clubs, players, codes and even show off photos!\n- If you're subscribed to creators or members of a club, you can view [these announcements](https://imgur.com/a/gYI8iaL) in your \"Messages\" tab like usual, or you can always find announcements from the club details or player's portfolio page.\n\n## New Shape & Material Improvements\n\nWe had a look at how materials work and added some improvements, as well as 2 brand new materials and one brand new shape to help with terrain!\n\n- Blurry and repeating patterns on materials are now less noticeable, we added more details when looking at all materials from afar or from close up!\n- Stretching materials is now consistent between both tubes and shapes.\n- You can now scale and move the texture on your creation! To do so, edit into an object with the Edit tool, use the Configure tool to configure the shape you want to scale or move the material of and you'll find plenty of new options in the Config Menu to do so!\n- Your old rooms are unchanged, but if you want to try the new materials on them, go to This Room > Subroom > Use New Materials.\n- We added 2 brand new materials: Grass and Rock!\n- We added a new simple shape that can help with creating terrain and sharp-edged geometry like mountains: Diamond!\n\n## Seats Improvements\n\nWe've been excited to see people experimenting with seats, and creating [awesome rooms that depend on them](https://rec.net/room/RockingRollerCoaster). We were less excited (though not too surprised) to hear that they had a few bugs when they first released. (That's why they started as beta objects!) This week, we've got a few quick improvements to make things better.\n\n- PSVR thought it would be funny to seat you meters above the ground. (It made _us_ laugh a bit, anyway.) We sat down, took a look, and got it fixed. PSVR players should now be at the correct height when using seats.\n- A seats exploit allowed you to be faster than Stunt Runner champions, even Gramps! Seats have had that speed power revoked - no more super-speedy players in rooms!\n- Seats were apparently _very eager_ to have VR players sit in them. If you were anywhere near a seat and tried to grab a Laser Tag gun, for example, you probably found yourself in a chair! We've made this kind of \"unintentional sitting\" much less likely. (But let us know if you find a place where it still happens!)\n- We also fixed a weird kind of \"delayed seating\" that could result from grabbing something and a seat at the same time.\n- Fixed issue where spamming enter and exit inputs on a seat could leave you trapped in it.\n- Tired of walking through chairs? Now chair-like props in the Maker Pen Palette can be configured to support Locomotion Collision Detection! Just use the Configure tool to toggle \"Locomotion Collision Enabled\" on or off.\n  - Chair-like props already saved into rooms will keep their current locomotion collision values so creators don't need to worry about any unwanted changes to their rooms.\n\n## VR Scrolling Improvements\n\nVR controllers with thumbsticks/trackpads now support scrolling when aimed at menus!\n\n- If you are on SteamVR and using a custom controller binding, be sure to add the \"Scroll\" input (see the default controls for an example).\n- If you'd prefer to always use the thumbsticks to walk/rotate, you can turn off thumbstick scrolling in the watch under Settings > Gameplay.\n\n## Config Menu Improvements\n\nWe've made a bunch of improvements to the new Maker Pen Configuration menu. We got a lot of feedback that it wasn't _the best_, so we've taken a first swing at making it better, and we've got plans for more in the future. (Seriously, thanks to everyone who spoke out about this one - that helps us find the worst pain points and iron them out.)\n\n- We tuned the default menu placement so it fits better on screens, is easier to aim around on touch, and is just further than the VR keyboard so they don't intersect all the time. (_Finally I can stop headbutting the config menu!_) We're still working on a way to move it around manually, but rest assured it's coming!\n- We've increased the information density: less spacing and padding, more config...ing? Configging? Configurating? Sure, let's go with that.\n- We added buttons in the top bar to expand or collapse all foldout sections.\n- The VR keyboard is no longer ghosted out when in front of the menu. No more disappearing magic tricks from the good ol' keyboard.\n- We've made a bunch of small quality-of-life improvements, including color previews and better input field behavior. (No more closing the menu to confirm a change using the keyboard, finally.)\n\n\n## General Improvements and Bug Fixes\n\n- A rock decided to play hide and seek with mobile players in Disc Golf, we told it the game was over and it is now visible to everyone!\n- When receiving tokens from a box, we now add commas/periods to make the number more readable. (50,000 or 50.000 instead of 50000) We can only assume that the number shows upside-down if you're in Australia.\n- We've added some new iOS push notifications for event reminders and receiving gifts from friends. (That's right! You can now send your friends a push notification by gifting them everybody's favorite item: film.)\n- In case your friends are spamming you with push notifications by sending you film, we've added iOS notification preferences for event reminders and gift notifications.\n- If you open Rec Room on iOS by clicking on a push notification, you'll skip right past the login screen. (For those times when you need to open that film package ASAP.)\n- Facilities has removed a few things from the Rec Center in order to make room for some changes. They still haven't cleaned those smudges on the walls, though. Who even cleans this place? Oh well.\n- We fixed a bug where the doors in the Rec Center wouldn't properly open the watch in front of teleport players.\n- We fixed a bug where the VR Keyboard and Watch Menu could be obscured by dialogs behind them.\n- Some visual optimizations that were previously only available to Quest users are now available to mobile users for better performance.\n\nAs always, thanks for playing Rec Room!\n\nPlease see here for convenient links to controls, tutorials, comfort options, etc.: https://recroom.com/community\nWe love to hear your feedback, so please don't hesitate to let us know what you think...",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1389537196",
-				"id": "4179990358713765",
-				"required_space_adjusted": "2300888107",
+				"total_installed_space": "1393351874",
+				"id": "4213961198650014",
+				"required_space_adjusted": "2306274743",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -129,7 +129,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4179990358713765"
+					"id": "4213961198650014"
 				}
 			},
 			"release_channels": {
@@ -140,8 +140,8 @@
 						"id": "2159376657710378",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "20210609",
-							"id": "4179990358713765"
+							"version": "20210622",
+							"id": "4213961198650014"
 						}
 					}
 				]
@@ -157,7 +157,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRW9hpFNC9iYhsFUZO0pYlPcskINpwyUWJZ4ba4IRRQLzLJZxzmmL2YufESvAISTaWBbtNfPCs6oW676j7xrEr2g"
+							"cursor": "AQHRNgtybjqZreQIZGVwRjPurrVMrnkUAIOSxf5YSFkiF4ddarVhN2CJK8UnRxjQ_ZvP4nGJSVrOJDmYdx9V4aP7zQ"
 						}
 					]
 				}
@@ -204,11 +204,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.4942990057466,
+			"quality_rating_aggregate": 4.4920905985979,
 			"support_website_url": "https://recroom.happyfox.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 2330,
+				"count": 2381,
 				"orderings": [
 					{
 						"key": "top",
@@ -221,28 +221,28 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 2330,
+				"count": 2381,
 				"page_info": {
-					"end_cursor": "AQHRwHQ425BEedU6zf0bL5MP9o_tZqkivIBKcHYI-uOO4jWRGhXYRx7ODjvpxXiWeHXFhF_ND9blAeAFa34k_TzfCQ",
-					"start_cursor": "AQHRwHQ425BEedU6zf0bL5MP9o_tZqkivIBKcHYI-uOO4jWRGhXYRx7ODjvpxXiWeHXFhF_ND9blAeAFa34k_TzfCQ"
+					"end_cursor": "AQHRNvA-au-kL7NgYzJPsHmtOzNxiNFQtwRk-jw4p9aGuZSNI6YwDJRVEgXv9PrpkTqW9gBBJ2yuKOwKuzB0NMh48Q",
+					"start_cursor": "AQHRNvA-au-kL7NgYzJPsHmtOzNxiNFQtwRk-jw4p9aGuZSNI6YwDJRVEgXv9PrpkTqW9gBBJ2yuKOwKuzB0NMh48Q"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "134454228745035",
+							"id": "1729037540616009",
 							"author": {
-								"id": "110050284518763",
-								"display_name": "NayaTH2012",
+								"id": "877980645721707",
+								"display_name": "Wuffles_in_Blue",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c247.0.945.945a/s160x160/38982450_147762564080868_9003107132709459916_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VoW2FKCvbpIAX_YMS2o&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cd98da066788b561078f9cfdcf879a86&oe=60CF81A2"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.176.176a/s160x160/38974684_1591982447654853_4356497768453600783_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PGRWcjeKie8AX-rsKku&_nc_ht=scontent.oculuscdn.com&tp=28&oh=48bb7e2ce351c6090a26df74754ef029&oe=60E1AEAB"
 								}
 							},
 							"score": 5,
-							"reviewDescription": "As seen in the title,\nPlease Read.\n\nI know Rec Room is such a fun game to make friends on.\nBut there's kids using voice changers (A.K.A the voice pitch) pretending they are adults.\n\nAnd then they swear, most kids ive seen in the center roast eachother, not as a JOKE.\n\nMost of them they say, \"F**k you, Go die bi**h, Suffer in hell cancer boy.\"\n\nI mean- that's too far bro-\n\nI didn't wanna report it so I just write a review.\n\nMost adults TOO swear.\n\nThey kinda bully children.\n\nIn 20 May, I was in the Rec Center, then I found this boy with his girl-friend\n\nIn the cafeteria.\n\nI was holding the trash for no reason, then the boy grabbed the trash and said;\n\n\"Put it on yo head, because yo trash\",\n\nWITH A FRIKIN VOICE CHANGER ON-\n\nnah dude im out\n\nI talked back;\n\nHow about you put it on? Because your like literally a 7 year old using a f**king voice changer.\n\nHe was like- \"awkward silence\"\n\nThen the girl said:\n\nMan shes right how bout u put it on\n\nI was like-\n\n\"ok my job is done ill let this girl finish her sentence\"\n\nAnyways, that's all I gotta say! \n\nPlease stay safe and make sure to drink a lot of water.\n\nHave a good day/night! <3",
-							"reviewTitle": "Please Read.",
-							"review_helpful_count": 332,
+							"reviewDescription": "_____________________________________________\n\nI suppose that yes, there are toxic kids, racist kids, or just straight up garbage kids. It comes with the Voice Chat. Roblox has the SAME kids, just... no mic! If you are looking for a child friendly, completely fun and games and happiness, this is not the game for you. This game is for people who enjoy having social experiences with amazing people who are supportive, and can deal with the occasional (mostly occasional) kids who don’t want you to have fun. \n\nPAY ATTENTION TO THIS: \n\nRec Room is not a game for the easily offended. It’s not a game for your precious child who you want to keep pure until they are teenagers. This IS a game for people looking for new experiences and are able to deal with the jerks and toxic kids in exchange for finding friends, having fun, and playing games.\n\nTo be honest, this game is my favorite game in Vr, and I am used to the good and bad. Ultimately you should get this game to play with friends, meet new ones, and to become more knowledgeable in what VR can be.\n\n_____________________________________________",
+							"reviewTitle": "Not bad, just too much exposure",
+							"review_helpful_count": 100,
 							"review_rank_by_viewer": null,
-							"date": 1622033923,
+							"date": 1623183510,
 							"developerResponse": null
 						}
 					}
@@ -255,7 +255,7 @@
 				"description": "Rec Room is the best place to build and play games together. Party up with friends from all around the world to chat, hang out, explore MILLIONS of player-created rooms, or build something new and amazing to share with us all. Rec Room is free, and cross plays on everything from phones to VR headsets. It’s the social app you play like a video game! Rec Room is a fun and welcoming place for people from all walks of life. Let us help you find people you’ll LOVE to hang out with. Join the club!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=dsswvan-1CsAX88Qd5h&_nc_ht=scontent.oculuscdn.com&tp=28&oh=872ca1debff8efe1b8e542124b2d3d16&oe=60D05FC1",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982440_612422962539863_2173269008147546112_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=E8zj8gDBQ9UAX8rHW3s&_nc_ht=scontent.oculuscdn.com&tp=28&oh=156455a717bcea364aacc0eb21ac9046&oe=60E031C1",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

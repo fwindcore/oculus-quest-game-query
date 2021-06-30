@@ -14,34 +14,34 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974723_343512210345032_7507911220488800224_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=kk_fHoL6tPUAX8r5mr4&_nc_ht=scontent.oculuscdn.com&tp=28&oh=1f69de57ffbcec45179ac49f838af7f0&oe=60CFF2DD"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974723_343512210345032_7507911220488800224_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=edSo3hXPKF0AX83gMIQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=0f9596ad815978ec9c2f0800bb7ee9ee&oe=60E1BF1D"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57569464_362207574820283_81691491480363987_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=dXVwBULSc4sAX9Cpete&_nc_ht=scontent.oculuscdn.com&oh=282ac908a762213c29d83cf4a0e7495f&oe=60CFC769"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/57569464_362207574820283_81691491480363987_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=aA6K1QC2rxMAX9wBkgG&_nc_ht=scontent.oculuscdn.com&oh=c1513e888c25ee59c503c4cda52978ac&oe=60E193A9"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 183,
+					"count": 186,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 80,
+					"count": 81,
 					"starRating": 2
 				},
 				{
 					"star_rating": 3,
-					"count": 118,
+					"count": 119,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 323,
+					"count": 331,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 913,
+					"count": 927,
 					"starRating": 5
 				}
 			],
@@ -81,15 +81,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "13.08",
+				"version": "13.09",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1686281627",
-				"id": "4612070355487861",
-				"required_space_adjusted": "2630899699",
+				"total_installed_space": "1769827868",
+				"id": "4652588298102733",
+				"required_space_adjusted": "2797954829",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -123,7 +123,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4612070355487861"
+					"id": "4652588298102733"
 				}
 			},
 			"release_channels": {
@@ -134,35 +134,69 @@
 						"id": "252132892120009",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "13.08",
-							"id": "4612070355487861"
+							"version": "13.09",
+							"id": "4652588298102733"
 						}
 					}
 				]
 			},
 			"grouping": {
 				"upcoming_events": {
-					"edges": []
+					"edges": [
+						{
+							"node": {
+								"__isVREvent": "Event",
+								"current_end_timestamp": 1625097633,
+								"current_start_timestamp": 1625068800,
+								"temporal_info": {
+									"seconds_until_end_time": 56130,
+									"seconds_until_start_time": 27297
+								},
+								"vr_app_and_destination_string": "OrbusVR: Reborn",
+								"vr_applications": {
+									"nodes": [
+										{
+											"__typename": "Application",
+											"id": "2352932654734987",
+											"is_published": true,
+											"is_viewer_entitled": false,
+											"display_name": "OrbusVR: Reborn"
+										}
+									]
+								},
+								"vr_hosts": {
+									"nodes": []
+								},
+								"vr_deeplink_message": null,
+								"id": "1696315920757385",
+								"is_vr_viewer_interested": false,
+								"name": "Summer Festival Kick-Off",
+								"vr_cover_photo": {
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031423_144596494406238_7262545727132002050_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CCzJLADPEQwAX-je-yX&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b9631639fc72af43e1d2305297646ad1&oe=60E045EC"
+								}
+							}
+						}
+					]
 				},
 				"id": "484595031929486",
 				"posts": {
 					"nodes": [
+						{
+							"id": "217134003599969",
+							"title": "Goodbye Spring, Hello Summer!",
+							"created_time": 1624476110,
+							"body_text": "The Spring Festival is waning to a close. Next Tuesday we will launch the Summer Festival, which means if you haven't had a chance yet to wrap up the spring fest quests and turn them in to earn rewards, this is your last weekend to do.\n\n\"During the early days of spring, the Patreaylians of old used to leave offerings for the Skogtrolls at the base of trees in hopes of ample growth during the season. While many don't keep the old ways alive, one villager believes the Skogtrolls are benevolent spirits vital to the recovery of Patreayl's natural resources. Yet others see the sprites as murderous, malevolent spirits. Whichever side you choose to believe, both could use your help this season.\"\n\nIf you haven't started the questline yet, talk to the Spring Festival NPC outside the gates of Highsteppe to pick up the first quest in the storyline.\n\n\n\nThis year's rewards include a Shrine Mount, Spring Festival Cape, and a flower transmog helm and shoulders set.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75443234_490736358673849_1207850034118116175_n.png?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=bQm3lEFKa1EAX8jMn9m&_nc_ht=scontent.oculuscdn.com&oh=5172d7ce020fa8088215668574fc17fd&oe=60E102FC"
+							}
+						},
 						{
 							"id": "497117161413430",
 							"title": "Hard Mode Citadel Raid Now Live!",
 							"created_time": 1620764135,
 							"body_text": "The Hard Mode Citadel Raid is now officially live. During the two-week beta period we made some changes to mechanics, as well as scaling, based upon community feedback. We are excited for players to go through the full raid, as it will be the most challenging content we have in game so far.\n\nThe bosses will drop +6 gear and weapons, with a chance at a +7 legendary. You can also earn an Enraged Sephotep pet, mount, and cape, as well as achievements and a title.\n\n\n\nAs with the normal mode raid you will receive a token for that specific gear every time you kill the boss if you do not receive an armor/weapon drop. These will be Citadel Hard Mode tokens that you can redeem at the Hard Mode Vendor inside of Highsteppe.\n\nThis patch also includes the second round of balancing for the tank/healer/support classes, with the changes we have made based upon player feedback.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57572930_918892765511029_3450956147978729990_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Dxe_qefL59QAX8hP_tt&_nc_ht=scontent.oculuscdn.com&oh=4757d3d74460e0436700b66fedd307dc&oe=60D08048"
-							}
-						},
-						{
-							"id": "199736345123415",
-							"title": "Hard Mode Citadel Raid Beta Test",
-							"created_time": 1619626070,
-							"body_text": "The Beta test for the Hard Mode version of the Citadel Raid is now available.\n\nTo access the Hard Mode Citadel Raid, enter the normal version of the Citadel Raid, then go through the portal on the right-hand side marked Hard Mode. Leaving the Hard Mode Raid will place you back inside Highsteppe.\n\nThe Beta will last for 2 weeks, which should give the Dev team enough time to work out any bugs, uncover any potential flaws in the fights, and make sure the balance is just the right amount of challenge: not too easy, but not impossible to defeat. To make testing the mechanics easier for the Beta, we have removed all the trash spawns, as well as the boss kill requirements to spawn the next boss in line. During the Beta, no armor, weapons, or rewards will drop.\n\nThe official Hard Mode Citadel Raid will launch on Tuesday, May 11.\n\nThis update also includes a very large fix for the ongoing invisible players/mob issues, which may have widespread repercussions on other issues affecting the game. To report any new issues or offer feedback on the Hard Mode Raid, please visit the OrbusVR Community Forums at community.orbusvr.com.",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75367596_163967875634441_1777661525461635970_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=17tidhtNXdgAX-dP-hT&_nc_ht=scontent.oculuscdn.com&oh=bfde91f67ac0ad79d346c43dc70998cf&oe=60CFFDB8"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/57572930_918892765511029_3450956147978729990_n.png?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=5haiQ7n2F3EAX_gZe6t&_nc_ht=scontent.oculuscdn.com&oh=18929b24c981a50eb39649cdaf5a1164&oe=60E05248"
 							}
 						}
 					]
@@ -170,7 +204,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRKJ7PdHI8WkRL-2-L5K9wce8pdPncTGJ2HbnPnF3tvuGdGjPbc9TWoF3RaCe9NTO4ngPT2Hh-KC3yA3u-859mrA"
+							"cursor": "AQHR29KHh3wm-LZ6ggGS87_eQPu_HTovRsO5CwRjUzmJlO3pYWAL1Nfqw7iGOHywtArvzTNY4ScIO_fxeqc6h2vG4g"
 						}
 					]
 				}
@@ -223,11 +257,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.0531849103278,
+			"quality_rating_aggregate": 4.0535279805353,
 			"support_website_url": "https://community.orbusvr.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 774,
+				"count": 789,
 				"orderings": [
 					{
 						"key": "top",
@@ -240,10 +274,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 774,
+				"count": 789,
 				"page_info": {
-					"end_cursor": "AQHRQDZ_FQvGedRtciYn7Pr3VJ4K4LTbgE01kf2V_uTjvKv8D28ZvD3PfYSInE9fdAG66r11qZ2YfOheiOHh0-dUXg",
-					"start_cursor": "AQHRQDZ_FQvGedRtciYn7Pr3VJ4K4LTbgE01kf2V_uTjvKv8D28ZvD3PfYSInE9fdAG66r11qZ2YfOheiOHh0-dUXg"
+					"end_cursor": "AQHRWEKOGaRvdcrA-FR2d8CU24iuqmlqqspmSNjVr6YH_F88sIqeUmEFRc7cUY3oL1rY-7H5mdfDJEP8a64klz4eLQ",
+					"start_cursor": "AQHRWEKOGaRvdcrA-FR2d8CU24iuqmlqqspmSNjVr6YH_F88sIqeUmEFRc7cUY3oL1rY-7H5mdfDJEP8a64klz4eLQ"
 				},
 				"edges": [
 					{
@@ -253,13 +287,13 @@
 								"id": "108774037959952",
 								"display_name": "333GLEAM",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.612.612a/s160x160/75334052_108796604624362_4702180219251809333_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=Vt3s0HaqBUwAX9h6W21&_nc_ht=scontent.oculuscdn.com&tp=28&oh=600b4b0171e2268cff0821d162d101d9&oe=60CFCE96"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.612.612a/s160x160/75334052_108796604624362_4702180219251809333_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=-0qsZuQsmisAX_AMcjU&_nc_ht=scontent.oculuscdn.com&tp=28&oh=74b363b71291c4a9f2f9c4a1fb6b1715&oe=60E19AD6"
 								}
 							},
 							"score": 4,
 							"reviewDescription": "Orbus offers a lot for $20 and will definitely keep you occupied every day for at least a few hours at a time before the experience begins to drag. There’s a handful of classes and your character can switch amongst them freely by switching your weapon type, and then leveling up each class individually. This means that you can switch your class as necessary in the middle of dungeons or wherever else which is pretty cool. The option to turn on open world PVP is there, and you can attack anyone in the world who also has it turned on and can loot them of everything if you beat them. The community is generally very helpful and if you have any questions about how anything works you can usually always ask anyone who’s around for some advice. There seems to be a story somewhere here, as when you talk to NPC’s they will refer to specific events and people and it all seems interesting enough and something I’d be in to, but it sort of just throws you in with no sense of where you are amongst all of it. Maybe I’m missing something, it definitely seems like I am, but at the moment I am having a tough time piecing together what’s actually happening. The combat is fun with most classes, and each class has it’s own unique way of utilizing your weapons. I started off as a shaman, which has you equip different totems that have different effects which you lay on the ground, if I remember right you can lay down a max of 3, and you cast spells that spawn from the totems which you physically pick up and cast. I now am a runemage at level 13, and have to say it’s the most fun I’ve had with any of the other classes. The runemage has you draw out spells in mid air in order to cast them, and doesn’t have any sort of level limit on the spells you can cast, meaning every spell is available to you from level 1. You can grab a starter weapon from each class from a weapons vendor in the middle of the town at the beginning. I think the amount of content in the game right now is more than enough to make the game worth playing and it’s definitely fun running dungeons and public events killing monsters with other people, but it also feels a little bland. And I mean that in the best way possible, the game has a lot charm, it reminds me so much of playing RuneScape in the early 2000’s, but I think at the moment it seems like an early version of something really amazing. You can really feel the love the creators have for the game in the design of everything. I think what I love most about the game is how it actually takes skill and effort to be successful, especially in combat, it doesn’t necessarily come down to how big your “numbers” are. It’s my most played game on the oculus right now, and probably will continue to be until someone does an MMO in VR better than Orbus.\n\nUpdate: I just noticed they’re now starting to share the lore on their website, and they also point out that there are in-game books that also explain everything, so that’s nice to see after posting about not knowing about story. It’s really involved, it’s definitely had a lot of thought put in to and is kind of overwhelming at first lol, but I gotta say it’s all really cool. Also, don’t let the reviews saying that the game is too confusing or that it lacks guidance sway your decision to buy it too much, it really isn’t that difficult to pick up on how to play and what to do, it just takes a little effort and dedication. I know opinions and ratings are subjective, but this game without question deserves better than just one star. I also see a lot of people calling it overly buggy, which it just isn’t. I’m running it on my Quest 2, I’ve rarely run in to any issues and can’t really think of anything major off the top of my head. I’ve seen people call the runemage a buggy class with how the spells can be difficult to cast, and they definitely can be, but it’s really nothing you can’t learn to do well through practice. You have to draw your spells as if they’re on a 2D plane to the best of your ability, like it’s on a piece of paper in front of you. It really just takes practice, it’s a pretty great feeling once your muscle memory takes over and you’re casting spells rapidly. The lag that happens at times can be frustrating, but I’ve not experienced any more lag than I would in any other online game. I promise if you like MMO’s and have a basic grasp of them, you’ll most likely enjoy your time with this. If you really are struggling with what to do, just grab missions from any NPC you can and complete them to gold. Doing critter capture missions are also a great way to level up.",
 							"reviewTitle": "Very fun with a lot of potential",
-							"review_helpful_count": 153,
+							"review_helpful_count": 188,
 							"review_rank_by_viewer": null,
 							"date": 1619371954,
 							"developerResponse": null
@@ -274,7 +308,7 @@
 				"description": "OrbusVR: Reborn is the first MMORPG designed exclusively for room-scale virtual reality. It features everything you love about an MMO: a huge open world, hundreds of hours of quests, dragon pets, five-player group dungeons, ten-player Raids, voice chat, player trading, and more!",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982530_4376734062352846_5655508979984367616_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AA_wAvSytYMAX8Sj7Ms&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c43faef4c88cc97f10d03de5786ca5cf&oe=60D0CD64",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982530_4376734062352846_5655508979984367616_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=4-I8c61tTdkAX_6Y-zr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=463f4fe6948cffbfa5187835ae91f93d&oe=60E09F64",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

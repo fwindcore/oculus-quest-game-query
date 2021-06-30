@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982582_1009431972749181_9083486352183394304_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=inCBgi1aDGoAX9YcMbq&_nc_ht=scontent.oculuscdn.com&tp=28&oh=78d60d8d86686538e3980620770f179c&oe=60D04948"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38982582_1009431972749181_9083486352183394304_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qSQLgLtM4zsAX_ajGoC&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6b3cf04d281b390fa1e0e9636d1825db&oe=60E21588"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75272211_1009431752749203_2956542790919520256_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=MgYhAlMB-S4AX972Q8b&_nc_ht=scontent.oculuscdn.com&oh=61fc7ee245c5035f2b23f95bac48e253&oe=60D0F486"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/75272211_1009431752749203_2956542790919520256_n.mp4?_nc_cat=111&ccb=1-3&_nc_sid=0ed769&_nc_ohc=F8avxXyNghgAX833jCH&_nc_ht=scontent.oculuscdn.com&oh=47c27c5879c79554b6d2debbdb8589e9&oe=60E0C686"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 61,
+					"count": 63,
 					"starRating": 1
 				},
 				{
@@ -31,7 +31,7 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 19,
+					"count": 20,
 					"starRating": 3
 				},
 				{
@@ -82,15 +82,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "1.0.5157",
-				"change_log": "b5157",
+				"version": "1.0.5215",
+				"change_log": "b5215",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "1020787705",
-				"id": "3977722785640414",
-				"required_space_adjusted": "1231066968",
+				"total_installed_space": "1038730309",
+				"id": "4092682397477785",
+				"required_space_adjusted": "1246300286",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -124,7 +124,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "3977722785640414"
+					"id": "4092682397477785"
 				}
 			},
 			"release_channels": {
@@ -135,8 +135,8 @@
 						"id": "582337912200000",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "1.0.5157",
-							"id": "3977722785640414"
+							"version": "1.0.5215",
+							"id": "4092682397477785"
 						}
 					}
 				]
@@ -147,209 +147,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1623985200,
-								"current_start_timestamp": 1623981600,
-								"temporal_info": {
-									"seconds_until_end_time": 66812,
-									"seconds_until_start_time": 63212
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1400802443605277",
-								"is_vr_viewer_interested": false,
-								"name": "Oh, Jupiter! We Thought We Knew You: NASA's von Karman lecture for July",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974642_165826205342944_2693114226340775223_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=0qAkLIHZT5MAX9tqdwr&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4e39f749fd9d49268c68bf5f1d875c6b&oe=60CF0647"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1624030200,
-								"current_start_timestamp": 1624028400,
-								"temporal_info": {
-									"seconds_until_end_time": 111812,
-									"seconds_until_start_time": 110012
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1420472081638313",
-								"is_vr_viewer_interested": false,
-								"name": "NASA Spacecast Weekly",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974568_203549664623437_1930496204795924028_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SiGOw1iONRQAX8BWhir&_nc_ht=scontent.oculuscdn.com&tp=28&oh=039c8a01474534146f8790fa5da92910&oe=60CF296A"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1624255200,
-								"current_start_timestamp": 1624212000,
-								"temporal_info": {
-									"seconds_until_end_time": 336812,
-									"seconds_until_start_time": 293612
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1420464464972408",
-								"is_vr_viewer_interested": false,
-								"name": "ROOM LAUNCH: Pluto Viewing Deck",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/57569486_483805066371526_960881336839781108_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=79b88e&_nc_ohc=TQaUOoNMLlgAX-M0tXI&_nc_ht=scontent.oculuscdn.com&tp=28&oh=37ed82318ba814414b9c79dd43472f41&oe=60CF48BC"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1624338000,
-								"current_start_timestamp": 1624298400,
-								"temporal_info": {
-									"seconds_until_end_time": 419612,
-									"seconds_until_start_time": 380012
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1400809336937921",
-								"is_vr_viewer_interested": false,
-								"name": "Visit Stonehenge for the Summer Solstice",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39031322_457445785688398_4704547933636280329_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=2_VmuDFeAREAX-CLqUc&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4f4a3ab2ed8e9287d006b7414a143af4&oe=60D064E1"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1624514400,
-								"current_start_timestamp": 1624471200,
-								"temporal_info": {
-									"seconds_until_end_time": 596012,
-									"seconds_until_start_time": 552812
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1420462674972587",
-								"is_vr_viewer_interested": false,
-								"name": "ROOM LAUNCH: Pluto Room",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974442_311967697215148_2301061445966079691_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=mt36cb8mZtQAX9-i8yy&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c48d8a7b7cdf264f149aad900ffda96e&oe=60D002DA"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
-								"current_end_timestamp": 1624635000,
-								"current_start_timestamp": 1624633200,
-								"temporal_info": {
-									"seconds_until_end_time": 716612,
-									"seconds_until_start_time": 714812
-								},
-								"vr_app_and_destination_string": "Multiverse",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "1976071352472244",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "Multiverse"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "1420473174971537",
-								"is_vr_viewer_interested": false,
-								"name": "NASA Spacecast Weekly",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974442_505585927482501_3656779573466938696_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=K437GBLqr0IAX-EE2C7&_nc_ht=scontent.oculuscdn.com&tp=28&oh=464f2d38f06bb2381dc2c44d0cbba8ce&oe=60CFFAD8"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1625119200,
 								"current_start_timestamp": 1625076000,
 								"temporal_info": {
-									"seconds_until_end_time": 1200812,
-									"seconds_until_start_time": 1157612
+									"seconds_until_end_time": 77703,
+									"seconds_until_start_time": 34503
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -371,18 +173,18 @@
 								"is_vr_viewer_interested": false,
 								"name": "ROOM LAUNCH: Pluto Viewing Deck",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982466_1911769272313129_2736412877079816142_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=UQ3qCzeQ6uMAX-XvbSR&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6169a2be26da4c8c97d4971d109378f0&oe=60CF890E"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982466_1911769272313129_2736412877079816142_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=USkVb4AykhMAX-Q7pUp&_nc_ht=scontent.oculuscdn.com&tp=28&oh=11322c663623ba6bf2e4b8367e34739a&oe=60E1554E"
 								}
 							}
 						},
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1625239800,
-								"current_start_timestamp": 1625238000,
+								"current_end_timestamp": 1630683000,
+								"current_start_timestamp": 1630681200,
 								"temporal_info": {
-									"seconds_until_end_time": 1321412,
-									"seconds_until_start_time": 1319612
+									"seconds_until_end_time": 5641503,
+									"seconds_until_start_time": 5639703
 								},
 								"vr_app_and_destination_string": "Multiverse",
 								"vr_applications": {
@@ -404,7 +206,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "NASA Spacecast Weekly",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035320_4306501296078856_6973545655727662597_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=BmuqmldhoioAX-m22Ab&_nc_oc=AQmmZmSZa1OTtSdNUyRkiO7zaF0sgR2W3saefyK5tb5f2YzGhkVuMGFNDadij0mwK0U&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d21f146b8ba3841a997314844fd85856&oe=60D0C18B"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/39035320_4306501296078856_6973545655727662597_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=daw9Cf4190YAX84-ly9&_nc_oc=AQlREwMW0ccTAlV0SFD0Vrir8BX9W3eG2nWz5j44TqNvHJuDBCxj2ak8KCRCaQE4GJo&_nc_ht=scontent.oculuscdn.com&tp=28&oh=6e7f96e06c596b9b70dc4ec6748fd9f4&oe=60E0938B"
 								}
 							}
 						}
@@ -460,7 +262,7 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.468085106383,
+			"quality_rating_aggregate": 3.4453781512605,
 			"support_website_url": "http://www.ftl.ltd/support",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
@@ -479,8 +281,8 @@
 			"firstQualityRatings": {
 				"count": 106,
 				"page_info": {
-					"end_cursor": "AQHR88KMVYugRhZT_ahQ-4U_ywHKQfro0HWvRLF-1vE-KKEjtPda0oG8z9e0c0gi6oneLdLtt3S9fYPMX-hLG1OnEA",
-					"start_cursor": "AQHR88KMVYugRhZT_ahQ-4U_ywHKQfro0HWvRLF-1vE-KKEjtPda0oG8z9e0c0gi6oneLdLtt3S9fYPMX-hLG1OnEA"
+					"end_cursor": "AQHRg2GzTOyq__StxSh9kzsUO2nEnxmOGIp9CMEXzhGPeik3HQNZuGyJxTRr5z-YMrNuQ7EdKvuiGZmd3lUAoyUuyA",
+					"start_cursor": "AQHRg2GzTOyq__StxSh9kzsUO2nEnxmOGIp9CMEXzhGPeik3HQNZuGyJxTRr5z-YMrNuQ7EdKvuiGZmd3lUAoyUuyA"
 				},
 				"edges": [
 					{
@@ -494,7 +296,7 @@
 							"score": 1,
 							"reviewDescription": "Has great potential with some really great presentations.\n\nHowever frequently spoiled by groups of people (obviously kids) who have no interest in the topic and just get in the way twatting around making it impossible to follow the presentation. Impossible to ignore them and it just ruins the whole experience.\n\nWhy does everything have to be “Social”? What benefit is there to the “Social” aspect of this?\n\nI really wish I could turn that off so I can follow the presentation without being constantly interrupted  by people who are only using it as a venue to meet each other.\n\nI frequently leave in utter frustration.\n\nCome on developers, give us the option of  real single player mode not just a incognito so we can actually watch the excellent presentations please!",
 							"reviewTitle": "Intensely Irritating",
-							"review_helpful_count": 60,
+							"review_helpful_count": 68,
 							"review_rank_by_viewer": null,
 							"date": 1617589314,
 							"developerResponse": {
@@ -513,7 +315,7 @@
 				"description": "Multiverse - Come in and experience our first domain: The Planetarium. Explore astronomy like never before - socially in VR with your friends.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982697_794327111051776_5856611872907722752_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=PuEuZ-DcbeYAX9aDyZ0&_nc_ht=scontent.oculuscdn.com&tp=28&oh=554e357ecb856617d526932910787749&oe=60CFFBA3",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982697_794327111051776_5856611872907722752_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ACW20lEpmNIAX9rX1eM&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3cbd9b2e9cf9a8cdf5ad3ad309446086&oe=60E1C7E3",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

@@ -14,19 +14,19 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=D4K1mnNtE_MAX9S8TV9&_nc_ht=scontent.oculuscdn.com&tp=28&oh=cdd3b51886bdb5c8df3d63c046325ffe&oe=60CFCEC2"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6dyjkTPWEeYAX-JF66L&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ba07d8bc2de98c3ef38f619f1a3fe10e&oe=60E19B02"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=hS9HmdEeZg8AX_sdORC&_nc_ht=scontent.oculuscdn.com&oh=612c7add33eb7dbd7989b62acaf55c54&oe=60CF2793"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Oyv5WYMuWh8AX_tlEbA&_nc_ht=scontent.oculuscdn.com&oh=f833a6bc4dcaadf4a4296cd03d869491&oe=60E0F3D3"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 24,
+					"count": 25,
 					"starRating": 1
 				},
 				{
 					"star_rating": 2,
-					"count": 17,
+					"count": 18,
 					"starRating": 2
 				},
 				{
@@ -36,12 +36,12 @@
 				},
 				{
 					"star_rating": 4,
-					"count": 153,
+					"count": 154,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 1207,
+					"count": 1228,
 					"starRating": 5
 				}
 			],
@@ -91,15 +91,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "2.2.14",
-				"change_log": "Release notes for update v2.2.14:\n- New stuff for next month ♫\n- Minor fixes",
+				"version": "2.3.4",
+				"change_log": "v2.3.4\nanother bug fixed",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "683629661",
-				"id": "4317808858263113",
-				"required_space_adjusted": "582483794",
+				"total_installed_space": "466091460",
+				"id": "4482003938510270",
+				"required_space_adjusted": "742617884",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -133,28 +133,19 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4317808858263113"
+					"id": "4482003938510270"
 				}
 			},
 			"release_channels": {
-				"count": 2,
+				"count": 1,
 				"nodes": [
 					{
 						"channel_name": "LIVE",
 						"id": "613025645811908",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "2.2.14",
-							"id": "4317808858263113"
-						}
-					},
-					{
-						"channel_name": "BETA",
-						"id": "1237419773082578",
-						"latest_supported_binary": {
-							"__typename": "AndroidBinary",
-							"version": "2.2.21",
-							"id": "4463166217060709"
+							"version": "2.3.4",
+							"id": "4482003938510270"
 						}
 					}
 				]
@@ -167,21 +158,21 @@
 				"posts": {
 					"nodes": [
 						{
+							"id": "317866849865838",
+							"title": "Level Editor for the People :*",
+							"created_time": 1623663891,
+							"body_text": "We wanted to do this for a very long time and finally it is here!\n\n\n\nLevel Editor opens the gate for every player to create content for Racket: Nx using a beautiful in-game interface, where the controller is the brush and the content is the paint.\n\nBut there is more :)\n\nYou can also use the same interface to publish your creation, for other players to enjoy and vote up for a chance to get curated into future Monthly Challenges!\n\n\n\nAnd, if you are into exploring player generated content - try out the new content browser for specific (or random) creations.\n\nSo, what are you waiting for?? grab a controller and join the party!\n\nJoin our Discord community to hang out with other creators and players.",
+							"tile_landscape_image": {
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003248_195292935837342_3170978697346489378_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jwc6uUnj2_UAX-8fm4y&_nc_ht=scontent.oculuscdn.com&oh=a5652ce1d82fafedd7ba3d212cf622c0&oe=60E20C7B"
+							}
+						},
+						{
 							"id": "293480988863240",
 							"title": "League Upgrade!",
 							"created_time": 1614626788,
 							"body_text": "Season 4 is here!\n\nAnd if this wasn't enough, we have also launched an update that will make the new season more interesting and competitive:\n- Glicko rating system - your score reflects your performance more accurately\n- Matchmaking - you are matched against players of your skill level (when possible)\n- High five - enabled\n- Bug fixes and improvements\n\nSo jump right into action, and come share your experience with our community on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=ltR20hxhh48AX8BWt0L&_nc_ht=scontent.oculuscdn.com&oh=5b737ab2baa7ecd6fe82b4c5e18e8a1e&oe=60D0B01B"
-							}
-						},
-						{
-							"id": "4388561801155423",
-							"title": "Co-op Update!",
-							"created_time": 1605563676,
-							"body_text": "Today we're rolled out a brand new game mode for Racket: Nx - Co-op!\nCo-op lets you team up with a friend or stranger and play shoulder to shoulder for the high score in a game against time!\nWe expect a lot of new players to join and veteran players to pop back in, so please be nice and welcoming.\n\nThis is the biggest update to RNX since launch, and after playtesting it for several weeks now, we've found it to be a super fun and bonding experience.\nAs always, this mode can be played cross platform and between devices sharing the same account, so hopefully some of you will be able to play with your kids, spouses and arch-enemies.\n\nIn addition to Co-op mode, we've added a few game mechanics to Arcade, making it more dynamic and interesting. These additions change Arcade enough for us to have had to reset the leaderboards. Apologies. We do hope you find these new changes worth it, though!\n\nThank you all for sticking with us as we continue to develop and expand RNX!",
-							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75241701_849043932517747_353989534829522117_n.png?_nc_cat=111&ccb=1-3&_nc_sid=79b88e&_nc_ohc=8uNCoaeJYfcAX_NCJxH&_nc_ht=scontent.oculuscdn.com&oh=ac32cca2e783576a198c49a493ec77ac&oe=60D06A4C"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=b45SkupSUMEAX_0LrGD&_nc_ht=scontent.oculuscdn.com&oh=f9f60658fe76ae29cab83d5b5232947d&oe=60E0821B"
 							}
 						}
 					]
@@ -238,11 +229,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7314878892734,
+			"quality_rating_aggregate": 4.7304288631722,
 			"support_website_url": "https://racketnx.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 723,
+				"count": 734,
 				"orderings": [
 					{
 						"key": "top",
@@ -255,10 +246,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 723,
+				"count": 734,
 				"page_info": {
-					"end_cursor": "AQHRJkwbLTvgs72hZT6Rg8N-j29N3so1AB5abt6qXaaDVd8m2hbeSsMAdXKC_GMC3r6gorIpLQ8j1MQjXVv13guoUw",
-					"start_cursor": "AQHRJkwbLTvgs72hZT6Rg8N-j29N3so1AB5abt6qXaaDVd8m2hbeSsMAdXKC_GMC3r6gorIpLQ8j1MQjXVv13guoUw"
+					"end_cursor": "AQHR6M8A-_vbt6WHNtckJW1T9As-wT1-dVyQU0t1e-KpApFKRjnX-1t34e-pgE_FPn5y7XDY-Edgywm8zek-RbtZIw",
+					"start_cursor": "AQHR6M8A-_vbt6WHNtckJW1T9As-wT1-dVyQU0t1e-KpApFKRjnX-1t34e-pgE_FPn5y7XDY-Edgywm8zek-RbtZIw"
 				},
 				"edges": [
 					{
@@ -268,13 +259,13 @@
 								"id": "101407322086287",
 								"display_name": "Niacobucci",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.437.437a/s160x160/38974789_102045685355784_911819582786063249_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=_xsJfokJ7TUAX9JIAis&_nc_ht=scontent.oculuscdn.com&tp=28&oh=98d5c1be0bef505167990c005e622a3e&oe=60D0D957"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.437.437a/s160x160/38974789_102045685355784_911819582786063249_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WewG-Hg7eLwAX88gcMP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f282801c92728985676ae252f47e35ea&oe=60E0AB57"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "My mother suffers from rheumatoid arthritis among other health issues.  Years ago she was much more active than she can be today.  She is not bedridden but she suffers pain every day, and she can’t play tennis anymore.  Tennis was a huge passion in my mother’s life, and she played many times per week when I was younger.  Unfortunately mom hasn’t been on the tennis court in years because she physically cannot run around the asphalt anymore.\n\nWell I purchased “Racket Nx” just hoping that it would be fun.  We enjoyed the “Eleven” table tennis game so I figured why not.  This game has been nothing short of a revelation in my mother’s life.  She repeatedly says “BEST GAME EVER!” When she is playing this game.  She always says how wonderful it is to play tennis again.  Now we understand that this is not actual tennis...but this game is an amazing instrument that can easily inspire and encourage anyone that can’t run around a tennis court anymore.\n\nThis game is fun, exciting, and a great way to lose weight.\n\nMom is down 20 pounds, and “Racket Nx” is definitely a part of that.\n\nThis game ROCKS!",
 							"reviewTitle": "Mom says “BEST GAME EVER”",
-							"review_helpful_count": 33,
+							"review_helpful_count": 91,
 							"review_rank_by_viewer": null,
 							"date": 1621648035,
 							"developerResponse": {
@@ -293,7 +284,7 @@
 				"description": "Racket: Nx是一款前所未见的游戏，旨在挑战玩家在VR中使用球拍的极限。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974666_255053519727196_7244118153272387614_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6S6_siJYYEIAX-uU2km&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2fea9a7381e800c36764e501b948ad47&oe=60D034DE",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_1942338752610410_9101408457094119393_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EDYHUk09J4sAX-itFAD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c048c2f0e35ad32a2083c4eeba0804f7&oe=60E0C362",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
