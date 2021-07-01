@@ -1,0 +1,251 @@
+{
+	"data": {
+		"viewer": {
+			"user": null
+		},
+		"node": {
+			"__typename": "Application",
+			"__isAppStoreItem": "Application",
+			"id": "2913958855307200",
+			"display_name": "A Township Tale",
+			"platform": "ANDROID_6DOF",
+			"category": "GAMES",
+			"item_bundles": [],
+			"__isWithHeroMediaCarousel": "Application",
+			"trailer": {
+				"thumbnail": {
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974698_456597682262204_606698615353364989_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=U3nek6GwKngAX9QACez&_nc_ht=scontent.oculuscdn.com&tp=28&oh=b674faee0d4cb86e5b5e1730df37c268&oe=60E30D3E"
+				},
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/10000000_1202976736887694_6509509163599879869_n.mp4?_nc_cat=104&ccb=1-3&_nc_sid=0ed769&_nc_ohc=pP0e1uIoMIQAX9YvIJx&_nc_ht=scontent.oculuscdn.com&oh=575e443c82921080777b5e240a62df84&oe=60E2483E"
+			},
+			"quality_rating_histogram_aggregate_all": [
+				{
+					"star_rating": 1,
+					"count": 0,
+					"starRating": 1
+				},
+				{
+					"star_rating": 2,
+					"count": 0,
+					"starRating": 2
+				},
+				{
+					"star_rating": 3,
+					"count": 0,
+					"starRating": 3
+				},
+				{
+					"star_rating": 4,
+					"count": 0,
+					"starRating": 4
+				},
+				{
+					"star_rating": 5,
+					"count": 0,
+					"starRating": 5
+				}
+			],
+			"display_long_description": "Pre-Order A Township Tale Now for exclusive perks!\n\n-   Base Game (Personal server + 1000 Talems)\n-   Exclusive Cosmetics!\n-   Early Release Access (July 13th)\n\nBand together with your friends to explore a forgotten world filled with adventure, danger, and ancient secrets.\n\nDiscover an abandoned town that you will turn into a sanctuary in this wild, untamed land. \n\nBecome blacksmiths, warriors, miners, and woodcutters as you build up your town and gear and prepare for your next adventure!\n\nJourney across a vast medieval world filled with mysteries and ancient secrets.\n\nClaim your role in town. Will you be a Warrior? A Blacksmith? A Crafter? Each is a key part of a thriving town, and governs how you level up and progress.\n\nExplore dark caves, where terrible monsters and great treasures await. The deeper you delve, the nastier the monsters. But where else could unclaimed fortunes lie?\n\nWill your story become legend, or will you end in tragedy?\n",
+			"developer_privacy_policy_url": "https://townshiptale.com/privacy-policy",
+			"developer_terms_of_service_url": null,
+			"supported_player_modes": [
+				"ROOM_SCALE",
+				"STANDING"
+			],
+			"publisher_name": "Alta",
+			"supported_in_app_languages": [
+				{
+					"name": "英语"
+				}
+			],
+			"supported_hmd_platforms": [
+				"MONTEREY",
+				"HOLLYWOOD"
+			],
+			"supported_input_device_names": [
+				"Oculus Touch"
+			],
+			"user_interaction_mode_names": [
+				"多人",
+				"单人",
+				"多人合作"
+			],
+			"age_rating": null,
+			"category_name": "游戏",
+			"developer_name": "Alta",
+			"genre_names": [
+				"冒险",
+				"角色扮演",
+				"模拟"
+			],
+			"is_360_sensor_setup_required": false,
+			"is_concept": false,
+			"latest_supported_binary": {
+				"__typename": "AndroidBinary",
+				"version": "main-0.0.73.4",
+				"change_log": "",
+				"supported_hmd_types": [
+					"MONTEREY",
+					"HOLLYWOOD"
+				],
+				"total_installed_space": "956187427",
+				"id": "4146743855362021",
+				"required_space_adjusted": "1527255312",
+				"storeAddOns": null,
+				"firstIapItems": null
+			},
+			"recommended_graphics": null,
+			"recommended_memory_gb": null,
+			"recommended_processor": null,
+			"release_date": 1626195654,
+			"supported_tracking_modes": [],
+			"website_url": "https://townshiptale.com/",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"id": "176041001163471",
+				"__isPurchasableOfferWithApp": "AppStoreOffer",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"end_time": 1626195600,
+				"show_timer": false,
+				"buy_button_captions": [
+					{
+						"text": "提供应用内购买"
+					}
+				]
+			},
+			"viewer_release_channel": {
+				"id": "251562972692629"
+			},
+			"live_release_channel": {
+				"id": "251562972692629",
+				"channel_name": "LIVE",
+				"latest_supported_binary": {
+					"__typename": "AndroidBinary",
+					"id": "4146743855362021"
+				}
+			},
+			"release_channels": {
+				"count": 1,
+				"nodes": [
+					{
+						"channel_name": "LIVE",
+						"id": "251562972692629",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "main-0.0.73.4",
+							"id": "4146743855362021"
+						}
+					}
+				]
+			},
+			"grouping": {
+				"upcoming_events": {
+					"edges": []
+				},
+				"id": "2664000167045429",
+				"posts": {
+					"nodes": []
+				},
+				"iap_items_2": {
+					"edges": [
+						{
+							"cursor": "AQHRCa1Cgo-9ANx76y67nLKPeqrzIgda4EqalQOHFPq5GVROX1utwTqr1pVuv69gvvGiuSu7aRl2aD1pI9CN-l_pdA"
+						}
+					]
+				}
+			},
+			"externalReviewsForDisplay": {
+				"nodes": []
+			},
+			"externalReviewsComplete": {
+				"count": 0
+			},
+			"user_data_disclosure_translated": null,
+			"__isItemWithComfortRating": "Application",
+			"comfort_rating": "COMFORTABLE_FOR_SOME",
+			"is_viewer_subscribed_coming_soon": false,
+			"internet_connection": "REQUIRED",
+			"internet_connection_name": "需要连接网络",
+			"__isItemWithHmdPlatformInformaton": "Application",
+			"supported_input_devices_list": [
+				{
+					"name": "Oculus Touch",
+					"tag": "OCULUS_TOUCH"
+				}
+			],
+			"canonicalName": "alta-a-township-tale-android6d0f",
+			"viewer_has_preorder": false,
+			"purchase_alerts": [],
+			"is_granted_on_hardware_registration": false,
+			"current_trial_offer": null,
+			"extra_buy_box_section": {
+				"content": "Oculus 退款政策",
+				"link_uri": "https://www.oculus.com/legal/quest-rift-content-refund-policy/"
+			},
+			"is_viewer_entitled": false,
+			"baseline_offer": {
+				"price": {
+					"offset_amount": "999"
+				},
+				"id": "176041001163471"
+			},
+			"__isWishlistableItem": "Application",
+			"entry": null,
+			"is_demo_of": null,
+			"appName": "A Township Tale",
+			"platformOffer": null,
+			"is_giftable": false,
+			"current_gift_offer": null,
+			"externalReviews": {
+				"count": 0
+			},
+			"quality_rating_aggregate": 0,
+			"support_website_url": "https://townshiptale.com/tech-support",
+			"quality_ratings_by_viewer": [],
+			"reviewInfo": {
+				"count": 0,
+				"orderings": [
+					{
+						"key": "top",
+						"label": "最相关"
+					},
+					{
+						"key": "most_recent",
+						"label": "从新到旧"
+					}
+				]
+			},
+			"firstQualityRatings": {
+				"count": 0,
+				"page_info": {
+					"end_cursor": null,
+					"start_cursor": null
+				},
+				"edges": []
+			},
+			"can_viewer_review": false,
+			"is_offer_region_restricted": false,
+			"__isWithWebsitePageMeta": "Application",
+			"website_page_meta": {
+				"description": "Pre-Order A Township Tale Now for exclusive perks!\n-   Base Game (Personal server + 1000 Talems)\n-   Exclusive Cosmetics!\n-   Early Release Access (July 13th)\n\nBand together with your friends to explore a forgotten world filled with adventure, danger, and ancient secrets. \n\nBut be wary. \n\nDangers lurk in the dark below, and terrible monsters await between you and untold riches.\n\nWill your story become legend, or will you end in tragedy?",
+				"image_height": 405,
+				"image_type": "image/jpeg",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/75210393_568285587496036_6880836140936682348_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=79b88e&_nc_ohc=VPT01L2dUxAAX-HDBHQ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=7233a5184631b8cff8c122c02059ff9e&oe=60E253EB",
+				"image_width": 720,
+				"og_locale": "zh_CN",
+				"og_type": "website",
+				"page_url": "https://www.oculus.com/experiences/quest/2913958855307200/",
+				"site_name": "Oculus",
+				"title": "A Township Tale · Oculus Quest"
+			},
+			"fallback_ranking_trace": ""
+		}
+	}
+}

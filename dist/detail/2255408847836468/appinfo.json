@@ -14,9 +14,9 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=6dyjkTPWEeYAX-JF66L&_nc_ht=scontent.oculuscdn.com&tp=28&oh=ba07d8bc2de98c3ef38f619f1a3fe10e&oe=60E19B02"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/75495673_935697856868373_6288378320924966912_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=79b88e&_nc_ohc=b21-MHd0VowAX8PXeaY&_nc_ht=scontent.oculuscdn.com&tp=28&oh=832b9ed95a3af77c6f1e0951c5946e0c&oe=60E19B02"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Oyv5WYMuWh8AX_tlEbA&_nc_ht=scontent.oculuscdn.com&oh=f833a6bc4dcaadf4a4296cd03d869491&oe=60E0F3D3"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/86610702_591381621758700_8256776431275606016_n.mp4?_nc_cat=105&ccb=1-3&_nc_sid=0ed769&_nc_ohc=Oyv5WYMuWh8AX_KkGpO&_nc_ht=scontent.oculuscdn.com&oh=248e6d93de6748e01a90a20d9ef4d879&oe=60E2EE13"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
@@ -41,7 +41,7 @@
 				},
 				{
 					"star_rating": 5,
-					"count": 1228,
+					"count": 1229,
 					"starRating": 5
 				}
 			],
@@ -137,7 +137,7 @@
 				}
 			},
 			"release_channels": {
-				"count": 1,
+				"count": 2,
 				"nodes": [
 					{
 						"channel_name": "LIVE",
@@ -146,6 +146,15 @@
 							"__typename": "AndroidBinary",
 							"version": "2.3.4",
 							"id": "4482003938510270"
+						}
+					},
+					{
+						"channel_name": "BETA",
+						"id": "1237419773082578",
+						"latest_supported_binary": {
+							"__typename": "AndroidBinary",
+							"version": "2.3.5b2",
+							"id": "4501589676551696"
 						}
 					}
 				]
@@ -163,7 +172,7 @@
 							"created_time": 1623663891,
 							"body_text": "We wanted to do this for a very long time and finally it is here!\n\n\n\nLevel Editor opens the gate for every player to create content for Racket: Nx using a beautiful in-game interface, where the controller is the brush and the content is the paint.\n\nBut there is more :)\n\nYou can also use the same interface to publish your creation, for other players to enjoy and vote up for a chance to get curated into future Monthly Challenges!\n\n\n\nAnd, if you are into exploring player generated content - try out the new content browser for specific (or random) creations.\n\nSo, what are you waiting for?? grab a controller and join the party!\n\nJoin our Discord community to hang out with other creators and players.",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003248_195292935837342_3170978697346489378_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=jwc6uUnj2_UAX-8fm4y&_nc_ht=scontent.oculuscdn.com&oh=a5652ce1d82fafedd7ba3d212cf622c0&oe=60E20C7B"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39003248_195292935837342_3170978697346489378_n.png?_nc_cat=109&ccb=1-3&_nc_sid=79b88e&_nc_ohc=LSgOrVRCrKEAX_bVl35&_nc_ht=scontent.oculuscdn.com&oh=e6dfae063f62cbb0ca6f787345b65803&oe=60E20C7B"
 							}
 						},
 						{
@@ -172,7 +181,7 @@
 							"created_time": 1614626788,
 							"body_text": "Season 4 is here!\n\nAnd if this wasn't enough, we have also launched an update that will make the new season more interesting and competitive:\n- Glicko rating system - your score reflects your performance more accurately\n- Matchmaking - you are matched against players of your skill level (when possible)\n- High five - enabled\n- Bug fixes and improvements\n\nSo jump right into action, and come share your experience with our community on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=b45SkupSUMEAX_0LrGD&_nc_ht=scontent.oculuscdn.com&oh=f9f60658fe76ae29cab83d5b5232947d&oe=60E0821B"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/75289919_2802316609988655_4321642762776370316_n.png?_nc_cat=101&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tD2AKvXu54wAX_2eQrc&_nc_ht=scontent.oculuscdn.com&oh=8213a188f9fd829785cf95316f4af1b8&oe=60E27C5B"
 							}
 						}
 					]
@@ -229,11 +238,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 4.7304288631722,
+			"quality_rating_aggregate": 4.730612244898,
 			"support_website_url": "https://racketnx.com/",
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 734,
+				"count": 735,
 				"orderings": [
 					{
 						"key": "top",
@@ -246,10 +255,10 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 734,
+				"count": 735,
 				"page_info": {
-					"end_cursor": "AQHR6M8A-_vbt6WHNtckJW1T9As-wT1-dVyQU0t1e-KpApFKRjnX-1t34e-pgE_FPn5y7XDY-Edgywm8zek-RbtZIw",
-					"start_cursor": "AQHR6M8A-_vbt6WHNtckJW1T9As-wT1-dVyQU0t1e-KpApFKRjnX-1t34e-pgE_FPn5y7XDY-Edgywm8zek-RbtZIw"
+					"end_cursor": "AQHRQmq3He_SiQXH8xc0ihXY0D1Xbjhy4x6fp7VY2YOOptgwEG8veOsfOiGAPnR9Y1bP-kJlx9KJNTJ7Ogv9u0XtrA",
+					"start_cursor": "AQHRQmq3He_SiQXH8xc0ihXY0D1Xbjhy4x6fp7VY2YOOptgwEG8veOsfOiGAPnR9Y1bP-kJlx9KJNTJ7Ogv9u0XtrA"
 				},
 				"edges": [
 					{
@@ -259,13 +268,13 @@
 								"id": "101407322086287",
 								"display_name": "Niacobucci",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.437.437a/s160x160/38974789_102045685355784_911819582786063249_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=WewG-Hg7eLwAX88gcMP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=f282801c92728985676ae252f47e35ea&oe=60E0AB57"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.437.437a/s160x160/38974789_102045685355784_911819582786063249_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=wE6iUgq_az4AX823XVl&_nc_ht=scontent.oculuscdn.com&tp=28&oh=dadda33d88144bdb9fd4130896392e8f&oe=60E2A597"
 								}
 							},
 							"score": 5,
 							"reviewDescription": "My mother suffers from rheumatoid arthritis among other health issues.  Years ago she was much more active than she can be today.  She is not bedridden but she suffers pain every day, and she can’t play tennis anymore.  Tennis was a huge passion in my mother’s life, and she played many times per week when I was younger.  Unfortunately mom hasn’t been on the tennis court in years because she physically cannot run around the asphalt anymore.\n\nWell I purchased “Racket Nx” just hoping that it would be fun.  We enjoyed the “Eleven” table tennis game so I figured why not.  This game has been nothing short of a revelation in my mother’s life.  She repeatedly says “BEST GAME EVER!” When she is playing this game.  She always says how wonderful it is to play tennis again.  Now we understand that this is not actual tennis...but this game is an amazing instrument that can easily inspire and encourage anyone that can’t run around a tennis court anymore.\n\nThis game is fun, exciting, and a great way to lose weight.\n\nMom is down 20 pounds, and “Racket Nx” is definitely a part of that.\n\nThis game ROCKS!",
 							"reviewTitle": "Mom says “BEST GAME EVER”",
-							"review_helpful_count": 91,
+							"review_helpful_count": 93,
 							"review_rank_by_viewer": null,
 							"date": 1621648035,
 							"developerResponse": {
@@ -284,7 +293,7 @@
 				"description": "Racket: Nx是一款前所未见的游戏，旨在挑战玩家在VR中使用球拍的极限。",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_1942338752610410_9101408457094119393_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EDYHUk09J4sAX-itFAD&_nc_ht=scontent.oculuscdn.com&tp=28&oh=c048c2f0e35ad32a2083c4eeba0804f7&oe=60E0C362",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982695_1942338752610410_9101408457094119393_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=79b88e&_nc_ohc=EDYHUk09J4sAX9SmYFP&_nc_ht=scontent.oculuscdn.com&tp=28&oh=9fbc116f73f748bc22a0242f648a555d&oe=60E2BDA2",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",

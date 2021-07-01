@@ -14,14 +14,14 @@
 			"__isWithHeroMediaCarousel": "Application",
 			"trailer": {
 				"thumbnail": {
-					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=pd7-TIZU4fkAX_IVjS6&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3a871138a1a92a944d78b41bab535884&oe=60E0248B"
+					"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s1440x1440/38974787_2770909719905966_2034839455620980162_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=f1WrZ_bHvEIAX-wBlIt&_nc_ht=scontent.oculuscdn.com&tp=28&oh=410813119bc8e4d3a3a8331797eacfa1&oe=60E21ECB"
 				},
-				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=th5i7XTTtzwAX9kzQ4T&_nc_ht=scontent.oculuscdn.com&oh=beda63031408419d342042c07e529c6e&oe=60E0A30A"
+				"uri": "https://scontent.oculuscdn.com/v/t64.7195-25/38974781_2242657992533547_622903273260320193_n.mp4?_nc_cat=101&ccb=1-3&_nc_sid=0ed769&_nc_ohc=th5i7XTTtzwAX839l2V&_nc_ht=scontent.oculuscdn.com&oh=890abe0d0900c86f702920eb60fcd5b3&oe=60E29D4A"
 			},
 			"quality_rating_histogram_aggregate_all": [
 				{
 					"star_rating": 1,
-					"count": 943,
+					"count": 945,
 					"starRating": 1
 				},
 				{
@@ -31,17 +31,17 @@
 				},
 				{
 					"star_rating": 3,
-					"count": 460,
+					"count": 463,
 					"starRating": 3
 				},
 				{
 					"star_rating": 4,
-					"count": 887,
+					"count": 889,
 					"starRating": 4
 				},
 				{
 					"star_rating": 5,
-					"count": 2381,
+					"count": 2388,
 					"starRating": 5
 				}
 			],
@@ -79,15 +79,15 @@
 			"is_concept": false,
 			"latest_supported_binary": {
 				"__typename": "AndroidBinary",
-				"version": "0.18.6.3_2",
+				"version": "0.18.7.2",
 				"change_log": "",
 				"supported_hmd_types": [
 					"MONTEREY",
 					"HOLLYWOOD"
 				],
-				"total_installed_space": "4290726719",
-				"id": "4465120833499544",
-				"required_space_adjusted": "8139479645",
+				"total_installed_space": "4331227394",
+				"id": "4498587373486223",
+				"required_space_adjusted": "8212294280",
 				"storeAddOns": null,
 				"firstIapItems": null
 			},
@@ -125,7 +125,7 @@
 				"channel_name": "LIVE",
 				"latest_supported_binary": {
 					"__typename": "AndroidBinary",
-					"id": "4465120833499544"
+					"id": "4498587373486223"
 				}
 			},
 			"release_channels": {
@@ -136,8 +136,8 @@
 						"id": "297349780982051",
 						"latest_supported_binary": {
 							"__typename": "AndroidBinary",
-							"version": "0.18.6.3_2",
-							"id": "4465120833499544"
+							"version": "0.18.7.2",
+							"id": "4498587373486223"
 						}
 					}
 				]
@@ -148,44 +148,11 @@
 						{
 							"node": {
 								"__isVREvent": "Event",
-								"current_end_timestamp": 1625097600,
-								"current_start_timestamp": 1625090400,
-								"temporal_info": {
-									"seconds_until_end_time": 56094,
-									"seconds_until_start_time": 48894
-								},
-								"vr_app_and_destination_string": "PokerStars VR",
-								"vr_applications": {
-									"nodes": [
-										{
-											"__typename": "Application",
-											"id": "2370815932930055",
-											"is_published": true,
-											"is_viewer_entitled": false,
-											"display_name": "PokerStars VR"
-										}
-									]
-								},
-								"vr_hosts": {
-									"nodes": []
-								},
-								"vr_deeplink_message": null,
-								"id": "791620568202455",
-								"is_vr_viewer_interested": false,
-								"name": "PokerStars VR 2X Creds Power Hours",
-								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38984468_965433717591814_9189580479301477934_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=C95axIazhdEAX9UCOrf&_nc_oc=AQlwwIC9emkhw60r3Kw1LSZW4OIBX1wROnBvrr5tvBlXDxo_6dNSVbv0a3FUfHeKrk8&_nc_ht=scontent.oculuscdn.com&tp=28&oh=3e682e94820d5d880000bc359f318e98&oe=60E0C721"
-								}
-							}
-						},
-						{
-							"node": {
-								"__isVREvent": "Event",
 								"current_end_timestamp": 1625440320,
 								"current_start_timestamp": 1625439600,
 								"temporal_info": {
-									"seconds_until_end_time": 398814,
-									"seconds_until_start_time": 398094
+									"seconds_until_end_time": 312412,
+									"seconds_until_start_time": 311692
 								},
 								"vr_app_and_destination_string": "PokerStars VR",
 								"vr_applications": {
@@ -207,7 +174,7 @@
 								"is_vr_viewer_interested": false,
 								"name": "The Sunday Spin!",
 								"vr_cover_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982456_184827823602008_747929520011504294_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qio3aye41kIAX_ydTa2&_nc_oc=AQlGyQQ8osDdzwf1hxKOSCwYYYG6HiWMTlDojuwvmHkRf3_CyDjz8R4xtOOVfAKaXEk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=5d929073fca9ce02d555c1a70ddde6af&oe=60E20AC1"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38982456_184827823602008_747929520011504294_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=qiBK7uZx3C8AX9g7Jpm&_nc_oc=AQku2PintSIhUAAiy1Z3Q3uqdbdNXkbEKEaGMlyteGN2-2pCstbHybLGNOuRsmtUFEk&_nc_ht=scontent.oculuscdn.com&tp=28&oh=46ac58ac73f95f642e65729fb8461fbf&oe=60E20AC1"
 								}
 							}
 						}
@@ -222,7 +189,7 @@
 							"created_time": 1624046142,
 							"body_text": "Hey everyone we have another great update for you here with [Patch 73] featuring Table Item Gifting!\n\nIn this update you can gift props and apparel items at the table!\n\nNew Features/Improvements\n-Gifting\n-New Slots Layout + Perf Improvements in Slots Room\n-HSS Custom Card Skin\n-Slot Spin Button Collision detection fix\n\nBug Fixes\n-Slots Crown Sync\n-Info panel transparency\n-Quest UI flickering\n-Sushi texture black for quest users",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031502_546251476748936_6830768552523096798_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=gFwyuN2QPuoAX-KBW7R&_nc_ht=scontent.oculuscdn.com&oh=93b8b7d25749b75e9d07661485953557&oe=60E0FAF4"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/39031502_546251476748936_6830768552523096798_n.png?_nc_cat=105&ccb=1-3&_nc_sid=79b88e&_nc_ohc=SMHfJ3Ab_fwAX87p4wF&_nc_ht=scontent.oculuscdn.com&oh=e0768f40ccb29433c88e5d7e1c4a2a96&oe=60E2F534"
 							}
 						},
 						{
@@ -231,7 +198,7 @@
 							"created_time": 1612703914,
 							"body_text": "Hey PokerStars VR players we have a new update for you with [Patch 59] now live for download!\n\nThis update includes a new sports betting feature on The Big Game this weekend and a brand new Big Game player pack available for purchase.\n\nNew Features\n- Sports Betting Panel\n- Added avatar animation & lipsync to tutorial\n- New Fetch Room List for improved game list loading in the lobby\n- The Big Game Player Pack\n\nBug Fixes\n- Cards sometimes jumping and auto-folding on Seat 2 in Cyber and Medieval fixed\n- Some instances of players seeing grey-cards should be fixed (all saved card skin selections had to be reset)\n- Some issues with spin wheel in lobby breaking should be fixed\n- Cigar hovering above table fix\n- Various spamming error fixes\n\nJoin us on Discord",
 							"tile_landscape_image": {
-								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=tfxJUNVYPA0AX9ZEiLo&_nc_ht=scontent.oculuscdn.com&oh=01d9604d8ede0c14e69830e21ec0527d&oe=60E07931"
+								"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/38974634_697451550925111_4194811019698295904_n.png?_nc_cat=102&ccb=1-3&_nc_sid=79b88e&_nc_ohc=y4lA3mtKQAAAX8nIa8O&_nc_ht=scontent.oculuscdn.com&oh=df3a041e7ee6d8ebdea13f65fac3e1f6&oe=60E27371"
 							}
 						}
 					]
@@ -239,7 +206,7 @@
 				"iap_items_2": {
 					"edges": [
 						{
-							"cursor": "AQHRgOCz_j0MFAu0nrqwk_nlLojGJywGsHMZ9bZHmueQ23Q1rV17b77JkgGbs-o4-1yCMj-gCeTCeO-8gZfCV5QGOw"
+							"cursor": "AQHR-ap5tS2zazNKl-pg2H6T8pU72IdzqRa8HTbOKQE0RcdAM8rzhIXFnMV44e7Bb1Qf7LuhEHI13C1tUetcMzDdWA"
 						}
 					]
 				}
@@ -286,11 +253,11 @@
 			"externalReviews": {
 				"count": 0
 			},
-			"quality_rating_aggregate": 3.6810843133347,
+			"quality_rating_aggregate": 3.6815742397138,
 			"support_website_url": null,
 			"quality_ratings_by_viewer": [],
 			"reviewInfo": {
-				"count": 1787,
+				"count": 1788,
 				"orderings": [
 					{
 						"key": "top",
@@ -303,29 +270,33 @@
 				]
 			},
 			"firstQualityRatings": {
-				"count": 1787,
+				"count": 1788,
 				"page_info": {
-					"end_cursor": "AQHRCEa0Y-aaM_l0-RUH-kNV7n2vSR8S7zGJovVGIQvT1v1Xaa4qBrq9zkdDhI0iwZaCNb1JobBNbQ0GlVNTGUTeGg",
-					"start_cursor": "AQHRCEa0Y-aaM_l0-RUH-kNV7n2vSR8S7zGJovVGIQvT1v1Xaa4qBrq9zkdDhI0iwZaCNb1JobBNbQ0GlVNTGUTeGg"
+					"end_cursor": "AQHRoCCjzHoxjxRccErSIBz6Qo5Jk5qJVB3mCI4OHuB4406DJbt4Bh1PQsdPpP8CZUkB7X_FYN2ElGK_wXXW-5Dkqg",
+					"start_cursor": "AQHRoCCjzHoxjxRccErSIBz6Qo5Jk5qJVB3mCI4OHuB4406DJbt4Bh1PQsdPpP8CZUkB7X_FYN2ElGK_wXXW-5Dkqg"
 				},
 				"edges": [
 					{
 						"node": {
-							"id": "117326913863695",
+							"id": "181794870564829",
 							"author": {
-								"id": "103855955210791",
-								"display_name": "ImperfectSky",
+								"id": "106372508107066",
+								"display_name": "Jimicheck",
 								"profile_photo": {
-									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.611.611a/s160x160/38974685_103857775210609_7232119797930299957_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=79b88e&_nc_ohc=AAGvpkROU-oAX_-ldED&_nc_ht=scontent.oculuscdn.com&tp=28&oh=d2ee68e3a70b64480959169f7caffe6f&oe=60E0EF40"
+									"uri": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/c0.0.960.960a/s160x160/38974873_113971724013811_2512777647526405522_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=79b88e&_nc_ohc=CXBJt_j-3eYAX-G4fVA&_nc_ht=scontent.oculuscdn.com&tp=28&oh=48b410abe87350a6d5128e796fb74e74&oe=60E2AA96"
 								}
 							},
-							"score": 1,
-							"reviewDescription": "(\"Hey Master6961, everything you just mentioned in your review was false to the highest degree. False reviews bashing the game and development team and saying the development team is lazy, is the furthest thing from the truth that has ever been presented to us. It is a privilege to be on our server and we have the right to remove anyone at anytime for violating our TOS and Code Of Conduct.\") This was a comment from the devs. I won't lie I do love this game and while i do not think the game is rigged everything else was a lie. the game is extremely buggy, consistently crashes, the community is toxic, fails to load lobby's frequently, and there has been update after update with no issues being fixed. so far the only update that i've liked where I saw a change is the report system. the games biggest issue is the under age players on the game. a bunch of kids every single day that probably don't even like poker find a free game, download it, then join the lobby's playing with toys and chip dumping. me and most of the community i've talked to, feels like the issue would be fixed by simply just making the game $2. but for the most part the game is a good game, far better than the other poker game, just need a solution for chip dumping and underage players. toxic players can just be muted, and the bugs actually need to be fixed. UPDATE: the game is definitely rigged in the favor of the people who spend money on game. UPDATE I played 20 hands and lost them all while one player won 17 out of 20 leaving the rest of us with nothing. with the amount of items the player had he has so obviously spent money on the game. I've spent over 600,000 on slots and have gotten nothing from it. the game is rigged and I have deleted it.\nUPDATE the funny thing is the devs will just come up with some back handed response to this review denying my claims, instead of acknowledge is and actually fix the issues bc they do not care. they only care about making money. I will also probably be banned.",
-							"reviewTitle": "the dev team are liars.",
-							"review_helpful_count": 133,
+							"score": 4,
+							"reviewDescription": "The game itself is great.. There's nothing I can complain about the way the game is set up, or the tables or even the people that I play with.. But I live in the city full of casinos, and there's no way That you can lose as much as you do on slots and blackjack as you do in this game.... I would like for them to fix that problem to at least allow people who play black jack to win.. I've never in my life played blackjack And gotten three 18s, two 19s, and three 20s in a row and lose every hand.....",
+							"reviewTitle": "Set up to lose.",
+							"review_helpful_count": 11,
 							"review_rank_by_viewer": null,
-							"date": 1622409036,
-							"developerResponse": null
+							"date": 1624807112,
+							"developerResponse": {
+								"date": 1624835971,
+								"body": "Hey Jimicheck, thanks for the positive rating!  The PokerStars VR Random Number Generator (RNG) has been certified by iTech Labs, one of the leading accredited testing laboratories for online gaming worldwide. iTech Labs  has found that the card sequences in PokerStars VR are unpredictable, non-repeatable and uniformly distributed. The PokerStars VR RNG Certificate may be found here: \nhttps://itechlabs.com/certificates/luckyvr/RNG_Certificate_UK_LuckyVRInc_10Dec19.pdf",
+								"id": "182026197208363"
+							}
 						}
 					}
 				]
@@ -337,7 +308,7 @@
 				"description": "NEW SLOTS TOURNAMENTS UPDATE!\n\nStep into the future with this game-changing release from the biggest name in the business. Visually stunning environments; realistic chip and card movements; an endless supply of interactive toys, props and accessories; and the world’s best poker software powering multiplayer Texas Hold’em action.",
 				"image_height": 405,
 				"image_type": "image/jpeg",
-				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_165914242047064_4005957089872952787_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=nSKepl6sJiIAX-VXVcJ&_nc_ht=scontent.oculuscdn.com&tp=28&oh=2990712d4dacdf79ca06cbb9161438f4&oe=60E1849B",
+				"image_url": "https://scontent.oculuscdn.com/v/t64.5771-25/q92/s720x720/38974628_165914242047064_4005957089872952787_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=79b88e&_nc_ohc=aoZ60liL2o4AX_1fHrE&_nc_ht=scontent.oculuscdn.com&tp=28&oh=4956d8e0eca57d59fa4cb6015a8659a4&oe=60E1849B",
 				"image_width": 720,
 				"og_locale": "zh_CN",
 				"og_type": "website",
