@@ -2,18 +2,22 @@ import requests
 import json
 import os
 import concurrent.futures
+import sys
 
 JSON_FILE_PATH = "../public/oculus-quest-store.json"
 JSON_SLIM_FILE_PATH = "../public/oculus-quest-store-slim.json"
 ROOT_PATH = '../public/detail'
 API_URL = 'https://graph.oculus.com/graphql?forced_locale=zh_CN'
 
+ACCESS_TOKEN = 'OC|1317831034909742|'
+ACCESS_TOKEN_DETAIL = 'OC|1317831034909742|'
 
-DOWNLOAD_THREAD_NUMBER = 10
+
+DOWNLOAD_THREAD_NUMBER = 1
 
 print('get doc')
 doc = requests.post(API_URL, data={
-    "access_token": "OC|1317831034909742|",
+    "access_token": ACCESS_TOKEN,
     'variables': '{"sectionId":"1888816384764129","sortOrder":null,"sectionItemCount":999,"sectionCursor":null,"hmdType":"MONTEREY"}',
     "doc_id": "4565044133567732"
 })
@@ -82,16 +86,22 @@ class OculusStore:
         print('downloading detail [%s]' % (self.display_name))
         des = os.path.join(detail_app_info_dir, 'appinfo.json')
         formData = {
-            "access_token": "OC|1317831034909742|",
+            "access_token": ACCESS_TOKEN_DETAIL,
             "variables": '{"itemId":"%s","first":1,"last":null,"after":null,"before":null,"forward":true,"ordering":null,"ratingScores":null,"hmdType":"MONTEREY"}' % (self.id),
             "doc_id": "3289811384479975"
         }
         doc = requests.post(API_URL, data=formData)
         result = doc.json()
-        del result['errors']
-        del result['data']['node']['iarc_cert']
-        del result['data']['node']['screenshots']
-        del result['data']['node']['hero']
+        print(result)
+        if result['error']:
+            return
+        try:
+            del result['data']['node']['iarc_cert']
+            del result['data']['node']['screenshots']
+            del result['data']['node']['hero']
+            del result['errors']
+        except Exception as ex:
+            print(ex)
 
         self.__fix_app_info(detail_info=result['data']['node'])
         with open(des, 'w') as json_file:
@@ -138,5 +148,5 @@ def save_slim_store_info():
 
 
 if __name__ == '__main__':
-    download_detail_info()
+    # download_detail_info()
     save_slim_store_info()
