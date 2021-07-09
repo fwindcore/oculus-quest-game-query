@@ -1,6 +1,34 @@
 {
-	"count": 289,
+	"count": 293,
 	"edges": [
+		{
+			"id": "2886115781495034",
+			"canonicalName": "arvore-immersive-experiences-yuki-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1626800400,
+				"show_timer": false,
+				"id": "500205107874907",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"promo_benefit": "-10%"
+			},
+			"current_trial_offer": null,
+			"release_date": 1626800425,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "YUKI",
+			"is_concept": false
+		},
 		{
 			"id": "2913958855307200",
 			"canonicalName": "alta-a-township-tale-android6d0f",
@@ -23,6 +51,78 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "A Township Tale",
+			"is_concept": false
+		},
+		{
+			"id": "2544573735586536",
+			"canonicalName": "rebellion-sniper-elite-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "371289901081021",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1625752849,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Sniper Elite VR",
+			"is_concept": false
+		},
+		{
+			"id": "3044409625637497",
+			"canonicalName": "happygiant-llc-sam-and-max-this-time-it-s-virtual-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1283264235403484",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1625752795,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Sam and Max: This Time It's Virtual!",
+			"is_concept": false
+		},
+		{
+			"id": "3256881337690839",
+			"canonicalName": "viewer-ready-corp-totally-baseball-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "381539969968515",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1625752745,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "TOTALLY BASEBALL",
 			"is_concept": false
 		},
 		{
@@ -630,21 +730,17 @@
 			"canonicalName": "xr-games-ltd-zombieland-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1625814000,
-				"show_timer": true,
-				"id": "405296020788407",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "249915420127241",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1799",
-					"formatted": "$17.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1616691548,
@@ -1210,14 +1306,14 @@
 			"canonicalName": "3dar-ltda-paper-birds-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1625763600,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "3555737161142444",
+				"id": "1633659413504482",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "499",
-					"formatted": "$4.99"
+					"offset_amount": "699",
+					"formatted": "$6.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1226,7 +1322,7 @@
 			"release_date": 1607623135,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Paper Birds: Part I",
+			"display_name": "Paper Birds: Part I & II",
 			"is_concept": false
 		},
 		{
@@ -3610,17 +3706,21 @@
 			"canonicalName": "ozwe-death-lap-quest-prod-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "435887660668401",
+				"end_time": 1625900400,
+				"show_timer": true,
+				"id": "138082391763138",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1575568853,
@@ -4210,21 +4310,17 @@
 			"canonicalName": "mekiwi-cave-digger-riches-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1625806800,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "197318692220811",
+				"id": "601344693731687",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "199",
-					"formatted": "$1.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-90%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1568912400,
