@@ -1,5 +1,5 @@
 {
-	"count": 294,
+	"count": 295,
 	"edges": [
 		{
 			"id": "2886115781495034",
@@ -30,11 +30,35 @@
 			"is_concept": false
 		},
 		{
+			"id": "3916601848368970",
+			"canonicalName": "coding-leap-noda-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1313290012401963",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1626368388,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Noda",
+			"is_concept": false
+		},
+		{
 			"id": "2913958855307200",
 			"canonicalName": "alta-a-township-tale-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1626368400,
+				"end_time": 1626973200,
 				"show_timer": false,
 				"id": "322417136204639",
 				"offer_type": "APPSTORE_OFFER",
@@ -435,30 +459,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Blueplanet VR Explore",
-			"is_concept": false
-		},
-		{
-			"id": "2173576192720129",
-			"canonicalName": "tripp-inc-tripp-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "532481964012133",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1621441546,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "TRIPP",
 			"is_concept": false
 		},
 		{
@@ -3510,6 +3510,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "2173576192720129",
+			"canonicalName": "tripp-inc-tripp-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "532481964012133",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1576778386,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "TRIPP",
+			"is_concept": false
+		},
+		{
 			"id": "2359857214088490",
 			"canonicalName": "drashvr-llc-titans-of-space-plus-android6d0f",
 			"current_offer": {
@@ -4306,17 +4330,21 @@
 			"canonicalName": "tribe-xr-inc-tribexr-dj-school-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "3014142328645998",
+				"end_time": 1626505200,
+				"show_timer": true,
+				"id": "315320710304743",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2399",
+					"formatted": "$23.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1568912400,
@@ -4642,21 +4670,17 @@
 			"canonicalName": "sculptrvr-inc-sculptrvr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1626418800,
-				"show_timer": true,
-				"id": "335185031535714",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "402569567460909",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
