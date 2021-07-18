@@ -1138,17 +1138,21 @@
 			"canonicalName": "gamedust-yupitergrad-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "864707927520145",
+				"end_time": 1626678000,
+				"show_timer": true,
+				"id": "483886629707503",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1611856711,
@@ -4786,21 +4790,17 @@
 			"canonicalName": "force-field-timestall",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1626591600,
-				"show_timer": true,
-				"id": "584673136030915",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2294616110778927",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1565888400,
