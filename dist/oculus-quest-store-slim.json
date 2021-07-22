@@ -2142,17 +2142,21 @@
 			"canonicalName": "ndreams-shooty-fruity-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "803082027103067",
+				"end_time": 1627023600,
+				"show_timer": true,
+				"id": "357747792594389",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1598547639,
@@ -6342,21 +6346,17 @@
 			"canonicalName": "drool-llc-thumper-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1626937200,
-				"show_timer": true,
-				"id": "325345389292943",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "831110897287312",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-40%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
