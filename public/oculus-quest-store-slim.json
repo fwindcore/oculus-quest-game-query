@@ -1066,17 +1066,21 @@
 			"canonicalName": "experiment-7-catan-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "166047528399884",
+				"end_time": 1627628400,
+				"show_timer": true,
+				"id": "2963486317262359",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1612461614,
@@ -4334,21 +4338,17 @@
 			"canonicalName": "cortopia-studios-wands-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1627542000,
-				"show_timer": true,
-				"id": "178391664329504",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "736765853414250",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1568912400,
