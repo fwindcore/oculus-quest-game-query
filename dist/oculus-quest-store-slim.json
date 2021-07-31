@@ -634,17 +634,21 @@
 			"canonicalName": "fast-travel-games-ab-jukebox-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "3936300303158776",
+				"end_time": 1627801200,
+				"show_timer": true,
+				"id": "517143299509866",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2699",
+					"formatted": "$26.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-10%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1619110800,
@@ -946,21 +950,17 @@
 			"canonicalName": "crytek-the-climb-2020-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1627714800,
-				"show_timer": true,
-				"id": "584938939524368",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "183766196856335",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2399",
-					"formatted": "$23.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1614880800,
