@@ -490,17 +490,21 @@
 			"canonicalName": "survios-bam-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1627974000,
 				"show_timer": false,
-				"id": "285011343303735",
+				"id": "966967687179579",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-10%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1621530049,
@@ -1978,21 +1982,17 @@
 			"canonicalName": "schell-games-until-you-fall-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1627887600,
-				"show_timer": true,
-				"id": "335195568274711",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "403670321028259",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1601398740,
