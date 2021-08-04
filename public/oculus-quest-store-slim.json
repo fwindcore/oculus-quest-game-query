@@ -1,5 +1,5 @@
 {
-	"count": 298,
+	"count": 297,
 	"edges": [
 		{
 			"id": "2970998659623177",
@@ -4350,30 +4350,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2642735955738627",
-			"canonicalName": "fandango-fandangonow-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "390980444896742",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1569430800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "FandangoNOW",
-			"is_concept": false
-		},
-		{
 			"id": "2096339947076151",
 			"canonicalName": "cortopia-studios-wands-android6d0f",
 			"current_offer": {
@@ -5866,21 +5842,17 @@
 			"canonicalName": "orbus-online-llc-orbusvr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1628060400,
-				"show_timer": true,
-				"id": "368228468014353",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "527918914775620",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6518,17 +6490,21 @@
 			"canonicalName": "bit-planet-games-llc-ultrawings-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2074239079361872",
+				"end_time": 1628146800,
+				"show_timer": true,
+				"id": "4582507438445797",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
