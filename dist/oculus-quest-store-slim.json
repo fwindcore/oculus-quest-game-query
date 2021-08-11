@@ -1,5 +1,5 @@
 {
-	"count": 298,
+	"count": 300,
 	"edges": [
 		{
 			"id": "2970998659623177",
@@ -27,6 +27,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "我希望你死 2",
+			"is_concept": false
+		},
+		{
+			"id": "3600836956645933",
+			"canonicalName": "rezzil-rezzil-player-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "267061071543354",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1628614773,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Player 22 by Rezzil",
 			"is_concept": false
 		},
 		{
@@ -1978,17 +2002,21 @@
 			"canonicalName": "resolution-games-ignis-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1628751600,
 				"show_timer": false,
-				"id": "368072897669349",
+				"id": "4945232078876339",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "799",
+					"formatted": "$7.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1602176343,
@@ -2794,21 +2822,17 @@
 			"canonicalName": "sadetta-premium-bowling-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1628665200,
-				"show_timer": true,
-				"id": "1081150329291302",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "251571362850123",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1591290033,
@@ -2863,6 +2887,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Topgolf with Pro Putt",
+			"is_concept": false
+		},
+		{
+			"id": "2933720383334150",
+			"canonicalName": "arte-experience-gloomy-eyes-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "250447242851510",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "799",
+					"formatted": "$7.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1590685164,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Gloomy Eyes",
 			"is_concept": false
 		},
 		{
