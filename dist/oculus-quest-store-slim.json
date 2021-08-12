@@ -1450,17 +1450,21 @@
 			"canonicalName": "cyan-worlds-inc-myst-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "712667686059210",
+				"end_time": 1628838000,
+				"show_timer": true,
+				"id": "514376359829836",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2599",
+					"formatted": "$25.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-13%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1607623140,
@@ -2002,21 +2006,17 @@
 			"canonicalName": "resolution-games-ignis-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1628751600,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "4945232078876339",
+				"id": "368072897669349",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1602176343,
