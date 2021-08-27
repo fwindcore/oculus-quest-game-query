@@ -1,6 +1,54 @@
 {
-	"count": 301,
+	"count": 303,
 	"edges": [
+		{
+			"id": "2301375123298882",
+			"canonicalName": "konami-digital-entertainment-co-ltd-vr-beat-studio-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4421098624594870",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1629997140,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "BEAT ARENA",
+			"is_concept": false
+		},
+		{
+			"id": "4214902388537196",
+			"canonicalName": "ati-studios-mondly-learn-languages-in-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "379750010182476",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1629997107,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Mondly: Practice Languages in VR",
+			"is_concept": false
+		},
 		{
 			"id": "2970998659623177",
 			"canonicalName": "schell-games-i-expect-you-to-die-2-android6d0f",
@@ -1470,17 +1518,21 @@
 			"canonicalName": "coatsink-alone-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "836660210230602",
+				"end_time": 1630134000,
+				"show_timer": true,
+				"id": "1450544898636260",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1608220800,
@@ -3918,21 +3970,17 @@
 			"canonicalName": "vertigo-games-arizona-sunshine-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1630047600,
-				"show_timer": true,
-				"id": "1045057959631552",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "713054445855988",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2799",
-					"formatted": "$27.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "3999",
 					"formatted": "$39.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1575568853,
