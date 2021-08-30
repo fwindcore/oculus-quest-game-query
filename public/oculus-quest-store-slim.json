@@ -5406,17 +5406,21 @@
 			"canonicalName": "mixed-realms-pte-ltd-sairento-vr-untethered-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1242662542582522",
+				"end_time": 1630393200,
+				"show_timer": true,
+				"id": "256980846015613",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1561654800,
@@ -6750,21 +6754,17 @@
 			"canonicalName": "armature-studio-sports-scramble-santa-cruz-gearvr",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1630306800,
-				"show_timer": true,
-				"id": "542993170278217",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1077412149266009",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
