@@ -2454,17 +2454,21 @@
 			"canonicalName": "frozen-district-houseflipper-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "757386551765675",
+				"end_time": 1631170800,
+				"show_timer": true,
+				"id": "204196878427588",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1099",
+					"formatted": "$10.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-26%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1598547600,
@@ -4134,21 +4138,17 @@
 			"canonicalName": "espire-vr-espire-1-vr-operative-quest-edition",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1631084400,
-				"show_timer": true,
-				"id": "1240618443024847",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "494203047850877",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-50%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1574445659,
