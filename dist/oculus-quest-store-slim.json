@@ -1,6 +1,78 @@
 {
-	"count": 304,
+	"count": 307,
 	"edges": [
+		{
+			"id": "3432432656819712",
+			"canonicalName": "anagram-goliath-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2410725085737702",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1631206851,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Goliath",
+			"is_concept": false
+		},
+		{
+			"id": "2562230633857728",
+			"canonicalName": "vrwerx-paranormal-activity-the-lost-soul-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "374335580933515",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1631206840,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Paranormal Activity: The Lost Soul",
+			"is_concept": false
+		},
+		{
+			"id": "3635172946605196",
+			"canonicalName": "brink-xr-brink-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "278433146999854",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1631206787,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "BRINK Traveler",
+			"is_concept": false
+		},
 		{
 			"id": "3931148300302917",
 			"canonicalName": "realities-io-inc-puzzling-places-android6d0f",
@@ -5886,21 +5958,17 @@
 			"canonicalName": "resolution-games-angry-birds-vr-isle-of-pigs-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1631257200,
-				"show_timer": true,
-				"id": "3006862026268857",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2326830277411457",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6252,12 +6320,12 @@
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "392143094707453",
+				"id": "391268282374357",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"offset_amount": "999",
+					"formatted": "$9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6562,17 +6630,21 @@
 			"canonicalName": "turtle-rock-studios-face-your-fears-2",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2264692813785026",
+				"end_time": 1631343600,
+				"show_timer": true,
+				"id": "1438204043233588",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6708,12 +6780,12 @@
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "423208655134344",
+				"id": "550566829481631",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "2499",
+					"formatted": "$24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6722,7 +6794,7 @@
 			"release_date": 1558458000,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Space Pirate Trainer",
+			"display_name": "Space Pirate Trainer DX",
 			"is_concept": false
 		},
 		{
