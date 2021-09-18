@@ -630,17 +630,21 @@
 			"canonicalName": "impulse-gear-inc-ironturtlequest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "4625590730802817",
+				"end_time": 1632034800,
+				"show_timer": true,
+				"id": "3694892920735850",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2399",
+					"formatted": "$23.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1623949218,
@@ -6538,21 +6542,17 @@
 			"canonicalName": "legionvr-llc-the-exorcist-legion-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1631948400,
-				"show_timer": true,
-				"id": "260365565746265",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "340092353357409",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-36%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
