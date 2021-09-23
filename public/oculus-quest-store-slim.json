@@ -70,7 +70,7 @@
 			"release_date": 1631206851,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Goliath",
+			"display_name": "Goliath: Playing with Reality",
 			"is_concept": false
 		},
 		{
@@ -4978,21 +4978,17 @@
 			"canonicalName": "resolution-games-acron-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1632380400,
-				"show_timer": true,
-				"id": "887705005510415",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "439796413544317",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "US$ 13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
@@ -6446,17 +6442,21 @@
 			"canonicalName": "force-field-explore-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1159904390837974",
+				"end_time": 1632466800,
+				"show_timer": true,
+				"id": "569471297558194",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "US$ 6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "US$ 9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
