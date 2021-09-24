@@ -1,6 +1,30 @@
 {
-	"count": 307,
+	"count": 308,
 	"edges": [
+		{
+			"id": "3759841040728627",
+			"canonicalName": "rotu-entertainment-media-ltd-ionia-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4234866136561704",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1632416458,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Rhythm of the Universe - Ionia",
+			"is_concept": false
+		},
 		{
 			"id": "3230671513714717",
 			"canonicalName": "flat-hill-games-clash-of-chefs-vr-android6d0f",
@@ -4182,17 +4206,21 @@
 			"canonicalName": "crytek-the-climb-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1354304751441045",
+				"end_time": 1632553200,
+				"show_timer": true,
+				"id": "208693977844815",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "US$ 29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-33%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1575396014,
@@ -4422,21 +4450,17 @@
 			"canonicalName": "kluge-interactive-synth-riders-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1632416400,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "911481683085250",
+				"id": "267959407837991",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1899",
-					"formatted": "US$ 18.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "US$ 24.99"
 				},
-				"promo_benefit": "-24%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1572541200,
@@ -6442,21 +6466,17 @@
 			"canonicalName": "force-field-explore-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1632466800,
-				"show_timer": true,
-				"id": "569471297558194",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1159904390837974",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "US$ 6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
