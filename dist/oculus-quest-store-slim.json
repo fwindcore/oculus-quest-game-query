@@ -1,5 +1,5 @@
 {
-	"count": 308,
+	"count": 309,
 	"edges": [
 		{
 			"id": "4723352327707414",
@@ -990,21 +990,17 @@
 			"canonicalName": "fast-travel-games-ab-jukebox-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1633590000,
-				"show_timer": true,
-				"id": "919394315327298",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "3936300303158776",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2599",
-					"formatted": "$25.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-13%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1619110800,
@@ -1906,21 +1902,17 @@
 			"canonicalName": "mydearest-inc-project-megalith-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1633535940,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "556424215575968",
+				"id": "3685919294855737",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "3999",
 					"formatted": "$39.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1607011164,
@@ -3950,9 +3942,9 @@
 			"canonicalName": "felix-and-paul-studios-space-explorers-portal-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1633636762,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "684413195765556",
+				"id": "352347952772564",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -4334,17 +4326,21 @@
 			"canonicalName": "espire-vr-espire-1-vr-operative-quest-edition",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "494203047850877",
+				"end_time": 1633676400,
+				"show_timer": true,
+				"id": "286587026306474",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-50%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1574445659,
@@ -5506,6 +5502,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "1946326588770583",
+			"canonicalName": "novelab-dev-notes-on-blindness-quest-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "476031499867985",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1562914800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "NOTES ON BLINDNESS",
+			"is_concept": false
+		},
+		{
 			"id": "2560149374058829",
 			"canonicalName": "within-within-android6d0f",
 			"current_offer": {
@@ -5726,21 +5746,17 @@
 			"canonicalName": "mydearest-inc-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1633535940,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "379466220450125",
+				"id": "397219287803187",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "3999",
 					"formatted": "$39.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1560963600,
