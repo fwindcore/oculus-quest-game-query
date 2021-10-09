@@ -1,5 +1,5 @@
 {
-	"count": 309,
+	"count": 311,
 	"edges": [
 		{
 			"id": "3878215958952165",
@@ -678,17 +678,21 @@
 			"canonicalName": "viewer-ready-corp-totally-baseball-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "381539969968515",
+				"end_time": 1633849200,
+				"show_timer": true,
+				"id": "876608962974486",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-13%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1625752745,
@@ -1322,6 +1326,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "3688751474502123",
+			"canonicalName": "white-door-games-cosmodread-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "483753766088004",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1616691544,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Cosmodread",
+			"is_concept": false
+		},
+		{
 			"id": "1760132027421053",
 			"canonicalName": "meetinvr-meetinvr-android6d0f",
 			"current_offer": {
@@ -1391,6 +1419,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Arthur",
+			"is_concept": false
+		},
+		{
+			"id": "2617233878395214",
+			"canonicalName": "crytek-the-climb-2020-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "183766196856335",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1614880800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "The Climb 2",
 			"is_concept": false
 		},
 		{
@@ -3054,21 +3106,17 @@
 			"canonicalName": "ndreams-phantom-quest",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1633762800,
-				"show_timer": true,
-				"id": "199443742258456",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4023780357664139",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1593104400,
