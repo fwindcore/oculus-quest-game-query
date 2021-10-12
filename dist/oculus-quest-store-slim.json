@@ -1,6 +1,30 @@
 {
-	"count": 309,
+	"count": 310,
 	"edges": [
+		{
+			"id": "4272190292865489",
+			"canonicalName": "fandango-vudu-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "170424501940292",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1633971654,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Vudu",
+			"is_concept": false
+		},
 		{
 			"id": "3878215958952165",
 			"canonicalName": "zojoi-llc-shadowgate-vr-the-mines-of-mythrok-android6d0f",
@@ -6318,21 +6342,17 @@
 			"canonicalName": "llyr-ap-cenydd-ocean-rift-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1634022000,
-				"show_timer": true,
-				"id": "403662231111165",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "955602868164671",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6802,17 +6822,21 @@
 			"canonicalName": "bit-planet-games-llc-ultrawings-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1634108400,
 				"show_timer": false,
-				"id": "2074239079361872",
+				"id": "935012987225128",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
