@@ -1,6 +1,102 @@
 {
-	"count": 301,
+	"count": 302,
 	"edges": [
+		{
+			"id": "4714094898617280",
+			"canonicalName": "vertigo-anotherway-unplugged-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "288331879782326",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634824689,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Unplugged",
+			"is_concept": false
+		},
+		{
+			"id": "3749621795127676",
+			"canonicalName": "wanadev-ragnarock-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "284047847056752",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634824671,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Ragnarock",
+			"is_concept": false
+		},
+		{
+			"id": "3566126356743668",
+			"canonicalName": "moon-mode-spacefolk-city-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "468615527701441",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634824560,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Spacefolk City",
+			"is_concept": false
+		},
+		{
+			"id": "3385318684883998",
+			"canonicalName": "cubicle-ninjas-guided-meditation-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "216502397107054",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634823054,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Guided Meditation VR",
+			"is_concept": false
+		},
 		{
 			"id": "5068085479875775",
 			"canonicalName": "free-range-games-pat-mahomes-mvp-football-android6d0f",
@@ -2090,30 +2186,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2799962826754702",
-			"canonicalName": "bloober-team-na-blair-witch-vr-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2739439339603150",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1603990800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Blair Witch VR: Quest",
-			"is_concept": false
-		},
-		{
 			"id": "3043045549099845",
 			"canonicalName": "ikimasho-starshaman-android6d0f",
 			"current_offer": {
@@ -2351,30 +2423,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Blaston",
-			"is_concept": false
-		},
-		{
-			"id": "2159739540797724",
-			"canonicalName": "motionx-studio-dashdash-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "754335351965126",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1602176297,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Dash Dash World",
 			"is_concept": false
 		},
 		{
@@ -3126,21 +3174,17 @@
 			"canonicalName": "sadetta-premium-bowling-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1634886000,
-				"show_timer": true,
-				"id": "1155409131534165",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "251571362850123",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1591290033,
@@ -6058,17 +6102,21 @@
 			"canonicalName": "orbus-online-llc-orbusvr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "527918914775620",
+				"end_time": 1634972400,
+				"show_timer": true,
+				"id": "399483258487776",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6243,30 +6291,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Virtual Virtual Reality",
-			"is_concept": false
-		},
-		{
-			"id": "2096570290365140",
-			"canonicalName": "fast-travel-games-ab-apex-construct-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "391268282374357",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558458000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Apex Construct",
 			"is_concept": false
 		},
 		{
