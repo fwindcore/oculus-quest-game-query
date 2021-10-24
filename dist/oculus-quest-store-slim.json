@@ -2694,17 +2694,21 @@
 			"canonicalName": "resolution-games-cooking-game-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "728714997675226",
+				"end_time": 1635145200,
+				"show_timer": true,
+				"id": "552278345846124",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1599145222,
@@ -4926,21 +4930,17 @@
 			"canonicalName": "the-munky-llc-drunkn-bar-fight-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1635058800,
-				"show_timer": true,
-				"id": "1201392630370101",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "240058170360692",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1099",
-					"formatted": "$10.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1699",
 					"formatted": "$16.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1568307600,
