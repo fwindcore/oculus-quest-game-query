@@ -1,6 +1,126 @@
 {
-	"count": 299,
+	"count": 302,
 	"edges": [
+		{
+			"id": "6126469507395223",
+			"canonicalName": "oculus-facebook-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "466341068071167",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1635440675,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Facebook (Beta)",
+			"is_concept": false
+		},
+		{
+			"id": "6102857836422862",
+			"canonicalName": "oculus-instagram-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "212724284305600",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1635440613,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Instagram (Beta)",
+			"is_concept": false
+		},
+		{
+			"id": "4949538568409451",
+			"canonicalName": "spikeapp-inc-spike-email-mail-team-chat-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1269479766847481",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1635440537,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Spike Email - Mail & Team Chat",
+			"is_concept": false
+		},
+		{
+			"id": "4636949963023496",
+			"canonicalName": "smartsheet-inc-smartsheet-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1751600461716980",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1635440498,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Smartsheet",
+			"is_concept": false
+		},
+		{
+			"id": "4243111539050423",
+			"canonicalName": "cvr-project-terminus-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1396693114080768",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1635440437,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Project TERMINUS VR",
+			"is_concept": false
+		},
 		{
 			"id": "4714094898617280",
 			"canonicalName": "vertigo-anotherway-unplugged-android6d0f",
@@ -1410,17 +1530,21 @@
 			"canonicalName": "xr-games-ltd-zombieland-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "249915420127241",
+				"end_time": 1635577200,
+				"show_timer": true,
+				"id": "676017456707623",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1616691548,
@@ -2834,7 +2958,7 @@
 			"release_date": 1597345247,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Venues (Beta Early Access)",
+			"display_name": "Horizon Venues",
 			"is_concept": false
 		},
 		{
@@ -4410,30 +4534,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "1917371471713228",
-			"canonicalName": "tender-claws-the-under-presents-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "725378238277947",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1574186145,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "The Under Presents",
-			"is_concept": false
-		},
-		{
 			"id": "2917608654922903",
 			"canonicalName": "spicy-tails-vr-android6d0f",
 			"current_offer": {
@@ -4534,21 +4634,17 @@
 			"canonicalName": "kluge-interactive-synth-riders-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1635490800,
-				"show_timer": true,
-				"id": "252007640071551",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "267959407837991",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1799",
-					"formatted": "$17.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-28%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1572541200,
@@ -7203,30 +7299,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "PokerStars VR",
-			"is_concept": false
-		},
-		{
-			"id": "2002317119880945",
-			"canonicalName": "google-llc-youtube-vr-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2055628267881344",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1557942300,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "YouTube VR",
 			"is_concept": false
 		},
 		{
