@@ -1530,21 +1530,17 @@
 			"canonicalName": "xr-games-ltd-zombieland-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1635577200,
-				"show_timer": true,
-				"id": "676017456707623",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "249915420127241",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1616691548,
@@ -4654,30 +4650,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "3008315795852749",
-			"canonicalName": "ian-fitz-the-thrill-of-the-fight-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "942251462776233",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1571936400,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "The Thrill of the Fight",
-			"is_concept": false
-		},
-		{
 			"id": "2567395559960697",
 			"canonicalName": "metanaut-labs-inc-gadgeteer-android6d0f",
 			"current_offer": {
@@ -5111,6 +5083,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Real VR Fishing",
+			"is_concept": false
+		},
+		{
+			"id": "2325731427501921",
+			"canonicalName": "wenkly-studio-sp-z-o-o-elven-assassin-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "714225452429180",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1567702800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Elven Assassin",
 			"is_concept": false
 		},
 		{
@@ -6558,17 +6554,21 @@
 			"canonicalName": "legionvr-llc-the-exorcist-legion-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "340092353357409",
+				"end_time": 1635663600,
+				"show_timer": true,
+				"id": "557334058885755",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-28%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
