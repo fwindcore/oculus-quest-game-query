@@ -1,5 +1,5 @@
 {
-	"count": 302,
+	"count": 299,
 	"edges": [
 		{
 			"id": "6126469507395223",
@@ -1674,17 +1674,21 @@
 			"canonicalName": "lac-games-crashland-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1635750000,
 				"show_timer": false,
-				"id": "346066483266261",
+				"id": "296080765398684",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1614275927,
@@ -3003,30 +3007,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Onward",
-			"is_concept": false
-		},
-		{
-			"id": "2334376869949242",
-			"canonicalName": "superbright-vr-in-death-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "960492611133074",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1595523652,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "In Death: Unchained",
 			"is_concept": false
 		},
 		{
@@ -5662,30 +5642,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2299215130112875",
-			"canonicalName": "mixed-realms-pte-ltd-sairento-vr-untethered-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1242662542582522",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1561654800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Sairento VR : Untethered",
-			"is_concept": false
-		},
-		{
 			"id": "2033429253367669",
 			"canonicalName": "funktronic-labs-fuji-quest-android6d0f",
 			"current_offer": {
@@ -6554,21 +6510,17 @@
 			"canonicalName": "legionvr-llc-the-exorcist-legion-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1635663600,
-				"show_timer": true,
-				"id": "557334058885755",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "340092353357409",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1799",
-					"formatted": "$17.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-28%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6843,30 +6795,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Moss",
-			"is_concept": false
-		},
-		{
-			"id": "1611681078875316",
-			"canonicalName": "high-voltage-software-inc-crossbow-gearvr",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "631665670666206",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558458000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Ballista",
 			"is_concept": false
 		},
 		{
