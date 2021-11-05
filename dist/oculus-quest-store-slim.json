@@ -1,6 +1,30 @@
 {
-	"count": 294,
+	"count": 295,
 	"edges": [
+		{
+			"id": "4148745208478773",
+			"canonicalName": "peanut-button-the-secret-of-retropolis-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "188658530097787",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1636045160,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "The Secret of Retropolis",
+			"is_concept": false
+		},
 		{
 			"id": "6126469507395223",
 			"canonicalName": "oculus-facebook-android6d0f",
@@ -1638,17 +1662,21 @@
 			"canonicalName": "monte-perdido-studio-vanishing-grace-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1636653600,
 				"show_timer": false,
-				"id": "249227783442995",
+				"id": "1240011786497675",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1613066439,
@@ -5862,17 +5890,21 @@
 			"canonicalName": "resolution-games-angry-birds-vr-isle-of-pigs-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2326830277411457",
+				"end_time": 1636182000,
+				"show_timer": true,
+				"id": "619462192427597",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1149",
+					"formatted": "$11.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-23%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -5886,21 +5918,17 @@
 			"canonicalName": "john-carline-nature-treks-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1636095600,
-				"show_timer": true,
-				"id": "405075357781471",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2471673599744199",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
