@@ -1,5 +1,5 @@
 {
-	"count": 290,
+	"count": 289,
 	"edges": [
 		{
 			"id": "4148745208478773",
@@ -654,21 +654,17 @@
 			"canonicalName": "rezzil-rezzil-player-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1636617600,
-				"show_timer": true,
-				"id": "838824353461272",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "267061071543354",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1349",
-					"formatted": "$13.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1628614773,
@@ -3103,30 +3099,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Trover Saves the Universe",
-			"is_concept": false
-		},
-		{
-			"id": "2833307773392914",
-			"canonicalName": "felix-and-paul-studios-cirque-du-soleil-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "310878506743022",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1592499598,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Cirque du Soleil",
 			"is_concept": false
 		},
 		{
@@ -6350,17 +6322,21 @@
 			"canonicalName": "turtle-rock-studios-face-your-fears-2",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2264692813785026",
+				"end_time": 1636704000,
+				"show_timer": true,
+				"id": "570641860712952",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1599",
+					"formatted": "$15.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
