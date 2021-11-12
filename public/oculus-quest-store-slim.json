@@ -1,6 +1,78 @@
 {
-	"count": 289,
+	"count": 291,
 	"edges": [
+		{
+			"id": "3683568971682157",
+			"canonicalName": "the-binary-mill-resist-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "275236094612627",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1636653636,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Resist",
+			"is_concept": false
+		},
+		{
+			"id": "3697657733661230",
+			"canonicalName": "teravision-games-captain-toonhead-vs-the-punks-from-outer-space-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "604750577341827",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1636653631,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Captain ToonHead vs The Punks from Outer Space",
+			"is_concept": false
+		},
+		{
+			"id": "3899112273551602",
+			"canonicalName": "tvori-shapes-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "571145954169062",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1636653568,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "ShapesXR",
+			"is_concept": false
+		},
 		{
 			"id": "4148745208478773",
 			"canonicalName": "peanut-button-the-secret-of-retropolis-android6d0f",
@@ -1662,21 +1734,17 @@
 			"canonicalName": "monte-perdido-studio-vanishing-grace-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1636653600,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "1240011786497675",
+				"id": "249227783442995",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-40%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1613066439,
@@ -3966,30 +4034,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2736496286381191",
-			"canonicalName": "things3d-ltd-radial-g-proteus-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "194216482004606",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1576605623,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Radial-G: Proteus",
-			"is_concept": false
-		},
-		{
 			"id": "2507216576060698",
 			"canonicalName": "ubisoft-montreal-stbc-quest-android6d0f",
 			"current_offer": {
@@ -6010,17 +6054,21 @@
 			"canonicalName": "llyr-ap-cenydd-ocean-rift-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "955602868164671",
+				"end_time": 1636790400,
+				"show_timer": true,
+				"id": "284971180022147",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6322,21 +6370,17 @@
 			"canonicalName": "turtle-rock-studios-face-your-fears-2",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1636704000,
-				"show_timer": true,
-				"id": "570641860712952",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2264692813785026",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
