@@ -214,7 +214,7 @@
 			"release_date": 1634824689,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Unplugged",
+			"display_name": "Unplugged: Air Guitar ",
 			"is_concept": false
 		},
 		{
@@ -815,30 +815,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Warplanes: WW1 Fighters",
-			"is_concept": false
-		},
-		{
-			"id": "2886115781495034",
-			"canonicalName": "arvore-immersive-experiences-yuki-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "545119760177983",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1626800425,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "YUKI",
 			"is_concept": false
 		},
 		{
@@ -1518,17 +1494,21 @@
 			"canonicalName": "holonautic-hand-physics-lab-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "947704252703236",
+				"end_time": 1636876800,
+				"show_timer": true,
+				"id": "188408796794730",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1617296381,
@@ -3023,6 +3003,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "MLB VR",
+			"is_concept": false
+		},
+		{
+			"id": "3159481670763523",
+			"canonicalName": "force-field-coaster-combat-quest-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "585594045681037",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1594918808,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Coaster Combat",
 			"is_concept": false
 		},
 		{
@@ -6054,21 +6058,17 @@
 			"canonicalName": "llyr-ap-cenydd-ocean-rift-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1636790400,
-				"show_timer": true,
-				"id": "284971180022147",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "955602868164671",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
