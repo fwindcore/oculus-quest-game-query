@@ -1,5 +1,5 @@
 {
-	"count": 288,
+	"count": 290,
 	"edges": [
 		{
 			"id": "3683568971682157",
@@ -959,6 +959,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "TOTALLY BASEBALL",
+			"is_concept": false
+		},
+		{
+			"id": "3414062495337180",
+			"canonicalName": "jungle-games-llc-tarzan-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1423398274719957",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1625158846,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Tarzan VR™",
 			"is_concept": false
 		},
 		{
@@ -2135,6 +2159,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Wolves in the Walls",
+			"is_concept": false
+		},
+		{
+			"id": "3484270071659289",
+			"canonicalName": "ilmxlab-tales-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "211173747259997",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1605790503,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Star Wars: Tales from the Galaxy's Edge",
 			"is_concept": false
 		},
 		{
@@ -3534,17 +3582,21 @@
 			"canonicalName": "mirowin-guns-n-stories-bulletproof-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "202687091016031",
+				"end_time": 1637049600,
+				"show_timer": true,
+				"id": "312542214032645",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1585846740,
@@ -4902,21 +4954,17 @@
 			"canonicalName": "resolution-games-acron-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1636963200,
-				"show_timer": true,
-				"id": "376627614143522",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "439796413544317",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
