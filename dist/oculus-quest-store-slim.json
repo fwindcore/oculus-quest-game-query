@@ -1038,17 +1038,21 @@
 			"canonicalName": "white-noise-studios-eternal-starlight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1439407609762721",
+				"end_time": 1637136000,
+				"show_timer": true,
+				"id": "1149926045536468",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-10%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1623949222,
@@ -3582,21 +3586,17 @@
 			"canonicalName": "mirowin-guns-n-stories-bulletproof-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1637049600,
-				"show_timer": true,
-				"id": "312542214032645",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "202687091016031",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1585846740,
