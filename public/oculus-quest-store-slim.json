@@ -4398,21 +4398,17 @@
 			"canonicalName": "cloudhead-games-ltd-pistol-whip-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1637222400,
-				"show_timer": true,
-				"id": "948756772664347",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "525224591891970",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2399",
-					"formatted": "$23.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1573149600,
@@ -6370,17 +6366,21 @@
 			"canonicalName": "the-binary-mill-rush-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "445117132904572",
+				"end_time": 1637308800,
+				"show_timer": true,
+				"id": "571091717300719",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
