@@ -1,6 +1,34 @@
 {
-	"count": 288,
+	"count": 286,
 	"edges": [
+		{
+			"id": "2160364850746031",
+			"canonicalName": "vertigo-games-snowbreed-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1639072800,
+				"show_timer": false,
+				"id": "683636945908392",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "3599",
+					"formatted": "$35.99"
+				},
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "3999",
+					"formatted": "$39.99"
+				},
+				"promo_benefit": "-10%"
+			},
+			"current_trial_offer": null,
+			"release_date": 1639072855,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "After the Fall® Launch edition",
+			"is_concept": false
+		},
 		{
 			"id": "3683568971682157",
 			"canonicalName": "the-binary-mill-resist-android6d0f",
@@ -191,30 +219,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Smartsheet",
-			"is_concept": false
-		},
-		{
-			"id": "4714094898617280",
-			"canonicalName": "vertigo-anotherway-unplugged-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "288331879782326",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1634824689,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Unplugged: Air Guitar ",
 			"is_concept": false
 		},
 		{
@@ -1175,30 +1179,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Puzzle Bobble VR: Vacation Odyssey",
-			"is_concept": false
-		},
-		{
-			"id": "3422717251188752",
-			"canonicalName": "blueplanet-vr-blueplanet-vr-explore-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "747765162572311",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1621529942,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Blueplanet VR Explore",
 			"is_concept": false
 		},
 		{
@@ -3238,7 +3218,7 @@
 			"release_date": 1590685226,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Topgolf with Pro Putt",
+			"display_name": "GOLF+",
 			"is_concept": false
 		},
 		{
@@ -3342,17 +3322,21 @@
 			"canonicalName": "andromeda-entertainment-audio-trip-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1057827231277348",
+				"end_time": 1637395200,
+				"show_timer": true,
+				"id": "234690325315115",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1588870755,
@@ -4994,30 +4978,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "1951863938215666",
-			"canonicalName": "escapist-games-ltd-star-chart-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2409222882500715",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1566493200,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Star Chart",
-			"is_concept": false
-		},
-		{
 			"id": "2180753588712484",
 			"canonicalName": "vertical-robot-red-matter-android6d0f",
 			"current_offer": {
@@ -6366,21 +6326,17 @@
 			"canonicalName": "the-binary-mill-rush-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1637308800,
-				"show_timer": true,
-				"id": "571091717300719",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "445117132904572",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
