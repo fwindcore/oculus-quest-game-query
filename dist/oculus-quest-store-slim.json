@@ -3322,21 +3322,17 @@
 			"canonicalName": "andromeda-entertainment-audio-trip-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1637395200,
-				"show_timer": true,
-				"id": "234690325315115",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1057827231277348",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1588870755,
@@ -6062,17 +6058,21 @@
 			"canonicalName": "force-field-explore-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1159904390837974",
+				"end_time": 1637481600,
+				"show_timer": true,
+				"id": "226169356279396",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "749",
+					"formatted": "$7.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
