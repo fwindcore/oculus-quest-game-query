@@ -2938,17 +2938,21 @@
 			"canonicalName": "force-field-coaster-combat-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "585594045681037",
+				"end_time": 1637568000,
+				"show_timer": true,
+				"id": "576121360158207",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "749",
+					"formatted": "$7.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1594918808,
@@ -6058,21 +6062,17 @@
 			"canonicalName": "force-field-explore-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1637481600,
-				"show_timer": true,
-				"id": "226169356279396",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1159904390837974",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "749",
-					"formatted": "$7.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
