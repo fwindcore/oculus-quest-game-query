@@ -1,5 +1,5 @@
 {
-	"count": 285,
+	"count": 286,
 	"edges": [
 		{
 			"id": "2160364850746031",
@@ -267,6 +267,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Spacefolk City",
+			"is_concept": false
+		},
+		{
+			"id": "3385318684883998",
+			"canonicalName": "cubicle-ninjas-guided-meditation-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "216502397107054",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634823054,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Guided Meditation VR",
 			"is_concept": false
 		},
 		{
@@ -2698,17 +2722,21 @@
 			"canonicalName": "frozen-district-houseflipper-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "757386551765675",
+				"end_time": 1637827200,
+				"show_timer": true,
+				"id": "208808977931698",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1049",
+					"formatted": "$10.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1598547600,
@@ -2722,21 +2750,17 @@
 			"canonicalName": "mark-schramm-gravity-lab",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1637740800,
-				"show_timer": true,
-				"id": "3002357286746395",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "310095196742773",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-13%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1597942832,
