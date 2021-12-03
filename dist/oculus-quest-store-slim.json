@@ -1,5 +1,5 @@
 {
-	"count": 280,
+	"count": 281,
 	"edges": [
 		{
 			"id": "2160364850746031",
@@ -27,6 +27,54 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "After the Fall® Launch edition",
+			"is_concept": false
+		},
+		{
+			"id": "3488568914506549",
+			"canonicalName": "kiteretsu-inc-dev-quest-vr-zookeeper-world-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "483328076312975",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1638489592,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "ZOOKEEPER : Blast Quest",
+			"is_concept": false
+		},
+		{
+			"id": "3630025217090808",
+			"canonicalName": "potamworks-smash-drums-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "600994874348594",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1638465926,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Smash Drums",
 			"is_concept": false
 		},
 		{
@@ -987,30 +1035,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Chess Club",
-			"is_concept": false
-		},
-		{
-			"id": "1918967004876383",
-			"canonicalName": "white-noise-studios-eternal-starlight-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1439407609762721",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1623949222,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Eternal Starlight",
 			"is_concept": false
 		},
 		{
@@ -4426,17 +4450,21 @@
 			"canonicalName": "white-door-games-dreadhalls-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "945005472515160",
+				"end_time": 1638604800,
+				"show_timer": true,
+				"id": "375526057653376",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "749",
+					"formatted": "$7.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1570122000,
@@ -4714,21 +4742,17 @@
 			"canonicalName": "wenkly-studio-sp-z-o-o-elven-assassin-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1638518400,
-				"show_timer": true,
-				"id": "2950946061901644",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "714225452429180",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1124",
-					"formatted": "$11.24"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567702800,
