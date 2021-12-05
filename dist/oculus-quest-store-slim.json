@@ -3058,17 +3058,21 @@
 			"canonicalName": "sadetta-premium-bowling-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "251571362850123",
+				"end_time": 1638777600,
+				"show_timer": true,
+				"id": "694790134833046",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1591290033,
@@ -3946,21 +3950,17 @@
 			"canonicalName": "fallen-planet-studios-affected-the-manor-quest-release-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1638691200,
-				"show_timer": true,
-				"id": "599194501419689",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "496074997929093",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1576173626,
