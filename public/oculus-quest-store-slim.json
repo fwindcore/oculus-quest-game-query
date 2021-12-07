@@ -4762,21 +4762,17 @@
 			"canonicalName": "justin-wasilenko-end-space-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1638864000,
-				"show_timer": true,
-				"id": "1115088869300290",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2436416159756856",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1049",
-					"formatted": "$10.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
@@ -5654,17 +5650,21 @@
 			"canonicalName": "john-carline-nature-treks-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2471673599744199",
+				"end_time": 1638950400,
+				"show_timer": true,
+				"id": "709928476644822",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
