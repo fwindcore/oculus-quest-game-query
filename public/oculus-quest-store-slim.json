@@ -1,5 +1,5 @@
 {
-	"count": 281,
+	"count": 279,
 	"edges": [
 		{
 			"id": "2160364850746031",
@@ -27,6 +27,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "After the Fall® Launch edition",
+			"is_concept": false
+		},
+		{
+			"id": "4847484705291911",
+			"canonicalName": "abrams-studios-llc-morels-homestead-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "242741591096194",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1638899971,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Morels: Homestead",
 			"is_concept": false
 		},
 		{
@@ -2622,30 +2646,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2540541942723653",
-			"canonicalName": "frozen-district-houseflipper-vr-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "757386551765675",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1598547600,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "HouseFlipper VR",
-			"is_concept": false
-		},
-		{
 			"id": "2004328649624954",
 			"canonicalName": "mark-schramm-gravity-lab",
 			"current_offer": {
@@ -3702,30 +3702,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2615129151844974",
-			"canonicalName": "armature-studio-fail-factory-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "584205455755986",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "499",
-					"formatted": "$4.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1579197626,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Fail Factory!",
-			"is_concept": false
-		},
-		{
 			"id": "1976071352472244",
 			"canonicalName": "future-tech-labs-limited-multiverse-android6d0f",
 			"current_offer": {
@@ -3870,45 +3846,25 @@
 			"is_concept": false
 		},
 		{
-			"id": "2507216576060698",
-			"canonicalName": "ubisoft-montreal-stbc-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1266447990230747",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1576519253,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Star Trek: Bridge Crew",
-			"is_concept": false
-		},
-		{
 			"id": "2032870023439846",
 			"canonicalName": "twisted-pixel-games-path-of-the-warrior-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "842830819485437",
+				"end_time": 1639036800,
+				"show_timer": true,
+				"id": "369891824936737",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1576206955,
@@ -5650,21 +5606,17 @@
 			"canonicalName": "john-carline-nature-treks-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1638950400,
-				"show_timer": true,
-				"id": "709928476644822",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2471673599744199",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
