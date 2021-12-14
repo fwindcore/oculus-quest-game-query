@@ -1,5 +1,5 @@
 {
-	"count": 277,
+	"count": 275,
 	"edges": [
 		{
 			"id": "4847484705291911",
@@ -527,30 +527,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Clash of Chefs VR",
-			"is_concept": false
-		},
-		{
-			"id": "3327842470656115",
-			"canonicalName": "tunermaxx-rise-of-the-rainbow-reactor-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "362313662217569",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1631811608,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Rainbow Reactor: Fusion",
 			"is_concept": false
 		},
 		{
@@ -1230,17 +1206,21 @@
 			"canonicalName": "carbon-studio-the-wizards-dark-times-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "158736046103545",
+				"end_time": 1639555200,
+				"show_timer": true,
+				"id": "407657127720801",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1599",
+					"formatted": "$15.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-36%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1620320399,
@@ -4418,34 +4398,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2115015981923610",
-			"canonicalName": "dream-dev-studio-llp-death-horizon-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1640581140,
-				"show_timer": true,
-				"id": "898498740870101",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"promo_benefit": "-35%"
-			},
-			"current_trial_offer": null,
-			"release_date": 1569517200,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Death Horizon: Reloaded",
-			"is_concept": false
-		},
-		{
 			"id": "2223615721048141",
 			"canonicalName": "ilmxlab-vader-immortal-episode-ii-android6d0f",
 			"current_offer": {
@@ -5986,21 +5938,17 @@
 			"canonicalName": "drifter-entertainment-robo-recall-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1639468800,
-				"show_timer": true,
-				"id": "585932082473991",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "389959558270381",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -6627,7 +6575,7 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1558112443,
+			"release_date": 1558112383,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "PokerStars VR",
