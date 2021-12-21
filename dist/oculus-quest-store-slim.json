@@ -4210,17 +4210,21 @@
 			"canonicalName": "cortopia-studios-down-the-rabbit-hole-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "859206244554225",
+				"end_time": 1640160000,
+				"show_timer": true,
+				"id": "1131704864310624",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1585206005,
@@ -6074,7 +6078,7 @@
 			"release_date": 1562950800,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Mission: ISS",
+			"display_name": "Mission: ISS: Quest",
 			"is_concept": false
 		},
 		{
@@ -6346,21 +6350,17 @@
 			"canonicalName": "gumi-swords-of-gargantua-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1640073600,
-				"show_timer": true,
-				"id": "4661191310639892",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4509128709129262",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-36%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1559840400,
