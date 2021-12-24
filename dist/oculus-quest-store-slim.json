@@ -2722,17 +2722,21 @@
 			"canonicalName": "skydance-interactive-the-walking-dead-saints-sinners-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "462318708054255",
+				"end_time": 1640419200,
+				"show_timer": true,
+				"id": "429665945374050",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2599",
+					"formatted": "$25.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "3999",
 					"formatted": "$39.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1602608400,
@@ -5654,21 +5658,17 @@
 			"canonicalName": "resolution-games-acron-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1640332800,
-				"show_timer": true,
-				"id": "946257096001158",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "439796413544317",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
