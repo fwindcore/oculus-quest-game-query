@@ -5302,17 +5302,21 @@
 			"canonicalName": "ian-fitz-the-thrill-of-the-fight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "942251462776233",
+				"end_time": 1640592000,
+				"show_timer": true,
+				"id": "234775351951678",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "599",
+					"formatted": "$5.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1571936400,
@@ -6774,21 +6778,17 @@
 			"canonicalName": "superhot-superhot-qa-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1640505600,
-				"show_timer": true,
-				"id": "630520598377814",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1857145674400646",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1749",
-					"formatted": "$17.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558459200,
