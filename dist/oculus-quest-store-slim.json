@@ -1,5 +1,5 @@
 {
-	"count": 332,
+	"count": 333,
 	"edges": [
 		{
 			"id": "5017282864962127",
@@ -1706,21 +1706,17 @@
 			"canonicalName": "sketchbox-swarm-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1640764800,
-				"show_timer": true,
-				"id": "647715919735060",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "358088898847324",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1617901212,
@@ -3686,17 +3682,21 @@
 			"canonicalName": "squanch-games-inc-trover-saves-the-universe-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "627470728181494",
+				"end_time": 1640851200,
+				"show_timer": true,
+				"id": "459922815627893",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2399",
+					"formatted": "$23.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1592499645,
@@ -7719,6 +7719,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Red Bull TV",
+			"is_concept": false
+		},
+		{
+			"id": "2063931653705427",
+			"canonicalName": "skybox-studio-skybox-vr-video-player-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "224140832702903",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1558456200,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "SKYBOX VR 视频播放器",
 			"is_concept": false
 		},
 		{
