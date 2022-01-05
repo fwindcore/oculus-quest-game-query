@@ -1370,7 +1370,7 @@
 			"release_date": 1623340238,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Villa: Immersive Workforce Collaboration Platform",
+			"display_name": "Villa: Metaverse & NFT Collaboration Platform",
 			"is_concept": false
 		},
 		{
@@ -1810,17 +1810,21 @@
 			"canonicalName": "xr-games-ltd-zombieland-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "249915420127241",
+				"end_time": 1641456000,
+				"show_timer": true,
+				"id": "981672315892771",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1616691548,
@@ -4910,21 +4914,17 @@
 			"canonicalName": "vertigo-games-a-fisherman-s-tale-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1641369600,
-				"show_timer": true,
-				"id": "976855516243492",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2459649440942540",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1574877640,
