@@ -1,6 +1,30 @@
 {
-	"count": 331,
+	"count": 334,
 	"edges": [
+		{
+			"id": "6148239151883485",
+			"canonicalName": "hoame-hoame-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "608120273824579",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1641492051,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Hoame",
+			"is_concept": false
+		},
 		{
 			"id": "5017282864962127",
 			"canonicalName": "miro-infinite-canvas-miro-android6d0f",
@@ -750,21 +774,17 @@
 			"canonicalName": "brink-xr-brink-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1641542400,
-				"show_timer": true,
-				"id": "284252127084292",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "278433146999854",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "849",
-					"formatted": "$8.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-15%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1631206787,
@@ -842,7 +862,7 @@
 			"release_date": 1629997107,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Mondly: Practice Languages in VR",
+			"display_name": "Mondly：在VR中练习语言",
 			"is_concept": false
 		},
 		{
@@ -1395,6 +1415,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Stones Of Harlath",
+			"is_concept": false
+		},
+		{
+			"id": "3317083428365473",
+			"canonicalName": "vitei-backroom-powder-quest-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "765928590771035",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1622134775,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Carve Snowboarding",
 			"is_concept": false
 		},
 		{
@@ -5218,17 +5262,21 @@
 			"canonicalName": "infectious-ape-kingspray-graffiti-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "750017302089805",
+				"end_time": 1641628800,
+				"show_timer": true,
+				"id": "350926493080205",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1571320800,
@@ -5475,6 +5523,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "天境：王国乱斗",
+			"is_concept": false
+		},
+		{
+			"id": "2221553561229188",
+			"canonicalName": "the-munky-llc-drunkn-bar-fight-quest-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "240058170360692",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1699",
+					"formatted": "$16.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1568307600,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Drunkn Bar Fight",
 			"is_concept": false
 		},
 		{
