@@ -146,6 +146,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "3630025217090808",
+			"canonicalName": "potamworks-smash-drums-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "600994874348594",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1638465926,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Smash Drums",
+			"is_concept": false
+		},
+		{
 			"id": "3683568971682157",
 			"canonicalName": "the-binary-mill-resist-android6d0f",
 			"current_offer": {
@@ -1319,30 +1343,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Larcenauts",
-			"is_concept": false
-		},
-		{
-			"id": "3630025217090808",
-			"canonicalName": "potamworks-smash-drums-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "600994874348594",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1623947126,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Smash Drums",
 			"is_concept": false
 		},
 		{
@@ -4734,17 +4734,21 @@
 			"canonicalName": "fallen-planet-studios-affected-the-manor-quest-release-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "496074997929093",
+				"end_time": 1642060740,
+				"show_timer": true,
+				"id": "945627639402040",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "749",
+					"formatted": "$7.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1576173626,
@@ -5646,21 +5650,17 @@
 			"canonicalName": "justin-wasilenko-end-space-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1641974340,
-				"show_timer": true,
-				"id": "291948912877650",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2436416159756856",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1149",
-					"formatted": "$11.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-23%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
