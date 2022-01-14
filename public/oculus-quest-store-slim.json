@@ -2,6 +2,30 @@
 	"count": 334,
 	"edges": [
 		{
+			"id": "5352920984748732",
+			"canonicalName": "grab-games-final-space-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4580910805318885",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1642096769,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Final Space VR - The Rescue",
+			"is_concept": false
+		},
+		{
 			"id": "6148239151883485",
 			"canonicalName": "hoame-hoame-android6d0f",
 			"current_offer": {
@@ -702,17 +726,21 @@
 			"canonicalName": "flat-hill-games-clash-of-chefs-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "441923720364049",
+				"end_time": 1642233540,
+				"show_timer": true,
+				"id": "710544353719629",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1699",
+					"formatted": "$16.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-15%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1631811621,
@@ -2111,30 +2139,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Glue",
-			"is_concept": false
-		},
-		{
-			"id": "3882524545155280",
-			"canonicalName": "experiment-7-catan-vr-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "166047528399884",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1612461614,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Catan VR",
 			"is_concept": false
 		},
 		{
@@ -5910,21 +5914,17 @@
 			"canonicalName": "forwardxp-please-don-t-touch-anything-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1642147140,
-				"show_timer": true,
-				"id": "4691424707610299",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "372840690322438",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1564074000,
