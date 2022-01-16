@@ -1470,17 +1470,21 @@
 			"canonicalName": "forevr-games-inc-forevr-bowl-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "479948803218377",
+				"end_time": 1642406340,
+				"show_timer": true,
+				"id": "305922374772582",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1699",
+					"formatted": "$16.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-15%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1622134715,
@@ -3774,21 +3778,17 @@
 			"canonicalName": "sadetta-premium-bowling-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1642319940,
-				"show_timer": true,
-				"id": "1268211060355557",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "251571362850123",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1591290033,
