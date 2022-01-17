@@ -1470,21 +1470,17 @@
 			"canonicalName": "forevr-games-inc-forevr-bowl-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1642406340,
-				"show_timer": true,
-				"id": "305922374772582",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "479948803218377",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1699",
-					"formatted": "$16.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-15%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1622134715,
@@ -7402,17 +7398,21 @@
 			"canonicalName": "turtle-rock-studios-grappa",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "660513194378164",
+				"end_time": 1642492740,
+				"show_timer": true,
+				"id": "626392268691611",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2099",
+					"formatted": "$20.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
