@@ -2958,14 +2958,14 @@
 			"canonicalName": "resolution-games-ignis-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1642438800,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "368072897669349",
+				"id": "451503106659864",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "1999",
+					"formatted": "$19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3942,17 +3942,21 @@
 			"canonicalName": "the-binary-mill-mini-motor-racing-x-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "4710506298968065",
+				"end_time": 1642579200,
+				"show_timer": true,
+				"id": "3104286266496904",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1589475600,
@@ -7398,21 +7402,17 @@
 			"canonicalName": "turtle-rock-studios-grappa",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1642492740,
-				"show_timer": true,
-				"id": "626392268691611",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "660513194378164",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
