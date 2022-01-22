@@ -5410,17 +5410,21 @@
 			"canonicalName": "dream-dev-studio-llp-death-horizon-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2568845266507864",
+				"end_time": 1642924800,
+				"show_timer": true,
+				"id": "625891411863090",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1569517200,
@@ -7090,21 +7094,17 @@
 			"canonicalName": "tender-claws-virtual-virtual-reality-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1642838340,
-				"show_timer": true,
-				"id": "3151610341829576",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2342599542685496",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1049",
-					"formatted": "$10.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
