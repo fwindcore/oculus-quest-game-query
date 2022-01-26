@@ -490,17 +490,21 @@
 			"canonicalName": "vertigo-anotherway-unplugged-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "288331879782326",
+				"end_time": 1643270340,
+				"show_timer": true,
+				"id": "968667740416167",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2249",
+					"formatted": "$22.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-10%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1634824689,
@@ -514,21 +518,17 @@
 			"canonicalName": "wanadev-ragnarock-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1643183940,
-				"show_timer": true,
-				"id": "446561193843247",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "284047847056752",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2249",
-					"formatted": "$22.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1634824671,
