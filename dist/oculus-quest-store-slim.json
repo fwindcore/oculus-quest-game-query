@@ -1,32 +1,76 @@
 {
-	"count": 338,
+	"count": 340,
 	"edges": [
 		{
 			"id": "3594982710558708",
 			"canonicalName": "ramen-vr-zenith-quest-edition-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1643306340,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "260355496220818",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"id": "633936461365575",
+				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1643306354,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Zenith: The Last City",
+			"is_concept": false
+		},
+		{
+			"id": "4584847304916084",
+			"canonicalName": "schell-games-lost-recipes-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "648851656250844",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1643306300,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Lost Recipes",
+			"is_concept": false
+		},
+		{
+			"id": "3438333449611263",
+			"canonicalName": "rendever-multibrush-by-rendever-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4899405606821177",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1643306249,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "MultiBrush",
 			"is_concept": false
 		},
 		{
@@ -706,21 +750,17 @@
 			"canonicalName": "17-bit-song-in-the-smoke-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1643356740,
-				"show_timer": true,
-				"id": "2876224929336362",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "603738637645765",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1633611622,
@@ -2534,14 +2574,14 @@
 			"canonicalName": "pixel-toys-ltd-sisters-of-battle-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1643306400,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "1572009803001517",
+				"id": "974883400126870",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "1999",
+					"formatted": "$19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5510,17 +5550,21 @@
 			"canonicalName": "mekiwi-cave-digger-riches-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "601344693731687",
+				"end_time": 1643911200,
+				"show_timer": true,
+				"id": "479869626832484",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-50%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1568912400,
@@ -5774,17 +5818,21 @@
 			"canonicalName": "resolution-games-acron-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "439796413544317",
+				"end_time": 1643443140,
+				"show_timer": true,
+				"id": "276265544415763",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
