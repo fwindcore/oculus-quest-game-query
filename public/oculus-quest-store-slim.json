@@ -946,17 +946,21 @@
 			"canonicalName": "vrwerx-paranormal-activity-the-lost-soul-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "374335580933515",
+				"end_time": 1644566340,
+				"show_timer": true,
+				"id": "2073772942786821",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1699",
+					"formatted": "$16.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-15%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1631206840,
@@ -3802,21 +3806,17 @@
 			"canonicalName": "ndreams-phantom-quest",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1644479940,
-				"show_timer": true,
-				"id": "686053249444082",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4023780357664139",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1593104400,
