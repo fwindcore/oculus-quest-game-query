@@ -1,26 +1,22 @@
 {
-	"count": 341,
+	"count": 340,
 	"edges": [
 		{
 			"id": "2731491443600205",
 			"canonicalName": "tender-claws-scottsdale-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1644515940,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "341410987900717",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"id": "621253769170442",
+				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1644515969,
@@ -946,21 +942,17 @@
 			"canonicalName": "vrwerx-paranormal-activity-the-lost-soul-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1644566340,
-				"show_timer": true,
-				"id": "2073772942786821",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "374335580933515",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1699",
-					"formatted": "$16.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-15%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1631206840,
@@ -4686,7 +4678,7 @@
 			"release_date": 1578592808,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "2MD: VR Football Unleashed",
+			"display_name": "2MD: VR Football Unleashed Challengers Edition",
 			"is_concept": false
 		},
 		{
@@ -4831,30 +4823,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Radial-G: Proteus",
-			"is_concept": false
-		},
-		{
-			"id": "2507216576060698",
-			"canonicalName": "ubisoft-montreal-stbc-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1266447990230747",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1576519253,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Star Trek: Bridge Crew",
 			"is_concept": false
 		},
 		{
@@ -6806,17 +6774,21 @@
 			"canonicalName": "owlchemy-labs-job-simulator-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "364387984201195",
+				"end_time": 1644652740,
+				"show_timer": true,
+				"id": "612642236476899",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
