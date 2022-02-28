@@ -1834,17 +1834,21 @@
 			"canonicalName": "fast-travel-games-ab-jukebox-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "3936300303158776",
+				"end_time": 1646121540,
+				"show_timer": true,
+				"id": "985331352082399",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-33%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1619110800,
@@ -2366,21 +2370,17 @@
 			"canonicalName": "devolver-digital-gorn-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1646035140,
-				"show_timer": true,
-				"id": "654202019234564",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "225106665938732",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1611856857,
