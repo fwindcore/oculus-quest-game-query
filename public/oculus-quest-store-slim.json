@@ -2,31 +2,27 @@
 	"count": 341,
 	"edges": [
 		{
-			"id": "1968697563211639",
-			"canonicalName": "space-bullet-dynamics-corporation-vox-machinae-android6d0f",
+			"id": "4175028349266073",
+			"canonicalName": "liteboxer-technologies-inc-liteboxer-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1646330340,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "1193382111195129",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"id": "319547876820438",
+				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
+					"offset_amount": "0",
+					"formatted": "$0.00"
 				},
-				"strikethrough_price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1646330383,
+			"release_date": 1646330285,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Vox Machinae",
+			"display_name": "Liteboxer",
 			"is_concept": false
 		},
 		{
@@ -5126,21 +5122,17 @@
 			"canonicalName": "espire-vr-espire-1-vr-operative-quest-edition",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1646380740,
-				"show_timer": true,
-				"id": "368734394698466",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "494203047850877",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1574445659,
@@ -5804,12 +5796,12 @@
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "714225452429180",
+				"id": "375670547387556",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"offset_amount": "1999",
+					"formatted": "$19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7578,17 +7570,21 @@
 			"canonicalName": "the-binary-mill-rush-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "445117132904572",
+				"end_time": 1646467140,
+				"show_timer": true,
+				"id": "922224101795301",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
