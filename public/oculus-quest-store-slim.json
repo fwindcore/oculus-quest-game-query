@@ -1,5 +1,5 @@
 {
-	"count": 341,
+	"count": 342,
 	"edges": [
 		{
 			"id": "4705981139481778",
@@ -623,6 +623,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Project TERMINUS VR",
+			"is_concept": false
+		},
+		{
+			"id": "4714094898617280",
+			"canonicalName": "vertigo-anotherway-unplugged-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "288331879782326",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634824689,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Unplugged: Air Guitar ",
 			"is_concept": false
 		},
 		{
@@ -3202,21 +3226,17 @@
 			"canonicalName": "mighty-coconut-walkabout-mini-golf-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1647241140,
-				"show_timer": true,
-				"id": "257121833275289",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1701465653338830",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1049",
-					"formatted": "$10.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1600966832,
@@ -4430,21 +4450,17 @@
 			"canonicalName": "fireproof-games-the-room-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1647241140,
-				"show_timer": true,
-				"id": "317205097054281",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "538481366856917",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1585242000,
@@ -7602,17 +7618,21 @@
 			"canonicalName": "bit-planet-games-llc-ultrawings-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2074239079361872",
+				"end_time": 1647327540,
+				"show_timer": true,
+				"id": "1113987549420354",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "899",
+					"formatted": "$8.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
