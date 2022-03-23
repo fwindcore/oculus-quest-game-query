@@ -1,5 +1,5 @@
 {
-	"count": 345,
+	"count": 344,
 	"edges": [
 		{
 			"id": "2302319493201737",
@@ -990,17 +990,21 @@
 			"canonicalName": "flat-hill-games-clash-of-chefs-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "441923720364049",
+				"end_time": 1648105140,
+				"show_timer": true,
+				"id": "1092000185056339",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1599",
+					"formatted": "$15.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1631811621,
@@ -5334,21 +5338,17 @@
 			"canonicalName": "amata-k-k-ll-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1648018740,
-				"show_timer": true,
-				"id": "650283392846355",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1385489174994566",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1949",
-					"formatted": "$19.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1573570797,
@@ -7827,30 +7827,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Sports Scramble",
-			"is_concept": false
-		},
-		{
-			"id": "2703538566384665",
-			"canonicalName": "dish-sling-tv-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "406894420490587",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558456200,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Sling TV",
 			"is_concept": false
 		},
 		{
