@@ -3298,17 +3298,21 @@
 			"canonicalName": "mighty-coconut-walkabout-mini-golf-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1701465653338830",
+				"end_time": 1648796340,
+				"show_timer": true,
+				"id": "675090093807272",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1600966832,
@@ -3370,21 +3374,17 @@
 			"canonicalName": "thomas-van-bouwel-cubism-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1648709940,
-				"show_timer": true,
-				"id": "1465866190475910",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "747155319397834",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1600362000,
