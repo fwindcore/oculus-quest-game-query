@@ -1238,17 +1238,21 @@
 			"canonicalName": "realities-io-inc-puzzling-places-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "628770354755817",
+				"end_time": 1649314740,
+				"show_timer": true,
+				"id": "258742626354338",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1349",
+					"formatted": "$13.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-10%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1630601996,
@@ -2846,21 +2850,17 @@
 			"canonicalName": "trebuchet-prison-boss-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1649228340,
-				"show_timer": true,
-				"id": "1163263717769836",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "141652127381691",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1607018434,
