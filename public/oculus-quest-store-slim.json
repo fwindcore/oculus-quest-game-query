@@ -1642,17 +1642,21 @@
 			"canonicalName": "no-ghost-madrid-noir-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1650502800,
 				"show_timer": false,
-				"id": "322378256168336",
+				"id": "957529691621382",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "899",
 					"formatted": "$8.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-22%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1625158754,
@@ -1690,21 +1694,17 @@
 			"canonicalName": "white-noise-studios-eternal-starlight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1650351540,
-				"show_timer": true,
-				"id": "631732181328041",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1439407609762721",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1623949222,
@@ -8310,7 +8310,7 @@
 			"release_date": 1558422000,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Oculus Browser",
+			"display_name": "Meta Quest Browser",
 			"is_concept": false
 		},
 		{
