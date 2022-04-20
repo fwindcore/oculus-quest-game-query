@@ -1306,17 +1306,21 @@
 			"canonicalName": "schell-games-i-expect-you-to-die-2-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "517948356192745",
+				"end_time": 1650524340,
+				"show_timer": true,
+				"id": "694629011679943",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-28%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1629824333,
@@ -1642,7 +1646,7 @@
 			"canonicalName": "no-ghost-madrid-noir-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1650502800,
+				"end_time": 1650848400,
 				"show_timer": false,
 				"id": "957529691621382",
 				"offer_type": "APPSTORE_OFFER",
