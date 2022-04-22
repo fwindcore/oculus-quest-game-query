@@ -2058,17 +2058,21 @@
 			"canonicalName": "avex-technologies-inc-anicast-maker-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1652202000,
 				"show_timer": false,
-				"id": "379724129751422",
+				"id": "369838998537567",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-50%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1618531155,
@@ -5162,17 +5166,21 @@
 			"canonicalName": "owlchemy-labs-vacation-simulator-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "437820983551261",
+				"end_time": 1650697140,
+				"show_timer": true,
+				"id": "4920776304655026",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2099",
+					"formatted": "$20.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1576173643,
@@ -8310,21 +8318,17 @@
 			"canonicalName": "halfbrick-studios-pty-ltd-fruit-ninja-vr-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1650610740,
-				"show_timer": true,
-				"id": "357767069618725",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2378179619130177",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558422000,
