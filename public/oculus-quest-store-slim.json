@@ -5554,17 +5554,21 @@
 			"canonicalName": "cloudhead-games-ltd-pistol-whip-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "525224591891970",
+				"end_time": 1650869940,
+				"show_timer": true,
+				"id": "337726248333381",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2099",
+					"formatted": "$20.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1573149600,
@@ -7026,21 +7030,17 @@
 			"canonicalName": "superhot-superhot-qa-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1650783540,
-				"show_timer": true,
-				"id": "5736551623027201",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1857145674400646",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1799",
-					"formatted": "$17.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-28%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558459200,
