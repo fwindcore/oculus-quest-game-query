@@ -342,21 +342,17 @@
 			"canonicalName": "ozwe-anshar-2-hyperdrive-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1651733940,
-				"show_timer": true,
-				"id": "397286678566812",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "5028927300464602",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1799",
-					"formatted": "$17.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1642701579,
@@ -1082,7 +1078,7 @@
 			"release_date": 1632416458,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Rhythm of the Universe - Ionia",
+			"display_name": "Ionia",
 			"is_concept": false
 		},
 		{
@@ -5490,17 +5486,21 @@
 			"canonicalName": "kluge-interactive-synth-riders-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "267959407837991",
+				"end_time": 1651820340,
+				"show_timer": true,
+				"id": "520539602972524",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-28%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1572541200,
