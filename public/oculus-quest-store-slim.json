@@ -6202,17 +6202,21 @@
 			"canonicalName": "wenkly-studio-sp-z-o-o-elven-assassin-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "375670547387556",
+				"end_time": 1655276340,
+				"show_timer": true,
+				"id": "409239370812720",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1567702800,
