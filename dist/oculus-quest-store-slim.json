@@ -2290,17 +2290,21 @@
 			"canonicalName": "sketchbox-swarm-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "358088898847324",
+				"end_time": 1655362740,
+				"show_timer": true,
+				"id": "551908279813453",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-28%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1617901212,
@@ -6202,21 +6206,17 @@
 			"canonicalName": "wenkly-studio-sp-z-o-o-elven-assassin-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1655276340,
-				"show_timer": true,
-				"id": "409239370812720",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "375670547387556",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-25%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567702800,
