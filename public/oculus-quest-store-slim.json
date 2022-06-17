@@ -750,17 +750,21 @@
 			"canonicalName": "the-binary-mill-resist-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "275236094612627",
+				"end_time": 1655535540,
+				"show_timer": true,
+				"id": "428862351909674",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1699",
+					"formatted": "$16.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-15%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1636653636,
@@ -7738,21 +7742,17 @@
 			"canonicalName": "steel-crate-games-keep-talking-and-nobody-explodes-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1655449140,
-				"show_timer": true,
-				"id": "1615807132110904",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "452509162167015",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1099",
-					"formatted": "$10.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-26%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
