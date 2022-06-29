@@ -2,6 +2,30 @@
 	"count": 358,
 	"edges": [
 		{
+			"id": "4641557905931778",
+			"canonicalName": "meta-2d-vr-facebook-watch-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "755053592192335",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1656349118,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Facebook Watch",
+			"is_concept": false
+		},
+		{
 			"id": "3172399986210688",
 			"canonicalName": "winr-win-series-baseball-android6d0f",
 			"current_offer": {
@@ -4882,21 +4906,17 @@
 			"canonicalName": "lighthaus-inc-color-space-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1656399540,
-				"show_timer": true,
-				"id": "1300083330529407",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "217985742735092",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "849",
-					"formatted": "$8.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-15%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1584637174,
@@ -7002,17 +7022,21 @@
 			"canonicalName": "gumi-swords-of-gargantua-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "4509128709129262",
+				"end_time": 1656572340,
+				"show_timer": true,
+				"id": "1187806768685170",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-28%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1559840400,
@@ -8243,30 +8267,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "SKYBOX VR 视频播放器",
-			"is_concept": false
-		},
-		{
-			"id": "1790834284361209",
-			"canonicalName": "facebook-inc-facebook-watch",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1656349200,
-				"show_timer": false,
-				"id": "362103517772244",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558456200,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Facebook Watch",
 			"is_concept": false
 		},
 		{
