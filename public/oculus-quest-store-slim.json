@@ -1,6 +1,78 @@
 {
-	"count": 358,
+	"count": 361,
 	"edges": [
+		{
+			"id": "4828111867242479",
+			"canonicalName": "unity-reflect-team-reflect-review-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "586990776123604",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1656608376,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Reflect Review",
+			"is_concept": false
+		},
+		{
+			"id": "3637780062900902",
+			"canonicalName": "cortopia-studios-jaws-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1661721620894508",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1656608349,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "魔杖联盟",
+			"is_concept": false
+		},
+		{
+			"id": "3354247921293382",
+			"canonicalName": "samurai-punk-the-american-dream-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1204055687047016",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1656608339,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "The American Dream",
+			"is_concept": false
+		},
 		{
 			"id": "4641557905931778",
 			"canonicalName": "meta-2d-vr-facebook-watch-android6d0f",
@@ -342,21 +414,17 @@
 			"canonicalName": "devolver-digital-tentacular-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1656658740,
-				"show_timer": true,
-				"id": "1473915079746130",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "378353770883463",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "2249",
-					"formatted": "$22.49"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-10%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1648141232,
@@ -6282,17 +6350,21 @@
 			"canonicalName": "justin-wasilenko-end-space-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2436416159756856",
+				"end_time": 1656745140,
+				"show_timer": true,
+				"id": "1095814264346626",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-33%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
