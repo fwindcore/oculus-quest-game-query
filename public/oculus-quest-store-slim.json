@@ -1,34 +1,6 @@
 {
-	"count": 364,
+	"count": 363,
 	"edges": [
-		{
-			"id": "3682089508520212",
-			"canonicalName": "vertical-robot-red-matter-2-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1660841940,
-				"show_timer": false,
-				"id": "621675532341603",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"promo_benefit": "-10%"
-			},
-			"current_trial_offer": null,
-			"release_date": 1660841982,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Red Matter 2",
-			"is_concept": false
-		},
 		{
 			"id": "3984056454948095",
 			"canonicalName": "home-net-games-warplanes-ww2-dogfight-vr-android6d0f",
@@ -6694,21 +6666,17 @@
 			"canonicalName": "vertical-robot-red-matter-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1660842000,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "401878555376299",
+				"id": "392906924960818",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-40%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1565888400,
@@ -8434,17 +8402,21 @@
 			"canonicalName": "armature-studio-sports-scramble-santa-cruz-gearvr",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1077412149266009",
+				"end_time": 1660978740,
+				"show_timer": true,
+				"id": "3274488859493393",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2399",
+					"formatted": "$23.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
