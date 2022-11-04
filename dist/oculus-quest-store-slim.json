@@ -1,6 +1,34 @@
 {
-	"count": 371,
+	"count": 372,
 	"edges": [
+		{
+			"id": "3529713943716002",
+			"canonicalName": "espire-vr-espire-2-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1668707940,
+				"show_timer": false,
+				"id": "3310363015947919",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2699",
+					"formatted": "$26.99"
+				},
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"promo_benefit": "-10%"
+			},
+			"current_trial_offer": null,
+			"release_date": 1668707989,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Espire 2",
+			"is_concept": false
+		},
 		{
 			"id": "4948428055244413",
 			"canonicalName": "innersloth-llc-among-us-vr-android6d0f",
@@ -26,6 +54,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "4725588970834544",
+			"canonicalName": "breach-kartoffl-a-game-of-spuds-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1257084598409466",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1667494807,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "小土豆大冒险",
+			"is_concept": false
+		},
+		{
 			"id": "5153768677983339",
 			"canonicalName": "xlab-digital-llc-iron-guard-vr-android6d0f",
 			"current_offer": {
@@ -47,30 +99,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "IRON GUARD",
-			"is_concept": false
-		},
-		{
-			"id": "4360608937312293",
-			"canonicalName": "wooorld-inc-wooorld-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "671893580791548",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1666717220,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Wooorld",
 			"is_concept": false
 		},
 		{
