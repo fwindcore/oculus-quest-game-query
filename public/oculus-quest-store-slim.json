@@ -1,5 +1,5 @@
 {
-	"count": 372,
+	"count": 373,
 	"edges": [
 		{
 			"id": "3529713943716002",
@@ -30,27 +30,51 @@
 			"is_concept": false
 		},
 		{
-			"id": "4948428055244413",
-			"canonicalName": "innersloth-llc-among-us-vr-android6d0f",
+			"id": "5406767536033508",
+			"canonicalName": "very-real-help-innerworld-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1668103140,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "3011634795796580",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"id": "3404767926514396",
+				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
+					"offset_amount": "0",
+					"formatted": "$0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1668103239,
+			"release_date": 1668103257,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Among Us VR",
+			"display_name": "Innerworld",
+			"is_concept": false
+		},
+		{
+			"id": "7281839885191361",
+			"canonicalName": "yerba-buena-vr-inc-xtadium-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "5595895750478437",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "$0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1668088800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Xtadium",
 			"is_concept": false
 		},
 		{
@@ -418,7 +442,7 @@
 			"canonicalName": "patchxr-patchworld-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1668806700,
 				"show_timer": false,
 				"id": "1278822109591824",
 				"offer_type": "APPSTORE_OFFER",
