@@ -4790,17 +4790,21 @@
 			"canonicalName": "steel-wool-studios-five-night-s-at-freddy-s-help-wanted-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1355621254631369",
+				"end_time": 1669795140,
+				"show_timer": true,
+				"id": "1972233816297360",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1799",
+					"formatted": "$17.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1594918800,
