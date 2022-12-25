@@ -1090,17 +1090,21 @@
 			"canonicalName": "marineverse-marineverse-cup-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1672732740,
 				"show_timer": false,
-				"id": "473900284275615",
+				"id": "701906258009173",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1645725580,
@@ -7898,17 +7902,21 @@
 			"canonicalName": "superhot-superhot-qa-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1857145674400646",
+				"end_time": 1672041540,
+				"show_timer": true,
+				"id": "2026464377559534",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558459200,
@@ -8490,21 +8498,17 @@
 			"canonicalName": "guy-godin-virtual-desktop-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1671955140,
-				"show_timer": true,
-				"id": "5941160925947975",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "585206961989960",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
