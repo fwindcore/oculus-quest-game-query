@@ -1,34 +1,6 @@
 {
-	"count": 378,
+	"count": 377,
 	"edges": [
-		{
-			"id": "7252497758125048",
-			"canonicalName": "electronic-arts-inc-grid-legends-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1673546400,
-				"show_timer": false,
-				"id": "6736186003064311",
-				"offer_type": "APPSTORE_PREORDER_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2699",
-					"formatted": "$26.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
-				},
-				"promo_benefit": "-10%"
-			},
-			"current_trial_offer": null,
-			"release_date": 1673546444,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "《GRID Legends》",
-			"is_concept": false
-		},
 		{
 			"id": "3919415921458774",
 			"canonicalName": "something-trass-gods-of-gravity-android6d0f",
@@ -2810,14 +2782,14 @@
 			"canonicalName": "resolution-games-demeo-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1673542800,
+				"end_time": 0,
 				"show_timer": false,
-				"id": "473369900670402",
+				"id": "5587021621419835",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"offset_amount": "3999",
+					"formatted": "$39.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2930,17 +2902,21 @@
 			"canonicalName": "resolution-games-project-reaperman-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "139860971423369",
+				"end_time": 1674111600,
+				"show_timer": true,
+				"id": "450574837285975",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1099",
+					"formatted": "$10.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-45%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1618505955,
