@@ -1,5 +1,5 @@
 {
-	"count": 377,
+	"count": 376,
 	"edges": [
 		{
 			"id": "3919415921458774",
@@ -2542,17 +2542,21 @@
 			"canonicalName": "white-noise-studios-eternal-starlight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1439407609762721",
+				"end_time": 1674370800,
+				"show_timer": true,
+				"id": "3335914263403166",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1623949222,
@@ -3506,17 +3510,21 @@
 			"canonicalName": "visiontrick-media-mare-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1678726800,
 				"show_timer": false,
-				"id": "3522525837971513",
+				"id": "3487403218171233",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-50%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1610042457,
@@ -6919,30 +6927,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "SculptrVR",
-			"is_concept": false
-		},
-		{
-			"id": "2337198749686376",
-			"canonicalName": "futuretown-cloudlands-2-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "699578283800201",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1566925200,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Cloudlands 2",
 			"is_concept": false
 		},
 		{
