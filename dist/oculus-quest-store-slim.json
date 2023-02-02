@@ -198,17 +198,21 @@
 			"canonicalName": "breach-kartoffl-a-game-of-spuds-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1257084598409466",
+				"end_time": 1675839600,
+				"show_timer": true,
+				"id": "1545979902495638",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1099",
+					"formatted": "$10.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-26%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1667494807,
