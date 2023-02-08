@@ -1,5 +1,5 @@
 {
-	"count": 377,
+	"count": 375,
 	"edges": [
 		{
 			"id": "2681027292004911",
@@ -254,21 +254,17 @@
 			"canonicalName": "breach-kartoffl-a-game-of-spuds-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1675839600,
-				"show_timer": true,
-				"id": "1545979902495638",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1257084598409466",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1099",
-					"formatted": "$10.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-26%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1667494807,
@@ -683,30 +679,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "The American Dream",
-			"is_concept": false
-		},
-		{
-			"id": "4641557905931778",
-			"canonicalName": "meta-2d-vr-facebook-watch-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1675792800,
-				"show_timer": false,
-				"id": "755053592192335",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1656349118,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Facebook Watch",
 			"is_concept": false
 		},
 		{
@@ -7311,30 +7283,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "NOTES ON BLINDNESS",
-			"is_concept": false
-		},
-		{
-			"id": "2560149374058829",
-			"canonicalName": "within-within-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2537347202954777",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1562864400,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Within",
 			"is_concept": false
 		},
 		{
