@@ -1,5 +1,5 @@
 {
-	"count": 378,
+	"count": 377,
 	"edges": [
 		{
 			"id": "5740397619319389",
@@ -414,17 +414,21 @@
 			"canonicalName": "xlab-digital-llc-iron-guard-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1200158420932487",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "965651261463277",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1666890029,
@@ -1134,17 +1138,21 @@
 			"canonicalName": "devolver-digital-tentacular-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "378353770883463",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "1561479624356778",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1648141232,
@@ -2186,6 +2194,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "2562230633857728",
+			"canonicalName": "vrwerx-paranormal-activity-the-lost-soul-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "374335580933515",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1631206840,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Paranormal Activity: The Lost Soul",
+			"is_concept": false
+		},
+		{
 			"id": "3635172946605196",
 			"canonicalName": "brink-xr-brink-android6d0f",
 			"current_offer": {
@@ -2554,17 +2586,21 @@
 			"canonicalName": "happygiant-llc-sam-and-max-this-time-it-s-virtual-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1283264235403484",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "161248449745391",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2099",
+					"formatted": "$20.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1625752795,
@@ -2986,17 +3022,21 @@
 			"canonicalName": "fast-travel-games-ab-jukebox-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "512970036898416",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "773538844377995",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1619110800,
@@ -4406,17 +4446,21 @@
 			"canonicalName": "thomas-van-bouwel-cubism-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "747155319397834",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "3365593910395805",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1600362000,
@@ -6130,7 +6174,7 @@
 			"release_date": 1575568792,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Waltz of the Wizard: Natural Magic",
+			"display_name": "Waltz of the Wizard",
 			"is_concept": false
 		},
 		{
@@ -6886,17 +6930,21 @@
 			"canonicalName": "justin-wasilenko-end-space-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2436416159756856",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "600104968833456",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "899",
+					"formatted": "$8.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1567098000,
@@ -7458,54 +7506,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2740752989331803",
-			"canonicalName": "showtime-digital-inc-showtime-oculus-tv-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1680591600,
-				"show_timer": false,
-				"id": "2300466803364271",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1561050000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "SHOWTIME",
-			"is_concept": false
-		},
-		{
-			"id": "2254618957917577",
-			"canonicalName": "showtime-networks-inc-showtime-anytime-oculus-tv-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 1680591600,
-				"show_timer": false,
-				"id": "425148334744768",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "$0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1561050000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Showtime Anytime",
-			"is_concept": false
-		},
-		{
 			"id": "2812851825399383",
 			"canonicalName": "mydearest-inc-android6d0f",
 			"current_offer": {
@@ -7630,7 +7630,7 @@
 			"canonicalName": "beat-games-beat-saber-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1680710400,
 				"show_timer": false,
 				"id": "333786537325310",
 				"offer_type": "APPSTORE_OFFER",
@@ -8574,17 +8574,21 @@
 			"canonicalName": "bit-planet-games-llc-ultrawings-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "825478148651361",
+				"end_time": 1681109940,
+				"show_timer": true,
+				"id": "594175062771417",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "$9.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-33%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
