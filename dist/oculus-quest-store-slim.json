@@ -610,17 +610,21 @@
 			"canonicalName": "erthu-ancient-dungeon-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "3059368724308814",
+				"end_time": 1681628340,
+				"show_timer": true,
+				"id": "1396282714492500",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1663261140,
