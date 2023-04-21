@@ -1,5 +1,5 @@
 {
-	"count": 378,
+	"count": 380,
 	"edges": [
 		{
 			"id": "5219488324783789",
@@ -27,6 +27,54 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "EVERSLAUGHT Invasion",
+			"is_concept": false
+		},
+		{
+			"id": "5638124899586470",
+			"canonicalName": "andre-elijah-immersive-amid-evil-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "3301751720137736",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1682010000,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Amid Evil VR",
+			"is_concept": false
+		},
+		{
+			"id": "7532973430077887",
+			"canonicalName": "hypercell-games-hairandbeauty-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "215407964549983",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1682009940,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Shave & Stuff",
 			"is_concept": false
 		},
 		{
@@ -1538,17 +1586,21 @@
 			"canonicalName": "forevr-games-inc-forevr-darts-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "860524947942020",
+				"end_time": 1683183600,
+				"show_timer": true,
+				"id": "132438839512954",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1639677566,
@@ -1586,17 +1638,21 @@
 			"canonicalName": "abrams-studios-llc-morels-homestead-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "242741591096194",
+				"end_time": 1683183600,
+				"show_timer": true,
+				"id": "146924138086527",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1299",
+					"formatted": "$12.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-35%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1638899971,
@@ -7678,7 +7734,7 @@
 			"canonicalName": "beat-games-beat-saber-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1682096400,
+				"end_time": 1682114400,
 				"show_timer": false,
 				"id": "520136543662306",
 				"offer_type": "APPSTORE_OFFER",
