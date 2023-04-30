@@ -3162,17 +3162,21 @@
 			"canonicalName": "zen-studios-star-wars-pinball-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "923156931838874",
+				"end_time": 1683356340,
+				"show_timer": true,
+				"id": "772760910794732",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1249",
+					"formatted": "$12.49"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-50%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1619715540,
