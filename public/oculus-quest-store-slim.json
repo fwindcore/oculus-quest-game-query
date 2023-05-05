@@ -1,5 +1,5 @@
 {
-	"count": 384,
+	"count": 385,
 	"edges": [
 		{
 			"id": "5219488324783789",
@@ -27,6 +27,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "EVERSLAUGHT Invasion",
+			"is_concept": false
+		},
+		{
+			"id": "5395586720470296",
+			"canonicalName": "clique-games-rogue-ascent-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1622232574911809",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1683219600,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Rogue Ascent VR",
 			"is_concept": false
 		},
 		{
@@ -1430,17 +1454,21 @@
 			"canonicalName": "ludact-unbinary-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "503619744547580",
+				"end_time": 1684220400,
+				"show_timer": true,
+				"id": "1355787868600911",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1099",
+					"formatted": "$10.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-26%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1645120748,
