@@ -4238,17 +4238,21 @@
 			"canonicalName": "bloober-team-na-blair-witch-vr-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2739439339603150",
+				"end_time": 1683788340,
+				"show_timer": true,
+				"id": "254751183788194",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2099",
+					"formatted": "$20.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1603990800,
@@ -9046,7 +9050,7 @@
 			"canonicalName": "red-bull-red-bull-tv-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"end_time": 1686812400,
 				"show_timer": false,
 				"id": "2186612734982443",
 				"offer_type": "APPSTORE_OFFER",
