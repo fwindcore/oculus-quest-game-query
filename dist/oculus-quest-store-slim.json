@@ -1,5 +1,5 @@
 {
-	"count": 388,
+	"count": 387,
 	"edges": [
 		{
 			"id": "5219488324783789",
@@ -2383,30 +2383,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Clash of Chefs VR",
-			"is_concept": false
-		},
-		{
-			"id": "3327842470656115",
-			"canonicalName": "tunermaxx-rise-of-the-rainbow-reactor-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "362313662217569",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1631811548,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "彩虹反应堆：聚变",
 			"is_concept": false
 		},
 		{
@@ -8654,17 +8630,21 @@
 			"canonicalName": "guy-godin-virtual-desktop-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "585206961989960",
+				"end_time": 1684047540,
+				"show_timer": true,
+				"id": "531474412492708",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1599",
+					"formatted": "$15.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-20%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -8702,21 +8682,17 @@
 			"canonicalName": "schell-games-i-expect-you-to-die-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1683961140,
-				"show_timer": true,
-				"id": "944941056952332",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "673205466453008",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1699",
-					"formatted": "$16.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-32%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
