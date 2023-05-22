@@ -13,12 +13,12 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2249",
-					"formatted": "$22.49"
+					"formatted": "US$ 22.49"
 				},
 				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"promo_benefit": "-10%"
 			},
@@ -41,12 +41,12 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2699",
-					"formatted": "$26.99"
+					"formatted": "US$ 26.99"
 				},
 				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"promo_benefit": "-10%"
 			},
@@ -69,7 +69,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -93,7 +93,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -117,7 +117,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -141,7 +141,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -165,7 +165,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -189,7 +189,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -213,7 +213,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -237,7 +237,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -261,7 +261,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -285,7 +285,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -309,7 +309,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -333,7 +333,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -357,7 +357,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -381,7 +381,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -405,7 +405,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2299",
-					"formatted": "$22.99"
+					"formatted": "US$ 22.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -429,7 +429,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -453,7 +453,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -477,7 +477,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -494,21 +494,17 @@
 			"canonicalName": "triband-what-the-bat-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "1081585502797998",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "469801831933823",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1668707995,
@@ -529,7 +525,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -553,7 +549,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -577,7 +573,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -601,7 +597,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -625,7 +621,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -649,7 +645,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -673,7 +669,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -697,7 +693,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -721,7 +717,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -745,7 +741,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -769,7 +765,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -793,7 +789,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -817,7 +813,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -841,7 +837,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -865,7 +861,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -889,7 +885,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -913,7 +909,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -937,7 +933,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -961,7 +957,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -985,7 +981,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1009,7 +1005,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1026,21 +1022,17 @@
 			"canonicalName": "samurai-punk-the-american-dream-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "743166707509894",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1204055687047016",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1656608339,
@@ -1061,7 +1053,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1085,7 +1077,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1109,7 +1101,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1299",
-					"formatted": "$12.99"
+					"formatted": "US$ 12.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1133,7 +1125,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2299",
-					"formatted": "$22.99"
+					"formatted": "US$ 22.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1157,7 +1149,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1181,7 +1173,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1198,21 +1190,17 @@
 			"canonicalName": "ndreams-new-york-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "1609732179528871",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "697537397944342",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1652374789,
@@ -1233,7 +1221,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1257,7 +1245,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1281,7 +1269,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1305,7 +1293,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1329,7 +1317,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1353,7 +1341,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1370,21 +1358,17 @@
 			"canonicalName": "devolver-digital-tentacular-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "537718901847790",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "378353770883463",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1648141232,
@@ -1405,7 +1389,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1422,21 +1406,17 @@
 			"canonicalName": "foggy-box-startenders-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "1839191236465844",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "300581902172516",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1647536342,
@@ -1457,7 +1437,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1481,7 +1461,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1505,7 +1485,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1529,7 +1509,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1553,7 +1533,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1577,7 +1557,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1601,7 +1581,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1625,7 +1605,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1649,7 +1629,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1799",
-					"formatted": "$17.99"
+					"formatted": "US$ 17.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1673,7 +1653,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1697,7 +1677,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1721,7 +1701,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1745,7 +1725,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1769,7 +1749,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1793,7 +1773,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1817,7 +1797,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1841,7 +1821,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1865,7 +1845,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1889,7 +1869,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1913,7 +1893,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1937,7 +1917,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1961,7 +1941,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -1985,7 +1965,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2009,7 +1989,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2033,7 +2013,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2057,7 +2037,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2081,7 +2061,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2105,7 +2085,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2122,21 +2102,17 @@
 			"canonicalName": "cubicle-ninjas-guided-meditation-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "779836987070510",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "216502397107054",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1634823054,
@@ -2157,7 +2133,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2181,7 +2157,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2205,7 +2181,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2229,7 +2205,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2253,7 +2229,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2277,7 +2253,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2294,21 +2270,17 @@
 			"canonicalName": "salmi-games-sweet-surrender-beta-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "5892097880894883",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "599313807762291",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1799",
-					"formatted": "$17.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
-				"promo_benefit": "-28%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1633021189,
@@ -2329,7 +2301,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2353,7 +2325,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "899",
-					"formatted": "$8.99"
+					"formatted": "US$ 8.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2377,7 +2349,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2401,7 +2373,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2425,7 +2397,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "599",
-					"formatted": "$5.99"
+					"formatted": "US$ 5.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2449,7 +2421,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2473,7 +2445,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2490,21 +2462,17 @@
 			"canonicalName": "realities-io-inc-puzzling-places-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "1006313863692065",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "628770354755817",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "899",
-					"formatted": "$8.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
-				"promo_benefit": "-40%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1630601996,
@@ -2525,7 +2493,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2549,7 +2517,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2573,7 +2541,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2590,21 +2558,17 @@
 			"canonicalName": "monologic-games-ven-vr-adventure-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "1185877482075903",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "5631298553565564",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1628787639,
@@ -2618,21 +2582,17 @@
 			"canonicalName": "rezzil-rezzil-player-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "658609982695294",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "825097341888048",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1628614773,
@@ -2653,7 +2613,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2677,7 +2637,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2701,7 +2661,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2725,7 +2685,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2749,7 +2709,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2773,7 +2733,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2797,7 +2757,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2821,7 +2781,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2845,7 +2805,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2869,7 +2829,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2893,7 +2853,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2917,7 +2877,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "899",
-					"formatted": "$8.99"
+					"formatted": "US$ 8.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2941,7 +2901,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2965,7 +2925,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -2989,7 +2949,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3013,7 +2973,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3037,7 +2997,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3061,7 +3021,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3085,7 +3045,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3102,21 +3062,17 @@
 			"canonicalName": "forevr-games-inc-forevr-bowl-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "253889977084961",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "479948803218377",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1622134715,
@@ -3137,7 +3093,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3161,7 +3117,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3185,7 +3141,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3209,7 +3165,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "3999",
-					"formatted": "$39.99"
+					"formatted": "US$ 39.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3233,7 +3189,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3257,7 +3213,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3274,21 +3230,17 @@
 			"canonicalName": "fast-travel-games-ab-jukebox-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "262158169517273",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "512970036898416",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1619110800,
@@ -3309,7 +3261,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3333,7 +3285,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3357,7 +3309,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3381,7 +3333,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3405,7 +3357,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3429,7 +3381,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3453,7 +3405,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3477,7 +3429,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3501,7 +3453,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3525,7 +3477,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3549,7 +3501,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3573,7 +3525,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3597,7 +3549,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3621,7 +3573,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3645,7 +3597,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3669,7 +3621,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3693,7 +3645,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3717,7 +3669,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3741,7 +3693,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3765,7 +3717,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3789,7 +3741,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3813,7 +3765,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3837,7 +3789,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3861,7 +3813,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "599",
-					"formatted": "$5.99"
+					"formatted": "US$ 5.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3885,7 +3837,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "599",
-					"formatted": "$5.99"
+					"formatted": "US$ 5.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3909,12 +3861,12 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"promo_benefit": "-50%"
 			},
@@ -3937,7 +3889,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3961,7 +3913,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -3985,7 +3937,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4009,7 +3961,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4033,7 +3985,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "699",
-					"formatted": "$6.99"
+					"formatted": "US$ 6.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4057,7 +4009,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4081,7 +4033,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4105,7 +4057,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4129,7 +4081,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4153,7 +4105,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "3999",
-					"formatted": "$39.99"
+					"formatted": "US$ 39.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4177,7 +4129,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "899",
-					"formatted": "$8.99"
+					"formatted": "US$ 8.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4201,7 +4153,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4225,7 +4177,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4249,7 +4201,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4273,7 +4225,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4297,7 +4249,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4321,7 +4273,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4345,7 +4297,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4369,7 +4321,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "3999",
-					"formatted": "$39.99"
+					"formatted": "US$ 39.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4393,7 +4345,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4417,7 +4369,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4441,7 +4393,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4465,7 +4417,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4489,7 +4441,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4513,7 +4465,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4537,7 +4489,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4561,7 +4513,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4585,7 +4537,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4609,7 +4561,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4633,7 +4585,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4657,7 +4609,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4681,7 +4633,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4698,21 +4650,17 @@
 			"canonicalName": "thomas-van-bouwel-cubism-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "3096614543976059",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "747155319397834",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1600362000,
@@ -4733,7 +4681,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4757,7 +4705,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4781,7 +4729,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4805,7 +4753,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4829,7 +4777,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4846,21 +4794,17 @@
 			"canonicalName": "resolution-games-cooking-game-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "1222116862008930",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1930130100682318",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1599145222,
@@ -4881,7 +4825,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4905,7 +4849,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4929,7 +4873,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4953,7 +4897,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -4977,7 +4921,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5001,7 +4945,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5025,7 +4969,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5049,7 +4993,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5073,7 +5017,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5097,7 +5041,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5121,7 +5065,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5145,7 +5089,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5169,7 +5113,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5193,7 +5137,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "799",
-					"formatted": "$7.99"
+					"formatted": "US$ 7.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5217,7 +5161,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5241,7 +5185,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5265,7 +5209,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5289,7 +5233,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "699",
-					"formatted": "$6.99"
+					"formatted": "US$ 6.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5313,7 +5257,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "299",
-					"formatted": "$2.99"
+					"formatted": "US$ 2.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5337,7 +5281,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5361,7 +5305,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5385,7 +5329,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "499",
-					"formatted": "$4.99"
+					"formatted": "US$ 4.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5402,21 +5346,17 @@
 			"canonicalName": "golf-scope-inc-pro-putt-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "771046037946970",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "877450610297671",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "$19.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1590685226,
@@ -5437,7 +5377,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "799",
-					"formatted": "$7.99"
+					"formatted": "US$ 7.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5461,7 +5401,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5485,7 +5425,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1299",
-					"formatted": "$12.99"
+					"formatted": "US$ 12.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5509,7 +5449,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5533,7 +5473,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5550,21 +5490,17 @@
 			"canonicalName": "andromeda-entertainment-audio-trip-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "6016072365137323",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1057827231277348",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1588870755,
@@ -5585,7 +5521,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5609,7 +5545,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5633,7 +5569,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5657,7 +5593,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5681,7 +5617,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5705,7 +5641,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5729,7 +5665,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5753,7 +5689,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5777,7 +5713,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5801,7 +5737,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5825,7 +5761,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5849,7 +5785,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5873,7 +5809,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5897,7 +5833,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5921,7 +5857,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5945,7 +5881,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5969,7 +5905,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -5993,7 +5929,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6017,7 +5953,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6041,7 +5977,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6065,7 +6001,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6089,7 +6025,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "499",
-					"formatted": "$4.99"
+					"formatted": "US$ 4.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6113,7 +6049,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6137,7 +6073,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6161,7 +6097,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "699",
-					"formatted": "$6.99"
+					"formatted": "US$ 6.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6185,7 +6121,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6209,7 +6145,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6233,7 +6169,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6257,7 +6193,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6281,7 +6217,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6305,7 +6241,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6322,21 +6258,17 @@
 			"canonicalName": "twisted-pixel-games-path-of-the-warrior-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "586453536781789",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "842830819485437",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1299",
-					"formatted": "$12.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-35%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1576206955,
@@ -6357,7 +6289,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6374,21 +6306,17 @@
 			"canonicalName": "fallen-planet-studios-affected-the-manor-quest-release-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "185011697708766",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "496074997929093",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "799",
-					"formatted": "$7.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1576173626,
@@ -6409,7 +6337,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6433,7 +6361,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6457,7 +6385,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "3999",
-					"formatted": "$39.99"
+					"formatted": "US$ 39.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6481,7 +6409,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6505,7 +6433,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6529,7 +6457,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6553,7 +6481,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6570,21 +6498,17 @@
 			"canonicalName": "vertigo-games-a-fisherman-s-tale-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "181935234732241",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2459649440942540",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1574877640,
@@ -6605,7 +6529,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6629,7 +6553,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6653,7 +6577,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6677,7 +6601,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6701,7 +6625,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6725,7 +6649,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6749,7 +6673,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6773,7 +6697,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6797,7 +6721,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6821,7 +6745,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6845,7 +6769,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6869,7 +6793,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6886,21 +6810,17 @@
 			"canonicalName": "grab-games-knockout-league-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "2203401706687569",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "738933853186193",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-20%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1571331600,
@@ -6921,7 +6841,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6945,7 +6865,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6969,7 +6889,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -6993,7 +6913,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7017,7 +6937,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7034,21 +6954,17 @@
 			"canonicalName": "tribe-xr-inc-tribexr-dj-school-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "220758237233156",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "3014142328645998",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2099",
-					"formatted": "$20.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1568912400,
@@ -7062,21 +6978,17 @@
 			"canonicalName": "mekiwi-cave-digger-riches-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "948500386492948",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "601344693731687",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1199",
-					"formatted": "$11.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-40%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1568912400,
@@ -7097,7 +7009,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7121,7 +7033,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7145,7 +7057,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7169,7 +7081,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7193,7 +7105,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1799",
-					"formatted": "$17.99"
+					"formatted": "US$ 17.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7217,7 +7129,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7241,7 +7153,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7258,21 +7170,17 @@
 			"canonicalName": "wenkly-studio-sp-z-o-o-elven-assassin-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "564673829067078",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "375670547387556",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1567702800,
@@ -7293,7 +7201,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7317,7 +7225,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7341,7 +7249,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7365,7 +7273,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7389,7 +7297,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7413,7 +7321,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7437,7 +7345,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7454,21 +7362,17 @@
 			"canonicalName": "coinflip-studios-ninja-legends-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "3537378816499637",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "428774811047464",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1565283600,
@@ -7489,7 +7393,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7513,7 +7417,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7537,7 +7441,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7561,7 +7465,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7585,7 +7489,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7609,7 +7513,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7633,7 +7537,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7657,7 +7561,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7681,7 +7585,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7705,7 +7609,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7729,7 +7633,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1199",
-					"formatted": "$11.99"
+					"formatted": "US$ 11.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7753,7 +7657,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7777,7 +7681,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7801,7 +7705,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7825,7 +7729,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7849,7 +7753,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7873,7 +7777,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "3999",
-					"formatted": "$39.99"
+					"formatted": "US$ 39.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7897,7 +7801,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7921,7 +7825,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7945,7 +7849,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7969,7 +7873,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -7993,7 +7897,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8017,7 +7921,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8041,7 +7945,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8065,7 +7969,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8089,7 +7993,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8113,7 +8017,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8137,7 +8041,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8161,7 +8065,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8185,7 +8089,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "499",
-					"formatted": "$4.99"
+					"formatted": "US$ 4.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8209,7 +8113,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8233,7 +8137,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8257,7 +8161,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8281,7 +8185,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8305,7 +8209,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8329,7 +8233,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8353,7 +8257,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "799",
-					"formatted": "$7.99"
+					"formatted": "US$ 7.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8377,7 +8281,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8401,7 +8305,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8425,7 +8329,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8449,7 +8353,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8473,7 +8377,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8497,7 +8401,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8521,7 +8425,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8545,7 +8449,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8569,7 +8473,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8586,21 +8490,17 @@
 			"canonicalName": "parkline-interactive-wander-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "754769066144094",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1690745804565511",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -8621,7 +8521,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8645,7 +8545,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8669,7 +8569,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8693,7 +8593,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8710,21 +8610,17 @@
 			"canonicalName": "legionvr-llc-the-exorcist-legion-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1684738740,
-				"show_timer": true,
-				"id": "6033474783433453",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "340092353357409",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "1599",
-					"formatted": "$15.99"
-				},
-				"strikethrough_price": {
-					"currency": "USD",
 					"offset_amount": "2499",
-					"formatted": "$24.99"
+					"formatted": "US$ 24.99"
 				},
-				"promo_benefit": "-36%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558458000,
@@ -8745,7 +8641,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8769,7 +8665,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8793,7 +8689,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8817,7 +8713,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8841,7 +8737,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8865,7 +8761,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8889,7 +8785,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8913,7 +8809,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8937,7 +8833,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8961,7 +8857,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -8985,7 +8881,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1999",
-					"formatted": "$19.99"
+					"formatted": "US$ 19.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9009,7 +8905,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9033,7 +8929,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "2999",
-					"formatted": "$29.99"
+					"formatted": "US$ 29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9057,7 +8953,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9081,7 +8977,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9105,7 +9001,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "999",
-					"formatted": "$9.99"
+					"formatted": "US$ 9.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9129,7 +9025,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9153,7 +9049,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9177,7 +9073,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9201,7 +9097,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9225,7 +9121,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9249,7 +9145,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9273,7 +9169,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "1499",
-					"formatted": "$14.99"
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9297,7 +9193,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9321,7 +9217,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9345,7 +9241,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9369,7 +9265,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9393,7 +9289,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
@@ -9417,7 +9313,7 @@
 				"price": {
 					"currency": "USD",
 					"offset_amount": "0",
-					"formatted": "$0.00"
+					"formatted": "US$ 0.00"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
