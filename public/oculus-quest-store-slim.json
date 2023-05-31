@@ -1,5 +1,5 @@
 {
-	"count": 387,
+	"count": 386,
 	"edges": [
 		{
 			"id": "5219488324783789",
@@ -986,7 +986,7 @@
 			"release_date": 1657213195,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "PatchWorld - Make Music Worlds",
+			"display_name": "PatchWorld - Multiplayer Music Maker",
 			"is_concept": false
 		},
 		{
@@ -4650,30 +4650,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "2245426295493320",
-			"canonicalName": "first-contact-entertainment-solaris-offworld-combat-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "791123715058444",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "$24.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1600966800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "SOLARIS OFFWORLD COMBAT",
-			"is_concept": false
-		},
-		{
 			"id": "2557519677620753",
 			"canonicalName": "immersive-vr-education-ltd-shuttle-commander-quest-android6d0f",
 			"current_offer": {
@@ -7590,17 +7566,21 @@
 			"canonicalName": "the-binary-mill-gun-club-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "657725741361786",
+				"end_time": 1685602740,
+				"show_timer": true,
+				"id": "5724113994360240",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1399",
+					"formatted": "$13.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1563469200,
@@ -9238,21 +9218,17 @@
 			"canonicalName": "halfbrick-studios-pty-ltd-fruit-ninja-vr-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1685516340,
-				"show_timer": true,
-				"id": "198110129745399",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2378179619130177",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "$9.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1499",
 					"formatted": "$14.99"
 				},
-				"promo_benefit": "-33%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1558422000,
