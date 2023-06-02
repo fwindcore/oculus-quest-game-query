@@ -1,6 +1,134 @@
 {
-	"count": 385,
+	"count": 392,
 	"edges": [
+		{
+			"id": "2603836099654226",
+			"canonicalName": "sanzaru-games-inc-wrath-2-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1704045600,
+				"show_timer": false,
+				"id": "1262656044625775",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "5999",
+					"formatted": "$59.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Asgard's Wrath 2",
+			"is_concept": false
+		},
+		{
+			"id": "7803243026376133",
+			"canonicalName": "tender-claws-stranger-things-vr-android6d0f-qhwl44",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1701367140,
+				"show_timer": false,
+				"id": "634304802048764",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2699",
+					"formatted": "$26.99"
+				},
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"promo_benefit": "-10%"
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Stranger Things VR",
+			"is_concept": false
+		},
+		{
+			"id": "5736173679792982",
+			"canonicalName": "sega-of-america-sambadeamigo-quest-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1697129940,
+				"show_timer": false,
+				"id": "6210431195740450",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Samba de Amigo",
+			"is_concept": false
+		},
+		{
+			"id": "4676322075753574",
+			"canonicalName": "schell-games-i-expect-you-to-die-3-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1692291600,
+				"show_timer": false,
+				"id": "817534586369410",
+				"offer_type": "APPSTORE_PREORDER_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2249",
+					"formatted": "$22.49"
+				},
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "$24.99"
+				},
+				"promo_benefit": "-10%"
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "I Expect You To Die 3: 机巧环环相扣",
+			"is_concept": false
+		},
+		{
+			"id": "4872542182873415",
+			"canonicalName": "vr-motion-learning-tennis-esport-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "275773504836314",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1685638800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Tennis Esports",
+			"is_concept": false
+		},
 		{
 			"id": "5219488324783789",
 			"canonicalName": "mobx-games-everslaught-origins-official-android6d0f",
@@ -359,6 +487,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "ARK-ADE",
+			"is_concept": false
+		},
+		{
+			"id": "7511205902287186",
+			"canonicalName": "yobike-studio-papaye-bang-bang-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1813472179024528",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1677175136,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Papaye Bang Bang VR",
 			"is_concept": false
 		},
 		{
@@ -1162,21 +1314,17 @@
 			"canonicalName": "carbon-studio-warhammer-age-of-sigmar-tempestfall-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1685635200,
-				"show_timer": true,
-				"id": "2311133059065799",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2427848814024756",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1699",
-					"formatted": "$16.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2499",
 					"formatted": "$24.99"
 				},
-				"promo_benefit": "-32%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1652979624,
@@ -3258,6 +3406,30 @@
 			"is_concept": false
 		},
 		{
+			"id": "3846153838783795",
+			"canonicalName": "field-of-vision-crazy-kung-fu-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "638125008139662",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "$14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1618550790,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "疯狂功夫",
+			"is_concept": false
+		},
+		{
 			"id": "3895994960415614",
 			"canonicalName": "avex-technologies-inc-anicast-maker-android6d0f",
 			"current_offer": {
@@ -4334,17 +4506,21 @@
 			"canonicalName": "skydance-interactive-the-walking-dead-saints-sinners-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "462318708054255",
+				"end_time": 1685948340,
+				"show_timer": true,
+				"id": "641156780806669",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "$29.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "3999",
 					"formatted": "$39.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-25%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1602608400,
@@ -6738,17 +6914,21 @@
 			"canonicalName": "ian-fitz-the-thrill-of-the-fight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "942251462776233",
+				"end_time": 1685775540,
+				"show_timer": true,
+				"id": "571217388172873",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "699",
+					"formatted": "$6.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1571936400,
