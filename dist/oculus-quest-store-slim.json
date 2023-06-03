@@ -3406,30 +3406,6 @@
 			"is_concept": false
 		},
 		{
-			"id": "3846153838783795",
-			"canonicalName": "field-of-vision-crazy-kung-fu-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "638125008139662",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "$14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1618550790,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "疯狂功夫",
-			"is_concept": false
-		},
-		{
 			"id": "3895994960415614",
 			"canonicalName": "avex-technologies-inc-anicast-maker-android6d0f",
 			"current_offer": {
@@ -6466,17 +6442,21 @@
 			"canonicalName": "owlchemy-labs-vacation-simulator-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "437820983551261",
+				"end_time": 1685861940,
+				"show_timer": true,
+				"id": "180813964868429",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "2099",
+					"formatted": "$20.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "2999",
 					"formatted": "$29.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-30%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1576173643,
@@ -6914,21 +6894,17 @@
 			"canonicalName": "ian-fitz-the-thrill-of-the-fight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1685775540,
-				"show_timer": true,
-				"id": "571217388172873",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "942251462776233",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "699",
-					"formatted": "$6.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "999",
 					"formatted": "$9.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1571936400,
@@ -8943,6 +8919,30 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "First Steps",
+			"is_concept": false
+		},
+		{
+			"id": "1860984660605547",
+			"canonicalName": "turtle-rock-studios-face-your-fears-2",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2264692813785026",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "$19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1558458000,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Face Your Fears 2",
 			"is_concept": false
 		},
 		{
