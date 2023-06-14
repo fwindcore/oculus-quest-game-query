@@ -962,17 +962,21 @@
 			"canonicalName": "erthu-ancient-dungeon-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "3059368724308814",
+				"end_time": 1686812340,
+				"show_timer": true,
+				"id": "194140830119138",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
+					"currency": "USD",
+					"offset_amount": "1199",
+					"formatted": "$11.99"
+				},
+				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": "-40%"
 			},
 			"current_trial_offer": null,
 			"release_date": 1663261140,
@@ -7802,21 +7806,17 @@
 			"canonicalName": "the-binary-mill-gun-club-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
-				"end_time": 1686725940,
-				"show_timer": true,
-				"id": "1281486682441641",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "657725741361786",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
-					"currency": "USD",
-					"offset_amount": "1399",
-					"formatted": "$13.99"
-				},
-				"strikethrough_price": {
 					"currency": "USD",
 					"offset_amount": "1999",
 					"formatted": "$19.99"
 				},
-				"promo_benefit": "-30%"
+				"strikethrough_price": null,
+				"promo_benefit": null
 			},
 			"current_trial_offer": null,
 			"release_date": 1563469200,
@@ -8192,12 +8192,12 @@
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "779307970231927",
+				"id": "964427474800955",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "3399",
-					"formatted": "$33.99"
+					"offset_amount": "2999",
+					"formatted": "$29.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
