@@ -1,6 +1,124 @@
 {
-	"count": 20,
+	"count": 17,
 	"edges": [
+		{
+			"id": "3749621795127676",
+			"canonicalName": "wanadev-ragnarock-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "284047847056752",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "US$ 24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1634824671,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Ragnarock",
+			"is_concept": false
+		},
+		{
+			"id": "3882524545155280",
+			"canonicalName": "experiment-7-catan-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "166047528399884",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1612461614,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Catan VR",
+			"is_concept": false
+		},
+		{
+			"id": "5651010038313251",
+			"canonicalName": "xlab-digital-llc-iron-guard-2-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreComingSoonOffer",
+				"end_time": 1743699600,
+				"show_timer": false,
+				"id": "845978474179861",
+				"offer_type": "APPSTORE_COMINGSOON_OFFER",
+				"price": null,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"release_time": null,
+				"release_time_type": "SEASON"
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "IRON GUARD: Salvation",
+			"is_concept": false
+		},
+		{
+			"id": "4236057696516788",
+			"canonicalName": "kiririn-games-crawlspace-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "656788658838214",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1640733128,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Crawlspace",
+			"is_concept": false
+		},
+		{
+			"id": "3354247921293382",
+			"canonicalName": "samurai-punk-the-american-dream-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1204055687047016",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1656608339,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "The American Dream",
+			"is_concept": false
+		},
 		{
 			"id": "2967784573246968",
 			"canonicalName": "fallen-planet-studios-affected-the-manor-quest-release-android6d0f",
@@ -26,133 +144,13 @@
 			"is_concept": false
 		},
 		{
-			"id": "3755552521124500",
-			"canonicalName": "glue-collaboration-glue-android6d0f",
+			"id": "5068085479875775",
+			"canonicalName": "free-range-games-pat-mahomes-mvp-football-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "3687098264699055",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1612461650,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Glue",
-			"is_concept": false
-		},
-		{
-			"id": "6808472739194566",
-			"canonicalName": "kopel-productions-the-heist-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1073717413551735",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1657318787,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "The Heist VR",
-			"is_concept": false
-		},
-		{
-			"id": "3812713968786936",
-			"canonicalName": "mefistofiles-hand-posing-tool-pirates-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "174636317828948",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1617210026,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Hand Posing Tool: Pirates!",
-			"is_concept": false
-		},
-		{
-			"id": "9724452097580945",
-			"canonicalName": "make-real-hazard-us-demo-android6d0f-1ashzm",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "160814593574480",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1682683200,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Hazard Us",
-			"is_concept": false
-		},
-		{
-			"id": "3323166227771391",
-			"canonicalName": "baobab-studios-invasion-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "862605944555325",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1608227981,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "INVASION! Anniversary Edition",
-			"is_concept": false
-		},
-		{
-			"id": "2442843265745901",
-			"canonicalName": "chicken-waffle-baby-hands-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "417080462962038",
+				"id": "558258705435689",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -163,20 +161,44 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1611347456,
+			"release_date": 1634230810,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Baby Hands",
+			"display_name": "MVP Football - The Patrick Mahomes Experience",
 			"is_concept": false
 		},
 		{
-			"id": "1917371471713228",
-			"canonicalName": "tender-claws-the-under-presents-quest-android6d0f",
+			"id": "2913996261988381",
+			"canonicalName": "the-pocket-company-homestar-vr-specialedition-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "725378238277947",
+				"id": "3600555256673581",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2499",
+					"formatted": "US$ 24.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1602514800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Homestar VR: Special Edition",
+			"is_concept": false
+		},
+		{
+			"id": "3895528293794893",
+			"canonicalName": "aarp-innovation-labs-alcove-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "754019892058176",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -187,117 +209,10 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1574186145,
+			"release_date": 1597942793,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "The Under Presents",
-			"is_concept": false
-		},
-		{
-			"id": "3899112273551602",
-			"canonicalName": "tvori-shapes-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "571145954169062",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1636653568,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "ShapesXR",
-			"is_concept": false
-		},
-		{
-			"id": "7255396864545733",
-			"canonicalName": "zen-studios-pinball-fx-vr-android6d0f-mlvjyq",
-			"current_offer": null,
-			"current_trial_offer": null,
-			"release_date": null,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Pinball FX VR",
-			"is_concept": false
-		},
-		{
-			"id": "4168480983209878",
-			"canonicalName": "muro-cg-playanimaker-beta-for-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1455659018130792",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1630594800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "PlayAniMaker Beta",
-			"is_concept": false
-		},
-		{
-			"id": "9702583963100474",
-			"canonicalName": "peepee1234567-spider-monke-tag-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "948162876507229",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1686756855,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Spider Monke Tag",
-			"is_concept": false
-		},
-		{
-			"id": "4996741873708710",
-			"canonicalName": "ivanovich-games-final-soccer-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "430100725669355",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1657566146,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Final Soccer",
+			"display_name": "Alcove",
 			"is_concept": false
 		},
 		{
@@ -325,61 +240,37 @@
 			"is_concept": false
 		},
 		{
-			"id": "5040460232669866",
-			"canonicalName": "granite-top-games-llc-squeazels-android6d0f",
+			"id": "1995306573932043",
+			"canonicalName": "zen-studios-pinball-fx2-vr-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "1626713524512248",
+				"id": "355726348437597",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1684168317,
+			"release_date": 1565888400,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Squirrel Day",
+			"display_name": "Pinball VR Classic",
 			"is_concept": false
 		},
 		{
-			"id": "5005632286166834",
-			"canonicalName": "incisiv-ltd-cleansheet-android6d0f",
+			"id": "3789736921099233",
+			"canonicalName": "atlas-v-spheres-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "855262152601044",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "US$ 19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1696957140,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "CleanSheet 足球",
-			"is_concept": false
-		},
-		{
-			"id": "3327842470656115",
-			"canonicalName": "tunermaxx-rise-of-the-rainbow-reactor-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "221852667516173",
+				"id": "289643798924225",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -390,20 +281,42 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1631811548,
+			"release_date": 1605204000,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "彩虹反应堆：聚变",
+			"display_name": "SPHERES",
 			"is_concept": false
 		},
 		{
-			"id": "6662595590441174",
-			"canonicalName": "shopr-inc-shopr-android6d0f-xgepxy",
+			"id": "7096111567178673",
+			"canonicalName": "megaverse-llc-blackgate-android6d0f-4mxhum",
+			"current_offer": {
+				"__typename": "AppStoreComingSoonOffer",
+				"end_time": 1748624400,
+				"show_timer": false,
+				"id": "1770742393772543",
+				"offer_type": "APPSTORE_COMINGSOON_OFFER",
+				"price": null,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"release_time": null,
+				"release_time_type": "SEASON"
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "BlackGate",
+			"is_concept": false
+		},
+		{
+			"id": "3323166227771391",
+			"canonicalName": "baobab-studios-invasion-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "1203213873670707",
+				"id": "862605944555325",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -414,58 +327,82 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1684863965,
+			"release_date": 1608227981,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "ShopR",
+			"display_name": "INVASION! Anniversary Edition",
 			"is_concept": false
 		},
 		{
-			"id": "3749621795127676",
-			"canonicalName": "wanadev-ragnarock-android6d0f",
+			"id": "2592096760842149",
+			"canonicalName": "truant-pixel-llc-2md-vr-football-unleashed-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "284047847056752",
+				"id": "964193121484968",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "US$ 24.99"
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1634824671,
+			"release_date": 1578592808,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Ragnarock",
+			"display_name": "2MD: VR Football Unleashed ALL☆STAR",
 			"is_concept": false
 		},
 		{
-			"id": "2264524423619421",
-			"canonicalName": "thomas-van-bouwel-cubism-android6d0f",
+			"id": "6930867960316708",
+			"canonicalName": "zero-gravity-games-world-flight-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "520520547630119",
+				"id": "825833945129961",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "US$ 9.99"
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
 				},
 				"strikethrough_price": null,
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1600362000,
+			"release_date": 1664557200,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "方块主义",
+			"display_name": "World Flight",
+			"is_concept": false
+		},
+		{
+			"id": "6312736602088905",
+			"canonicalName": "soaring-roc-studio-firezone-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "693021622199769",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1670369206,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "FireZone",
 			"is_concept": false
 		}
 	]
