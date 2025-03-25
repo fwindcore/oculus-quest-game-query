@@ -1,601 +1,36 @@
 {
-	"count": 27,
+	"count": 24,
 	"edges": [
 		{
-			"id": "6476196785798231",
-			"canonicalName": "onebonsai-hospital-hygiene-training-android6d0f-pytrmj",
+			"id": "8870151916378062",
+			"canonicalName": "windup-minds-stay-forever-home-android6d0f-icygqe",
 			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
+				"__typename": "AppStoreComingSoonOffer",
+				"end_time": 1743692400,
 				"show_timer": false,
-				"id": "1074405896938617",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
+				"id": "975823891340182",
+				"offer_type": "APPSTORE_COMINGSOON_OFFER",
+				"price": null,
 				"strikethrough_price": null,
-				"promo_benefit": null
+				"promo_benefit": null,
+				"release_time": null,
+				"release_time_type": "NONE"
 			},
-			"current_trial_offer": null,
-			"release_date": 1717622340,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Hospital Hygiene Training",
-			"is_concept": false
-		},
-		{
-			"id": "7711478638871926",
-			"canonicalName": "kaironstudio-chimp-hall-vr-android6d0f-czo-zo",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "688913486774222",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1710341040,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Cube Corp",
-			"is_concept": false
-		},
-		{
-			"id": "4108471262596874",
-			"canonicalName": "uni-live-viewer-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "399485408293943",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1636642800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Uni Live Viewer",
-			"is_concept": false
-		},
-		{
-			"id": "6556848877722096",
-			"canonicalName": "fishygames-fishgame-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1198441454021471",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1647529186,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Fish Game",
-			"is_concept": false
-		},
-		{
-			"id": "3910010955788003",
-			"canonicalName": "pink-marmot-studios-volleggball-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "429240428514876",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1627928575,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Volleggball",
-			"is_concept": false
-		},
-		{
-			"id": "7615952225100621",
-			"canonicalName": "vrtravelx-vca-vintage-concert-audio-show-android6d0f-2yb2tr",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "24606911072257105",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "199",
-					"formatted": "US$ 1.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1702421054,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "VCA Vintage Concert Audio Show - Old Concert Equipment Exhibition",
-			"is_concept": false
-		},
-		{
-			"id": "2393300320759737",
-			"canonicalName": "owlchemy-labs-vacation-simulator-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "28595597750053744",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "US$ 19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1576173643,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Vacation Simulator",
-			"is_concept": false
-		},
-		{
-			"id": "5589954674410654",
-			"canonicalName": "dreamerz-lab-ltd-gamerz-lab-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "830354300954875",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1634765798,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Gamerz Lab",
-			"is_concept": false
-		},
-		{
-			"id": "5233169500049824",
-			"canonicalName": "immersive-vision-immersive-australia-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "516463634764562",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "US$ 19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1726149600,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Immersive  Australia",
-			"is_concept": false
-		},
-		{
-			"id": "4625955537461265",
-			"canonicalName": "sportsimprovr-baseball-softball-training-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "601642544684109",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1659132370,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Baseball Softball Training",
-			"is_concept": false
-		},
-		{
-			"id": "4459505850829471",
-			"canonicalName": "ontherocks-entertainment-battlegroupvr-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "407858544610433",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "US$ 24.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1656705600,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "BattleGroupVR",
-			"is_concept": false
-		},
-		{
-			"id": "2215140511885250",
-			"canonicalName": "halfbrick-studios-pty-ltd-fruit-ninja-vr-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2378179619130177",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "US$ 14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558422000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Fruit Ninja",
-			"is_concept": false
-		},
-		{
-			"id": "1946326588770583",
-			"canonicalName": "novelab-dev-notes-on-blindness-quest-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "476031499867985",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1562914800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "NOTES ON BLINDNESS",
-			"is_concept": false
-		},
-		{
-			"id": "2582932495064035",
-			"canonicalName": "miragesoft-real-vr-fishing-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "422696078367894",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1999",
-					"formatted": "US$ 19.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1568271600,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Real VR Fishing",
-			"is_concept": false
-		},
-		{
-			"id": "4325901304108120",
-			"canonicalName": "interplay-learning-interplay-learning-player-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "4553261601359595",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1628028325,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Interplay Learning Player",
-			"is_concept": false
-		},
-		{
-			"id": "6857662394342596",
-			"canonicalName": "vlab-education-llc-vlab-education-android6d0f-dfs8lc",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "391706209896564",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "US$ 9.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1706815665,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "VLab Education",
-			"is_concept": false
-		},
-		{
-			"id": "3634830803298285",
-			"canonicalName": "resolution-games-demeo-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "5587021621419835",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "3999",
-					"formatted": "US$ 39.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1620320417,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Demeo",
-			"is_concept": false
-		},
-		{
-			"id": "3792633974139174",
-			"canonicalName": "dreamteam-mobile-energysaber-masta-vr-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "804100900927157",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1615315113,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Energysaber Masta VR",
-			"is_concept": false
-		},
-		{
-			"id": "4076925385769824",
-			"canonicalName": "black-beach-studio-llc-iron-rebellion-vr-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "1626717871255657",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "2499",
-					"formatted": "US$ 24.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1636567142,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Iron Rebellion",
-			"is_concept": false
-		},
-		{
-			"id": "3947992948655889",
-			"canonicalName": "didimo-inc-oculusshowcase-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "2646473372325342",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1641340800,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Didimo VR Showcase (BETA)",
-			"is_concept": false
-		},
-		{
-			"id": "2010043642376517",
-			"canonicalName": "steel-crate-games-keep-talking-and-nobody-explodes-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "452509162167015",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "1499",
-					"formatted": "US$ 14.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558458000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Keep Talking and Nobody Explodes",
-			"is_concept": false
-		},
-		{
-			"id": "1756328964489238",
-			"canonicalName": "cubicle-ninjas-guided-tai-chi-vr-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "625979731204790",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "999",
-					"formatted": "US$ 9.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1558458000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "Guided Tai Chi",
-			"is_concept": false
-		},
-		{
-			"id": "1794123900713107",
-			"canonicalName": "camouflaj-r-publique-vr-quest-prototype-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "842920657093649",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "0",
-					"formatted": "US$ 0.00"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1564074000,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "République VR",
-			"is_concept": false
-		},
-		{
-			"id": "3642681932502936",
-			"canonicalName": "vrobstudio-fitnessbird-android6d0f",
-			"current_offer": {
-				"__typename": "AppStoreOffer",
-				"end_time": 0,
-				"show_timer": false,
-				"id": "914251832822695",
-				"offer_type": "APPSTORE_OFFER",
-				"price": {
-					"currency": "USD",
-					"offset_amount": "299",
-					"formatted": "US$ 2.99"
-				},
-				"strikethrough_price": null,
-				"promo_benefit": null
-			},
-			"current_trial_offer": null,
-			"release_date": 1629215522,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "FitnessBird",
-			"is_concept": false
-		},
-		{
-			"id": "6245697225519539",
-			"canonicalName": "combat-waffle-studios-inc-silent-north-android6d0f-7-u62v",
-			"current_offer": null,
 			"current_trial_offer": null,
 			"release_date": null,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Silent North",
+			"display_name": "Stay: Forever Home",
 			"is_concept": false
 		},
 		{
-			"id": "3727000534014905",
-			"canonicalName": "virtual-planet-technologies-sea-level-rise-explorer-elkhorn-slough-android6d0f",
+			"id": "4209367585844598",
+			"canonicalName": "ironstone-games-llc-badminton-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "136772858406441",
+				"id": "1352783205627418",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -606,20 +41,44 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1618366068,
+			"release_date": 1632360551,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Sea Level Rise Explorer: Elkhorn Slough",
+			"display_name": "Badminton",
 			"is_concept": false
 		},
 		{
-			"id": "4263226607121330",
-			"canonicalName": "xr-initiative-umich-umich-under-the-skin-android6d0f",
+			"id": "2718107161580827",
+			"canonicalName": "squanch-games-inc-trover-saves-the-universe-quest-android6d0f",
 			"current_offer": {
 				"__typename": "AppStoreOffer",
 				"end_time": 0,
 				"show_timer": false,
-				"id": "1293169347835940",
+				"id": "627470728181494",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "2999",
+					"formatted": "US$ 29.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1592499645,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Trover Saves the Universe",
+			"is_concept": false
+		},
+		{
+			"id": "6662595590441174",
+			"canonicalName": "shopr-inc-shopr-android6d0f-xgepxy",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1203213873670707",
 				"offer_type": "APPSTORE_OFFER",
 				"price": {
 					"currency": "USD",
@@ -630,10 +89,492 @@
 				"promo_benefit": null
 			},
 			"current_trial_offer": null,
-			"release_date": 1649438100,
+			"release_date": 1684863965,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Under the Skin",
+			"display_name": "ShopR",
+			"is_concept": false
+		},
+		{
+			"id": "2702419963135346",
+			"canonicalName": "lighthaus-inc-color-space-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "217985742735092",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "US$ 9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1584637174,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Color Space",
+			"is_concept": false
+		},
+		{
+			"id": "9465027033537283",
+			"canonicalName": "2307425616184313-blue-hill-gold-mine-android6d0f-vt9plt",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1191594238050268",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1683318667,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Blue Hill Gold Mine",
+			"is_concept": false
+		},
+		{
+			"id": "2033429253367669",
+			"canonicalName": "funktronic-labs-fuji-quest-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "762788865854355",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "US$ 9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1561654800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Fujii - 一个神奇的园艺冒险",
+			"is_concept": false
+		},
+		{
+			"id": "3594052014036763",
+			"canonicalName": "adam-stanulewicz-the-fight-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "190109705879437",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "499",
+					"formatted": "US$ 4.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1615503069,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "The Fight",
+			"is_concept": false
+		},
+		{
+			"id": "3816141331792031",
+			"canonicalName": "armor-games-inc-nauticrawl-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "217770173342342",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1623344422,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "A Rogue Escape",
+			"is_concept": false
+		},
+		{
+			"id": "2004328649624954",
+			"canonicalName": "mark-schramm-gravity-lab",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "310095196742773",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1597942832,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Gravity Lab",
+			"is_concept": false
+		},
+		{
+			"id": "24294524820162594",
+			"canonicalName": "vaki-ltd-quantumtreshold-android6d0f-66xwn",
+			"current_offer": {
+				"__typename": "AppStoreComingSoonOffer",
+				"end_time": 1747933200,
+				"show_timer": false,
+				"id": "1339346957384181",
+				"offer_type": "APPSTORE_COMINGSOON_OFFER",
+				"price": null,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"release_time": 1747933200,
+				"release_time_type": "DAY"
+			},
+			"current_trial_offer": null,
+			"release_date": 1747933200,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Quantum Threshold",
+			"is_concept": false
+		},
+		{
+			"id": "6123516891014614",
+			"canonicalName": "david-addis-home-detective-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 1743404400,
+				"show_timer": true,
+				"id": "2697399650457603",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "799",
+					"formatted": "US$ 7.99"
+				},
+				"strikethrough_price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "US$ 9.99"
+				},
+				"promo_benefit": "-20%"
+			},
+			"current_trial_offer": null,
+			"release_date": 1683720000,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Home Detective",
+			"is_concept": false
+		},
+		{
+			"id": "2753873371404693",
+			"canonicalName": "vertigo-games-traffic-jams-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "8078650772170509",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "US$ 9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1617901165,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Traffic Jams",
+			"is_concept": false
+		},
+		{
+			"id": "3349689215139117",
+			"canonicalName": "devolver-digital-gorn-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "225106665938732",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1611856857,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "GORN",
+			"is_concept": false
+		},
+		{
+			"id": "2257223740990488",
+			"canonicalName": "casino-vr-poker-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1719189775319169",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1568308664,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "PokerVR - Pure Poker and Tournaments",
+			"is_concept": false
+		},
+		{
+			"id": "3890197214406211",
+			"canonicalName": "targem-games-blazerush-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "423601829609454",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1652374712,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "BlazeRush: Star Track",
+			"is_concept": false
+		},
+		{
+			"id": "3973885592677029",
+			"canonicalName": "storyup-vr-honor-everywhere-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "987595795343081",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1625706066,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Honor Everywhere",
+			"is_concept": false
+		},
+		{
+			"id": "2082941345119152",
+			"canonicalName": "infectious-ape-kingspray-graffiti-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "750017302089805",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1499",
+					"formatted": "US$ 14.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1571320800,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Kingspray Graffiti",
+			"is_concept": false
+		},
+		{
+			"id": "5639778089403206",
+			"canonicalName": "ducogen2019-labkid6-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "784167679872456",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1686096000,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "LabKid6 Sigret999 (Semiconductor Academy)",
+			"is_concept": false
+		},
+		{
+			"id": "4285940041470614",
+			"canonicalName": "oxfordmedicalsimulation-oxfordmedicalsimulation-vr-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1029887807918414",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1659301200,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Oxford Medical Simulation",
+			"is_concept": false
+		},
+		{
+			"id": "5019306564844800",
+			"canonicalName": "reality-games-online-hit-contracts-vr-free-demo-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "631548068261933",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "0",
+					"formatted": "US$ 0.00"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1661267794,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "(Demo)  Free ",
+			"is_concept": false
+		},
+		{
+			"id": "1951863938215666",
+			"canonicalName": "escapist-games-ltd-star-chart-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "2409222882500715",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "999",
+					"formatted": "US$ 9.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1566493200,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Star Chart",
+			"is_concept": false
+		},
+		{
+			"id": "3438333449611263",
+			"canonicalName": "rendever-multibrush-by-rendever-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "4899405606821177",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1643306249,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "MultiBrush",
+			"is_concept": false
+		},
+		{
+			"id": "2280285932034855",
+			"canonicalName": "aldin-waltz-of-the-wizard-demo-android6d0f",
+			"current_offer": {
+				"__typename": "AppStoreOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "846477989299112",
+				"offer_type": "APPSTORE_OFFER",
+				"price": {
+					"currency": "USD",
+					"offset_amount": "1999",
+					"formatted": "US$ 19.99"
+				},
+				"strikethrough_price": null,
+				"promo_benefit": null
+			},
+			"current_trial_offer": null,
+			"release_date": 1575568792,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Waltz of the Wizard",
 			"is_concept": false
 		}
 	]
