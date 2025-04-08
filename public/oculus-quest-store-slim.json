@@ -1,5 +1,5 @@
 {
-	"count": 30,
+	"count": 31,
 	"edges": [
 		{
 			"id": "8332853930089963",
@@ -21,6 +21,17 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Titan Isles",
+			"is_concept": false
+		},
+		{
+			"id": "6245697225519539",
+			"canonicalName": "combat-waffle-studios-inc-silent-north-android6d0f-7-u62v",
+			"current_offer": null,
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Silent North",
 			"is_concept": false
 		},
 		{
@@ -343,14 +354,14 @@
 			"is_concept": false
 		},
 		{
-			"id": "6245697225519539",
-			"canonicalName": "combat-waffle-studios-inc-silent-north-android6d0f-7-u62v",
+			"id": "5781689118524197",
+			"canonicalName": "2k-inverness-android6d0f",
 			"current_offer": null,
 			"current_trial_offer": null,
 			"release_date": null,
 			"viewer_has_preorder": false,
 			"__typename": "Application",
-			"display_name": "Silent North",
+			"display_name": "席德·梅尔的文明®VII - VR",
 			"is_concept": false
 		},
 		{
@@ -439,6 +450,28 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Honey Pot",
+			"is_concept": false
+		},
+		{
+			"id": "9531494193591052",
+			"canonicalName": "fireproof-games-ghost-town-android6d0f-ispfx3",
+			"current_offer": {
+				"__typename": "AppStoreComingSoonOffer",
+				"end_time": 0,
+				"show_timer": false,
+				"id": "1045840003654664",
+				"offer_type": "APPSTORE_COMINGSOON_OFFER",
+				"price": null,
+				"strikethrough_price": null,
+				"promo_benefit": null,
+				"release_time": null,
+				"release_time_type": "NONE"
+			},
+			"current_trial_offer": null,
+			"release_date": null,
+			"viewer_has_preorder": false,
+			"__typename": "Application",
+			"display_name": "Ghost Town",
 			"is_concept": false
 		},
 		{
@@ -571,17 +604,6 @@
 			"viewer_has_preorder": false,
 			"__typename": "Application",
 			"display_name": "Crystal Commanders",
-			"is_concept": false
-		},
-		{
-			"id": "5781689118524197",
-			"canonicalName": "2k-inverness-android6d0f",
-			"current_offer": null,
-			"current_trial_offer": null,
-			"release_date": null,
-			"viewer_has_preorder": false,
-			"__typename": "Application",
-			"display_name": "席德·梅尔的文明®VII - VR",
 			"is_concept": false
 		}
 	]
